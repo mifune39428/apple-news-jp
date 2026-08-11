@@ -1,0 +1,22 @@
+{
+  "_comment": "収集元のRSS。enabled を false にすると一時的に外せる。lang は原文の言語（ja の記事は翻訳せず要約だけ作る）。",
+  "feeds": [
+    { "name": "Apple Newsroom", "url": "https://www.apple.com/newsroom/rss-feed.rss", "lang": "en", "region": "global", "official": true, "mirror_group": "apple-newsroom", "enabled": true },
+    { "name": "MacRumors", "url": "https://www.macrumors.com/macrumors.xml", "lang": "en", "region": "global", "enabled": true },
+    { "name": "9to5Mac", "url": "https://9to5mac.com/feed/", "lang": "en", "region": "global", "enabled": true },
+    { "name": "AppleInsider", "url": "https://appleinsider.com/rss/news", "lang": "en", "region": "global", "enabled": true },
+    { "name": "Macworld", "url": "https://www.macworld.com/feed", "lang": "en", "region": "global", "enabled": true },
+    { "name": "The Verge (Apple)", "url": "https://www.theverge.com/rss/apple/index.xml", "lang": "en", "region": "global", "enabled": true },
+    { "name": "Six Colors", "url": "https://sixcolors.com/feed/", "lang": "en", "region": "global", "enabled": true },
+    { "name": "Daring Fireball", "url": "https://daringfireball.net/feeds/main", "lang": "en", "region": "global", "enabled": true },
+    { "name": "MacStories", "url": "https://www.macstories.net/feed/", "lang": "en", "region": "global", "enabled": true },
+    { "name": "Cult of Mac", "url": "https://www.cultofmac.com/feed", "lang": "en", "region": "global", "enabled": true },
+
+    { "name": "Apple Newsroom 日本", "url": "https://www.apple.com/jp/newsroom/rss-feed.rss", "lang": "ja", "region": "jp", "official": true, "mirror_group": "apple-newsroom", "enabled": true },
+    { "name": "gori.me", "url": "https://gori.me/feed", "lang": "ja", "region": "jp", "enabled": true },
+    { "name": "iPhone Mania", "url": "https://iphone-mania.jp/feed/", "lang": "ja", "region": "jp", "enabled": true },
+    { "name": "AAPL Ch.", "url": "https://applech2.com/feed", "lang": "ja", "region": "jp", "enabled": true },
+
+    { "name": "Google ニュース (Apple)", "url": "https://news.google.com/rss/search?q=Apple+when:24h&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "enabled": false }
+  ]
+}
