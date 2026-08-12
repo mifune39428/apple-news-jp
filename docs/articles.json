@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T09:06:56.008632+09:00",
+ "updated_at": "2026-08-12T09:21:33.984959+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -14,6 +14,7 @@
  ],
  "sources": [
   "9to5Mac",
+  "AAPL Ch.",
   "Apple Newsroom 日本",
   "AppleInsider",
   "Cult of Mac",
@@ -25,8 +26,24 @@
   "gori.me",
   "iPhone Mania"
  ],
- "count": 95,
+ "count": 113,
  "items": [
+  {
+   "id": "30666fc2278ebf98",
+   "url": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support",
+   "title_original": "Microsoft Edge tests Apple Account sign-in support",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/microsoft-edge-macos.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-12T00:11:30+00:00",
+   "title_ja": "Edge、Appleアカウントでのサインインをテスト中",
+   "summary_ja": "Microsoftのブラウザ「Edge」のCanaryおよびBetaビルドにおいて、Appleアカウントを使ってサインインできる機能のテストが開始された。最新のアップデートにより、新たなフラグが追加されている。",
+   "category": "ソフトウェア・OS",
+   "importance": 3
+  },
   {
    "id": "f57828c86ec29312",
    "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid",
@@ -40,6 +57,23 @@
    "title_ja": "サムスンのGalaxy Budsに補聴器機能追加へ、AirPods追随でFDA承認取得",
    "summary_ja": "サムスンはGalaxy Budsの補聴器機能について米FDAの承認を取得したと発表した。2026年第4四半期に提供予定で、Appleが2024年にAirPodsへ導入した臨床グレードの補聴器機能や聴力テストと同様の機能を搭載する。軽度から中等度の難聴者を対象に、OTC補聴器市場でAppleを追従する構えだ。",
    "category": "Apple Watch・ウェアラブル",
+   "importance": 3,
+   "image": "https://images.macrumors.com/t/0Lpgm2gcdBb8QPj9TPTTFfDThmE=/1600x/article-new/2024/07/samsung-galaxy-buds-3.jpg"
+  },
+  {
+   "id": "3c0c337b9bef3456",
+   "url": "https://www.macworld.com/article/673191/apple-back-school-sale.html",
+   "title_original": "Apple extends Back to School Deal gift card offer through September",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/673191-0-16938700-1786492636-Apple-Back-To-School-2026-Deal.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-11T23:55:18+00:00",
+   "title_ja": "Apple、学生向けキャンペーンのギフトカード特典を延長",
+   "summary_ja": "毎年恒例となっている学生および教職員向けの特別キャンペーンにおいて、対象製品購入時のギフトカード特典が9月まで延長されている。対象者は教育ストアでの割引購入に加え、追加の特典を受けられる。",
+   "category": "ビジネス・業績",
    "importance": 3
   },
   {
@@ -55,7 +89,8 @@
    "summary_ja": "SonosがAI機能を備えた新型ヘッドホンの発売に向けて準備を進めていると報じられました。前モデルは音質面で高い評価を受けたものの、アプリの不具合や連携不足により販売が低迷しました。新モデルは9月に登場する見通しです。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/FNRt3kY1-b3-A04oz-HwGf7arBM=/2500x/article-new/2024/09/sonos-ace-purple.jpg"
   },
   {
    "id": "1cad28722a4245de",
@@ -70,7 +105,8 @@
    "summary_ja": "Satechiが6つのUSB-Cポートを備えた合計最大240W出力の充電器を発売しました。リアルタイムで各ポートのワット数を表示するLCDディスプレイを搭載しています。単体で最大140Wに対応するポートも備え、複数デバイスの同時充電が可能です。",
    "category": "その他",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/jcNBBWJ5rpZKiZhnOZUKpashmek=/2000x/article-new/2026/08/satechi-chargeview-240w.jpg"
   },
   {
    "id": "917d96d2297a6edf",
@@ -85,7 +121,8 @@
    "summary_ja": "開発者向けに公開されたiOSの最新ベータ版から、未発表のiPhone 6機種を示す型番が発見された。バッテリー制御関連の記述から確認されたもので、将来的なラインナップの拡充を示唆している。既存モデルの後継に加えて新たな派生端末が含まれる可能性もある。",
    "category": "噂・リーク",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://gori.me/uploads/2026/08/igor-omilaev-3EYu6B86yWk-unsplash-800x450.jpg"
   },
   {
    "id": "4ddecd80c42dcb8c",
@@ -100,7 +137,8 @@
    "summary_ja": "Appleが開発を進めている折りたたみiPhoneについて、社内では「Fold」ではなく「Ultra」という名称で呼ばれていることが分かった。製品化の際には「iPhone Ultra」として登場する可能性があり、同ブランドの最高峰モデルとして展開される展開が予想される。",
    "category": "噂・リーク",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://gori.me/uploads/2026/04/An-iPhone-Fold-may-be-called-iPhone-Ultra-2-800x434.jpg"
   },
   {
    "id": "49303791bdf1b6d0",
@@ -115,7 +153,8 @@
    "summary_ja": "Apple PayやApple Walletの構築を率いてきたジェニファー・ベイリー氏が、2026年10月にAppleを退職する予定であることが判明した。iPhoneを財布の代わりにする構想を推進し、各種決済サービスの実現において中心的な役割を果たした人物とされる。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://gori.me/uploads/2016/09/iphone-7-watch-felica-suica-1200x713.png"
   },
   {
    "id": "2b48ff2879587171",
@@ -130,7 +169,8 @@
    "summary_ja": "Appleは、米国におけるMacおよびiPadを対象とした学生・教職員向けの新学期キャンペーンの実施期間を延長した。対象となる学生やその保護者、教育関係者は、9月24日まで特典を受け取ることができる。これにより、新学期に向けた製品購入で数週間の猶予が追加された形だ。",
    "category": "その他",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "6de35677d2518451",
@@ -145,7 +185,8 @@
    "summary_ja": "Appleは、ゲームサービス「Apple Arcade」に新タイトルとして「Block Blast!+」および「Art of Fauna: Cozy Puzzles+」を9月3日より追加すると発表した。どちらの作品も広告やアプリ内課金なしで楽しめる。月額料金で遊べる本サービスには無料トライアルも用意されている。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://gori.me/uploads/2026/08/Apple-Arcade-New-Games-12-800x450.jpg"
   },
   {
    "id": "a0f76c8335f19cd6",
@@ -160,7 +201,8 @@
    "summary_ja": "Appleは各OSのパブリックベータ3を公開した。対象にはiOS 27やiPadOS 27、macOS Golden Gate、watchOS 27などが含まれる。前回のパブリックベータ2から2週間ぶりの配信となっており、開発者向けベータ5と同等の内容が登録ユーザー向けに提供されている。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-727-800x534.jpg"
   },
   {
    "id": "2b1e2f0132470f9e",
@@ -175,7 +217,8 @@
    "summary_ja": "Appleが実施している新学期向けキャンペーンの期間が延長された。対象製品の購入でギフトカードが提供される内容となっているが、大手リセラーなど他の販売店ではさらに大きな割引が提供されている場合がある。Apple直営店での購入以外の選択肢も含めて検討することが推奨されている。",
    "category": "その他",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://photos5.appleinsider.com/gallery/67772-143897-000-lead-Back-to-School-xl.jpg"
   },
   {
    "id": "22fb6a4830c9ea22",
@@ -190,7 +233,8 @@
    "summary_ja": "Sensor Towerの調査によると、2026年第2四半期のiOSおよびAndroidにおける支出は非ゲーム系アプリが成長を牽引しました。一方でゲームアプリの収益は前年同期比で4.5%減少しています。モバイル市場全体において、ゲーム以外のアプリによる消費が拡大している傾向が示されています。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "52c3a2091d5b8b94",
@@ -205,7 +249,8 @@
    "summary_ja": "Appleは2026年の新学期向けプロモーションの実施期間を9月24日まで延長しました。米国やカナダ、アジアの複数国などが対象で、予定より約1か月長く実施されます。学生や教職員が対象のMacやiPadを購入すると、学割価格に加えてギフトカードなどの特典を受け取ることができます。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/kVX3vjJ2eDLyestsvkmj3YZPffM=/1600x/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg"
   },
   {
    "id": "4f6f8dbf7c14889a",
@@ -220,7 +265,8 @@
    "summary_ja": "SpaceXAIがmacOSおよびiOSに対応した常時稼働型AIエージェント「Grok Bot」を発表しました。自然言語のチャットで指示を出すだけで、ウェブサイトやアプリを使ったタスクを実行できます。クラウド上で動作するため、ノートPCを閉じた状態でも作業を継続できる点が特徴です。",
    "category": "AI",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/vjskRb9YPAGFszyGUGOClm9hy8M=/1600x/article-new/2026/01/grok-logo-purple-gradient.jpg"
   },
   {
    "id": "fa9ba35f801f2fc2",
@@ -235,7 +281,8 @@
    "summary_ja": "Mark Gurman氏の報告によると、Apple社内では開発中の折りたたみiPhoneが通称「iPhone Ultra」と呼ばれている模様です。正式なマーケティング名が決定したわけではありませんが、開発現場での呼称として定着しているとされています。実際の製品名がどうなるかは今後の注目点です。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68548-144437-iPhone-Fold-hinge-part-open-back-xl.jpg"
   },
   {
    "id": "58ba2731baa5944d",
@@ -250,7 +297,8 @@
    "summary_ja": "iPhone 18 Proの発表が数週間後に迫る中、特に注目すべきカメラ機能のアップグレードに関する噂が浮上している。噂によると、主なカメラの新機能として3つの進化がもたらされるようだ。登場に向けてカメラ性能の強化に対する期待が集まっている。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "e2395535c5c29f27",
@@ -265,7 +313,8 @@
    "summary_ja": "Epic Gamesの最高経営責任者であるティム・スウィーニー氏によると、裁判所はAppleのApp Store手数料に関する手続きの停止要請を拒否した。最高裁判所による判断の審査を待つ間も、手続きは中断されない方針が示されている。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "ecb51d4b3fb45d3d",
@@ -280,7 +329,8 @@
    "summary_ja": "Appleがゴルフの全英オープンの配信権獲得に向けて主催者と初期段階の協議を行っていると報じられた。現在のNBCのライセンスが2028年に終了するのを見据えた動きだ。MLSやMLBなどの放映権を獲得してきたApple TVが、さらにスポーツ配信の拡大を目指している。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68547-144434-Apple-TV-Golf-xl.jpg"
   },
   {
    "id": "1e1b4a796a5e4663",
@@ -295,7 +345,8 @@
    "title_ja": "Apple社内では開発中の折りたたみ機を「iPhone Ultra」と呼称か",
    "summary_ja": "Appleが開発中とされる折りたたみiPhoneについて、社内では「iPhone Ultra」というブランド名が広く使われていると報じられた。著名記者のマーク・ガーマン氏が明かした情報であり、将来登場する新モデルの名称として採用されるか注目されている。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "86299143957a0fef",
@@ -310,7 +361,8 @@
    "summary_ja": "Epic Gamesとの訴訟において、Appleは外部リンク利用に対する新手数料の詳細提出を延期するよう求めたが却下された。裁判所から24時間以内の提出を命じられており、App Store外の決済オプションを巡る法的な争いが緊迫している。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68545-144433-68120-143585-57668-117459-IMG_4389-xl-xl-xl.jpg"
   },
   {
    "id": "52a59abddea8b905",
@@ -325,7 +377,8 @@
    "summary_ja": "Epic Gamesとの法闘争において、Appleは最高裁判所での審理開始まで手続きを一時停止するよう求めたが裁判所に拒否された。これによりAppleは、Web購入リンクなどの利用に対する手数料案の概要を24時間以内に提出しなければならない。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/-CV6eWobN2rZ-9lCcbnibyTCe2I=/1794x/article-new/2021/05/app-store-blue-banner-epic-1.jpg"
   },
   {
    "id": "ce7c6b97b95ecd74",
@@ -340,7 +393,8 @@
    "summary_ja": "iOS 27のベータ版コードから「Apple Reference Image」という記載が見つかった。生成AIの画像を識別する技術とは異なり、撮影された画像や動画がiPhoneで実際に記録された本物であることを証明するための検証ツールと推測されている。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3210722-0-38061300-1786475374-iPhone-17-Pro-Max-rear-cameras.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "07323f522f57f20b",
@@ -355,7 +409,8 @@
    "summary_ja": "iCloudプライベートリレーがユーザーの身元を十分に保護していないとして、Appleに対し詐欺を主張する集団訴訟が提案されました。プライバシー保護機能として提供されているサービスにおいて、不備を理由に責任が問われています。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/iCloud-Private-Relay-1.jpg.webp"
   },
   {
    "id": "eda4df26afbdd312",
@@ -370,7 +425,8 @@
    "title_ja": "Apple、ゴルフ全英オープンの米配信権獲得に向け交渉中か",
    "summary_ja": "Appleが男子ゴルフのメジャー大会「全英オープン」における米国での配信権獲得に向けて交渉を行っていると報じられました。同様にNetflixやAmazonも権利獲得に関心を示しているとされています。Apple TV+でのスポーツコンテンツ拡充に向けた取り組みの一環として注目されます。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "990d4e1980b81edf",
@@ -385,7 +441,8 @@
    "summary_ja": "ポッドキャスト「The Talk Show」にChance Miller氏が登場しました。番組内ではiOS 27の開発進捗やVision Proでの野球中継、メモリ不足問題、AppleによるOpenAI等への訴訟問題、EUのDMA対応など幅広い話題が語られています。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": ""
   },
   {
    "id": "b4cccbc5bf5ee7f6",
@@ -400,7 +457,8 @@
    "summary_ja": "AppleがiOS 27パブリックベータ3をリリースしたことに伴い、AirPods Pro 3やAirPods Pro 2などのモデル向けにも新しいベータファームウェアが配信されました。ベータテスト参加者向けに提供が開始されています。",
    "category": "Apple Watch・ウェアラブル",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "d404ef393ded25ac",
@@ -415,7 +473,8 @@
    "summary_ja": "Appleはパブリックベータテスター向けにAirPodsの新しいベータファームウェアをリリースした。ビルド番号は9A5336bで、開発者向けと同内容となっている。新バージョンではインターフェースの刷新や適応型モードのスライダー、カスタムEQなどがサポートされ、テスト環境でこれらの新機能が利用可能になる。",
    "category": "Apple Watch・ウェアラブル",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/cIJ6zFKh1AhLEPYWBXg1o3befKY=/1920x/article-new/2021/06/AirPods-Pro-Beta-Firmware.jpg"
   },
   {
    "id": "295e2b8666801df4",
@@ -430,7 +489,24 @@
    "summary_ja": "9to5Macは日常のトップニュースをまとめたポッドキャスト「9to5Mac Daily」を配信した。今回はiOS 27 beta 5やガラス製iPhoneに関する噂などが取り上げられている。番組はApple Podcastsなどの主要ポッドキャストアプリや専用RSSフィードを通じて聴くことができる。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+   "id": "93e1fb2882254fe5",
+   "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring",
+   "title_original": "Apple Pay Chief Jennifer Bailey Retiring in October",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-11T18:19:45+00:00",
+   "title_ja": "Apple Payを統括するジェニファー・ベイリー氏が退任へ",
+   "summary_ja": "長年にわたりApple PayやApple Walletを統括してきた幹部のジェニファー・ベイリー氏が、10月に退任することが報じられた。2003年からの在籍期間中、オンラインストアの成長や決済サービスの立ち上げに大きく貢献した。",
+   "category": "ビジネス・業績",
+   "importance": 4
   },
   {
    "id": "71bac8550ecf36b3",
@@ -445,7 +521,8 @@
    "summary_ja": "AppleでApple PayやApple Cardなどのサービスを率いてきたジェニファー・ベイリー副社長が退職することがわかった。2003年にオンラインストア担当として入社し、2014年の昇進後は各種決済・カード機能の立ち上げと世界展開に大きく貢献した。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68544-144432-jenniferbailey-xl.jpg"
   },
   {
    "id": "82afa7cb309e7145",
@@ -460,7 +537,8 @@
    "summary_ja": "AppleでApple PayおよびWallet部門のトップを務めるジェニファー・ベイリー氏が、10月に退職することが報じられた。同氏は2000年代初頭に入社し、2014年からはApple Pay担当副社長として同サービスの成長を支えてきた。20年以上にわたる同社でのキャリアに終止符を打つことになる。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apples-keynote-event_Jennifer_Bailey_introduces_apple_card-03252019.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "9fa86579b58d524f",
@@ -475,7 +553,8 @@
    "summary_ja": "米国のAmazonにて、Appleのオーバーイヤーヘッドホン「AirPods Max 2」が通常価格から100ドル引きの449ドルで販売されている。全5つのカラーバリエーションが値引きの対象となっており、6月以来の安値水準だ。プライム会員向けには当日配送などのオプションも用意されている。",
    "category": "Apple Watch・ウェアラブル",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/MCSwAm0b6kW2-xJ32bRy2QNyiqQ=/2500x/article-new/2026/06/airpods-max-2-orange.jpeg"
   },
   {
    "id": "946608b03e3a7eff",
@@ -490,7 +569,8 @@
    "summary_ja": "リリースされたiOS 27ベータ5では、UI要素である「Liquid Glass」を従来よりもさらに透明に調整できる機能が追加された。このアップデートにはほかにも、アプリアイコンの再デザインやSiri向けの新しいAI音声オプションなどが含まれており、操作感や見た目のカスタマイズ性が向上している。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/music-tab-bar-ios-27-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "c82c796eca684491",
@@ -505,7 +585,8 @@
    "summary_ja": "1976年にスティーブ・ジョブズ氏らとともにAppleを創業した優れたエンジニア、スティーブ・ウォズニアック氏の足跡を振り返る企画記事。同氏が会社を去ってから40年以上が経過した現在も、天才的な技術力によって初期のAppleに独自の魂を吹き込んだ存在として称えられている。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://photos5.appleinsider.com/gallery/66972-140659-wozcbssunday-xl.jpg"
   },
   {
    "id": "14aba35fa3d4a309",
@@ -520,7 +601,8 @@
    "summary_ja": "リーク情報によると、watchOS 27ではApple Watchの人気文字盤「モジュラー」に新たなカラーカスタマイズオプションが追加される見通しです。これによりユーザーは、文字盤のデザインをより多様にカスタマイズできるようになります。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/modular-face-watchos-27-apple-ultra-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "8c48a54a3dbf78a7",
@@ -535,7 +617,8 @@
    "summary_ja": "Appleは一般向けに「macOS 27 Golden Gate」のパブリックベータ3を配信開始しました。秋の正式リリースに先駆けてテストが可能となります。Spotlightを介したSiri AI機能も含まれており、Webや個人データの検索を試すことができます。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/SHHsIj-S4WsMmzsDkQfL57wvCko=/2500x/article-new/2026/07/macOS-27-Public-Beta-Thumb-2.jpg"
   },
   {
    "id": "176bc66eada27373",
@@ -550,7 +633,8 @@
    "summary_ja": "Appleのパブリックベータプログラム登録者向けに、macOS 27 Golden Gateのパブリックベータ3の配信が始まりました。参加ユーザーはシステム設定からアップデートを適用でき、システム内の最新機能を試すことが可能です。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "6255cd9eaa7785df",
@@ -565,7 +649,8 @@
    "summary_ja": "Appleは対応機器を持つ一般ユーザー向けに、iOS 27とiPadOS 27のパブリックベータ3を公開しました。前回の第2ベータから2週間での配信となります。画面上の情報把握やアプリ操作が行える新機能「Siri AI」などが利用可能です。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/1NjEBYIkMMwyq5jqMfdPxw9c_cY=/2500x/article-new/2026/07/iOS-27-Feature-Cool.jpg"
   },
   {
    "id": "d6275896dd21f26f",
@@ -580,7 +665,8 @@
    "summary_ja": "開発者向けベータ5のリリース翌日、AppleはiPadOS 27や関連するOS 27アップデートのパブリックベータ3を一般配信しました。プログラムに参加しているユーザーは、秋の正式版リリースに先立って最新環境をテストできます。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "7c891375dab4aae1",
@@ -595,7 +681,8 @@
    "summary_ja": "AppleはiPhone向けに「iOS 27」のパブリックベータ3をリリースしました。目玉となるSiri AIの搭載に加え、再設計されたスクリーンタイムやLiquid Glassの改良、動作速度の向上など数多くの機能変更が含まれています。正式公開に先駆けて最新機能を体験可能です。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "294c0f04f4ccbb53",
@@ -610,7 +697,8 @@
    "summary_ja": "Appleは、Apple WatchやApple TV向けにwatchOS 27やtvOS 27などの第3弾パブリックベータを公開しました。HomePod向けのベータ版も提供されています。watchOS 27では、対応するiPhoneと連携することで手首からSiri AIを利用できるようになります。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg"
   },
   {
    "id": "15986bfd4ac1701e",
@@ -625,7 +713,8 @@
    "summary_ja": "iOS 27では、電話アプリに小さな新機能が追加されています。通話中の相手の誕生日が今日である場合、iPhoneの画面上で花火の演出とともに通知されます。連絡先カードに登録された生年月日データをもとに自動で判定し、大切な人の記念日を知らせてくれます。",
    "category": "ソフトウェア・OS",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68543-144428-000-lead-birthday-xl.jpg"
   },
   {
    "id": "56d966a711415fb3",
@@ -640,7 +729,8 @@
    "title_ja": "SpaceXAIとCursor、iPhoneとMac向けアプリ「Grok Bot」を発表",
    "summary_ja": "統合を進めるSpaceXAIとCursorが、新たなiPhoneおよびMac向けアプリ「Grok Bot」をリリースすることが明らかになった。両社は単一企業への移行過程にあるが、それに先立ち両プラットフォーム向けに新アプリを提供する。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "641d10b421e71893",
@@ -655,7 +745,8 @@
    "summary_ja": "メモリなどの部品価格上昇を受け、AppleがiPhone用OLEDパネルの在庫戦略を変更したと報じられている。従来は4週間分だったディスプレイパネルの保持期間を6週間に引き上げ、発注量を増やしているという。サプライチェーンでの費用増加を最小限に抑え、コスト上昇に対応する狙いがあると見られる。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68542-144427-iPhone-17-Pro-Max-display-2-xl.jpg"
   },
   {
    "id": "fe4c18ac526a2b65",
@@ -670,7 +761,8 @@
    "summary_ja": "iOS27の開発者向けベータ5から、未発表となるiPhoneの社内コードネームが6種類確認された。これらのモデルはiOS28が提供される前の2027年8月末までに順次発表・発売される可能性がある。OSのベータ版から次世代端末の存在が判明した格好だ。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/12/iPhone18-Air-2-Ultra-AH.jpg"
   },
   {
    "id": "95bd5da674d923a0",
@@ -685,7 +777,8 @@
    "summary_ja": "AppleがiPhone撮影写真の偽造を防ぐための新機能を開発している可能性が浮上した。iOS27のベータ5内に「Apple Reference Image」に関するコードが確認され、撮影時に特定のメタデータを付与する仕組みが示唆されている。これによりユーザーは写真の撮影場所や本物であることを証明できるようになる模様だ。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
    "id": "6c0aaef745977787",
@@ -700,7 +793,8 @@
    "summary_ja": "iPhone18 Pro Max向けとされるバッテリーの実写真がWeb上に投稿された。現行モデルと比較してバッテリー容量が約8.5%から12%ほど増加する可能性が示されている。次世代ハイエンドモデルではバッテリー持ちの更なる向上が期待できそうだ。",
    "category": "噂・リーク",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iPhone18-pro-max-battery-AH.jpg"
   },
   {
    "id": "c076653ccc7d24b1",
@@ -715,7 +809,8 @@
    "summary_ja": "部品価格の急騰に対応するため、Appleが部品の備蓄期間を延長していると報じられた。韓国メディアによると、2026年第2四半期からOLEDパネルの保持期間を従来の4週間から6週間に引き上げたという。在庫を最小限に抑えてきた従来のサプライチェーン運用からの異例な方針転換として注目されている。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/jGm09nl7qEcH7og2km4ejYkQ1yc=/1759x/article-new/2025/09/iphone-17-pro-sizes-camera.jpg"
   },
   {
    "id": "bfeaf8edcf791668",
@@ -730,7 +825,8 @@
    "summary_ja": "Mophieの新作「Roam 3-in-1 Travel Charger」は、iPhoneをはじめとするApple製品を素早く充電できる折りたたみ式の旅行用充電器です。持ち運びに適した設計で利便性が高い一方、いくつかのトレードオフも存在します。実機を使用したハンズオンレビューが公開されています。",
    "category": "その他",
    "importance": 2,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/Mophie-Roam-3-in-1-Travel-Charger_review_01.jpg.webp"
   },
   {
    "id": "cfc13d302bdc60a5",
@@ -745,7 +841,8 @@
    "summary_ja": "AmazonとLGにおいて、Macに対応するモニターやOLEDテレビが最大45%引きとなるセールが開催されています。32インチのUltraFine 6Kディスプレイが今年最安値となる1,099ドルまで値下げされているほか、各種テレビも最大5,000ドル引きで販売中です。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68541-144423-lg-oled-tv-monitor-deals-xl.jpg"
   },
   {
    "id": "358823cf0af1da8e",
@@ -760,7 +857,8 @@
    "summary_ja": "AmazonやBest Buyなどのセールにて、AirPods Pro 3の25%引きやAirPods Max 2の100ドル引きが実施されています。さらに14インチのM5 MacBook Proが300ドル引きとなっているほか、AnkerのQi2対応25W MagSafe車載充電器も割引価格で購入可能です。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirPods-AirPods-Max-2-25W-car-charger.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "2fd70490a5e9dd91",
@@ -775,7 +873,8 @@
    "summary_ja": "iOS 27では、2TB以上のiCloud+プランに契約しているiPhoneユーザー向けにホームアプリの特典が用意されています。HomeKitセキュアビデオ向けに生成AIによる動画説明やクリップ検索、重要場面の自動抽出といった3つのApple Intelligence機能が利用可能になります。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/FmjqPKzbuC8KL2amNmiSmyb0uOY=/1600x/article-new/2025/10/iCloud-iPhone-17-Pro.jpg"
   },
   {
    "id": "97833133e6da2d04",
@@ -790,7 +889,8 @@
    "summary_ja": "来月新機種の購入を検討するユーザーに向けて、iPhone UltraとiPhone 18 Proの選択肢が浮上しています。同モデルには、Proモデルの愛用者にとっても魅力的な2つの機能が備わっているとみられています。",
    "category": "噂・リーク",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "dd0b73d51de4d668",
@@ -805,7 +905,8 @@
    "summary_ja": "Appleは、ゲーム配信サービス「Apple Arcade」にて9月3日より新たに2つのパズルゲームを追加すると発表しました。人気作の広告なし版となる「Block Blast!+」と、文化的な影響力を称えられた受賞作ベースの「Art of Fauna: Cozy Puzzles+」がラインナップに加わります。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/b-jwiKDuvob_XzL04IQNPFy9KiU=/1600x/article-new/2026/08/apple-arcade-august-2026.jpg"
   },
   {
    "id": "35ea322d28832d4d",
@@ -820,7 +921,8 @@
    "summary_ja": "1987年8月11日、Macintosh System Software 5において「MultiFinder」機能が導入されました。この機能により、Macの画面上に2つのアプリを同時に表示して動かす、本格的なマルチタスク処理が初めて実現しました。",
    "category": "その他",
    "importance": 1,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2025/08/MultiFinder-launch-on-Mac.jpg"
   },
   {
    "id": "d8d829ea9aacd542",
@@ -835,7 +937,8 @@
    "summary_ja": "Apple Intelligenceの一部機能の有料化について、最新のOSベータ版から価格体系変更のヒントが浮上しました。上位プラン向けiCloud+の制限見直しなどが示唆されており、将来的なサービス設計の変更が予想されます。",
    "category": "AI",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://media.appleinsider.com/gallery/68540-144421-46379-90369-000-lead-Security-Camera-xl-xl.jpg"
   },
   {
    "id": "1f2f25907db08091",
@@ -850,7 +953,8 @@
    "summary_ja": "Apple TVは、新作スリラードラマシリーズ『Last Seen』の予告編映像を公開しました。本作は、来月から本格始動するApple TVの秋のコンテンツラインナップの先陣を切る作品となります。スリリングな展開が期待される注目のサスペンスです。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/last-seen-running.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "d8c7b9581b742fb7",
@@ -865,7 +969,8 @@
    "summary_ja": "高価格帯スマートフォン市場において、Appleは65%のシェアを獲得した。しかし、2022年上半期の74%からは9ポイントの低下となっており、シェア減少の背景には中国市場での競争激化が影響していると分析されている。",
    "category": "ビジネス・業績",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/4fcb6d1054a238e068c814e7e48daed5.jpg"
   },
   {
    "id": "2dc865232771e6c8",
@@ -880,7 +985,8 @@
    "summary_ja": "iCloud+で提供されているプライベートリレー機能の欠陥を巡り、Appleを相手取った集団訴訟が提起された。原告側は、Safari閲覧時のプライバシー保護に関するAppleのマーケティングが誇大であり、虚偽の宣伝でユーザーを誤認させたとして訴えている。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": ""
+   "mirror_group": "",
+   "image": "https://images.macrumors.com/t/G8ruz_kCEwFjJTa7JhV2LVg8FwQ=/2500x/article-new/2026/07/General-iCloud-App-Feature.jpg"
   },
   {
    "id": "4a775d48b09b846a",
@@ -895,7 +1001,8 @@
    "title_ja": "A16搭載11インチiPadがセール中、値上げ後最安値の400ドルに",
    "summary_ja": "最近の値上げ後にiPadを購入していなかったユーザー向けに、A16チップ搭載の11インチiPadが通常449ドルから400ドルへと割り引かれて販売されている。11インチLiquid Retinaディスプレイや128GBストレージを備えたモデルだ。",
    "category": "iPad",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3210518-0-77204700-1786458475-Apple-iPad-A16-4.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "e7e4eb3f5f16d4ed",
@@ -910,7 +1017,8 @@
    "summary_ja": "ゲーム配信サービスApple Arcadeのカタログに、新作タイトルが追加された。今回追加されるのは人気パズルゲームの「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」で、サービス内容の強化が行われている。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": "apple-newsroom"
+   "mirror_group": "apple-newsroom",
+   "image": "https://www.apple.com/newsroom/images/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/tile/Apple-Arcade-Puzzle-lp.jpg.og.jpg?202608111406"
   },
   {
    "id": "0215d0849dcae724",
@@ -925,7 +1033,8 @@
    "title_ja": "ポッドキャスト「The Rebound」最新話で新ベータやバグを議論",
    "summary_ja": "Apple系ポッドキャスト番組「The Rebound」の第611回が公開されました。今回のエピソードでは、提供が始まった最新ベータ版についてのディスカッションや、出演者へのリアルタイムなバグ報告といったトピックについて語り合っています。",
    "category": "その他",
-   "importance": 1
+   "importance": 1,
+   "image": ""
   },
   {
    "id": "2682e51efa07ec6f",
@@ -940,7 +1049,8 @@
    "title_ja": "ZoomにiPhoneやMacを乗っ取られる脆弱性、AIで判明",
    "summary_ja": "AIツールの支援により、Zoomアプリ内に深刻な脆弱性が発見されました。会議参加者が使用するiPhoneやMacなどのデバイス上で、攻撃者が遠隔からコードを実行して端末を乗っ取ることができる状態だったことが明らかになりました。",
    "category": "サービス・アプリ",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Zoom-flaw-let-an-attacker-take-over-your-device-including-iPhone-and-Mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "46bca0e490c11989",
@@ -955,7 +1065,8 @@
    "title_ja": "iPhone 18 Proの最小ストレージは256GB維持か、部品コスト上昇も",
    "summary_ja": "台湾の調査会社TrendForceの報告によると、iPhone 18 Proの最小ストレージ容量はiPhone 17 Proと同じ256GBからになる見込みです。同モデルの部品コストは前世代から40％近く上昇すると予測されていますが、ベース容量の追加アップグレードは行われないとみられます。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://images.macrumors.com/t/3W26Rv2AgG-jzjMnQcwrrXDfnrc=/2500x/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg"
   },
   {
    "id": "401da03fb09fbb7c",
@@ -970,7 +1081,8 @@
    "title_ja": "iOS 27ベータ5にiCloud+のアップグレードでAI利用を拡大する選択肢",
    "summary_ja": "開発者向けに公開されたiOS 27ベータ5において、iCloud+の有料プランをアップグレードすることでApple Intelligenceの機能により多くアクセスできるようになるオプションが確認されました。これはAppleが以前から示唆していた仕組みを裏付けるものとなっています。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "b3456e3e56208e2c",
@@ -985,7 +1097,24 @@
    "title_ja": "iOS 27に写真がAI生成ではないことを証明する新機能が搭載か",
    "summary_ja": "iOS 27に搭載される可能性のある隠し機能「Apple Reference Image」により、iPhoneで撮影した写真がAIによって生成されたものではないことを証明できるようになります。この機能は、カメラで実際に撮影された本物の写真であることを認証する役割を果たします。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/Apple-Reference-Image_01.jpg.webp"
+  },
+  {
+   "id": "768527bd9e6c0620",
+   "url": "https://appleinsider.com/articles/26/08/11/amazons-99-airpods-4-189-airpods-pro-3-449-airpods-max-2-deals-are-still-going-strong",
+   "title_original": "Amazon's $99 AirPods 4, $189 AirPods Pro 3, $449 AirPods Max 2 deals are still going strong",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/68539-144420-airpods-4-earbuds-sale-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-11T13:34:29+00:00",
+   "title_ja": "AmazonでAirPodsシリーズがセール中",
+   "summary_ja": "AmazonにてAirPodsシリーズが割引価格で販売されている。AirPods 4やAirPods Pro、AirPods Maxが最大100ドル引きの特別価格で購入可能となっている。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2
   },
   {
    "id": "12fe4c4b6149fc90",
@@ -1000,7 +1129,8 @@
    "title_ja": "iPhone20周年記念モデルを巡り、相反する複数の噂が浮上",
    "summary_ja": "来年登場すると噂されるiPhoneの20周年記念モデルについて、相反する2つの報道が浮上し注目を集めています。この記念モデルはAppleが掲げる「1枚のガラス板」という長期ビジョンを体現するものとされていますが、その具体的な仕様に関する噂は大きく食い違っています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "efb28cbd23e2fbff",
@@ -1015,6 +1145,23 @@
    "title_ja": "iOS 27ベータ版から折りたたみを含む未発表iPhoneの存在が浮上",
    "summary_ja": "最新のiOS 27開発者向けベータ版のコード内に、未発表のiPhoneモデルを示す記述が見つかりました。これには折りたたみ式とされるモデルなど、6つの未発表機種が含まれています。また、将来のiPhone 18 ProではDynamic Islandが小型化される可能性もコードから示唆されています。",
    "category": "噂・リーク",
+   "importance": 3,
+   "image": "https://media.appleinsider.com/gallery/68538-144419-000-lead-iPhone-18-Pro-xl.jpg"
+  },
+  {
+   "id": "3da2fe40790a74e8",
+   "url": "https://appleinsider.com/articles/26/08/11/icloud-private-relay-failures-manifest-a-new-class-action-lawsuit-against-apple",
+   "title_original": "iCloud Private Relay failures manifest a new class-action lawsuit against Apple",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/68537-144418-68464-144251-Safari-bottom-address-bar-xl-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-11T13:08:38+00:00",
+   "title_ja": "iCloudプライベートリレーの不具合で訴訟",
+   "summary_ja": "AppleのiCloudプライベートリレーにユーザーの身元が露出する脆弱性が発覚したことを受け、新たな集団訴訟が提起された。セキュリティ上の欠陥を巡り、同社に対して法的責任を問う動きが出ている。",
+   "category": "サービス・アプリ",
    "importance": 3
   },
   {
@@ -1030,7 +1177,8 @@
    "title_ja": "iOS 27の最新ベータ版に今後登場する新型iPhoneのコードが混入",
    "summary_ja": "Appleがリリースした「iOS 27 beta 5」から、今後6カ月から8カ月以内に発売が予想される未発表のiPhone全モデルに関する記述が見つかりました。この最新ベータ版では、アプリアイコンの変更やSpotlight検索のデザイン調整なども行われています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "4d446727f2bf3792",
@@ -1045,7 +1193,8 @@
    "title_ja": "Apple Payが10月までにインドで提供開始か、当初はUPI非対応",
    "summary_ja": "Apple Payが今年10月までにインドで導入される見通しであることが分かりました。VisaやMastercardなどの主要なクレジットカードネットワークに対応する予定ですが、インドで普及している決済システム「UPI」にはサービス開始時点では対応せず、今後の交渉や当局の承認待ちとなっています。",
    "category": "サービス・アプリ",
-   "importance": 3
+   "importance": 3,
+   "image": "https://images.macrumors.com/t/3AafKQrSjReo-42sG45rd9to9SU=/2500x/article-new/2021/07/Apple-Pay-Feature.jpg"
   },
   {
    "id": "7cc88ccd5bf3b5e8",
@@ -1060,7 +1209,8 @@
    "title_ja": "2027年登場と噂される「iPhone 20周年記念モデル」の噂",
    "summary_ja": "2027年に登場するiPhoneの20周年記念モデルについて、大幅なデザイン刷新の予測が出ています。4辺が湾曲した大型ディスプレイや大部分がガラス製の筐体を採用するなどの噂があり、一部のアナリストによる懐疑的な見方に対しても、開発中止の報道は誇張されている可能性が指摘されています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/iPhone-17-Pro-Max-display-2.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "64b2902b9004e8fb",
@@ -1075,7 +1225,8 @@
    "title_ja": "iOS 27ベータに「iPhone 18」など未発表6機種のコード記述が見つかる",
    "summary_ja": "開発者向けに公開されたiOS 27ベータ5のシステムファイルから、未発表のiPhone 6機種に関する記述が発見されました。これには「iPhone 18」シリーズに加え、「iPhone Air 2」や「iPhone Ultra」、「iPhone 18e」といったモデル名が含まれており、将来のラインナップを示唆しています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://images.macrumors.com/t/4Q56OYwuNrkRPnIuQjszrndWKlM=/1600x/article-new/2025/09/better-iphone-17-lineup.jpg"
   },
   {
    "id": "b83b3d96282454bb",
@@ -1090,7 +1241,8 @@
    "title_ja": "2027年発売の全面ガラス製iPhone、開発中止の噂を否定する報道",
    "summary_ja": "2027年に発売が予想される20周年記念の全面ガラス製iPhone Proモデルについて、開発中止の噂を否定する報道が出ました。一部のアナリストが製造上の問題から計画中止を示唆したものの、ブルームバーグの最新情報によると、このプロジェクトは現在も計画通りに進行しています。",
    "category": "噂・リーク",
-   "importance": 2
+   "importance": 2,
+   "image": "https://media.appleinsider.com/gallery/68536-144416-iPhone-17-Pro-back-xl.jpg"
   },
   {
    "id": "3add07d3133b9bee",
@@ -1105,7 +1257,8 @@
    "title_ja": "2027年発売の次期iPad Air、BOEがOLEDパネル供給に名乗りか",
    "summary_ja": "2027年前半に発売が予想される有機ELディスプレイ搭載の次期iPad Airについて、中国BOEがパネル供給への参入を目指していると報じられました。現在はサムスンディスプレイが主要サプライヤーとして製造を進める見込みですが、BOEは第2の供給元としての採用を狙って体制を整えています。",
    "category": "iPad",
-   "importance": 3
+   "importance": 3,
+   "image": "https://images.macrumors.com/t/VAieMNy-4jD_E16nHfDKeQ1DHlY=/2500x/article-new/2025/10/m3-ipad-air-mint.jpeg"
   },
   {
    "id": "2ca57d1f35354d4d",
@@ -1120,7 +1273,8 @@
    "title_ja": "iOS 27ベータ版のコードから判明した次世代iPhoneのロードマップ",
    "summary_ja": "開発者向けにリリースされたiOS 27ベータ5の内部コードから、今後登場するとみられる未発表iPhoneの記述が複数見つかりました。記述には「iPhone 18」シリーズのほか、薄型モデルの後継とみられる「iPhone Air 2」や、最上位仕様とされる「iPhone Ultra」などの名称が含まれています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/iPhone-16-family.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "a062fb6d8f09d73e",
@@ -1135,7 +1289,8 @@
    "title_ja": "Appleによる中国製メモリ採用の可能性がさらに低下か",
    "summary_ja": "Appleはメモリ不足の解決策として中国企業のCXMTやYMTCからのRAM調達を検討していましたが、米国政府との対立を招く懸念がありました。最新の動向により、これら中国企業からの調達が実現する可能性はさらに低くなっています。",
    "category": "ビジネス・業績",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/China-now-even-less-likely-to-solve-Apples-memory-crunch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "0dc6b8a3039141cc",
@@ -1150,7 +1305,8 @@
    "title_ja": "iPhone 18 Pro Maxは12%の大容量バッテリー搭載か",
    "summary_ja": "iPhone 18 Pro Maxに関する最新のリーク情報によると、同モデルには前モデルと比較して約12%大容量のバッテリーが搭載される可能性があります。これにより、バッテリー駆動時間が大幅に向上する見込みです。今後の正式な情報が注目されます。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/iphone-18-pro-max-battery-rumor.jpg.webp"
   },
   {
    "id": "41df6316d956c7f4",
@@ -1165,7 +1321,8 @@
    "title_ja": "将来のiOSは無料でもAI機能は有料化される可能性",
    "summary_ja": "将来のiOSが無料で提供され続けたとしても、高度なAI機能の利用には費用が発生する可能性があります。AIは多くの場面で検索の代替となっていますが、その膨大な運用コストを回収するために、各社が課金モデルを導入するのではないかと議論されています。",
    "category": "AI",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3209941-0-84456300-1786462495-macalope-2021.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "3326663c9fc1b506",
@@ -1180,7 +1337,8 @@
    "title_ja": "古いiPhoneを賢く売却・下取りに出すための方法",
    "summary_ja": "新型iPhoneの登場を控え、古い端末の売却や下取りを検討する人が増えています。最近は部品価格の高騰に伴い下取り価格も上昇傾向にあります。引き出しに眠っている古いiPhoneを整理し、新しいモデルの購入資金に充てるためのコツを紹介します。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/iphone-sell-trade.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "69a61c86347ba52e",
@@ -1195,7 +1353,8 @@
    "title_ja": "ビジネス利用におけるChromeOSとmacOSの比較",
    "summary_ja": "ビジネスシーンにおけるChromeOSとmacOSの比較検証が行われました。多数のデバイスを実際に運用した経験をもとに、それぞれのOSが持つメリットとデメリット、仕事現場での使いやすさや管理のしやすさについて解説しています。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "6841f5ee4c22b3ae",
@@ -1210,7 +1369,8 @@
    "title_ja": "Appleが2026年の出荷計画を下方修正か、DRAM不足が影響",
    "summary_ja": "アナリストのミンチー・クオ氏によると、Appleは深刻なDRAM不足を背景に、2026年の製品出荷計画を下方修正しました。この影響により、同年秋に発売予定のiPhone 18 Proシリーズや、初となる折りたたみモデルの出荷数に影響が出る可能性が指摘されています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iPhoneUltra-TechTown.jpg"
   },
   {
    "id": "857a1dbf0598f81b",
@@ -1225,7 +1385,8 @@
    "title_ja": "不具合のあるiPhoneやiPadを初期化・リセットする方法",
    "summary_ja": "iPhoneやiPadの動作が不安定な場合、デバイスを初期化して工場出荷時の状態に戻すことで問題が解決する場合があります。ただし、初期化は最終手段であるため、まずはデータの残る再起動や強制再起動、あるいはOSのアップデートを試すことが推奨されます。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/how_to_reset_iphone_or_ipad_wiping_thumb-Topaz-Gigapixel-2x-scale.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "e63d2642b8f647a7",
@@ -1240,7 +1401,24 @@
    "title_ja": "Appleの「探す」に対応した超薄型カード型紛失防止トラッカー",
    "summary_ja": "Appleの「探す」アプリに対応した超薄型トラッカー「MagTag Ultra Slim Tracker Card」がセール価格で販売されています。クレジットカードサイズのため、財布やパスポートケースにすっきりと収まります。大切な貴重品の紛失を防ぐための手軽な選択肢です。",
    "category": "その他",
-   "importance": 1
+   "importance": 1,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/MagTag.jpg?quality=50&strip=all&w=1024"
+  },
+  {
+   "id": "7741af140c3d4294",
+   "url": "https://applech2.com/archives/20260811-ugreen-nexode-wavy-55w-20k-2.html",
+   "title_original": "Ugreen、Dymondcell難燃技術のセルを採用しバッテリー残量など確認できるディスプレイとUSB-Cケーブルを一体化した「UGREEN Nexode Wavy 20000mAh モバイルバッテリー 55W」を発売。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/08/UGREEN-Nexode-Wavy-55w-20k-Power-Bank-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-11T07:20:57+00:00",
+   "title_ja": "Ugreen、残量表示付き55Wモバイルバッテリー発売",
+   "summary_ja": "Ugreenが難燃技術のセルを採用し、バッテリー残量を確認できるディスプレイとUSB-Cケーブルを一体化した20000mAhのモバイルバッテリーを発売した。最大55Wの出力に対応する。",
+   "category": "その他",
+   "importance": 2
   },
   {
    "id": "307168d0fc2a76ee",
@@ -1255,7 +1433,8 @@
    "title_ja": "Apple WatchとAirPods Proの併用で感じた生活の変化",
    "summary_ja": "スマートウォッチに興味がなかった筆者が、Apple Watch SEとAirPods Proを使い続けた体験談です。iPhone単体での利用と比べ、これらのウェアラブルデバイスを組み合わせることで、日常生活やデバイスの使い方がどのように変化したかを綴っています。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 1
+   "importance": 1,
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/c2d34df85d952c96c293f9898da44605.jpg"
   },
   {
    "id": "2918a4ef89c9e68c",
@@ -1270,7 +1449,8 @@
    "title_ja": "iPhoneをリカバリモードにして初期化する方法",
    "summary_ja": "iPhoneの不具合解消やパスワードを忘れた場合、iOSのベータ版を削除する手段として、リカバリモードを用いた初期化方法が紹介されています。この方法を実行すると、デバイス内のデータが消去され、最新バージョンのiOSが再インストールされます。売却時のデータ消去手順とは異なるため注意が必要です。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/iPhone-Recovery-Mode.jpg?quality=50&strip=all&w=1024"
   },
   {
    "id": "75b9225d41e9f081",
@@ -1285,7 +1465,8 @@
    "title_ja": "AppleがM6 Pro/Maxを見送り、M7を前倒しか",
    "summary_ja": "AppleがM6世代では基本モデルのみを製品化し、ProやMax、Ultraなどの上位モデルを見送る見通しが報じられています。M7世代への移行が前倒しされることで、Macの買い時が左右されるのは、主にデバイス上でAI処理を頻繁に行うユーザーに限られそうです。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/428edd3a2b0afadeccc6acdcfc9c467f.png"
   },
   {
    "id": "bdb7d67061310475",
@@ -1300,7 +1481,8 @@
    "title_ja": "2027年発売予定の「iPhone 20」、曲面ガラス採用の計画は継続中か",
    "summary_ja": "一部で開発中止の噂が流れていたものの、2027年に発売が期待される「iPhone 20」の計画は順調に進んでいると報じられています。このモデルには革新的な曲面ガラスを用いたオールガラスデザインが採用される見込みです。将来の節目となるモデルに向けて、アップルは野心的な開発を継続しています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/iphone-air-hand.jpg.webp"
   },
   {
    "id": "46b25f22b5938326",
@@ -1315,7 +1497,8 @@
    "title_ja": "LGが5層有機ELパネルを開発中、2029年登場の新型iMacに搭載か",
    "summary_ja": "LGディスプレイが、将来のiMacへの搭載を見据えた5層構造の有機ELパネルを開発していると報じられました。同社はすでに4層構造の27インチ5K有機ELディスプレイを開発中とされており、この新技術を採用した新型iMacが2029年にも登場する可能性が浮上しています。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iMac-OLED-AH-0811-1200.jpg"
   },
   {
    "id": "0cbf8a74b7a0adac",
@@ -1330,7 +1513,8 @@
    "title_ja": "「iOS 27 beta 5」がリリース、軽微な変更と改善が追加",
    "summary_ja": "数週間の待機期間を経て、開発者向けに「iOS 27 beta 5」がリリースされました。今回のアップデートでは、劇的な新機能の追加ではなく、いくつかの軽微な変更や機能改善が行われています。ユーザーの利便性を高めるための細かなブラッシュアップが中心となっています。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/07/ios-27-beta5.jpeg"
   },
   {
    "id": "cb18760640d6d6a6",
@@ -1345,7 +1529,8 @@
    "title_ja": "iPhone発売20周年モデルの開発中止説に反論、計画は継続中か",
    "summary_ja": "アナリストによる「iPhone発売20周年モデルの開発中止」との指摘に対し、複数の関係筋から開発は継続しているとの反論が出ています。すべての計画が白紙になったわけではなく、当初噂されていたオールガラスデザインの案のみが破棄され、別の形で開発が進められているという見方が強まっています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iPhone20-AH-0811-.jpg"
   },
   {
    "id": "8099d5fa6822f7a1",
@@ -1360,7 +1545,8 @@
    "title_ja": "iPhoneでペルセウス座流星群を綺麗に撮影する方法とコツを紹介",
    "summary_ja": "8月に北半球で見られるペルセウス座流星群の撮影に、iPhoneが活用できると紹介されています。単に空に向けてシャッターを押すだけではうまく写りませんが、適切なツールや設定を用いることで、流星や人工衛星の美しい天体写真を撮影できます。夏の夜空を記録するための実践的なテクニックです。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "image": "https://media.appleinsider.com/gallery/68534-144412-headerstars-xl.jpg"
   },
   {
    "id": "cb7c24e05a205125",
@@ -1375,7 +1561,8 @@
    "title_ja": "20周年記念iPhoneのデザイン刷新、来年のProモデルで予定通り進行か",
    "summary_ja": "iPhone発売20周年を記念した全面ガラスモデルの開発中止が噂される中、Bloombergはデザイン刷新計画が予定通り進んでいると報じました。来年発売予定のProモデルで新たなデザインが採用される見込みです。開発中止の噂に反し、新モデルの設計は順調に継続していると見られます。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "55f2dc27afa1fd1e",
@@ -1390,7 +1577,8 @@
    "title_ja": "Apple Vision ProでMLB初のイマーシブライブ配信が決定",
    "summary_ja": "AppleとMLBは、Apple TVの「フライデーナイト ベースボール」をApple Vision Pro向けにライブ配信すると発表しました。「Apple Immersive」ビデオによる初のライブ中継となり、まるで球場にいるかのような臨場感で試合を観戦できます。第1弾はレッドソックス戦の予定です。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 4
+   "importance": 4,
+   "image": "https://gori.me/uploads/2026/08/apple-mlb-announce-september-friday-night-baseball-schedulearticleApple-Immersive-Friday-Night-Baseball-2026-hero_big-800x451.jpg"
   },
   {
    "id": "e7a783ad2adc08cd",
@@ -1405,7 +1593,8 @@
    "title_ja": "20周年記念全面ガラスiPhoneの中止報道で、Apple目標株価が引き下げ",
    "summary_ja": "投資銀行のJefferiesは、Appleの目標株価を引き下げました。サプライチェーンの調査から、iPhone発売20周年記念モデルとして噂されていた全面ガラス製iPhoneの開発計画が中止されたと判断したためです。この開発中止の観測が、投資判断に影響を与える形となりました。",
    "category": "ビジネス・業績",
-   "importance": 3
+   "importance": 3,
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
    "id": "9a22c876719f83a7",
@@ -1420,7 +1609,8 @@
    "title_ja": "Amazonで16インチMacBook Proの高性能モデルが約13万円引きに",
    "summary_ja": "Amazonにて、16インチMacBook Proの高性能モデルが通常価格から15%オフとなる約13万円引きで販売されています。M5 Maxチップ、48GBメモリ、2TBストレージを搭載したハイスペック構成が対象です。普段は値下がりしにくい上位構成モデルを、お得に購入できる機会となっています。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "image": "https://gori.me/uploads/2026/08/abdelrahman-bayomi-NXgT8p8uybM-unsplash-800x495.jpg"
   },
   {
    "id": "051d91fcf82e62ed",
@@ -1435,7 +1625,200 @@
    "title_ja": "20周年記念の全面ガラス製iPhone、開発中止の可能性が浮上",
    "summary_ja": "2027年に登場すると噂されていた、全面ガラスを採用したiPhone発売20周年記念モデルの開発が中止された模様です。投資銀行Jefferiesのアナリストなどの情報から明らかになりました。歴代最高価格帯の特別モデルとして期待されていただけに、事実であれば大きな方針転換となります。",
    "category": "噂・リーク",
+   "importance": 3,
+   "image": "https://gori.me/uploads/2024/09/This-is-the-iPhone16Pro-model-13-800x534.jpg"
+  },
+  {
+   "id": "5ce48c20f5d76c83",
+   "url": "https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel",
+   "title_original": "Mcon mobile gaming controller review: Compact design with premium feel",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://photos5.appleinsider.com/gallery/66046-138746-Mcon-in-Games-App-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T23:42:07+00:00",
+   "title_ja": "MagSafe対応のiPhone用ゲームコントローラー「Mcon」レビュー",
+   "summary_ja": "OhSnapが開発したMagSafe対応のiPhone向けゲームコントローラー「Mcon」のレビューです。携帯性と操作性を両立したコンパクトなデザインが特徴で、MagSafeを利用してiPhoneに簡単に固定できます。携帯型ゲームコントローラーにおける妥協のない設計が評価されています。",
+   "category": "iPhone",
+   "importance": 2
+  },
+  {
+   "id": "cbe1ec87367f374e",
+   "url": "https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple",
+   "title_original": "Discrimination lawsuit involving converted Jewish employee settled by Apple",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/68535-144415-IMG_4906-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T23:33:34+00:00",
+   "title_ja": "Apple、元従業員との宗教差別訴訟で15万ドルの和解金支払いに合意",
+   "summary_ja": "米バージニア州のApple直営店で、身だしなみの基準を満たさないとして解雇された元従業員が起こした宗教差別訴訟について、Appleが和解に合意しました。Appleは15万ドルの和解金を支払うほか、従業員に対して宗教差別に関する研修を実施します。大企業における雇用管理の課題を示す事例です。",
+   "category": "ビジネス・業績",
    "importance": 3
+  },
+  {
+   "id": "13dea163a46a8ac6",
+   "url": "https://gori.me/iphone/iphone-news/168884",
+   "title_original": "Apple、値下げ交渉が”不発”の中国CXMT製メモリをテスト中。さぁどうなる僕らのiPhone",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/08/samuel-angor-h2DMohtW9Y0-unsplash-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T23:22:30+00:00",
+   "title_ja": "Apple、中国CXMT製のメモリ搭載に向けテストを実施中か",
+   "summary_ja": "AppleがiPhoneやMacBookへの搭載に向けて、中国の半導体メーカー「長鑫存儲技術（CXMT）」製のメモリをテストしている模様です。価格交渉は難航していると報じられていますが、採用されればサプライチェーンの多様化につながります。今後の製品のコストや仕様に影響を与える可能性があります。",
+   "category": "噂・リーク",
+   "importance": 3
+  },
+  {
+   "id": "b6e7f364483f6c2b",
+   "url": "https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5",
+   "title_original": "What’s New in iOS 27 Beta 5",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-light-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:54:25+00:00",
+   "title_ja": "iOS 27ベータ5が配信、Siri音声の調整機能やアイコン刷新",
+   "summary_ja": "Appleが開発者向けにiOS 27ベータ5を配信開始した。SiriやSafariなどのアプリコングが変更され、Siriの音声には新たな調整スライダーが追加されている。ベータ4からは通常より長い期間を空けての更新となった。",
+   "category": "ソフトウェア・OS",
+   "importance": 3
+  },
+  {
+   "id": "c2fc5f9f46229871",
+   "url": "https://gori.me/ios/ios-news/168878",
+   "title_original": "iOS 27やmacOS 27などのベータ5、配信開始。Safariなどのアイコンが変わったよ",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-727-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:51:51+00:00",
+   "title_ja": "iOS 27などのベータ5が開発者向けに配信開始",
+   "summary_ja": "Appleは現地時間8月10日、iOS 27やmacOSなどの各OSでベータ5を開発者向けに公開した。ベータ4のリリースから約2週間ぶりとなる今回の更新では、Safariなどのアイコンに細かい変更が加えられている。",
+   "category": "ソフトウェア・OS",
+   "importance": 3
+  },
+  {
+   "id": "29e59312400b1f93",
+   "url": "https://applech2.com/archives/20260811-macos-27-golden-gate-and-ios-27-beta-5.html",
+   "title_original": "Apple、開発者向けに「macOS 27 Golden Gate」や「iOS/iPadOS 27」のBeta 5を公開。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/06/Apple-OS-27-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:37:25+00:00",
+   "title_ja": "Apple、iOS 27やmacOS 27などのベータ5を公開",
+   "summary_ja": "Appleが現地時間2026年8月10日、開発者向けに次期OSのベータ5を公開した。対象にはiOS 27やiPadOS 27、macOS 27 Golden Gateなどが含まれており、各種新機能のテストが進められている。",
+   "category": "ソフトウェア・OS",
+   "importance": 3
+  },
+  {
+   "id": "d03dd05267f5bff7",
+   "url": "https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool",
+   "title_original": "WhatsApp’s latest beta for iOS adds references to an in-chat search tool",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:36:22+00:00",
+   "title_ja": "WhatsAppのiOSベータ版、チャット内検索の迅速化機能をテスト中",
+   "summary_ja": "メッセージアプリのWhatsAppの最新ベータ版において、会話画面から直接アクセスできる新しいチャット内検索ツールの開発が進められている。従来よりも手軽にメッセージを探せるようになる見込みである。",
+   "category": "サービス・アプリ",
+   "importance": 2
+  },
+  {
+   "id": "7d8e852d3b66724b",
+   "url": "https://9to5mac.com/2026/08/10/tessan-aero-5000",
+   "title_original": "MagSafe Monday: The TESSAN AERO 5000 brings a titanium finish to an ultra thin battery",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/TESSAN-AERO-5000-2.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:20:00+00:00",
+   "title_ja": "チタン仕上げの超薄型MagSafeバッテリーが登場",
+   "summary_ja": "TESSANの「AERO 5000」は、チタン風の仕上げと極薄のデザインを採用した新しいMagSafe対応バッテリー。最新のバッテリー技術により発熱を抑え、安全性も向上させている。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2
+  },
+  {
+   "id": "aa346ccab8e56865",
+   "url": "https://sixcolors.com/podcast/2026/08/upgrade-632-redacted-apple-information",
+   "title_original": "(Podcast) Upgrade 632: [Redacted Apple Information]",
+   "source": "Six Colors",
+   "lang": "en",
+   "region": "global",
+   "image": "",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:14:46+00:00",
+   "title_ja": "Upgradeポッドキャスト：Apple関連の最新動向を議論",
+   "summary_ja": "ポッドキャスト番組「Upgrade」の最新回で、AppleをめぐるOpenAIの動向やウェアラブル製品の将来について議論が行われた。番組内では「テッド・ラッソ」の復活などの話題も取り上げられている。",
+   "category": "サービス・アプリ",
+   "importance": 1
+  },
+  {
+   "id": "1dc1cba6521b237d",
+   "url": "https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more",
+   "title_original": "New in iOS 27 beta 5: 'Before Searching' settings, updated app icons, more",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/68532-144409-beta5pic-Cropped-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T21:02:25+00:00",
+   "title_ja": "iOS 27ベータ5配信、新アプリアイクコンなどを追加",
+   "summary_ja": "Appleが開発者向けに「iOS 27 beta 5」の配信を開始した。いくつかの主要アプリでアイコンが刷新されたほか、検索に関する新しい設定項目なども追加されている。",
+   "category": "ソフトウェア・OS",
+   "importance": 3
+  },
+  {
+   "id": "f0bdc7d1c466dca9",
+   "url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time",
+   "title_original": "Apple TV teams up with Academy Award-winning director for the second time",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T20:51:02+00:00",
+   "title_ja": "Apple TV、アルフォンソ・キュアロン監督と再タッグ",
+   "summary_ja": "Apple TVは、アカデミー賞受賞監督であるアルフォンソ・キュアロンの新作シリーズ「Ascension」の配信権を獲得したと発表した。同プラットフォームでの監督とのコラボレーションは2回目となる。",
+   "category": "サービス・アプリ",
+   "importance": 3
+  },
+  {
+   "id": "0b196408fcf25807",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule",
+   "title_original": "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.apple.com/newsroom/images/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/tile/Apple-Immersive-Friday-Night-Baseball-2026-hero-lp.jpg.og.jpg?202608111359",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-10T20:47:43+00:00",
+   "title_ja": "Vision Proで「Friday Night Baseball」を生配信",
+   "summary_ja": "Appleは、Vision Pro向けに「Friday Night Baseball」をApple Immersiveで初ライブ配信すると発表した。8K・180度の3D映像により、臨場感あふれる試合観戦が可能になる。",
+   "category": "サービス・アプリ",
+   "importance": 4
   },
   {
    "id": "e7ee0aabdb33d797",
@@ -1450,7 +1833,8 @@
    "summary_ja": "AppleとMLBは、「フライデーナイト ベースボール」における9月の配信スケジュールを公開した。メジャーリーグの試合中継日程が案内されており、ファンは指定されたスケジュールに沿って生中継を視聴できる。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "mirror_group": "apple-newsroom"
+   "mirror_group": "apple-newsroom",
+   "image": "https://www.apple.com/newsroom/images/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/tile/Apple-Immersive-Friday-Night-Baseball-2026-hero-lp.jpg.og.jpg?202608111413"
   }
  ]
 }

@@ -98,6 +98,19 @@
     transition: transform .15s ease;
   }
   article:active { transform: scale(.99); }
+  .row { display: flex; gap: 12px; align-items: flex-start; }
+  .row .body { flex: 1 1 auto; min-width: 0; }
+  .thumb {
+    flex: 0 0 96px; width: 96px; height: 96px;
+    object-fit: cover; border-radius: 10px;
+    background: var(--chip); display: block;
+  }
+  .hero {
+    /* 幅の広い画面で主役の画像が伸びすぎないように上限を付ける。 */
+    width: 100%; aspect-ratio: 16 / 9; max-height: 300px; object-fit: cover;
+    border-radius: 12px; background: var(--chip);
+    display: block; margin-bottom: 11px;
+  }
   .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 11.5px; color: var(--muted); margin-bottom: 7px; }
   .tag { background: var(--chip); border-radius: 6px; padding: 2px 7px; color: var(--text); }
   .badge { background: var(--badge); color: #fff; border-radius: 6px; padding: 2px 7px; font-weight: 600; }
@@ -138,7 +151,8 @@
 
 <footer>
   <p>海外・国内のApple関連メディアのRSSを自動収集し、日本語の見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳細は必ず出典元の記事をご確認ください。</p>
-  <p>記事の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
+  <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
+  <p>記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
   <p id="sources"></p>
 </footer>
 
@@ -188,21 +202,36 @@ function render() {
     document.getElementById("more").hidden = true;
     return;
   }
-  list.insertAdjacentHTML("beforeend", slice.map(item => `
-    <article>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+  list.insertAdjacentHTML("beforeend", slice.map((item, i) => {
+    // 先頭と「重要」な記事だけ大きい画像にして、一覧に緩急をつける。
+    const hero = item.image && (shown + i === 0 || item.importance >= 4);
+    const meta = `
         <div class="meta">
           ${item.importance >= 4 ? '<span class="badge">重要</span>' : ""}
           <span class="tag">${escapeHtml(item.category)}</span>
           <span class="flag">${item.region === "jp" ? "🇯🇵" : "🌍"}</span>
           <span>${escapeHtml(item.source)}</span>
           <span>・${relative(item.published)}</span>
-        </div>
-        <h2>${escapeHtml(item.title_ja)}</h2>
+        </div>`;
+    const title = `<h2>${escapeHtml(item.title_ja)}</h2>`;
+    const img = cls => item.image
+      ? `<img class="${cls}" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`
+      : "";
+    const head = hero
+      ? `${img("hero")}${meta}${title}`
+      : (item.image
+          // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
+          ? `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`
+          : `${meta}${title}`);
+    return `
+    <article>
+      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+        ${head}
         <p class="summary">${escapeHtml(item.summary_ja)}</p>
         <span class="src">原文を読む →</span>
       </a>
-    </article>`).join(""));
+    </article>`;
+  }).join(""));
   shown += slice.length;
   document.getElementById("more").hidden = shown >= filtered.length;
 }

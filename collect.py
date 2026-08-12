@@ -62,6 +62,7 @@ CATEGORIES = [
 JST = dt.timezone(dt.timedelta(hours=9))
 
 ATOM = "{http://www.w3.org/2005/Atom}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 DC = "{http://purl.org/dc/elements/1.1/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 RSS10 = "{http://purl.org/rss/1.0/}"
@@ -154,6 +155,86 @@ def _text(node, *paths: str) -> str:
     return ""
 
 
+# 記事のサムネイルとして使わない画像（配信計測用の透明画像やアイコンなど）。
+IMAGE_BLOCKLIST = ("feedburner", "gravatar", "/pixel", "1x1", "blank.gif", "spacer", "doubleclick")
+IMG_TAG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+OG_IMAGE_RE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::url)?|twitter:image(?::src)?)["\']'
+    r'[^>]+content=["\']([^"\']+)["\']|'
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+'
+    r'(?:property|name)=["\'](?:og:image(?::url)?|twitter:image(?::src)?)["\']',
+    re.I,
+)
+
+
+def usable_image(url: str, base: str) -> str:
+    url = html.unescape((url or "").strip())
+    if not url:
+        return ""
+    url = urllib.parse.urljoin(base, url)
+    if not url.startswith(("http://", "https://")):
+        return ""
+    if any(word in url.lower() for word in IMAGE_BLOCKLIST):
+        return ""
+    return url
+
+
+def image_from_entry(entry, base: str) -> str:
+    """RSSの中に入っている画像を探す。媒体ごとに置き場所が違うので順に当たる。"""
+    for node in entry.findall(f"{MEDIA}thumbnail") + entry.findall(f"{MEDIA}content"):
+        medium = (node.get("medium") or node.get("type") or "").lower()
+        if medium and "image" not in medium:
+            continue
+        found = usable_image(node.get("url", ""), base)
+        if found:
+            return found
+
+    for node in entry.findall("enclosure") + entry.findall(f"{ATOM}link"):
+        if "image" in (node.get("type") or "").lower():
+            found = usable_image(node.get("url") or node.get("href") or "", base)
+            if found:
+                return found
+
+    # 本文HTMLの最初の <img>。多くの媒体はここにアイキャッチが入っている。
+    raw_body = " ".join(
+        node.text or ""
+        for tag in ("description", f"{CONTENT}encoded", f"{RSS10}description",
+                    f"{ATOM}summary", f"{ATOM}content")
+        for node in entry.findall(tag)
+    )
+    for candidate in IMG_TAG_RE.findall(raw_body):
+        found = usable_image(candidate, base)
+        if found:
+            return found
+    return ""
+
+
+def fetch_og_image(url: str) -> str:
+    """RSSに画像が無い記事は、元ページの og:image を見に行く。"""
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(request, timeout=12) as response:
+            head = response.read(200_000).decode("utf-8", errors="ignore")
+            final_url = response.geturl()
+    except Exception:  # noqa: BLE001  取れなくても記事自体は載せる
+        return ""
+    match = OG_IMAGE_RE.search(head)
+    if not match:
+        return ""
+    return usable_image(match.group(1) or match.group(2) or "", final_url)
+
+
+def fill_missing_images(items: list[dict]) -> None:
+    targets = [item for item in items if not item["image"]]
+    if not targets:
+        return
+    print(f"  サムネイル未取得 {len(targets)}件をページから取得中 …")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+        for item, image in zip(targets, pool.map(lambda i: fetch_og_image(i["url"]), targets)):
+            item["image"] = image
+    print(f"  取得できたもの {sum(1 for item in targets if item['image'])}件")
+
+
 def fetch_feed(feed: dict) -> list[dict]:
     request = urllib.request.Request(feed["url"], headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(request, timeout=FETCH_TIMEOUT) as response:
@@ -209,6 +290,7 @@ def fetch_feed(feed: dict) -> list[dict]:
                 "source": feed["name"],
                 "lang": feed.get("lang", "en"),
                 "region": feed.get("region", "global"),
+                "image": image_from_entry(entry, link),
                 "official": bool(feed.get("official")),
                 "mirror_group": feed.get("mirror_group", ""),
                 "published": (published or dt.datetime.now(dt.timezone.utc)).isoformat(),
@@ -504,6 +586,8 @@ def main() -> int:
         print(f"  日本語化 {len(enriched)}件（Apple無関係と判定された分は除外）")
         enriched, replaced = dedupe_stories(enriched, existing_items)
         print(f"  掲載対象 {len(enriched)}件")
+        # 実際に載せる記事だけページを取りに行く（無駄なアクセスを増やさないため）。
+        fill_missing_images(enriched)
 
     merged = enriched + [item for item in existing_items if item["id"] not in replaced]
     keep_after = now - dt.timedelta(days=KEEP_DAYS)
