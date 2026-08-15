@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T15:20:02.197925+09:00",
+ "updated_at": "2026-08-15T21:16:56.473179+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -28,8 +28,72 @@
   "gori.me",
   "iPhone Mania"
  ],
- "count": 381,
+ "count": 386,
  "items": [
+  {
+   "id": "1decec5b28f2d443",
+   "url": "https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success",
+   "title_original": "Seven years later, the Apple Card is a huge but controversial success",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://photos5.appleinsider.com/gallery/37237-125046-000-lede-Apple-Card-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T11:20:57+00:00",
+   "title_ja": "米国で登場したApple Cardの歩みと現状、ヒットの裏にある課題",
+   "summary_ja": "2019年に米国で提供が開始されたApple Cardは大きな成功を収めた一方で、さまざまな物議も醸してきました。低い還元率や性差別疑惑といった批判に加え、提携パートナー企業の撤退の噂など課題も抱えています。ハードウェア中心のAppleにおいて異色のサービスとして存在感を示しています。",
+   "category": "サービス・アプリ",
+   "importance": 3
+  },
+  {
+   "id": "77c100952fa5f2bd",
+   "url": "https://iphone-mania.jp/iphone18-604547",
+   "title_original": "iPhone18 Proは税込212,800円〜？Android系リーカーが価格予想",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/15/iPhone18-Pro-Price-AH-0815.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T11:10:07+00:00",
+   "title_ja": "iPhone18 Proシリーズは100ドル値上げか、リーカーが価格を予想",
+   "summary_ja": "Androidスマートフォンの情報を発信するリーカーが、将来のiPhone18 Proシリーズに関する価格予想を投稿しました。それによると、iPhone17 Proシリーズと比較して販売価格が100ドル値上げされる見込みです。将来的な価格設定に関する噂として注目を集めています。",
+   "category": "噂・リーク",
+   "importance": 2
+  },
+  {
+   "id": "59ea077f29f72c55",
+   "url": "https://gori.me/sale/peripheral-sale/168996",
+   "title_original": "おいマジか！最上位M5 iPad Proが16.7万円も安く買える！トップM4 iPad Airも7万円オフだぞ",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/08/Ipad-pro-and-air-sale-800x500.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T10:00:25+00:00",
+   "title_ja": "13インチiPad ProやiPad Airの最上位構成モデルが大幅値下げ",
+   "summary_ja": "13インチiPad Proおよび13インチiPad Airの最上位ストレージ構成モデルが、大幅に値引きされて販売されています。AppleCare+がセットになったモデルも対象となっており、通常よりも安く購入できる機会となっています。",
+   "category": "iPad",
+   "importance": 2
+  },
+  {
+   "id": "136e4965e39549c6",
+   "url": "https://iphone-mania.jp/news-604545",
+   "title_original": "Siri AIに最新ニュースを〜Appleが報道各社と契約交渉か",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/15/20cf74515da3ca63006a1be221564f55.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T08:53:06+00:00",
+   "title_ja": "Apple、刷新版Siriのニュース供給に向け報道各社と契約交渉か",
+   "summary_ja": "Appleが刷新版Siriへニュースコンテンツを提供してもらうため、複数の報道各社と契約交渉を行っていると報じられました。記事が利用された際に費用を支払う仕組みが提案されており、総予算は1億ドルから10億ドル未満の規模で検討されています。",
+   "category": "AI",
+   "importance": 3
+  },
   {
    "id": "457a4d7fa60dc611",
    "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips",
@@ -1549,6 +1613,22 @@
    "summary_ja": "2020年の登場から約6年を経て、Appleが待望の第2世代モデルとなるHomePod miniを準備していると報じられています。発売日や機能、価格帯など、これまでに判明している最新情報について解説しています。",
    "category": "噂・リーク",
    "importance": 2
+  },
+  {
+   "id": "f8126c18c6cc2efa",
+   "url": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever",
+   "title_original": "Ted Lasso just had the biggest Apple TV premiere ever",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-13T19:22:29+00:00",
+   "title_ja": "『Ted Lasso』シーズン4、Apple TV史上最大の初回視聴記録を記録",
+   "summary_ja": "Apple TVで配信が開始されたドラマ『Ted Lasso』シーズン4が好調な滑り出しを見せています。Appleが明かしたデータによると、本作は同サービスにおいて史上最大のローンチ記録を達成しました。",
+   "category": "サービス・アプリ",
+   "importance": 3
   },
   {
    "id": "69db14844d765aff",
