@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T09:37:49.215927+09:00",
+ "updated_at": "2026-08-15T15:20:02.197925+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -28,8 +28,40 @@
   "gori.me",
   "iPhone Mania"
  ],
- "count": 374,
+ "count": 381,
  "items": [
+  {
+   "id": "457a4d7fa60dc611",
+   "url": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips",
+   "title_original": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?quality=82&strip=all&w=1500",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T02:15:02+00:00",
+   "title_ja": "米商務長官、Appleに対し中国製メモリチップ調達への反対を表明",
+   "summary_ja": "米国のハワード・ラトニック商務長官は、世界的な部品不足への対応として中国製メモリチップの調達を検討しているAppleに対し、採用しないよう求めた。米政府は安全保障やサプライチェーンの観点から中国製品への依存に反対しており、同社の調達計画に影響を与える可能性がある。",
+   "category": "ビジネス・業績",
+   "importance": 3
+  },
+  {
+   "id": "02e4ce5ed87e627f",
+   "url": "https://iphone-mania.jp/apple-604535",
+   "title_original": "Appleはなぜヒューストンを選んだ？Mac mini米国初生産とAIサーバー戦略",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/14/Apple-AdvancedManufacturingCenter-1.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T01:57:41+00:00",
+   "title_ja": "Apple、テキサス州ヒューストンに新拠点「AMC」を開設",
+   "summary_ja": "Appleは米テキサス州ヒューストンに新たな製造拠点「Advanced Manufacturing Center」を開設したと発表した。同施設では地域の中小企業や起業家向けに無料のトレーニングを提供するほか、米国初となるMac miniの生産やAIサーバー戦略の推進を担う。",
+   "category": "ビジネス・業績",
+   "importance": 4
+  },
   {
    "id": "75a520144d719c1a",
    "url": "https://www.macstories.net/news/jungle-shot-11-music-videos-in-four-days-with-apple-creator-studio",
@@ -1471,6 +1503,22 @@
    "importance": 3
   },
   {
+   "id": "38e3d16e89fd7cdb",
+   "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete",
+   "title_original": "Apple Says iPhone X is Now Obsolete",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-13T20:16:53+00:00",
+   "title_ja": "「iPhone X」がオブソリート製品に追加、修理サービスが終了",
+   "summary_ja": "Appleは、2017年に発売された「iPhone X」をオブソリート製品リストに追加しました。これにより、Apple Storeや正規サービスプロバイダでの修理やハードウェアサポートが受けられなくなります。同製品は初のOLEDディスプレイ搭載モデルとして登場し、販売終了から7年が経過したため対象となりました。",
+   "category": "iPhone",
+   "importance": 4
+  },
+  {
    "id": "d94f3aa588a1af6e",
    "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle",
    "title_original": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
@@ -2287,6 +2335,22 @@
    "importance": 3
   },
   {
+   "id": "00069b2fb3215c30",
+   "url": "https://www.macworld.com/article/3211683/skip-the-ads-keep-the-fun-the-award-winning-pok-pok-app-is-just-59-99-for-life.html",
+   "title_original": "Skip the ads, keep the fun—the award-winning Pok Pok app is just $59.99 for life",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3211683-0-18224300-1786608034-Pok-Pok.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-13T08:00:00+00:00",
+   "title_ja": "子供向け知育アプリ「Pok Pok」が生涯プランを割引提供",
+   "summary_ja": "広告なしで子供が自分のペースで学べる知育アプリ「Pok Pok」が、通常より大幅に安い価格で生涯アクセスプランを販売している。モンテッソーリ教育に着想を得たデジタル玩具で、好奇心を育む空間を提供する。",
+   "category": "サービス・アプリ",
+   "importance": 2
+  },
+  {
    "id": "3e893a60a6d6fe7c",
    "url": "https://iphone-mania.jp/iphone15-604480",
    "title_original": "iPhone15 Proを約3年使用！チタン素材は本当に価値がある？",
@@ -2620,6 +2684,22 @@
    "title_ja": "Apple、SiriのAI性能向上に向け出版社と大型契約を模索か",
    "summary_ja": "AppleがSiriのAI機能を向上させ、最新ニュースへのアクセスを高めるため、出版社と巨額のコンテンツ契約を交渉していると報じられました。報道によると契約規模は数億ドルに達する見込みです。時事情報の提供精度を高める狙いがあるとみられます。",
    "category": "AI",
+   "importance": 3
+  },
+  {
+   "id": "631775ed6c6630ba",
+   "url": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts",
+   "title_original": "WhatsApp starts rolling out username support when creating new contacts",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/whatsapp-usernames.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-12T22:50:12+00:00",
+   "title_ja": "WhatsApp、新規連絡先作成時のユーザー名サポートを開始",
+   "summary_ja": "WhatsAppがユーザー名機能の正式展開に向けて準備を進めており、アプリ内で氏名や電話番号に加えて連絡先のユーザー名を保存できるよう機能を拡張している。",
+   "category": "サービス・アプリ",
    "importance": 3
   },
   {
@@ -3583,6 +3663,22 @@
    "importance": 3
   },
   {
+   "id": "cd2e88f3dcc3d571",
+   "url": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school",
+   "title_original": "Parents urged to revisit screen time limits as kids head back to school",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parents-urged-to-change-screen-time-limits-as-kids-head-back-to-school.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-12T11:03:24+00:00",
+   "title_ja": "新学期を控える子供のスクリーンタイム制限、専門家が保護者に見直しを推奨",
+   "summary_ja": "新学期の開始に伴い、専門家は保護者に対して子供のスクリーンタイム制限を見直すよう呼びかけています。夏休み中に緩みがちだったスマートフォンの利用制限をそのままにすると、学業に悪影響を及ぼす恐れがあります。従来の画一的な時間制限ではなく、状況に応じたより柔軟な管理方法が推奨されています。",
+   "category": "ソフトウェア・OS",
+   "importance": 2
+  },
+  {
    "id": "71ccb5e9065ce372",
    "url": "https://www.macworld.com/article/676245/how-apple-trade-in-works-and-saves-you-money.html",
    "title_original": "How Apple trade in works and saves you money",
@@ -3660,6 +3756,22 @@
    "title_ja": "有機EL搭載iPad Air向けディスプレイ供給でBOEも交渉中か",
    "summary_ja": "2027年の発売が噂されている有機ELディスプレイ搭載のiPad Airについて、中国のBOEがディスプレイの供給に向けて交渉を行っている模様です。すでに有力視されているSamsung Displayに加えてBOEが参入すれば、部品コストの削減や製品価格の抑制につながる可能性があります。",
    "category": "iPad",
+   "importance": 2
+  },
+  {
+   "id": "efc0f57a2369c81f",
+   "url": "https://www.cultofmac.com/news/apple-gives-students-more-time-grab-back-to-school-deals",
+   "title_original": "Apple gives students more time to grab its Back to School deals",
+   "source": "Cult of Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/08/apple-back-to-school-2026.jpeg.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-12T08:23:15+00:00",
+   "title_ja": "Apple、学生・教員向けキャンペーンの実施期間を9月24日まで約1か月延長",
+   "summary_ja": "Appleは学生や教職員を対象としたプロモーションの実施期間を約1か月延長しました。これにより、対象の学生や教員は9月24日まで特典を利用して対象製品を購入できます。購入を検討していたユーザーにとって、お得なキャンペーンを活用できる期間がさらに広がる形となりました。",
+   "category": "その他",
    "importance": 2
   },
   {
