@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T09:40:25.137396+09:00",
+ "updated_at": "2026-08-16T15:21:59.344345+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -28,8 +28,56 @@
   "gori.me",
   "iPhone Mania"
  ],
- "count": 399,
+ "count": 400,
  "items": [
+  {
+   "id": "be44dcb3189bbbb0",
+   "url": "https://applech2.com/archives/20260816-mac-mini-m4-is-back-on-sale-at-amazon.html",
+   "title_original": "AmazonでApple M4チップと16GBユニファイドメモリ、512GB SSDを搭載した「Mac mini (2024)」の販売が再開。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/05/Mac-mini-2024-M4-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-16T03:57:47+00:00",
+   "title_ja": "AmazonでM4搭載Mac mini（512GB SSD）の販売が再開",
+   "summary_ja": "Amazon Japanにて、M4チップと16GBメモリ、512GB SSDを搭載した「Mac mini (2024)」の販売が再開されました。人気モデルの在庫が復活しており、購入を検討していたユーザーにとって注目の機会となっています。",
+   "category": "Mac",
+   "importance": 2
+  },
+  {
+   "id": "f1cdee696be0cfa9",
+   "url": "https://iphone-mania.jp/manual/troubles-604569",
+   "title_original": "停電時にiPhoneのテザリングも使えず5時間仕事が止まった実体験",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/16/19dc7b9fc75139b9c8d0e0b26fde9824.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-16T03:25:37+00:00",
+   "title_ja": "停電時にiPhoneのテザリングが使えず仕事が中断した実体験",
+   "summary_ja": "停電が発生した際、Wi-FiだけでなくiPhoneのテザリング機能も利用できなくなり、約5時間仕事が中断したという実体験が語られています。Wi-Fiの代替手段として頼りにされがちなテザリングですが、非常時には通信不能になるリスクが示されています。",
+   "category": "iPhone",
+   "importance": 1
+  },
+  {
+   "id": "0b3941cb850d42c7",
+   "url": "https://gori.me/google/pixel-news/169010",
+   "title_original": "Pixel 11は値上げしたがRAMは減った。メモリ不足時代の苦渋の決断、折りたたみiPhoneは大丈夫なのか……",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/08/Google-Pixel-11-has-problems-by-dave2d-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-16T02:16:35+00:00",
+   "title_ja": "Pixel 11の値上げとメモリ減少が示すスマホ業界の課題と影響",
+   "summary_ja": "GoogleのPixel 11シリーズが値上げされた一方で、Proモデルのメモリ容量が削減される事態が発生しています。メモリ不足やコスト高騰の影響が浮き彫りとなる中、今後登場が予想される折りたたみiPhoneなど他社製品への波及も懸念されています。",
+   "category": "噂・リーク",
+   "importance": 2
+  },
   {
    "id": "fc2aefa0cb570e25",
    "url": "https://iphone-mania.jp/manual-604552",
@@ -6381,38 +6429,6 @@
    "summary_ja": "来月の一般公開に向けて、開発者向けのiOSベータ第5弾がリリースされた。次世代のSiriやAI機能のテストが進められている。",
    "category": "ソフトウェア・OS",
    "importance": 4
-  },
-  {
-   "id": "ed6c8835f28807cc",
-   "url": "https://appleinsider.com/articles/26/08/10/photo-leak-backs-up-massive-iphone-18-pro-max-battery-rumor",
-   "title_original": "Photo leak backs up massive iPhone 18 Pro Max battery rumor",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/68528-144406-navershots1-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-10T17:09:47+00:00",
-   "title_ja": "iPhone 18 Pro Maxの大型バッテリーを示す写真が浮上",
-   "summary_ja": "iPhone 18 Pro Maxのものとされるバッテリーセルの写真が公開された。大容量化を裏付けるリーク情報として注目を集めている。",
-   "category": "噂・リーク",
-   "importance": 4
-  },
-  {
-   "id": "e7ee0aabdb33d797",
-   "url": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule",
-   "title_original": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
-   "source": "Apple Newsroom 日本",
-   "lang": "ja",
-   "region": "jp",
-   "official": true,
-   "published": "2026-08-10T15:00:22.785000+00:00",
-   "title_ja": "AppleとMLBが9月の「フライデーナイト ベースボール」日程を発表",
-   "summary_ja": "AppleとMLBは、「フライデーナイト ベースボール」における9月の配信スケジュールを公開した。メジャーリーグの試合中継日程が案内されており、ファンは指定されたスケジュールに沿って生中継を視聴できる。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "mirror_group": "apple-newsroom",
-   "image": "https://www.apple.com/newsroom/images/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/tile/Apple-Immersive-Friday-Night-Baseball-2026-hero-lp.jpg.og.jpg?202608111413"
   }
  ]
 }
