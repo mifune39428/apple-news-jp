@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T03:13:52.334666+09:00",
+ "updated_at": "2026-08-16T09:40:25.137396+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -28,8 +28,40 @@
   "gori.me",
   "iPhone Mania"
  ],
- "count": 397,
+ "count": 399,
  "items": [
+  {
+   "id": "fc2aefa0cb570e25",
+   "url": "https://iphone-mania.jp/manual-604552",
+   "title_original": "iPhoneのアラーム音量を変更！勝手に変わる原因と対処法",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/16/1f0fab76c067ce3a78bf0b296d078d73.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T21:47:21+00:00",
+   "title_ja": "iPhoneのアラーム音量が勝手に変わる原因と適切な対処法",
+   "summary_ja": "iPhoneのアラーム音が勝手に小さくなるトラブルや、設定変更ができない問題の原因と対処法を解説する。基本の設定手順をはじめ、アラーム音量のみを個別に調整する方法、不具合が解消しない場合の初期化手順まで詳しくまとめられている。",
+   "category": "iPhone",
+   "importance": 2
+  },
+  {
+   "id": "a571b5a386c8ad82",
+   "url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac",
+   "title_original": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-15T19:30:00+00:00",
+   "title_ja": "Mac向けの軽量で超高速なコードエディタ「Notepad.exe」が登場",
+   "summary_ja": "Mac向けに開発された軽量コードエディタ「Notepad.exe」が紹介されている。複雑なプロジェクト設定を必要とせず、起動後すぐに白紙のファイルへコードを書き始められる設計が特徴で、アイデアをすばやく形にするのに適している。",
+   "category": "サービス・アプリ",
+   "importance": 2
+  },
   {
    "id": "6a05877a79d701fe",
    "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display",
