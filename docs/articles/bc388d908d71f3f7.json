@@ -1,0 +1,19 @@
+{
+ "id": "bc388d908d71f3f7",
+ "title_ja": "Apple、iPadOS 27やwatchOS 27などのベータ6を公開",
+ "summary_ja": "Appleは、iPadOS 27、tvOS 27、watchOS 27、HomePod 27などの第6開発者向けベータをリリースしました。秋の正式リリースに向けて開発が進行しており、新しいソフトウェアの完成度がさらに高まっています。",
+ "points": [
+  "iPadOS 27やtvOS 27などの開発者向けベータ6が配信開始",
+  "正式リリースを1ヶ月後に控え、ベータ版の配信サイクルが高速化",
+  "今回のベータ6はパフォーマンスの改善と不具合の修正が中心とみられる"
+ ],
+ "body": "Appleは、iPadOS 27、tvOS 27、watchOS 27、HomePod 27などの開発者向けベータ6の配信を各プラットフォームに向けて開始した。次期大型ソフトウェアアップデートの一般公開まで約1ヶ月となり、まもなくベータテストのサイクルが終了する時期に差し掛かっている。先週にはベータ5がリリースされており、8月に入ってからAppleの慣例通りベータ版のリリース間隔が週単位のペースへと移行している模様だ。\n\n今回リリースされたベータ6では、新機能の追加というよりも、パフォーマンスの向上や細かなバグの修正が中心になるとみられている。来月の一般公開に向けて、システム全体の安定性とスムーズな動作を確実に仕上げるための段階に入っている。今後も正式リリースに向けた最終調整が進められていく見通しである。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-17T17:22:59+00:00"
+}

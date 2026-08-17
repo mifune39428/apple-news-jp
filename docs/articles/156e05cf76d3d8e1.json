@@ -1,0 +1,19 @@
+{
+ "id": "156e05cf76d3d8e1",
+ "title_ja": "Apple、「macOS 27 Golden Gate」ベータ6を開発者に提供開始",
+ "summary_ja": "Appleは「macOS 27 Golden Gate」のデベロッパー向けベータ6をリリースしました。ベータ4からベータ5のリリースまでは3週間という異例の空白期間がありましたが、今回のベータ6は前回のリリースからわずか1週間での提供となります。",
+ "points": [
+  "macOS 27 Golden Gate 開発者向けベータ6が配信開始",
+  "SafariやショートカットへのAI機能統合などが特徴",
+  "将来のタッチ対応や折りたたみ端末を見据えた変更か"
+ ],
+ "body": "Appleは開発者向けに、macOS 27 Golden Gateのベータ6の提供を開始した。前回のベータ5から約1週間の短いスパンでのリリースとなっており、正式リリースに向けた最終段階に入りつつある。今回のビルド番号は26A5416bとなっている。\n\n先週配信されたベータ5では、Siriやチェス、Safariなどの複数のアプリで新しいアイコンが導入された。macOS 27 Golden Gate自体には、専用のSiriアプリの追加や、ウィンドウとアプリの角の丸みの統一、ショートカットやSafariへのAI機能の統合などが含まれており、簡単なプロンプトで拡張機能や自動化を作成できるようになっている。\n\nまた、Safariに新しいプルダウン更新ジェスチャーが追加されたほか、iPhoneミラーリングアプリのウィンドウサイズを異なるアスペクト比に変更できる機能への改修も行われている。これらの変更については、将来的に噂されているタッチスクリーン搭載のMacBook Proや、来月発表されると予想される折りたたみ式のiPhone Ultraを見据えた布石ではないかと報じられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b6.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-17T17:19:01+00:00"
+}
