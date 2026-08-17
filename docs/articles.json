@@ -44,7 +44,8 @@
    "title_ja": "Macゲームを滑らかにするアプリ「Adrenaline」登場。8月31日まで無料",
    "summary_ja": "RIFEによるフレーム補間とMetalFX Spatialによるアップスケーリングを活用し、Macでのゲームプレイをより滑らかかつ鮮明にするアプリ「Adrenaline」がリリースされた。現在、8月31日まで無料配布が行われている。高負荷なゲームのパフォーマンス向上が期待できる。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "38b57771448d2de7",
@@ -60,7 +61,8 @@
    "title_ja": "M4搭載Mac miniがAmazonで販売再開。5％オフで即納に対応",
    "summary_ja": "AmazonにてM4チップを搭載した2024年モデルのMac miniの販売が再開された。対象は16GBメモリと512GB SSDの構成で、通常価格より5％オフの163,111円で販売中だ。1％のポイント還元も用意されており、公式ストアより早く手に入る可能性がある。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "2e066c0eaded2aa1",
@@ -92,7 +94,8 @@
    "title_ja": "「OBS Studio」、Qt更新の影響で動作せずmacOS Montereyのサポート要件を変更",
    "summary_ja": "ライブ配信アプリ「OBS Studio」が、Qtのアップデートに伴う不具合により最新版（v32.2.x）がmacOS 12 Montereyで正常に動作しなかったとして、システム要件の変更を行いました。macOS Montereyを利用しているユーザーは影響を受ける可能性があるため注意が必要です。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "32aa5bd945d3a392",
@@ -108,7 +111,8 @@
    "title_ja": "iPhoneのアラームを自動停止！ショートカットを活用した指定秒数で止める方法",
    "summary_ja": "iPhoneのアラームは一度鳴ると15分以上鳴り続ける仕様になっており、少し席を離れた際などに問題となる場合があります。この記事では、iOSの「ショートカット」アプリを利用して、指定した秒数で自動的にアラームを停止させる設定方法や活用手順について解説しています。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "bf6217631b0977d5",
@@ -124,7 +128,8 @@
    "title_ja": "折りたたみiPhone「Ultra」命名への違和感、噂されるスペックと矛盾か",
    "summary_ja": "マーク・ガーマン氏により、社内で「iPhone Ultra」と呼ばれているとされる折りたたみiPhoneですが、現在リークされているスペックがProモデル未満であることから名称への疑問が指摘されています。期待されるUltraの最高峰ブランド像と実際の仕様の間に生じている矛盾を考察しています。",
    "category": "噂・リーク",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "48b473a9b359c2e0",
@@ -140,7 +145,8 @@
    "title_ja": "コンビニ4社で Apple Account チャージキャンペーン開始、10%還元",
    "summary_ja": "セブン-イレブン、ファミリーマート、ローソン、ミニストップのコンビニ大手4社にて、Apple Accountチャージキャンペーンが実施されています。期間中に各レジで合計5,000円以上チャージし特設ページから登録すると、チャージ金額の10%分にあたるApple Gift Cardが付与されます。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "54e57dc0659f2627",
@@ -156,7 +162,8 @@
    "title_ja": "JCBカードで最大400円分のApple Gift Card還元キャンペーン開催中",
    "summary_ja": "JCBカードを利用してApp StoreやAppleの各種サービスを決済すると、最大400円分のApple Gift Cardが還元されるキャンペーンが実施されています。対象期間中に指定のJCBカードで合計2,000円以上の利用を行うことが条件となっており、お得にコンテンツを購入できます。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "4e041fc38021f22e",
@@ -172,7 +179,8 @@
    "title_ja": "AppleとEpicの訴訟合戦が継続中。書類提出をめぐる争いを解説",
    "summary_ja": "AppleとEpic Gamesの間で続く訴訟において、Appleによる書類提出の遅延手続きや、それに対するEpic側の反発が続いている。今週のコラムでは、これら一連の動きや主張の隔たりといった訴訟を巡る最新の状況を取り上げている。",
    "category": "ビジネス・業績",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "c051bcd1ec090a0c",
@@ -188,7 +196,8 @@
    "title_ja": "iOSにさらなるデザインカスタマイズ機能の拡張を求める意見",
    "summary_ja": "iOS 16でのロック画面カスタマイズやiOS 18でのアイコン色変更など、iPhoneの自由度は向上している。ホーム画面だけでなくOS全般にテーマ変更を拡張すべきだとして、Androidのような包括的なデザイン設定機能の搭載を期待する声がある。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "4ad7ac5b95e842cf",
@@ -236,7 +245,8 @@
    "title_ja": "米AmazonでANC搭載AirPods 4が134.99ドルに値下げ、AirTagもセール中",
    "summary_ja": "米Amazonにて、アクティブノイズキャンセリング（ANC）を搭載したAirPods 4が25%引きの134.99ドルで販売されています。また、紛失防止トラッカーのAirTagも24.99ドルに値下げされており、過去30日間での最安値を記録しています。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 1
+   "importance": 1,
+   "has_detail": true
   },
   {
    "id": "53ed5b7abdb6347a",
@@ -268,7 +278,8 @@
    "title_ja": "Mozilla、iOS版Firefoxに組み込みの広告ブロック機能を順次展開",
    "summary_ja": "Mozillaは、iOS向けのFirefoxウェブブラウザに広告ブロック機能を順次導入しています。サードパーティ製プラグインを使用せずに広告表示を削減できるオプション機能で、ユーザーのプライバシー保護や快適なWeb閲覧をサポートします。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "02445639a71dc4c2",
@@ -284,7 +295,8 @@
    "title_ja": "AmazonでAirPods 4などがセールに",
    "summary_ja": "Amazonにて、アクティブノイズキャンセリング搭載のAirPods 4などが割引価格で販売されています。今年最安値に近い価格で購入できるお得なセールとなっています。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "e38884fb50a15159",
@@ -316,7 +328,8 @@
    "title_ja": "iPhone 17 Proを防水ケースに入れて海中で写真や動画を撮影した検証",
    "summary_ja": "水深20メートルに対応する防水ハウジングにiPhone 17 Proを装着し、実際に海中で撮影を行う検証が行われました。水深1メートルほどの浅瀬では魚や海底が明るく写り、水深5〜8メートルでは光と青のコントラストが印象的な映像が撮影できています。専用カメラを用意せずに美しい水中撮影が楽しめます。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "19b4c3f9ae99f898",
@@ -332,7 +345,8 @@
    "title_ja": "iPhoneで有料ChatGPTと無料Geminiを使い分ける理由",
    "summary_ja": "ChatGPT Plusの有料プランと無料版GeminiをiPhoneで併用する活用法が紹介されています。思考整理やアイデアの壁打ちにはChatGPTを使い、リサーチや情報検索にはGeminiを活用するなど、用途に合わせて自然に使い分けることで双方の強みを活かせる点が魅力となっています。",
    "category": "AI",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "a67feaa1ae94d05f",
@@ -348,7 +362,8 @@
    "title_ja": "iPhone向け植物ケアアプリ「Plantum」が割引セールを実施中",
    "summary_ja": "iPhoneやiPadで植物の識別や健康管理が行えるアプリ「Plantum Premium」の永久ライセンスが特別価格で販売されています。写真を撮影するだけで数万種の植物データベースから種類を特定し、葉の変色といった不調の診断や日常の育成管理をサポートします。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "f16631d238feafd6",
@@ -364,7 +379,8 @@
    "title_ja": "iOS対応のスキャナ＆PDF編集アプリ「iScanner」がセール中",
    "summary_ja": "iOSやAndroidデバイスをポータブルスキャナーとして活用できるアプリ「iScanner」の永久アクセス版が割引価格で提供されています。書類や領収書などの撮影時に自動補正を行い、デジタルデータとして管理や編集、PDF出力が可能です。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "f131e7c6429abc9f",
@@ -396,7 +412,8 @@
    "title_ja": "AmazonでM4搭載Mac mini（512GB SSD）の販売が再開",
    "summary_ja": "Amazon Japanにて、M4チップと16GBメモリ、512GB SSDを搭載した「Mac mini (2024)」の販売が再開されました。人気モデルの在庫が復活しており、購入を検討していたユーザーにとって注目の機会となっています。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "f1cdee696be0cfa9",
@@ -412,7 +429,8 @@
    "title_ja": "停電時にiPhoneのテザリングが使えず仕事が中断した実体験",
    "summary_ja": "停電が発生した際、Wi-FiだけでなくiPhoneのテザリング機能も利用できなくなり、約5時間仕事が中断したという実体験が語られています。Wi-Fiの代替手段として頼りにされがちなテザリングですが、非常時には通信不能になるリスクが示されています。",
    "category": "iPhone",
-   "importance": 1
+   "importance": 1,
+   "has_detail": true
   },
   {
    "id": "ab185d72a6460f23",
@@ -444,7 +462,8 @@
    "title_ja": "Pixel 11の値上げとメモリ減少が示すスマホ業界の課題と影響",
    "summary_ja": "GoogleのPixel 11シリーズが値上げされた一方で、Proモデルのメモリ容量が削減される事態が発生しています。メモリ不足やコスト高騰の影響が浮き彫りとなる中、今後登場が予想される折りたたみiPhoneなど他社製品への波及も懸念されています。",
    "category": "噂・リーク",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "fc2aefa0cb570e25",
@@ -460,7 +479,8 @@
    "title_ja": "iPhoneのアラーム音量が勝手に変わる原因と適切な対処法",
    "summary_ja": "iPhoneのアラーム音が勝手に小さくなるトラブルや、設定変更ができない問題の原因と対処法を解説する。基本の設定手順をはじめ、アラーム音量のみを個別に調整する方法、不具合が解消しない場合の初期化手順まで詳しくまとめられている。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "a571b5a386c8ad82",
@@ -476,7 +496,8 @@
    "title_ja": "Mac向けの軽量で超高速なコードエディタ「Notepad.exe」が登場",
    "summary_ja": "Mac向けに開発された軽量コードエディタ「Notepad.exe」が紹介されている。複雑なプロジェクト設定を必要とせず、起動後すぐに白紙のファイルへコードを書き始められる設計が特徴で、アイデアをすばやく形にするのに適している。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "6a05877a79d701fe",
@@ -492,7 +513,8 @@
    "title_ja": "Appleのスマートホーム製品ロードマップ、新Siri登場で新ハード発表へ",
    "summary_ja": "HomePod miniやApple TVといったAppleのスマートホーム製品は、現行モデルの登場から4〜6年が経過している。これまで新ハードウェア展開の障害とされていたSiriのAI機能がついに登場したことで、近いうちに新たなHome製品群が順次リリースされる見通しだ。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "9a1ec7e25b005151",
@@ -6430,5 +6452,6 @@
    "category": "噂・リーク",
    "importance": 2
   }
- ]
+ ],
+ "detail_count": 22
 }

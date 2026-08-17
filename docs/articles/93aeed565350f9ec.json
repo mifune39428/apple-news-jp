@@ -1,0 +1,21 @@
+{
+ "id": "93aeed565350f9ec",
+ "title_ja": "Macゲームを鮮明かつ滑らかにする補間・拡大アプリ「Adrenaline」登場",
+ "summary_ja": "ディープラーニングによるフレーム補間技術RIFEと、Appleのアップスケーリング技術MetalFX Spatialを活用したMac向けアプリ「Adrenaline」がリリースされました。高負荷なMac用ゲームをより滑らかで鮮明にプレイ可能にします。8月31日までの期間限定で無料配布が行われています。",
+ "points": [
+  "Macゲームのフレーム補間と拡大表示を行うアプリ「Adrenaline」が配信中。",
+  "ディープラーニング技術RIFEとMetalFX Spatialを採用している。",
+  "macOS 14以降のApple Silicon搭載Macに対応しIntel非対応。",
+  "FPSや遅延、CPU/GPU使用率などを表示する監視機能を備える。",
+  "8月31日まで無料公開されておりRedditで意見を募集している。"
+ ],
+ "body": "Apple Siliconを搭載したMacでスペックが要求されるゲームをプレイする際、フレームレートや解像度を下げざるを得ない場合があります。こうした課題に対し、ゲーム画面を滑らかかつ高精細に補正してプレイできるようにするアプリ「Adrenaline」がリリースされています。開発したのはインディー開発者のKoltin氏で、ゲーム本体のファイルを改変することなく、軽量なボーダレスオーバーレイ表示によって映像の補正を行います。画面データの読み込みにはAppleの画面共有機能であるScreenCaptureKitを活用しており、取得した映像に対してリアルタイムで処理を施す仕組みになっています。\n\nAdrenalineには、ディープラーニングを活用したオープンソースのフレーム補間技術であるRIFEと、Appleのアップスケーリング技術であるMetalFX Spatial Upscalingが組み込まれています。初期の段階ではAMDのFSR 1が使用されていましたが、現在はMetalFX Spatialへ移行したことで、よりパフォーマンスが向上しました。開発時のテストでは、Apple M3チップと16GBのユニファイドメモリを搭載したMacBook Airにおいて、「Valheim」のフレームレートを30FPSから60FPSまで補間して動作させた実績が報告されています。また、ゲーム画面のFPSや出力後のFPS、RIFEによって生成されたフレームレート、レイテンシー、CPUおよびGPUの使用率をリアルタイムで確認できるPerformance Monitor機能も搭載されています。\n\n本アプリを利用するためのシステム要件は、macOS 14.0 Sonoma以降を実行しているM1以降のApple Silicon Macとなっています。Intelプロセッサを搭載したMacには対応していません。コントロールの容易さや動作の信頼性が向上したバージョン1.2も提供されており、現在は8月31日までの期間限定で無料公開されています。開発者は利用にあたって気になる点やフィードバックがあればRedditを通じて寄せてほしいと案内しています。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260817-adrenaline-mac-game-frame-scale-generater.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/Adrenaline-for-Mac-Game-AI-Generater-logo-icon.webp",
+ "published": "2026-08-17T05:30:56+00:00"
+}

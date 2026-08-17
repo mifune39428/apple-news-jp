@@ -30,6 +30,7 @@ import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キ
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "articles.json")
+DETAIL_DIR = os.path.join(BASE_DIR, "docs", "articles")
 
 USER_AGENT = "apple-news-jp/1.0 (+https://github.com/mifune39428)"
 FETCH_TIMEOUT = 25
@@ -45,6 +46,11 @@ BATCH_SIZE = 5
 # 1回の実行で日本語化する上限。無料枠の1日あたり回数を使い切らないための蓋。
 # 溢れた分は次の実行（6時間後）に回る。
 MAX_NEW_PER_RUN = 40
+# 詳細ページ（解説本文）を作る上限。1記事につきLLMを1回使うので新着より少なめ。
+# 新着で余った枠は、まだ詳細のない古い記事の埋め合わせに回す。
+MAX_DETAILS_PER_RUN = 25
+# 詳細ページの生成を並行させる本数。無料枠の分あたり回数制限に当たらない程度に。
+DETAIL_WORKERS = 3
 
 CATEGORIES = [
     "iPhone",
@@ -520,6 +526,166 @@ def to_public(item: dict) -> dict:
 
 
 # --------------------------------------------------------------------------
+# 詳細ページ（原文を読まなくても分かる日本語の解説）
+# --------------------------------------------------------------------------
+
+BLOCK_TAGS_RE = re.compile(
+    r"(?is)<(script|style|noscript|svg|iframe|form|nav|aside|header|footer|figcaption)[^>]*>.*?</\1>"
+)
+ARTICLE_BLOCK_RE = re.compile(r"(?is)<article[^>]*>(.*?)</article>")
+PARAGRAPH_RE = re.compile(r"(?is)<p[^>]*>(.*?)</p>")
+
+
+def fetch_article_text(url: str) -> str:
+    """記事ページから本文の段落だけを取り出す。解説を書くための材料にする。"""
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(request, timeout=20) as response:
+            raw = response.read(600_000).decode("utf-8", errors="ignore")
+    except Exception:  # noqa: BLE001
+        return ""
+
+    body = BLOCK_TAGS_RE.sub(" ", raw)
+    # <article> があれば本文はその中。無ければページ全体から拾う。
+    block = ARTICLE_BLOCK_RE.search(body)
+    scope = block.group(1) if block else body
+
+    paragraphs = []
+    for chunk in PARAGRAPH_RE.findall(scope):
+        text = strip_html(chunk)
+        # ナビゲーションや広告の短い断片を落とす。
+        if len(text) >= 40:
+            paragraphs.append(text)
+    return "\n".join(paragraphs)[:6000]
+
+
+DETAIL_PROMPT = """あなたはApple専門メディアの日本語編集者です。
+海外（または国内）のApple関連記事の原文を渡すので、日本の読者が
+原文を読まなくても内容が分かる日本語の解説を書いてください。
+
+厳守すること:
+- 原文を逐語訳しない。事実を自分の言葉で整理し直して書く。
+- 原文に書かれていない事実・数値・日付・仕様を足さない。分からないことは書かない。
+- points は3〜5個の箇条書き。1つ40文字以内。記事の要点だけを並べる。
+- body は800〜1200文字。2〜4段落に分け、段落の区切りは改行2つ。見出しや箇条書きは入れない。
+- 噂や観測記事は「〜と報じられている」「〜とされる」と伝聞であることを必ず示す。
+- 「この記事では」「筆者は」のようなメタな言い回しを使わない。
+- 出力はJSONオブジェクトのみ。前置き・説明・コードフェンスを付けない。
+
+出力形式:
+{{"points": ["...", "..."], "body": "..."}}
+
+記事の見出し: {title}
+出典: {source}
+原文:
+{text}
+"""
+
+
+def parse_detail_json(text: str) -> dict:
+    cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip(), flags=re.MULTILINE).strip()
+    start, end = cleaned.find("{"), cleaned.rfind("}")
+    if start == -1 or end == -1:
+        raise llm_providers.ResponseInvalid("JSONオブジェクトが見つかりません")
+    try:
+        data = json.loads(cleaned[start : end + 1])
+    except json.JSONDecodeError as exc:
+        raise llm_providers.ResponseInvalid(f"JSONとして読めません: {exc}") from exc
+    points = data.get("points")
+    body = str(data.get("body", "")).strip()
+    if not isinstance(points, list) or not 2 <= len(points) <= 6:
+        raise llm_providers.ResponseInvalid("points が3〜5個ではありません")
+    if len(body) < 300:
+        raise llm_providers.ResponseInvalid(f"body が短すぎます（{len(body)}文字）")
+    return {"points": [str(p).strip() for p in points if str(p).strip()], "body": body}
+
+
+def build_detail(item: dict) -> dict | None:
+    """1記事ぶんの解説を作る。原文が取れなければ作らない（要約だけ表示する）。"""
+    text = fetch_article_text(item["url"])
+    if len(text) < 400:
+        return None
+    prompt = DETAIL_PROMPT.format(
+        title=item["title_original"], source=item["source"], text=text
+    )
+    try:
+        raw = llm_providers.generate_text(prompt, validate=parse_detail_json)
+    except llm_providers.LLMError as exc:
+        print(f"  × 解説の生成に失敗（次回に回します）: {item['title_ja']} / {exc}")
+        return None
+    detail = parse_detail_json(raw)
+    detail["chars"] = len(detail["body"])
+    return detail
+
+
+def write_detail_file(item: dict, detail: dict) -> None:
+    os.makedirs(DETAIL_DIR, exist_ok=True)
+    payload = {
+        "id": item["id"],
+        "title_ja": item["title_ja"],
+        "summary_ja": item["summary_ja"],
+        "points": detail["points"],
+        "body": detail["body"],
+        "source": item["source"],
+        "url": item["url"],
+        "lang": item["lang"],
+        "region": item["region"],
+        "category": item["category"],
+        "importance": item["importance"],
+        "image": item.get("image", ""),
+        "published": item["published"],
+    }
+    path = os.path.join(DETAIL_DIR, f"{item['id']}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+
+
+def generate_details(new_items: list[dict], existing_items: list[dict]) -> None:
+    """新着から順に解説を作る。枠が余ったら、まだ解説のない古い記事を埋める。"""
+    targets = [item for item in new_items if not item.get("has_detail")]
+    if len(targets) < MAX_DETAILS_PER_RUN:
+        # existing_items には new_items も含まれるので、二重に処理しないよう除く。
+        queued = {item["id"] for item in targets}
+        backlog = [
+            item
+            for item in existing_items
+            if item["id"] not in queued
+            and not item.get("has_detail")
+            and not os.path.exists(os.path.join(DETAIL_DIR, f"{item['id']}.json"))
+        ]
+        targets += backlog[: MAX_DETAILS_PER_RUN - len(targets)]
+    targets = targets[:MAX_DETAILS_PER_RUN]
+    if not targets:
+        return
+
+    print(f"■ 解説を生成（{len(targets)}件）")
+    done = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=DETAIL_WORKERS) as pool:
+        for item, detail in zip(targets, pool.map(build_detail, targets)):
+            if detail is None:
+                continue
+            write_detail_file(item, detail)
+            item["has_detail"] = True
+            done += 1
+            print(f"  ○ {detail['chars']}字 {item['title_ja']}")
+    print(f"  {done}/{len(targets)}件を作成")
+
+
+def cleanup_details(kept_ids: set[str]) -> None:
+    """一覧から消えた記事の解説ファイルを片付ける。"""
+    if not os.path.isdir(DETAIL_DIR):
+        return
+    removed = 0
+    for name in os.listdir(DETAIL_DIR):
+        if name.endswith(".json") and name[:-5] not in kept_ids:
+            os.remove(os.path.join(DETAIL_DIR, name))
+            removed += 1
+    if removed:
+        print(f"  古い解説ファイルを{removed}件削除")
+
+
+# --------------------------------------------------------------------------
 # 保存
 # --------------------------------------------------------------------------
 
@@ -590,6 +756,9 @@ def main() -> int:
         fill_missing_images(enriched)
 
     merged = enriched + [item for item in existing_items if item["id"] not in replaced]
+
+    # 掲載が決まった記事に、原文を読まなくても分かる日本語の解説を用意する。
+    generate_details(enriched, merged)
     keep_after = now - dt.timedelta(days=KEEP_DAYS)
     merged = [
         item
@@ -598,12 +767,14 @@ def main() -> int:
     ]
     merged.sort(key=lambda item: item["published"], reverse=True)
     merged = [to_public(item) for item in merged[:KEEP_MAX]]
+    cleanup_details({item["id"] for item in merged})
 
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),
         "categories": CATEGORIES,
         "sources": sorted({item["source"] for item in merged}),
         "count": len(merged),
+        "detail_count": sum(1 for item in merged if item.get("has_detail")),
         "items": merged,
     }
 

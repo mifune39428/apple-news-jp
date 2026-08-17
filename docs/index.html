@@ -150,7 +150,7 @@
 </main>
 
 <footer>
-  <p>海外・国内のApple関連メディアのRSSを自動収集し、日本語の見出しと要約を機械生成しています。要約は原文の全訳ではありません。詳細は必ず出典元の記事をご確認ください。</p>
+  <p>海外・国内のApple関連メディアのRSSを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「原文を日本語で全文読む」からGoogle翻訳が開きます。</p>
   <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
   <p>記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
   <p id="sources"></p>
@@ -171,6 +171,11 @@ function relative(iso) {
   if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
   if (diff < 604800) return `${Math.floor(diff / 86400)}日前`;
   return fmt.format(then);
+}
+
+// Google翻訳を通した原文ページ。1タップで日本語の全文が読める。
+function translated(url) {
+  return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
 }
 
 function escapeHtml(s) {
@@ -223,12 +228,18 @@ function render() {
           // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
           ? `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`
           : `${meta}${title}`);
+    // 解説があれば詳細ページへ。無い記事は翻訳済みの原文へ直接飛ばす。
+    const target = item.has_detail
+      ? { href: `a.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "詳しく読む →" }
+      : (item.lang === "ja"
+          ? { href: item.url, blank: true, label: "原文を読む →" }
+          : { href: translated(item.url), blank: true, label: "日本語で原文を読む →" });
     return `
     <article>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+      <a href="${escapeHtml(target.href)}"${target.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}>
         ${head}
         <p class="summary">${escapeHtml(item.summary_ja)}</p>
-        <span class="src">原文を読む →</span>
+        <span class="src">${target.label}</span>
       </a>
     </article>`;
   }).join(""));
