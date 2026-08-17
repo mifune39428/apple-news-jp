@@ -1,0 +1,20 @@
+{
+ "id": "ab185d72a6460f23",
+ "title_ja": "OpenAI、ブラウザ「ChatGPT Atlas」を終了",
+ "summary_ja": "OpenAIが提供していたChatGPT統合型Webブラウザ「ChatGPT Atlas」の提供が終了しました。同ブラウザはAIモデルを活用した機能を持っていましたが、リリースから約期間を経て終了となりました。",
+ "points": [
+  "OpenAIが「ChatGPT Atlas」の提供を終了した",
+  "起動すると専用画面が表示されブラウザ機能は利用不可",
+  "チャット履歴へのアクセスやデータ移行が可能となっている",
+  "今後はデスクトップアプリやChrome拡張機能の利用を推奨"
+ ],
+ "body": "米OpenAIが提供していたChatGPTを組み込んだWebブラウザ「ChatGPT Atlas for macOS」の機能提供が、現地時間の2026年8月中旬をもって終了したことが伝えられている。同社は2025年10月に同ブラウザをリリースしたものの、同年8月9日に提供終了の予定を発表しており、事前の予告通りに機能が停止される運びとなった。現在、同アプリを起動してもブラウザとしての機能は利用できず、専用の終了メッセージが表示されるだけの状態となっている。\n\n利用が停止されたAtlasではあるが、設定メニューを経由することで従来のチャット履歴自体には引き続きアクセスできるよう配慮されている。ただし、事前の発表通りにブックマークや閲覧履歴といった一部のデータへはアクセスできない仕様となっている。そのため、過去のデータ管理や今後の利用方法については注意が必要であると報じられている。\n\n今後の代わりとなる手段として、OpenAIはユーザーに対し、組み込みブラウザを搭載したChatGPTのデスクトップアプリや、アップデートされたChatGPTのChrome機能拡張を利用することを推奨している。なお、提供が開始されている新しいChatGPTデスクトップアプリでは、終了したAtlasやChromeからのデータインポート機能にも対応しているため、これまでの環境からスムーズに移行できるようになっていると伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260816-chatgpt-atlas-has-been-discontinued.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/ChatGPT-Atlas-by-OpenAI-now-available-logo-icon.webp",
+ "published": "2026-08-16T02:48:07+00:00"
+}

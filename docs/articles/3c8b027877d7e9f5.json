@@ -1,0 +1,20 @@
+{
+ "id": "3c8b027877d7e9f5",
+ "title_ja": "エレコム、最大7台の入力機器を接続できるUSBレシーバー発売",
+ "summary_ja": "エレコム製マウスやキーボードなど最大7台のデバイスを1つのレシーバーで接続できる「ELECOM Bridge E USBレシーバー」が発売された。",
+ "points": [
+  "エレコム製デバイスを最大7台接続できるUSBレシーバーが発売",
+  "対応するマウスやトラックボール、キーボードなどを1つで管理可能",
+  "BLEベースの通信プロトコル採用でセキュリティを強化",
+  "Windows、Mac、ChromeOSなど幅広いOSに対応"
+ ],
+ "body": "エレコムは、同社製のワイヤレスマウスやトラックボール、キーボードといった2.4GHz無線デバイスを最大7台まで接続し、切り替えて使い分けることができる専用のUSBレシーバーの販売を開始している。本製品はBluetoothレシーバーではなく、専用の通信方式を用いたUSBタイプの受信機となっている。\n\nロジクールが展開する「Logi Bolt USBレシーバー」と同様に、BLEベースの通信プロトコルを採用することでセキュリティを強化している点が大きな特徴だ。システム要件としては、USBポートを搭載したWindows 11および10のパソコン、macOS 26 Tahoe以降を搭載したMac、そしてChromeOS搭載デバイスに対応している。\n\n初回ペアリングの際には専用のソフトウェアであるエレコムのマウスアシスタントが必要となるが、1つのレシーバーに最大7台のデバイスをまとめて登録できる。現在は「IST PLUS」シリーズのトラックボールが対応製品となっているが、今後は「HUGE PLUS」をはじめとするほかの製品や今後発売される周辺機器でも使用可能になる予定とされている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260815-elecom-bridge-e-usb-receiver.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/ELECOM-Bridge-E-USB-Receiver-logo-icon.webp",
+ "published": "2026-08-15T06:22:06+00:00"
+}

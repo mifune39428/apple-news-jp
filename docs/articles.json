@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T15:32:44.584573+09:00",
+ "updated_at": "2026-08-17T17:36:34.371222+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,7 +29,25 @@
   "iPhone Mania"
  ],
  "count": 400,
+ "detail_count": 42,
  "items": [
+  {
+   "id": "90334ac1ab522d8e",
+   "url": "https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content",
+   "title_original": "Job Listing Suggests Apple Fitness+ Could Get Live Content",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-17T08:02:07+00:00",
+   "title_ja": "Apple Fitness+にライブ配信コンテンツ導入の動き　求人情報で明らかに",
+   "summary_ja": "Appleがフィットネス配信サービス「Apple Fitness+」向けに、ライブ制作の経験を持つスタジオプロデューサーの求人を開始しました。サンタモニカのスタジオ勤務となる本職種では、マルチカメラによるライブコンテンツの開発や実験が求められており、将来的に新たな配信形態が追加される可能性があります。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "93aeed565350f9ec",
    "url": "https://applech2.com/archives/20260817-adrenaline-mac-game-frame-scale-generater.html",
@@ -213,7 +231,8 @@
    "title_ja": "1993年の本日、低価格なPowerBook 165が発売",
    "summary_ja": "1993年8月16日、Appleはノート型PC「PowerBook 165」を出荷した。カラーディスプレイは非搭載だったものの、1,970ドルという手ごろな価格設定を実現した。同社の製品史において手頃なラップトップとして位置づけられている。",
    "category": "Mac",
-   "importance": 1
+   "importance": 1,
+   "has_detail": true
   },
   {
    "id": "f431788de230b7ab",
@@ -262,7 +281,8 @@
    "title_ja": "27種類のMac用アプリをまとめた永久ライセンスバンドルが29.99ドルで登場",
    "summary_ja": "デザインや生産性向上、ユーティリティなど、Macユーザーに必要な様々なツールを収録したアプリバンドルが29.99ドルで販売されています。27種類のMac向けアプリの永久ライセンスがセットになっており、手軽に多数のソフトウェアを導入できます。",
    "category": "Mac",
-   "importance": 1
+   "importance": 1,
+   "has_detail": true
   },
   {
    "id": "e228dbca210129a3",
@@ -312,7 +332,8 @@
    "title_ja": "ロジクール製マウスの重いMac向け公式アプリを削除し代替アプリに移行した理由",
    "summary_ja": "ロジクール製マウスの公式Mac向けアプリ「Logi Options+」は、動作が重くリソースの消費が多いという課題があります。筆者はこの公式アプリを削除し、代替アプリとして「BetterMouse」を導入しました。このアプリにより、リソースを抑えつつマウスの細かな操作性をより快適にコントロールできます。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "303a7d8107e84366",
@@ -396,7 +417,8 @@
    "title_ja": "Logitech用オープンソースツール「OpenLogi」が音量調整等に対応",
    "summary_ja": "Logitech製マウス向けのオープンソースユーティリティ「OpenLogi」がアップデートされました。今回の更新により、Actions Ringへの対応やサムホイールを使用した音量調整機能などが新たに追加され、操作性が向上しています。",
    "category": "ソフトウェア・OS",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "be44dcb3189bbbb0",
@@ -446,7 +468,8 @@
    "title_ja": "OpenAI、ブラウザ「ChatGPT Atlas」を終了",
    "summary_ja": "OpenAIが提供していたChatGPT統合型Webブラウザ「ChatGPT Atlas」の提供が終了しました。同ブラウザはAIモデルを活用した機能を持っていましたが、リリースから約期間を経て終了となりました。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "0b3941cb850d42c7",
@@ -546,7 +569,8 @@
    "title_ja": "経営危機を救った歴史的名機「初代iMac G3」の発売から現在まで",
    "summary_ja": "1998年8月15日、カラフルな筐体が特徴的な初代iMac G3が発売された。世界初のインターネット対応コンピュータとして登場した本製品は熱狂的な支持を集め、当時深刻な経営危機に陥っていたAppleを復活させる大きな原動力となった。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "46a466d06fdde1f1",
@@ -562,7 +586,8 @@
    "title_ja": "Apple Business Managerの役割と権限機能を解説",
    "summary_ja": "Appleは今年のWWDCにて拡張されたApple Business APIを発表した。これに伴い、Apple Business Managerにおけるアクセス権限や役割の管理方法が更新され、組織内でのデバイス管理や運用プロセスを自動化・効率化するための選択肢が広がっている。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "0ce92201ecec3aa8",
@@ -578,7 +603,8 @@
    "title_ja": "ライターが厳選する2026年向け超薄型iPhoneアクセサリー",
    "summary_ja": "持ち物をすっきりとまとめたいライターが、実際にテストした中からお気に入りの超薄型iPhoneアクセサリーを紹介しています。モバイルバッテリーやスタンド、マグネット式ケーブルなど、かさばらずに複数の役割を果たすポータブルなアイテムが厳選されています。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "d077d95a5d320c4a",
@@ -594,7 +620,8 @@
    "title_ja": "Appleの「探す」に対応したスリムな金属製スマート財布",
    "summary_ja": "Appleの「探す」ネットワークに対応した、スリムな金属製ウォレットが登場しました。最大12枚のカードを収納可能で、RFIDブロッキング機能も備えています。紛失防止機能により、大切なカードや現金を安全に持ち運ぶことができます。",
    "category": "その他",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "916e8c464ebfe01a",
@@ -610,7 +637,8 @@
    "title_ja": "iOS 27ベータ5やiPhone 18 Proの噂など今週の注目ニュース",
    "summary_ja": "今週のApple関連ニュースでは、来月の正式リリースに向けて調整が進むiOS 27のベータ5が公開されました。さらに、未来のiPhone 18 Pro Max用とされるバッテリーのリーク情報や、折りたたみ式「iPhone Ultra」に関するサードパーティ製アクセサリーの噂などが注目を集めています。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "b43da15f5aa83c12",
@@ -626,7 +654,8 @@
    "title_ja": "MacBookのトラックパッドをより便利にする6つのカスタムジェスチャー",
    "summary_ja": "MacBookに搭載されている優れたトラックパッドの操作性を、さらに向上させる方法が紹介されています。サードパーティ製アプリの「BetterTouchTool」を活用し、独自のカスタムジェスチャーを6つ追加することで、作業効率を大幅に高めることができます。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "942b87f5ccc68fb4",
@@ -642,7 +671,8 @@
    "title_ja": "MacBookやAirPodsが大幅値引きとなる週末セールが開催中",
    "summary_ja": "米国にてApple製品の週末セールが実施されています。AirPodsシリーズ各種やApple Watch Series 11が特別価格で販売されているほか、認定整備済製品ストアではM5 Pro搭載のMacBook Proが最大540ドル引きで提供されています。",
    "category": "その他",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "834c07bf8e09887e",
@@ -690,7 +720,8 @@
    "title_ja": "iPhone18 Proシリーズは100ドル値上げか、リーカーが価格を予想",
    "summary_ja": "Androidスマートフォンの情報を発信するリーカーが、将来のiPhone18 Proシリーズに関する価格予想を投稿しました。それによると、iPhone17 Proシリーズと比較して販売価格が100ドル値上げされる見込みです。将来的な価格設定に関する噂として注目を集めています。",
    "category": "噂・リーク",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "59ea077f29f72c55",
@@ -706,7 +737,8 @@
    "title_ja": "13インチiPad ProやiPad Airの最上位構成モデルが大幅値下げ",
    "summary_ja": "13インチiPad Proおよび13インチiPad Airの最上位ストレージ構成モデルが、大幅に値引きされて販売されています。AppleCare+がセットになったモデルも対象となっており、通常よりも安く購入できる機会となっています。",
    "category": "iPad",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "f8c60b6d2801366c",
@@ -722,7 +754,8 @@
    "title_ja": "NomadのiPhone向け25W高速ワイヤレス充電スタンドをレビュー",
    "summary_ja": "Nomadの充電スタンド「Stand One」のレビューが公開されました。iPhone向けの最新規格である最大25Wの高速ワイヤレス充電に対応し、金属とガラスを組み合わせた高級感あるデザインが特徴です。新色のステラーオレンジも追加されていますが、価格は高めです。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "136e4965e39549c6",
@@ -738,7 +771,8 @@
    "title_ja": "Apple、刷新版Siriのニュース供給に向け報道各社と契約交渉か",
    "summary_ja": "Appleが刷新版Siriへニュースコンテンツを提供してもらうため、複数の報道各社と契約交渉を行っていると報じられました。記事が利用された際に費用を支払う仕組みが提案されており、総予算は1億ドルから10億ドル未満の規模で検討されています。",
    "category": "AI",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "3c8b027877d7e9f5",
@@ -754,7 +788,8 @@
    "title_ja": "エレコム、最大7台の入力機器を接続できるUSBレシーバー発売",
    "summary_ja": "エレコム製マウスやキーボードなど最大7台のデバイスを1つのレシーバーで接続できる「ELECOM Bridge E USBレシーバー」が発売された。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "2f0f24e5ea440153",
@@ -770,7 +805,8 @@
    "title_ja": "OpenAI、Linux向け「ChatGPT」プレビュー版を公開",
    "summary_ja": "OpenAIがUbuntuやFedoraなどのLinux環境に向けて「ChatGPT Desktop App」のプレビュー版を新たにリリースした。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "457a4d7fa60dc611",
@@ -786,7 +822,8 @@
    "title_ja": "米商務長官、Appleに対し中国製メモリチップ調達への反対を表明",
    "summary_ja": "米国のハワード・ラトニック商務長官は、世界的な部品不足への対応として中国製メモリチップの調達を検討しているAppleに対し、採用しないよう求めた。米政府は安全保障やサプライチェーンの観点から中国製品への依存に反対しており、同社の調達計画に影響を与える可能性がある。",
    "category": "ビジネス・業績",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "02e4ce5ed87e627f",
@@ -6435,23 +6472,6 @@
    "summary_ja": "Appleは現地時間2026年8月10日、開発者に向けて各種OSの最新ベータ版を公開しました。「macOS Tahoe 26.6.2」や「iOS/iPadOS 26.6.1」、「iOS/iPadOS 18.7.10」などが対象です。秋の公開に向けたテストが行われています。",
    "category": "ソフトウェア・OS",
    "importance": 3
-  },
-  {
-   "id": "dc3a00e0fcfa281d",
-   "url": "https://iphone-mania.jp/iphone18-604362",
-   "title_original": "iPhone18 Proの部品原価でメモリ比率34%に〜さらに40%超へ達する予測",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iPhone18-Pro-red-AH.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-10T21:55:15+00:00",
-   "title_ja": "iPhone18 Proの部品原価においてメモリの割合が34%に達するとの予測",
-   "summary_ja": "TrendForceの調査によると、2026年第3四半期時点でiPhone18 Pro（256GBモデル）の総部品原価に占めるメモリの割合が約34%に達する見込みだ。さらに今後の予測では、この比率が40%を超える可能性も指摘されている。",
-   "category": "噂・リーク",
-   "importance": 2
   }
- ],
- "detail_count": 22
+ ]
 }

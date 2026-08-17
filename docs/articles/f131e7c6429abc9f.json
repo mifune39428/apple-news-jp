@@ -1,0 +1,20 @@
+{
+ "id": "f131e7c6429abc9f",
+ "title_ja": "Logitech用オープンソースツール「OpenLogi」が音量調整等に対応",
+ "summary_ja": "Logitech製マウス向けのオープンソースユーティリティ「OpenLogi」がアップデートされました。今回の更新により、Actions Ringへの対応やサムホイールを使用した音量調整機能などが新たに追加され、操作性が向上しています。",
+ "points": [
+  "Logitech製マウス向け非公式ユーティリティOpenLogiがv0.7にアップデートされた。",
+  "公式のLogi Options+なしでActions Ringの表示や設定が可能になった。",
+  "MX Master 4などのサムホイールによる音量調整のプリセットが追加された。",
+  "Rustで開発され、Windows、Mac、Linuxのクロスプラットフォームに対応する。"
+ ],
+ "body": "Logitech製マウス向けに開発されているオープンソースの非公式ユーティリティ「OpenLogi」が、バージョン0.7へとアップデートされたと報じられている。このユーティリティは、公式の「Logi Options+」がElectron製アプリとしてサイズ肥大化していることを受け、Rust言語とGPUIを用いてより軽量に動作することを目指して開発が進められている。クロスプラットフォームに対応しており、MacやWindows、Linux環境で利用可能とされている。\n\n今回の最新バージョンでは、多様なショートカットを素早く実行できるラジアルメニュー型の機能であるActions Ringへの対応が大きな特徴となっている。公式のLogi Options+を導入しなくても、MX Master 4などのデバイスでActions Ringを表示させることが可能になった。フォルダ構造こそサポートされていないものの、専用のパネルからユーザー自身でアイコンやショートカットキーを自由に割り当てられる仕様になっている。\n\nさらに、新しいHID++機能を使用するデバイスへの対応や、サムホイールを活用した音量調整機能が追加された。サムホイールを操作することで音量を上下させられるプリセットが用意されており、公式ソフトウェアを介さずにマウスの機能を拡張したいユーザーにとって注目のアップデートとなっている。AIエージェント向け軽量VMの開発者によってオープンソースで進められているこのプロジェクトは、軽量な代替ツールを求める層の間で関心を集めているようだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260816-openlogi-for-mac-support-actions-ring.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/OpenLogi-for-Mac-Tahoe-logo-icon.webp",
+ "published": "2026-08-16T07:04:17+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "2f0f24e5ea440153",
+ "title_ja": "OpenAI、Linux向け「ChatGPT」プレビュー版を公開",
+ "summary_ja": "OpenAIがUbuntuやFedoraなどのLinux環境に向けて「ChatGPT Desktop App」のプレビュー版を新たにリリースした。",
+ "points": [
+  "OpenAIがLinux向けChatGPTアプリのプレビュー版をリリース",
+  "UbuntuやDebian、Fedoraなどの主要なディストリビューションに対応",
+  "macOSやWindows版と同様にChatGPTとCodexを統合",
+  "プレビュー段階のため機能制限がありネイティブWaylandは実験的"
+ ],
+ "body": "米OpenAIは現地時間2026年8月14日、UbuntuやDebian、Fedoraといった各種Linuxディストリビューションに向けて、「ChatGPT Desktop App」のプレビュー版を新たにリリースしたと発表している。今回登場したLinux向けアプリは、すでに提供されているmacOS版やWindows版と同様に、ChatGPTとCodexを統合したデスクトップ環境向けのアプリケーションとなっている。\n\n対応する環境としては、Ubuntu 24.04 LTSや26.04 LTS、Debian 13、Fedora 43および44が挙げられており、x86_64とaarch64の各パッケージが用意されている。インストールには各ディストリビューションのパッケージマネージャーである「.deb」や「.rpm」形式のファイルが利用可能となっており、幅広いLinuxユーザーが導入しやすい仕組みが整えられている。\n\nなお、現時点で公開されているのはあくまでプレビュー版という位置づけであり、いくつかの制限事項が存在している。具体的にはComputer Useの機能が未対応となっているほか、ネイティブWaylandのサポートについても現状では実験的な段階にとどまっている。詳細やパッケージの入手については、公開されている公式情報を確認の上で試してみるとよいだろう。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260815-chatgpt-desktop-app-for-linux-preview.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/ChatGPT-for-Mac-logo-icon.webp",
+ "published": "2026-08-15T04:57:46+00:00"
+}
