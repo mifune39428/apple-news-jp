@@ -1,0 +1,20 @@
+{
+ "id": "c717916f0cff6327",
+ "title_ja": "カメラ搭載AirPods、Ultraではなく「AirPods Pro」として登場か",
+ "summary_ja": "Appleが開発中のカメラ搭載AirPodsについて、新製品は「AirPods Ultra」ではなく「AirPods Pro」として登場する可能性が浮上しました。最新のmacOSのシステムファイル内に「AirPods Pro」として参照されている記述が見つかったためです。仮称の可能性もありますが、有力な手がかりとされています。",
+ "points": [
+  "カメラ搭載の新型AirPodsの名称はProになる可能性",
+  "macOSの開発ファイルからAirPods Proの表記を発見",
+  "カメラは写真撮影ではなくSiriの視覚認識に活用される",
+  "発売時期やモデルについては複数の開発コードが報じられている"
+ ],
+ "body": "Appleが開発を進めているとされるカメラを搭載したAirPodsについて、当初予想されていた「AirPods Ultra」ではなく、「AirPods Pro」の名称で展開される可能性が高いと報じられている。macOSの開発ファイル内に新しいAirPodsを指す「AirPods Pro」というラベルが含まれていたことがその根拠とされており、仮称の可能性も残されているものの、ソフトウェア内に製品の完全な動画が含まれていることから、そのままで登場する期待が高まっている。 Bloombergのマーク・ガーマン記者は、以前にAppleが複数のデバイスでUltraという名称の採用を検討していると報じ、価格が従来のAirPods Pro 3よりも高価になることからその名称が予想されていた。しかし、今回の発見により、価格が既存モデルから大きくかけ離れない可能性も示唆されている。また、カメラ搭載AirPodsを巡っては、コードネームB798やB790といった複数の開発が進められてきたと伝えられており、一時は発売時期の遅れが報じられたものの、直近では登場が近づいているとみられている。 搭載されるカメラは、写真や動画を撮影するためのものではなく、SiriのAI機能に視覚的な情報を送り、ビジュアルインテリジェンスをより簡単に利用できるようにするために使用されると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
+ "published": "2026-08-18T18:01:46+00:00"
+}
