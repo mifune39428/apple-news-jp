@@ -1,0 +1,20 @@
+{
+ "id": "b8cac78ca2b1bee2",
+ "title_ja": "「Things 3.23」で繰り返しタスクが改善",
+ "summary_ja": "タスク管理アプリ「Things」の最新アップデートが配信され、要望の多かった繰り返しタスクの仕様が刷新されました。早期完了や日付変更の柔軟性が向上しています。",
+ "points": [
+  "人気タスク管理アプリの最新版「Things 3.23」が配信開始",
+  "ユーザーからの要望が多かった繰り返しタスクの仕様を大幅刷新",
+  "標準タスクと同等の柔軟性を持ち、細かな改良も多数追加",
+  "Mac、iOS、iPadOS、Vision Pro向けに無料で提供"
+ ],
+ "body": "人気タスク管理アプリの最新バージョンとなる「Things 3.23」の配信が開始された。今回のアップデートでは、ユーザーの間で長年要望されてきた繰り返しタスクの仕様が大きく刷新されており、従来のバージョンでは不足していた標準タスク並みの柔軟性が備わることになった。これにより、日々のスケジュール管理やプロジェクトの運用がよりスムーズに行えるようになるとみられている。アプリ内では、検索フィールドに「Repeating」と入力することで、すべての繰り返しタスクやプロジェクト、および今後生成される予定のコピーを一箇所にまとめて確認できる一覧機能も従来通り利用可能となっている。さらに、繰り返し機能の刷新だけでなく、アプリ全体にわたるいくつかの便利な細かな改良も同時に実装されている。最新のThings 3.23は、App StoreからMac、iPad、iPhone、Vision Pro向けに無料のアップデートとして提供されている。利用にあたっては、macOS 13.3、iOSおよびiPadOS 16.4、watchOS 9.1、visionOS 2.0以降のいずれかのOS環境が必要となる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/08/things-3-repeating-tasks-update.jpg",
+ "published": "2026-08-19T14:00:06+00:00"
+}
