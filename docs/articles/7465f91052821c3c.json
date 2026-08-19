@@ -1,0 +1,20 @@
+{
+ "id": "7465f91052821c3c",
+ "title_ja": "macOS向けSafari 26.6.1が公開、WebKitの脆弱性を修正",
+ "summary_ja": "Appleは、macOS SonomaおよびSequoia向けに「Safari 26.6.1」をリリースしました。このアップデートでは、WebブラウザのエンジンであるWebKitに存在する複数のセキュリティ上の脆弱性が修正されています。安全な利用のために、対象のMacユーザーは早めの適用が推奨されます。",
+ "points": [
+  "macOS SonomaとSequoia向けにSafari 26.6.1が公開",
+  "WebKitに関連する合計22件の脆弱性が修正された",
+  "悪意あるウェブコンテンツの処理によるメモリ破損などを防ぐ",
+  "AIツールであるOpenAI Codex Securityが複数回クレジットされている"
+ ],
+ "body": "Appleはセキュリティ関連のポイントアップデートの一環として、macOS SonomaおよびmacOS Sequoiaを対象とした「Safari 26.6.1」のセキュリティコンテンツを公開した。今回のアップデートでは、ブラウザのエンジンであるWebKitに関連する合計22件の脆弱性が修正されていることが明らかになっている。\n\n公開された詳細によると、修正された脆弱性には、悪意を持って改変されたウェブコンテンツを処理することによって引き起こされるメモリ破損や、予期せぬブラウザの強制終了などを防ぐための改善が含まれている。領域外アクセスやメモリ管理、入力検証などの問題に対処することで、安全性が高められている。\n\nまた、近年のセキュリティアップデートと同様に、今回の修正リストにもOpenAI Codex Securityの名前が複数回記載されている。ソフトウェアの脆弱性発見において、AIツールが果たす役割がますます重要になっていることが浮き彫りとなっている。対象OSを利用しているユーザーは、速やかにアップデートを適用することが推奨される。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/safari-ios26.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-18T18:29:25+00:00"
+}

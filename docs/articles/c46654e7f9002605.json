@@ -1,0 +1,20 @@
+{
+ "id": "c46654e7f9002605",
+ "title_ja": "AppleがWindows向け「移行アシスタント v3.2.0.0」をリリース",
+ "summary_ja": "AppleがWindows向け「移行アシスタント v3.2.0.0」をリリースした。今回の更新ではデザインが刷新されたほか、複数のフォントが新たに追加されている。WindowsからMacへデータを移行する際の環境が改善されている。",
+ "points": [
+  "WindowsからMacへのデータ移行ツールがアップデート",
+  "移行アシスタントのウィザードデザインが新しく刷新",
+  "中国語や日本語などの複数のフォントが新たに追加",
+  "システム要件は従来から変更されずWindows 10以降に対応"
+ ],
+ "body": "Appleは、Windows PCからMacへデータを簡単に転送するための「移行アシスタント」の最新バージョンとなる「v3.2.0.0」をリリースした。このアップデートは、現地時間2026年8月17日から18日にかけて行われた各OS向けのセキュリティアップデートの時期に合わせて提供されている。\n\n今回の最新版では、移行アシスタントのウィザードデザインが新しく刷新されたほか、複数のフォントが追加されている。具体的には、中国語のPingFangフォント、韓国語のApple SD Gothic Neoフォント、中東向けのSFArabicフォントに加え、日本語向けとしてヒラギノ角ゴシックインターフェイス（Hiragino Kaku Gothic Interface）フォントが新たに追加された。なお、システム要件については前バージョンから変更されておらず、Windows 10以降を搭載したPCと、macOS 14.4 Sonoma以降を搭載したMacを引き続きサポートしている。\n\nデザインの刷新や多数のフォント追加が行われたことにともない、実行ファイルのサイズは約64MBから168MBへと大きくなっている。Windows環境から最新のMac環境へスムーズにデータを引き継ぎたいユーザーにとって、有用なツールとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260819-windows-migration-assistant-for-windows-v3-2.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/Windows-Migration-Assistant-v3-2-logo-icon.webp",
+ "published": "2026-08-19T05:40:04+00:00"
+}
