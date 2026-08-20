@@ -1,0 +1,20 @@
+{
+ "id": "afe40d7f142b79e6",
+ "title_ja": "リモートデスクトップアプリ「Astropad Workbench v1.3」リリース",
+ "summary_ja": "Watchdog機能やプライバシーカーテンに対応し、ストリーミング速度を最大30%向上させたiPhoneおよびiPad対応のリモートデスクトップアプリが配信開始された。",
+ "points": [
+  "iPhoneとiPadに対応するリモートデスクトップアプリの最新版が公開された",
+  "操作中の画面を隠すプライバシーカーテン機能や自動再起動機能が追加された",
+  "ピクチャ・イン・ピクチャへの対応やショートカットの割り直しが可能になった",
+  "Apple Siliconへの最適化によりストリーミング速度が最大30%向上した"
+ ],
+ "body": "元AppleのQuickTimeエンジニアらが開発を手がけるAstro HQは、リモートデスクトップアプリの最新バージョンとなる「Astropad Workbench v1.3」をリリースしたと発表している。今回のアップデートはパフォーマンスや信頼性、リモートアクセスの面で大幅な改善が図られており、多くの新機能や修正が含まれている。\n\n新機能としては、iPhoneやiPadからMacへ接続した際に接続先の画面を覆い隠して入力を隠す「プライバシーカーテン」機能が追加された。さらに、Mac側のアプリがフリーズやクラッシュした際に外部からのアクセス不能状態を防ぐため、状態を監視して自動で再起動する「Watchdog」機能も新たに搭載されている。\n\n加えて、リモートデスクトップ画面を他のアプリの上にフローティング表示できる「Picture-in-Picture」機能に対応し、AIエージェントの監視などを続けながら作業できるようになっている。ほかにも、iPadのショートカットマッピングの割り直しによるキーの直接送信が可能になったほか、Apple Siliconへの最適化によってストリーミング速度が最大30%高速化されており、多数の不具合修正も行われている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260820-astropad-workbench-v1-3-support-watchdog-and-privacy-curtain.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/03/Astropad-Workstation-for-Mac-and-iPhone-logo-icon.webp",
+ "published": "2026-08-19T22:56:05+00:00"
+}
