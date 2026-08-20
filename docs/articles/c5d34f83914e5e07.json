@@ -1,0 +1,20 @@
+{
+ "id": "c5d34f83914e5e07",
+ "title_ja": "今後数年でOLED搭載予定の5製品",
+ "summary_ja": "Appleが今後数年をかけて、複数のiPadやMacにOLEDディスプレイを順次導入する計画であることが報じられています。対象となるのはiPad miniやMacBook Proなど5製品で、数年かけて切り替えが行われます。",
+ "points": [
+  "2026〜2029年に複数のiPadやMacがOLEDへ移行と報道",
+  "iPad Airはプロモデルと差別化されたOLEDを搭載か",
+  "安価なiPadやMacBook NeoはLCDを維持する見込み",
+  "Studio Display XDRのOLED化は現時点で不明"
+ ],
+ "body": "Appleが2026年から2029年にかけて、複数のiPadやMacのディスプレイをOLEDへとアップグレードする計画を進めていると報じられている。台湾の業界筋の情報に基づく報道によると、今後数年間で複数のデバイスが新たにOLEDディスプレイを搭載する見通しとされている。OLEDディスプレイは、従来のLCDディスプレイと比較して、より豊かな色彩表現や、真の黒を再現できる高いコントラスト比を備えており、全体的な画質が大幅に向上するのが特徴である。現在、Appleの製品ラインアップでは、すべてのiPhone、Apple Watch、そしてiPad Proの各モデルにすでにOLEDディスプレイが採用されている。\n\n今後OLEDが搭載されるとされるiPad Airについては、現行のiPad Proとは異なる仕様になる見込みである。iPad Proには、2枚のOLEDパネルを重ねて輝度を高めるタンデムOLED技術や、最大120Hzのリフレッシュレートを実現するProMotionテクノロジーが採用されている。これに対し、iPad Airに搭載されるOLEDは、1層のみのシングルスタック構造で、LTPSバックプレーンが採用されると伝えられている。これにより、iPad AirのディスプレイはiPad Proよりも輝度が低くなり、リフレッシュレートも60Hzに留まるとされる。こうした性能の制限は、iPad Airの販売価格がiPad Proよりも数百ドル安く設定されている位置づけを考慮すると、妥当な差別化であると考えられている。\n\nそのほかのディスプレイ製品については、現時点で方向性が分かれている。現在mini-LEDバックライトを採用しているStudio Display XDRについて、将来的にOLEDディスプレイを搭載したモデルが登場するかどうかは明らかになっていないとされる。また、価格を抑えたエントリーモデルのiPadや、MacBook Neoと呼ばれるモデルについては、今後も引き続き従来のLCDディスプレイが採用される見通しであると報じられている。このように、Appleは製品のクラスや価格帯に応じて、OLEDの採用や仕様の差別化を進める方針であるとみられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays",
+ "lang": "en",
+ "region": "global",
+ "category": "iPad",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2021/11/Oled-iPads-and-MackBook-Pro-Notch.jpg",
+ "published": "2026-08-20T13:50:27+00:00"
+}
