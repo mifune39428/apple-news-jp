@@ -1,0 +1,20 @@
+{
+ "id": "e886d282e638f719",
+ "title_ja": "MacでWindows 11 Proを動かせる永久ライセンスが格安セール中",
+ "summary_ja": "Mac上でParallelsやVMware Fusion、Boot Campなどを介してWindows 11 Proを動かせる永久ライセンスが、期間限定のセール価格10.49ドルで販売されています。仮想環境などを利用することで、別のPCを用意することなくMac上でWindows専用アプリをシームレスに実行できます。",
+ "points": [
+  "Mac上で動くWindows 11 Proのライセンスがセール中",
+  "ParallelsやBoot Campなどを通じて利用可能",
+  "通常199ドルのライセンスが10.49ドルで購入できる",
+  "BitLockerやCopilotなどのPro限定機能も搭載"
+ ],
+ "body": "Macユーザーが仮想環境やBoot Campを利用してWindows環境を構築する際、OSのライセンスを手頃な価格で入手できる割引セールが実施されている。通常は高額な費用がかかるWindows 11 Proの永続ライセンスだが、特定の手順とクーポンコードを適用することで大幅な割引価格で購入できるようになっている。このライセンスは追加のサブスクリプション料金が発生しない買い切り型となっており、すでに仮想化アプリを利用している環境のコストを抑える選択肢として提供されている。\n\n導入にあたっては、Mac上で動作するParallels DesktopやVMware Fusionといった仮想化ソフト、あるいはIntel搭載MacのBoot Campを通じて直接インストールすることが可能となっている。これにより、普段使い慣れたMacのアプリケーションの隣にWindows専用のソフトを並べてシームレスに動かすことができるほか、Boot Campを使用する場合には仮想化のオーバーヘッドなしでネイティブに近いパフォーマンスを引き出すことも可能になる。\n\nWindows 11 Proには、通常のHomeエディションには含まれていない高度な機能が多数備わっている。重要なファイルを保護するためのBitLocker暗号化をはじめ、アプリのテストに便利なHyper-VやWindows Sandbox、ビジネスネットワークへの接続をサポートするAzure ADなどが利用できる。さらに、タスクバーに統合されたCopilotによる迅速な設定変更やファイル検索、効率的なマルチタスクを可能にするスナップレイアウト、生体認証によるセキュリティ機能なども備わっており、Mac上で本格的なWindows環境を活用したいユーザー向けの仕様となっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3215332/get-windows-11-pro-for-10-49-a-one-time-rate-no-subscription.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/08/3215332-0-27469200-1787299277-Windows-11-Pro-1.jpg?quality=50&strip=all",
+ "published": "2026-08-21T08:00:00+00:00"
+}
