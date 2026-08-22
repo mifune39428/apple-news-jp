@@ -1,0 +1,20 @@
+{
+ "id": "8b6e995c88242431",
+ "title_ja": "AppleがmacOS 27 Golden Gateを発表、新SiriやAI機能を強化",
+ "summary_ja": "AppleがMac向けの最新OS「macOS 27 Golden Gate」を正式発表しました。次世代のApple Intelligenceや刷新されたSiri AIアシスタントのほか、Safariやメールなどの標準アプリ大幅アップデートやパフォーマンス向上などが行われます。",
+ "points": [
+  "macOS 27 Golden Gateが発表されAI機能を大幅強化",
+  "対応端末はAppleシリコン搭載MacのみでIntelモデルは対象外",
+  "対話型のSiri AIや画面認識機能、アプリ自動化などを搭載",
+  "Safariの自動タブ整理機能やスマートな校正ツールも追加"
+ ],
+ "body": "AppleがMac向けの最新OSとなるmacOS 27 Golden Gateを発表した。今回のアップデートでは次世代のApple Intelligence基盤を中心に、システム全体の利便性とパフォーマンスが大幅に強化されている。対応機種はAppleシリコンを搭載したMacのみとなり、Intelプロセッサを搭載したモデルはサポート対象外となった。ただし、Intelモデルについても当面はセキュリティアップデートが継続して提供される見通しとされている。すでに開発者や一般向けのベータ版が公開されており、完成版の一般提供は今秋になると予想されている。\n\n最大の目玉となるのが、完全に再設計されたSiri AIの搭載だ。単なる音声アシスタントを超えた会話型AIとなり、オープンエンドな質問やブレインストーミング、調査といった高度な対話が行える。独立したSiriアプリも提供され、会話履歴はiCloudを通じて他のApple端末と同期される。さらに、メッセージやメール、ファイルなどの文脈を理解して必要な情報を探し出す機能や、自然言語によるアプリ操作の自動化、Spotlight検索との統合、画面上のテキストや画像を理解するVisual Intelligence機能も用意された。文章の生成や要約、校正を行うツールのほか、音声入力の精度向上やSiriの声をカスタマイズする機能も含まれる。\n\nまた、システム全体でファイルやフォルダ名の自動提案機能が導入されるほか、プライバシーへの配慮としてオンデバイス処理とPrivate Cloud Computeを組み合わせた仕組みが採用されている。Safariも進化を遂げており、開いているタブをテーマごとに自動整理する機能や、商品の値下げなどを監視して知らせる通知機能、プロンプトから拡張機能を生成する機能が追加される。Siri AIなどの一部新機能は年内に英語環境向けのベータ版として順次展開される予定とされている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/08/3139330-0-47479100-1787383309-macOS-27-image.jpg?quality=50&strip=all",
+ "published": "2026-08-22T07:21:00+00:00"
+}
