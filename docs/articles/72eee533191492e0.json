@@ -1,0 +1,20 @@
+{
+ "id": "72eee533191492e0",
+ "title_ja": "UWB対応スマートロックのレビュー記事",
+ "summary_ja": "超広帯域無線（UWB）技術を活用して自動解錠を行う、Schlage Sense Proスマートロックのレビュー。ドアのハードウェアに馴染むデザインや、接近を検知する機能について紹介している。",
+ "points": [
+  "UWBとHomeKeyで近づくだけで解錠できる",
+  "Aqara製より優れたデザインだが価格が高い",
+  "物理キーや指紋認証がない一方でNFCに対応",
+  "単3形電池4本を使用しUSB-Cで給電可能"
+ ],
+ "body": "SchlageのSense Pro UWBスマートロックは、ウルトラワイドバンド技術とAppleのHomeKey機能を活用し、対応するiPhoneやApple Watchを持ってドアに近づくだけで自動的に解錠する機能を備えている。従来のNFCによるタッチ解錠やBluetoothによる近接検知と比べ、室内にいるか屋外から近づいているかを正確に判別できるため、外から接近した時のみ解錠動作を行う仕組みとなっている。\n\nデザイン面では、Aqaraの製品が黒く大きな板状であるのに対し、洗練された外観やコンパクトなサイズ感が高く評価されている。鍵穴や指紋認証センサーは搭載されていないものの、本体のテンキーによるコード入力やApple Homeアプリでの設定に対応しており、NFCによる電子的な解錠も可能である。非常用の給電ポートには従来の9V電池ではなくUSB-C端子が採用されており、現代のライフスタイルに合わせた仕様となっている。\n\n一方で電源には単3形電池4本を使用し、電池交換の方式や価格設定には課題も指摘されている。Aqaraの製品と比較して高価格であるため購入のハードルはあるものの、洗練された外観や確実な自動解錠といった体験の価値は高く、スマートロックの選択肢として十分に検討できる製品となっている。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/post/2026/08/schlage-sense-pro-uwb-smart-lock-review-what-price-beauty",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 2,
+ "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/08/schlage-uwb-lock-6c.jpg?ssl=1",
+ "published": "2026-08-21T15:30:55+00:00"
+}

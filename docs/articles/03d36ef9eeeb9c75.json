@@ -1,0 +1,20 @@
+{
+ "id": "03d36ef9eeeb9c75",
+ "title_ja": "スマートホームプラットフォーム「Homey」がMatter 1.5認証を取得",
+ "summary_ja": "Athomが提供するHomey Pro miniなどの製品が、新たにMatter 1.5認証を取得した。今回のアップデートにより、デバイスのネイティブ統合やクロスプラットフォーム間でのブリッジング機能が強化される。イノベーションが進む。",
+ "points": [
+  "HomeyがMatter 1.5の認証を正式に取得したと発表",
+  "Homey Proなどでネイティブ統合やブリッジ機能が強化",
+  "マルチプロトコル対応で非Matter機器をApple Homeなどに共有可能",
+  "他社プラットフォームに先駆けてMatter 1.5に対応"
+ ],
+ "body": "スマートホーム向けソフトウェアを展開するAthomは、同社の「Homey」ソフトウェアコンポーネントが「Matter 1.5」の認証を正式に取得したと発表した。今回のアップデート対象には、Homey Pro（2023〜2026）やHomey Pro mini、Homey Self Hosted Serverが含まれており、ネイティブなデバイス統合とクロスプラットフォーム間のブリッジ機能において重要な強化がもたらされるとしている。\n\nHomeyの大きな特徴の一つは、ZigbeeやZ-Wave、赤外線、Bluetooth、433 MHz、Wi-Fi、独自APIなど多彩な通信規格をサポートするマルチプロトコルアーキテクチャにある。ユーザーはMatter Bridgeアプリを活用することで、これまでMatterに対応していなかった機器をApple HomeやGoogle Home、Amazon Alexa、SmartThings、Home Assistantといった主要なスマートホームプラットフォームへ簡単に連携させることが可能となる。Homey側がローカル環境でデバイスを直接制御しつつ、照明やコンセント、サーモスタット、スマートロック、ブラインド、センサーといった標準的なアクセサリの情報を下流のプラットフォームへと共有する仕組みだ。\n\nスマートホーム業界ではすべての機器が標準でMatterに対応することが理想とされているものの、現実には非対応の機器も数多く存在する。そうした中でHomeyは、他社プラットフォームと比較しても早期にMatter 1.5の認証を取得した数少ない製品の一つとなっている。主要なプラットフォームの対応状況を見ると、Amazon AlexaがMatter 1.0、AppleやGoogleがMatter 1.4、Home AssistantがMatter 1.3にとどまっており、Homeyは最新規格への対応で一歩リードする形となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Homey-Matter-1.5-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-21T18:52:00+00:00"
+}
