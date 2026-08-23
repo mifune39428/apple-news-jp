@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T15:22:44.504435+09:00",
+ "updated_at": "2026-08-23T21:18:55.139082+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -30,6 +30,22 @@
  "count": 400,
  "detail_count": 321,
  "items": [
+  {
+   "id": "05878e7e74c85ced",
+   "url": "https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case",
+   "title_original": "Crime blotter: Bail revoked in Hingham Apple Store crash case",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/68664-144641-hinghamapplestore-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-08-23T11:14:46+00:00",
+   "title_ja": "米Apple Store衝突事故の保釈取り消しやAirTag悪用など犯罪事例まとめ",
+   "summary_ja": "マサチューセッツ州のApple Storeで発生した車衝突事故の保釈が取り消されたほか、盗難されたiPhoneの追跡や元議員からの端末押収、AirTagを使ったストーカー行為による逮捕など、Apple製品が関与する最新の犯罪事例が報告されている。",
+   "category": "その他",
+   "importance": 1
+  },
   {
    "id": "176661619fd893ae",
    "url": "https://applech2.com/archives/20260823-openmtp-support-macos-27-golden-gate.html",
@@ -6734,22 +6750,6 @@
    "category": "サービス・アプリ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "e475151180eb6471",
-   "url": "https://sixcolors.com/feed-only/2026/08/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-19",
-   "title_original": "(Sponsor) Magic Lasso Adblock: incredibly private and secure Safari web browsing",
-   "source": "Six Colors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/magic-lasso-overview.png?resize=680%2C425&ssl=1",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-17T16:00:38+00:00",
-   "title_ja": "Safari向けの広告ブロック拡張機能「Magic Lasso」",
-   "summary_ja": "Safariのプライバシーと安全性を高める広告ブロッカー「Magic Lasso Adblock」のプロモーション記事。安全なウェブブラウジングを実現するツールとして紹介されている。",
-   "category": "サービス・アプリ",
-   "importance": 1
   }
  ]
 }
