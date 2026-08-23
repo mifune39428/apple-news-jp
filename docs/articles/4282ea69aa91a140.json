@@ -1,0 +1,20 @@
+{
+ "id": "4282ea69aa91a140",
+ "title_ja": "クラウドゲーム統合アプリ「CloudGear」がApple TV等に対応",
+ "summary_ja": "Apple TV向けに登場したインディーアプリ「CloudGear」は、主要なクラウドゲーミングプラットフォームを単一の画面に集約して利用できる。ゲーム選択肢が比較的少ないApple TVにおいて貴重な存在であり、iPhoneやiPadでも同一の操作体験を提供する。",
+ "points": [
+  "主要なクラウドゲームを1つに統合するアプリ「CloudGear」が登場。",
+  "Apple TVやiPhone、iPadで最大5Kや120FPSで動作。",
+  "デバイス間のハンドオフ機能やARグラスへの出力など多彩な機能を搭載。",
+  "基本無料で、全機能を利用できる有料プランや無料トライアルも用意。"
+ ],
+ "body": "Apple TVでのゲームプレイは、他のデバイスと比べて選択肢が少ない状況が続いています。そうした課題を解決するアプリとして登場したのが、主要なクラウドゲームプラットフォームを1つのインターフェースに統合できる「CloudGear」です。このアプリは、GeForce NowやXbox Cloud Streaming、Amazon Luna、Boosteroidといった代表的なサービスに対応しており、Apple TVだけでなくiPhoneやiPadでも利用することができます。複数のサービスをまたいでクラウドゲームを楽しむユーザーにとって、非常に便利なオールインワンのソリューションとなっています。\n\n技術的な仕様も充実しており、最大5Kの解像度と最大120FPSでのストリーミングに対応するほか、HDRや10ビットカラー、Dolby 7.1サラウンドサウンドをサポートしています。さらに、コントローラーの振動機能に対応しているだけでなく、振動機能のないコントローラーを使用している場合はiPhoneのTaptic Engineを代わりに作動させるユニークな仕組みも備えています。また、iPhoneやiPadのアプリからApple TVへゲームをハンドオフする機能も搭載されているため、テレビ画面で煩わしい検索操作を行う必要がありません。iOSやiPadOS向けには、ホーム画面からお気に入りのゲームを素早く起動できるウィジェット機能が提供されているほか、XREALなどのARグラスをiPhoneに接続して目の前の大画面でゲームをプレイすることも可能です。\n\nCloudGearはApp Storeで無料ダウンロードが可能となっており、iOS 17.6以降を搭載したiPhoneやiPad、およびtvOS 18.6以降を搭載したApple TVに対応しています。すべての機能を利用するためには有料プランへの加入が必要で、料金は月額1.99ドル、年額14.99ドル、または39.99ドルの買い切りプランから選択できます。サブスクリプションプランには7日間の無料トライアル期間が設けられているため、まずは手持ちの環境で動作や使用感を試してみるのが良いでしょう。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/CloudGear-aligned.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-22T19:30:00+00:00"
+}
