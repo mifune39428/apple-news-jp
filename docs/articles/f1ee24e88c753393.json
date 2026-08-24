@@ -1,0 +1,19 @@
+{
+ "id": "f1ee24e88c753393",
+ "title_ja": "watchOS 27 ベータ7が開発者向けに配信開始",
+ "summary_ja": "Appleは開発者向けにwatchOS 27のベータ7をリリースした。前回のベータ版から約1週間での配信となる。今回のアップデートには、より高度になったSiriのAI機能などが含まれている。",
+ "points": [
+  "開発者向けにwatchOS 27のベータ7が配信開始",
+  "AI対応のSiriや新デザインのアプリグリッドを搭載",
+  "Apple Watch単体でのワークアウト機能も強化"
+ ],
+ "body": "Appleは開発者に向けて、watchOS 27のベータ第7弾の提供を開始した。前回のベータ第6弾の公開から約1週間でのリリースとなる。新しいベータ版をインストールするには、無料の開発者アカウントを登録したiPhoneのWatchアプリを経由する必要がある。また、インストール時にはApple Watchが充電器に接続され、Wi-Fi環境にあり、かつバッテリー残量が50パーセント以上であることが条件となる。なお、今回のベータ版は対応するApple Watchの各モデルで利用可能だが、Apple Watch Ultra 3は対象外とされている。\n\nwatchOS 27では、AIを活用したより高度なSiriが導入されており、自然な文脈での会話が可能となっている。この機能の利用には、iPhone 15 Pro以降などのApple Intelligenceに対応したiPhoneが必要となる。さらに、Siriが提案するアプリを表示する動的なアプリグリッドや、より直感的なスマートスタックの提案機能も追加された。駐車位置の確認やピン留めされたメッセージの表示、騒音アラート、身分証や交通系カードの表示機能なども備わっている。\n\nこのほかにも、視認性を高めるためのLiquid Glassのアップデートや、iPhoneが近くになくても単体で機能するWorkout Buddyの改良が行われている。Workout Buddyでは、距離やペース、時間を段階的に向上させる新しい指標が追加された。さらに、正確な位置情報探索に対応した統合型の「探す」アプリの追加や、バッテリー駆動時間を改善するためのパフォーマンス最適化も実施されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/watchos-27.jpg",
+ "published": "2026-08-24T17:30:00+00:00"
+}

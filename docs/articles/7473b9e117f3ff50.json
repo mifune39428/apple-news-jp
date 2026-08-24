@@ -1,0 +1,19 @@
+{
+ "id": "7473b9e117f3ff50",
+ "title_ja": "macOS Tahoe 26.7などの第2弾RC版が登場",
+ "summary_ja": "AppleはmacOS Tahoe 26.7およびmacOS Sequoia 15.8の第2弾リリース候補版を公開した。先週の第1弾に続くテスト用ビルドとなる。",
+ "points": [
+  "macOS Tahoe 26.7とmacOS Sequoia 15.8の第2弾RCが配信開始",
+  "先週の第1弾RCではカメラ付きAirPodsなどの未発表製品に関する情報が流出",
+  "まもなく登場するmacOS 27の正式リリースに向けた最終調整の段階とみられる"
+ ],
+ "body": "Appleは開発者向けに、macOS Tahoe 26.7およびmacOS Sequoia 15.8の第2弾リリース候補版（RC 2）の提供を開始した。先週公開されたmacOS 26.7の最初のRC版からは、カメラを搭載したAirPodsに関する映像や技術的な詳細など、複数の未発表製品に関する情報が偶然にも明らかになっており、今回の第2弾ビルドの配信にも注目が集まっている。\n\n今回のリリースは、数週間後に控えるとみられる次期OSの正式公開を前に、現行バージョンの開発プロセスを締めくくる段階で行われている。先週のビルドで大きなリークがあったものの、今回のmacOS 26.7自体は大きな新機能追加などは少ない比較的落ち着いた内容になると報じられている。一方のmacOS Sequoia 15.8には、macOS Tahoe 26.7にも一部適用される予定の重要なセキュリティ修正が含まれているとみられている。\n\n今回配信されたビルドは、macOS Tahoe 26.7 RC 2が「25G224」、macOS Sequoia 15.8が「24H20」となっている。また、これらと同時にmacOS 27のゴールデンゲート開発者ベータ第7弾も公開されており、一般向けベータ版も近いうちに続くものと予想されている。開発元では新コードの解析が進められており、特筆すべき変更点が新たに見つかった場合は随時伝えられる見込みだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-24T17:33:20+00:00"
+}
