@@ -10,6 +10,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="apple-news-jp"></script>
 <style>
   :root {
     --bg: #f5f5f7; --card: #ffffff; --text: #1d1d1f; --muted: #6e6e73;
@@ -124,6 +125,7 @@ async function load() {
         <p>この解説は、${escapeHtml(a.source)}の記事をもとにAIが日本語で書き起こしたものです。原文の翻訳ではありません。正確な内容と最新の情報は出典元の記事をご確認ください。</p>
         <p>記事および画像の著作権は${escapeHtml(a.source)}に帰属します。</p>
       </div>`;
+    if (window.uiAttachDetail) uiAttachDetail(a);   // 日付の行に「☆ お気に入り」を足す
   } catch (err) {
     main.innerHTML = '<p class="loading">記事が見つかりませんでした。<br><a href="./">一覧へ戻る</a></p>';
   }
