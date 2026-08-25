@@ -1,0 +1,20 @@
+{
+ "id": "3923ade6f2921902",
+ "title_ja": "M6およびM5 Pro搭載の新型Mac miniが登場",
+ "summary_ja": "Appleが超小型デザインの新型Mac miniを発表した。M6およびM5 Proチップを搭載し、パフォーマンスが劇的に向上している。",
+ "points": [
+  "新チップ「M6」と「M5 Pro」を搭載した新型Mac miniが発表。",
+  "M6モデルは149,800円から、予約開始は8月25日で9月22日発売。",
+  "Wi-Fi 7やBluetooth 6、Thunderbolt 5（M5 Pro）に対応。",
+  "次期OS「macOS 27」や「Siri AI」などの機能を搭載。"
+ ],
+ "body": "アップルは、次世代の独自チップ「M6」および「M5 Pro」を搭載した新しいデスクトップコンピュータ「Mac mini」を発表しました。超小型の筐体デザインを維持しながら、パフォーマンスと多用途性を大幅に向上させています。新型Mac miniは、日本国内において8月25日より予約注文の受付を開始し、9月22日より販売を開始します。価格は、M6搭載モデルが149,800円（税込）から、学生・教職員価格では132,800円（税込）から提供されます。また、より高い処理能力を誇るM5 Pro搭載モデルは299,800円（税込）からとなっています。\n\n新たに登場したM6チップを搭載するモデルは、前世代のM4搭載モデルと比較してCPUパフォーマンスが40パーセント、グラフィックスが2倍、そしてAI処理性能が最大4倍高速化しています。12コアのCPUと12コアのGPUを備え、Mac miniとして初めて各GPUコアにNeural Acceleratorが組み込まれました。これにより、ローカル環境でのAIモデルの実行や、日常的な自動化タスクが驚くほどスムーズに行えます。標準で16GBのユニファイドメモリを搭載し、最大32GBまで拡張可能です。一方、プロユーザー向けのM5 Pro搭載モデルは、最大18コアのCPUと最大20コアのGPUを備え、最大64GBのメモリと307GB/sの広いメモリ帯域幅に対応しています。これにより、3Dデザインや複雑なビデオ編集、大規模なAIモデルの実行など、非常に負荷の高いプロワークフローも軽々とこなすことができます。\n\n接続性能も大幅にアップグレードされました。両モデルともに最新のWi-Fi 7とBluetooth 6に対応し、標準で2.5Gb Ethernet（オプションで10Gbに変更可能）を備えています。前面にはアクセスしやすいUSB-Cポート2つとヘッドフォンジャックが配置され、背面にはHDMI、Ethernetに加え、M6モデルには3つのThunderbolt 4ポート、M5 Proモデルには3つのThunderbolt 5ポートが搭載されています。これにより、複数のMac miniを連携させて大規模なAI処理を行うシステム構築も可能です。さらに、近日リリース予定の最新システム「macOS 27 Golden Gate」を搭載し、パーソナルアシスタントの「Siri AI」や「Apple Intelligence」による高度なサポート機能が利用できるようになります。",
+ "source": "Apple Newsroom 日本",
+ "url": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/tile/Apple-Mac-mini-hero-260825-lp.jpg.og.jpg",
+ "published": "2026-08-25T13:13:33.729000+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "0bbf1543fbb93a63",
+ "title_ja": "M5 MaxとM5 Ultraを搭載した新型Mac Studio発表",
+ "summary_ja": "AppleがM5 MaxおよびM5 Ultraチップを搭載した新型Mac Studioを発表した。AI性能が大幅に向上し、グラフィックス処理もさらに高速化されている。",
+ "points": [
+  "M5 MaxとM5 Ultraを搭載した新型Mac Studioが発表。",
+  "M5 Ultraモデルは最大512GBのユニファイドメモリに対応。",
+  "Thunderbolt 5の搭載により、複数台の連携によるAI高速化が可能。",
+  "本日より予約注文が開始され、9月22日に販売が開始される。"
+ ],
+ "body": "Appleが、最新の「M5 Max」および「M5 Ultra」チップを搭載した新しい「Mac Studio」を発表した。このデスクトップマシンは、コンパクトなデザインを維持しながら、プロのワークフローやAI処理のパフォーマンスを大幅に引き上げる。M5 Max搭載モデルは、18コアのCPUと最大40コアのGPU、最大128GBのユニファイドメモリを備え、クリエイターやデベロッパの複雑な作業を支援する。一方、最上位となるM5 Ultra搭載モデルは、最大36コアのCPUと最大80コアのGPUを搭載し、最大512GBという大容量のユニファイドメモリと1.2TB/sの広帯域幅を実現している。これにより、巨大な大規模言語モデルを完全にデバイス上で実行することが可能となる。\n\n今回のアップデートでは、AIパフォーマンスが飛躍的に向上した。各GPUコアには「Neural Accelerator」が直接組み込まれており、M5 Ultra搭載モデルでは従来のM3 Ultraと比較して最大4.3倍のピーク時AI演算性能を発揮する。また、接続性も大幅に強化され、Wi-Fi 7やBluetooth 6に加え、新たに「Thunderbolt 5」が搭載された。このThunderbolt 5とRDMA技術を活用することで、複数のMac Studioを接続してクラスタ化することが可能となり、最大4台のシステムを連携させることで、単一システムと比べて最大3倍高速な分散型AI推論処理を行えるようになる。\n\nグラフィックス面では、第3世代のハードウェアアクセラレーテッドレイトレーシングや強化されたシェーダコアが採用され、3Dレンダリングや映像制作の効率が向上した。メディアエンジンも強化され、M5 Ultraでは最大33本の8K ProResビデオストリームの同時再生に対応する。さらに、次世代のApple IntelligenceやmacOSの先進的なフレームワークであるCore AI、オープンソース機械学習フレームワークのMLXなどに対応し、AI開発のためのエンドツーエンドのプラットフォームとして機能する。この新しいMac Studioは、本日より予約注文の受付が開始され、9月22日より販売が開始される予定となっている。",
+ "source": "Apple Newsroom 日本",
+ "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/tile/Apple-Mac-Studio-hero-260825-lp.jpg.og.jpg",
+ "published": "2026-08-25T14:00:45.049000+00:00"
+}
