@@ -1,0 +1,20 @@
+{
+ "id": "2449c26ee26e0d13",
+ "title_ja": "MacやiOS対応のMarkdownエディタ「ものしりメモ」が配信開始",
+ "summary_ja": "Mac、iPad、iPhoneに対応した新たなMarkdownエディタアプリ「ものしりメモ」がリリースされた。Google Driveとの連携機能を備えており、マルチデバイスでのテキスト編集やノート管理をスムーズに行うことができる。",
+ "points": [
+  "東京の「ものしり」がMarkdownエディタ「ものしりメモ」をリリース。",
+  "Google Drive連携でMacやiPad、Webから同じ文書を編集可能。",
+  "スラッシュ入力でのタグ候補表示やリアルタイムプレビュー機能を搭載。",
+  "macOS 10.15やiOS 14、visionOS等に対応し無料公開。"
+ ],
+ "body": "社内ナレッジ用AIなどを手掛ける東京の「ものしり（小林 誠氏）」が、マルチデバイスに対応したMarkdownエディタアプリ「ものしりメモ/Markdown Editor」を新たにリリースした。本アプリは、デザインを意識することなくMarkdown形式でテキストを入力するだけで、見やすく整ったドキュメントを作成できるエディタである。対応環境はMacやiPhone、iPadをはじめ、Webブラウザ、iPod touch、さらにVision Proにまで及ぶ。App Storeにて無料で公開されているため、手軽に導入できるのも特徴だ。\n\n「ものしりメモ」の大きな強みとなるのが、Google Driveとのスムーズな連携機能である。Googleアカウントで認証を行うことで、Markdownファイルの自動保存や添付ファイルのアップロード、共有ドライブを通じたリンク共有が可能となる。すべてのドキュメントをGoogle Drive上に保存しておくことで、MacやiPad、Webブラウザなど、利用するデバイスを問わず同一のファイルをシームレスに編集できる環境が整う。また、クラウド連携だけでなく、ファイルをローカル環境に保存して管理することも可能だ。\n\nエディタ機能としては、入力した記法がリアルタイムで変換・表示されるプレビュー方式が採用されている。Markdown記法に不安がある場合でも、「/」を入力するだけでタグの候補が表示される便利なサポート機能を備える。さらに、ライトやダークをはじめとする6種類のテーマ、3段階の文字サイズと本文幅の調整、日本語を含む12言語設定など、好みに応じたカスタマイズ性も確保されている。動作要件は、MacがmacOS 10.15 Catalina以降（Intel/Apple Silicon）、iPhone/iPadおよびiPod touchがiOS/iPadOS 14以降、Vision ProがvisionOS 1.0以降となる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260825-monoshiri-markdown-editor.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/Monoshiri-Memo-Markdown-Editor-for-Mac-iPad-logo-icon.webp",
+ "published": "2026-08-25T09:17:40+00:00"
+}

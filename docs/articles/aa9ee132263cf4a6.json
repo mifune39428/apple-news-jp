@@ -1,0 +1,20 @@
+{
+ "id": "aa9ee132263cf4a6",
+ "title_ja": "Parallels Desktop 27登場、Apple SiliconでAI加速やOpenGL 4.3に対応",
+ "summary_ja": "macOS向け仮想化ソフト「Parallels Desktop 27」がリリースされた。Apple Silicon搭載Macでの動作性能が強化され、OpenGL 4.3のサポートやAIアクセラレーション機能が新たに追加されている。これにより仮想化環境での利便性と処理能力がさらに向上した。",
+ "points": [
+  "Parallels Desktop 27がリリースされた。",
+  "OpenGL 4.3対応でプロ向けWindowsアプリが動作。",
+  "M4搭載MacでのAIおよび機械学習処理が大幅に高速化。",
+  "企業のIT管理者向けに、展開や管理を容易にする機能を追加。"
+ ],
+ "body": "Apple Siliconを搭載したMacにおける仮想化環境は非常に安定してきている。新しく登場したParallels Desktop 27では、Metalベースの新しいグラフィックドライバーが導入され、Apple Silicon上のWindows仮想マシンにおいてOpenGL 4.3がサポートされた。開発元によると、これは現在のMac向け仮想化ツールにおいて唯一の機能であるという。これにより、これまで動作が難しかったArcGIS ProやZWCAD、Blender 4.3といった、OpenGL 4.3以降を要求するプロフェッショナル向けのWindowsアプリケーションがMac上の仮想環境で動作可能になった。さらに、M3以降のプロセッサを搭載したMacでは、OpenGLのグラフィックスパフォーマンスが最大160%向上するとアピールされており、ArcGIS Proでの3Dレンダリング速度は最大35%高速化し、全体的な作業時間を最大24%短縮できるとされている。グラフィックスの向上はプロ向けソフトだけでなくゲームなどにも恩恵をもたらす。\n\nまた、今回のアップデートでは、M4以降のMacにおいてLinuxおよびWindowsの仮想マシンでScalable Matrix Extension（SME2）命令がサポートされた。これにより、仮想マシン内でのAIや機械学習のマトリクス演算が最大7倍、ニューラルネットワークの推論が最大1.75倍高速化するとされている。Ollamaやllama.cppといったツールを仮想環境内で実行する際のパフォーマンスが向上するため、クラウドのコストを気にせずローカル環境でAIワークロードの開発やテストを行いたい開発者にとって、非常に有用な進化を遂げている。\n\n企業向けの機能も強化されており、Parallels Desktop for Enterpriseでは、コマンドラインインターフェースを用いて、ライセンスキーまたはシングルサインオンのどちらでアクティベーションされたかを判別できるようになった。これにより、Jamfなどのシステムと連携した管理やレポート作成が可能になる。また、承認済みの仮想マシンイメージをAzure Blob StorageやSharePointを介して配布する機能や、ゼロタッチでのデプロイ機能も改善されている。Parallels Desktop 27は、Standard、Pro、Business、Enterpriseの各エディションが用意されており、Mac上でWindowsアプリを動かしたいユーザーにとって価値のあるアップデートとされている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/25/parallels-desktop-27",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-25T12:00:00+00:00"
+}
