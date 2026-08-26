@@ -1,0 +1,20 @@
+{
+ "id": "41046b6151ccec12",
+ "title_ja": "Parallels、サポート終了のIntel Mac向けに旧バージョンの提供を継続",
+ "summary_ja": "Parallelsが、Parallels Desktop 27 for Macでサポート対象外となったIntel Macユーザー向けに旧バージョンの提供を継続しています。旧環境を維持したいユーザーへの配慮が見られます。引き続き旧バージョンでの運用が可能です。",
+ "points": [
+  "Parallels Desktop 27はIntel Macのサポートを終了",
+  "Intel Mac向けに旧バージョン26の提供が継続される",
+  "バージョン26ではセキュリティや互換性アップデートを配布",
+  "最新版ではシステム要件がApple SiliconとmacOS 14以降に変更"
+ ],
+ "body": "Parallels Internationalは、仮想化ソフトウェアの最新版となる「Parallels Desktop 27 for Mac」の提供を開始した。この最新バージョンではApple Silicon Macのみのサポートとなり、Intel Macのサポートは終了している。これに伴い、Intel Macに最新版をインストールすることはできなくなっている。\n\nこうした状況を受けて同社は、Intel Macを引き続き利用するユーザーに向けて、旧バージョンである「Parallels Desktop 26 for Mac」の提供を継続すると発表した。バージョン26の環境では、今後もセキュリティサポートや互換性アップデートが配布される予定となっており、Intel Mac上で仮想化環境を必要とするユーザーが継続して利用できる体制が整えられている。ダウンロードページからバージョンを変更することで、自動インストーラーやイメージファイルを入手可能となっている。\n\nさらに同社は、バージョン26よりも前のレガシィなバージョンやマニュアルについても、全てアーカイブ化して公開している。これにより、古い環境との互換性を維持する必要があるユーザーも過去の資源にアクセスできるようになっている。なお、最新のバージョン27ではハードウェアおよびソフトウェアの要件も変更されており、動作環境がmacOS 14 Sonoma以上を搭載したApple SiliconまたはA18 Proチップ搭載のMacに引き上げられているため、古いApple Silicon Macを使用している場合も注意が必要となる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260826-parallels-desktop-27-for-mac-end-support-intel-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-08-26T02:10:52+00:00"
+}

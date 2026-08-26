@@ -1,0 +1,20 @@
+{
+ "id": "e2da128ef306cdcb",
+ "title_ja": "最大512GB RAMを搭載可能なM5 UltraのMac Studioが登場",
+ "summary_ja": "Appleは8月に異例のハードウェア発表を行い、M5 MaxおよびM5 Ultraプロセッサを搭載した新型Mac Studioを投入した。外観は従来と同じだが、内部は刷新され最大512GBのRAMを選択できる。",
+ "points": [
+  "M5 UltraとM5 Maxを搭載した新しいMac Studioが発表された",
+  "M5 Ultraは次世代UltraFusion技術によるクアッドダイ構成を採用",
+  "最大512GBのRAMやWi-Fi 7、PCIe Gen 6対応SSDを搭載",
+  "M5 Ultraモデルの価格は5,499ドルからに値上げされている"
+ ],
+ "body": "Appleは、M5 Maxおよび新開発のM5 Ultraプロセッサを搭載した新型Mac Studioを突然発表した。外観のデザインは従来のモデルから変更されていないものの、内部のスペックは大幅に強化されている。最大のトピックであるM5 Ultraには、Mシリーズのチップとして初めて次世代UltraFusion技術によるクアッドダイ構成が採用されており、AIワークロードにおいて強力な処理能力を発揮するとアピールされている。AIコーディングエージェントの処理速度向上や画像生成の高速化、企業向けシステムのクラスタリングに対応するほか、N1チップによるWi-Fi 7とBluetooth 6、PCIe Gen 6をベースにした次世代SSDアーキテクチャを採用し、業界最高水準の読み書き速度を実現している。\n\n一方で、価格面では値上げが行われている。M5 Maxモデルの価格は据え置きとなっているが、M5 Ultraモデルは5,499ドルからとなり、前モデルからさらに200ドルの値上げとなった。これにより、数ヶ月前のM3 Ultraモデルと比較すると大幅に負担が増すことになり、RAMやストレージを最大まで搭載した構成の価格は非常に高額になる。フルスペックのモデルなどは提供時期が異なり、最上位の構成などは10月まで入手できないとされている。新型Mac Studioはすでに予約受付が開始されており、通常モデルは9月22日より出荷が開始される予定となっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3220024/apple-announces-the-m5-ultra-mac-studio-with-up-to-512gb-of-ram.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/08/3220024-0-07805500-1787674147-mac-studio-m5-ultra.jpg?quality=50&strip=all",
+ "published": "2026-08-25T14:06:04+00:00"
+}
