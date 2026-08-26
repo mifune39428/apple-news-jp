@@ -1,0 +1,20 @@
+{
+ "id": "1be53d901dcd3f8b",
+ "title_ja": "最大512GBメモリに対応するM5 Ultra搭載Mac Studio発表",
+ "summary_ja": "Appleは、Apple M5 Ultraチップを選択可能な新型「Mac Studio」を発表しました。最大512GBという大容量のユニファイドメモリ構成が可能となっています。日本国内での価格は949,800円から販売されます。",
+ "points": [
+  "M5 MaxとM5 Ultraチップを搭載したMac Studioが発表された",
+  "M5 Ultraは最大512GBのメモリや36コアCPUなどを選択可能",
+  "背面にThunderbolt 5を4基搭載し、価格は949,800円から",
+  "本日より予約注文が開始され、発売日は9月22日とされている"
+ ],
+ "body": "Appleは、M5 Maxおよび新しいM5 Ultraチップを搭載した「Mac Studio (2026)」を発表し、予約販売の受付を開始した。コンパクトなデザインを維持しながら、最も負荷の高いプロのワークフローやオンデバイスAIの処理能力において、劇的な進化を遂げたと報じられている。発売日は9月22日を予定しており、分散AI推論や大規模なAI処理を求めるユーザーに向けた究極のデスクトップとして展開される。\n\n内部構成において、上位モデルに採用されるApple Silicon史上最速のM5 Ultraチップは、最大36コアのCPU、最大80コアのGPU、32コアのNeural Engineを備えている。さらに、メモリ帯域1.2TB/sで最大512GBのユニファイドメモリを選択することが可能であり、初代のM1 Ultraと比較して9.8倍ものAI演算性能を実現しているとされる。\n\nインターフェイスの仕様として、背面にはM5 MaxおよびUltraの両モデル共通で、Thunderbolt 5ポートを4基、10Gbイーサネット、USB-Aポートを2基、HDMI 2.1、3.5mmヘッドホンジャックが搭載されている。一方で前面ポートは異なり、M5 UltraモデルにはThunderbolt 5ポートが2基とSDXCカードスロットが備わり、M5 MaxモデルにはUSB-CポートとSDXCカードスロットが採用されている。\n\n価格については、M5 Maxを搭載した標準構成が419,800円からとなっており、M5 Ultraを搭載した標準構成は949,800円から設定されている。プロフェッショナル向けの高度な作業環境や高速なグラフィックス性能、膨大なメモリ容量を必要とするユーザーにとって注目の製品として展開される見込みである。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260825-mac-studio-m5-max-and-ultra.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://applech2.com/wp-content/uploads/2026/05/Mac-Studio-2025-logo-icon.webp",
+ "published": "2026-08-25T14:35:23+00:00"
+}
