@@ -1,0 +1,19 @@
+{
+ "id": "ae1bf5dc0b03a905",
+ "title_ja": "Apple、Safari Technology Preview 251を公開",
+ "summary_ja": "Appleは、実験的ブラウザ「Safari Technology Preview」の最新バージョン251をリリースしました。今回のアップデートではバグ修正とパフォーマンスの向上が行われており、最新のmacOSであるTahoeおよびGolden Gateに対応しています。アップデートはシステム設定から実行可能です。",
+ "points": [
+  "実験的ブラウザの最新版「Safari Technology Preview 251」がリリースされた。",
+  "具体的な変更点や修正内容の詳細は公開されていない。",
+  "最新のmacOS環境に対応し、既存のSafariと並行して利用できる。"
+ ],
+ "body": "Appleは、将来の正式版Safariに向けた新機能をテストするための実験的ブラウザ「Safari Technology Preview」の最新アップデートとなるバージョン251をリリースした。このブラウザは2016年3月に初めて導入されて以来、開発者や一般ユーザーからのフィードバックを収集し、ブラウザの開発プロセスに役立てることを目的に提供されている。今回のバージョン251における具体的な変更点や修正内容の詳細は、執筆時点では明らかにされていない。\n\n現在のSafari Technology Previewは、最新のmacOS環境であるmacOS TahoeおよびmacOS Golden Gateを搭載したデバイスと互換性を持っている。既存の標準的なSafariブラウザと並行して動作させることが可能となっており、利用にあたって有料の開発者アカウントなどは必要なく、誰でも無料でダウンロードして試すことができる仕様となっている。\n\n本ブラウザのアップデートは、公式サイトからすでにブラウザをダウンロードしているユーザーであれば、システム設定（またはシステム環境設定）内のソフトウェア・アップデートを通じて入手できる。詳細なリリースノートの全文についても、専用の公式サイト上で確認できるようになっている。Appleは今後も定期的なアップデートを通じて実験的な機能を継続的に提供していく見通しである。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+ "published": "2026-08-26T22:00:00+00:00"
+}
