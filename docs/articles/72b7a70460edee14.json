@@ -1,0 +1,19 @@
+{
+ "id": "72b7a70460edee14",
+ "title_ja": "90年代の名作スクリーンセーバーを現代のmacOSで再現するアプリ登場",
+ "summary_ja": "開発者のジェフ・ホルター氏が、1990年代に人気を博したスクリーンセーバー「After Dark」を現代のmacOS上で動作させるアプリ「Afterglow」を公開した。ROMや過去のOSに依存せず、当時のコードをエミュレートして動作する仕組みを採用している。",
+ "points": [
+  "懐かしのスクリーンセーバーを再現するアプリが登場",
+  "当時のオリジナルコードをそのまま動作させる仕組み",
+  "ROMやクラシックMac OS環境は不要"
+ ],
+ "body": "1990年代に一世を風靡した名作スクリーンセーバー「After Dark」を、現代のmacOS上で動作させる新しいアプリケーション「Afterglow」がリリースされた。著名ブログDaring Fireballのジョン・グルーバー氏が取り上げたことで、Appleファンの間で注目を集めている。\n\n開発を手掛けたジェフ・ハルター氏によると、このアプリは単なるリメイクや移植ではなく、オリジナルの68kモジュールコードをそのまま実行できるように設計された専用のエミュレーターとなっている。動作させるために、過去のROMファイルやクラシックMac OSを用意する必要がない点も特徴である。\n\nハルター氏はこれまでにも、After Darkの世界観をベースにしたスペースシューターゲーム「Lunacy」や、HyperCardプレイヤーの「Stacks」など、ノスタルジーを感じさせるユニークなプロジェクトを手掛けてきた。今回のアプリによって、現代のMac環境でも手軽にかつての雰囲気を楽しめるようになる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://images.macrumors.com/article-new/2026/08/Afterglow.jpg",
+ "published": "2026-08-28T16:16:15+00:00"
+}

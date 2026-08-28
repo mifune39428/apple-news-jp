@@ -1,0 +1,19 @@
+{
+ "id": "937ae1ff6459b33b",
+ "title_ja": "Appleが9月9日に新製品発表イベント開催へ、新型iPhoneなど多数登場か",
+ "summary_ja": "Appleは現地時間9月9日に、本社Apple Parkにて秋の新製品発表イベントを開催することを案内しました。イベントでは新型iPhoneをはじめとする少なくとも6つの新製品が発表されると期待されています。また、今後のMac miniやMac Studio、次世代チップに関する噂についても注目が集まっています。",
+ "points": [
+  "新型Mac miniとMac Studioが発表された",
+  "M6やM5 Ultraチップが新たに搭載される",
+  "9月9日にiPhoneなどの新製品イベントが開催予定"
+ ],
+ "body": "Apple関連のポッドキャスト番組にて、数々の新製品発表に関する詳細が議論されている。新型Mac miniにはM6およびM5 Proチップが搭載され、Wi-Fi 7やBluetooth 6に対応するN1チップが採用されたほか、標準のEthernetが2.5Gbに引き上げられた。M6はApple初となる2nmプロセスチップであり、スーパーコア、パフォーマンスコア、効率コアの3種類を組み合わせた12コアCPUや、各コアにNeural Acceleratorを搭載した12コアGPUなどを備えている。価格は899ドルから設定され、予約受付が開始されており9月22日に発売されると伝えられている。\n\n同時に発表された新型Mac Studioには、M5 MaxおよびM5 Ultraチップのオプションが用意されている。M5 Maxは最大18コアのCPUと40コアのGPUを搭載し、次世代SSDアーキテクチャによるストレージ性能の向上や最大6つのThunderbolt 5ポートなどを備える。一方のM5 UltraはApple初となるクアッドダイチップであり、最大36コアのCPUや80コアのGPU、最大512GBのメモリを搭載するなど、これまでにない高い処理性能を実現しているとされる。\n\nまた、Appleは現地時間9月9日に本社にて年次イベントを開催すると正式に発表した。このイベントでは、Apple Watchシリーズや複数の新型iPhoneなど、少なくとも6つの新製品が発表されると見込まれている。さらに、新しい素材を採用したAppleポリッシングクロスの価格改定や、米国などのサポート電話窓口における生成AIアシスタントの導入など、今週は多岐にわたる発表や新情報が相次ぐ異例の週となったことが取り上げられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 4,
+ "image": "https://images.macrumors.com/t/7dkrPvA5vwwv0HBboWSumwkxG88=/2500x/article-new/2026/08/TMRS-208-Huge-Week-of-Announcements-Thumb-1.jpg",
+ "published": "2026-08-28T16:12:18+00:00"
+}
