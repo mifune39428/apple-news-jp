@@ -1,0 +1,20 @@
+{
+ "id": "82ab58a561b95b7c",
+ "title_ja": "OpenAI、Intel Mac向けに「ChatGPT」公式アプリを提供開始",
+ "summary_ja": "OpenAIが、Intelプロセッサを搭載したMac向けに公式アプリ「ChatGPT for Mac」の提供を静かに開始しました。これまでAppleシリコン搭載モデル向けに先行提供されていましたが、今回の対応により古いIntel製プロセッサを搭載したMacユーザーでも公式アプリから直接AI機能を利用できるようになります。",
+ "points": [
+  "OpenAIがIntel Mac向け公式アプリの提供を開始",
+  "Codexアプリの統合が提供開始のきっかけと報じられる",
+  "システム要件はmacOS 13以降のIntel Mac",
+  "アプリサイズは約1.4GBに肥大化していると伝えられる"
+ ],
+ "body": "OpenAIが、Intelプロセッサを搭載したMac向けにも公式の「ChatGPT for Mac」アプリの提供をひっそりと開始したと報じられている。2024年5月に同アプリが発表された当初はApple Siliconを搭載したMacのみが対象とされており、Intel Macのユーザーはサードパーティ製のラッパーアプリなどを利用して対応していたが、ここにきて公式アプリが利用できるようになった形だ。\n\n公式アプリがIntel Mac向けにも展開されるに至った背景には、先月実施された「ChatGPT Work」と「Codex」の統合があるとうかがえる。もともとIntel Mac向けにも提供されていたCodexアプリの統合に伴い、Intel環境での利用を継続させる必要があったことから、結果として公式のChatGPTデスクトップアプリも提供されることになったと伝えられている。システム要件はmacOS 13 Ventura以降となっており、現在では公式サイトから直接ダウンロードしてログインすれば利用できる。\n\nなお、当初は通常のダウンロードページにリンクがなく、特定のページを経由する必要があったとも指摘されている。また、新しくなったデスクトップアプリはElectronや独自のランタイムをベースに開発されているため、旧バージョンに比べてアプリの容量が大幅に増加している点も特徴として挙げられている。サポート終了が近づくIntel Macで公式のChatGPT環境を維持したいユーザーにとって、今回の対応は役立つものとなりそうである。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260830-chatgpt-for-intel-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/ChatGPT-for-Mac-logo-icon.webp",
+ "published": "2026-08-29T17:17:43+00:00"
+}
