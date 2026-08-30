@@ -1,0 +1,19 @@
+{
+ "id": "9356bb4c3d4de6bb",
+ "title_ja": "CarPlayに対応した大手天気アプリが登場",
+ "summary_ja": "これまで標準の天気アプリが非対応だったCarPlayにおいて、iPhone向けの「The Weather Channel」のStorm Radarアプリが利用可能になった。車内での気象情報の確認がより便利になる。",
+ "points": [
+  "The Weather ChannelのStorm RadarがCarPlayに対応",
+  "現在地のマップ表示やレーダー、雲、降水量のレイヤー切替が可能",
+  "ナビゲーション機能と連動し、目的地までの天気や悪天候アラートを表示"
+ ],
+ "body": "これまで多くのアプリに対応してきたCarPlayですが、純正の「天気」アプリは未対応の状態が続いていました。そんな中、iPhone向けの人気天気アプリであるThe Weather Channelの「Storm Radar」が最新のアップデートにより、新たにCarPlayへの対応を開始したことが明らかになりました。同アプリは今年に入ってからAppleプラットフォーム向けの開発を強化しており、iPhoneやiPad向けのAIを活用した予報機能やApple Watch向けアプリの展開に続き、今回のCarPlay対応アプリのリリースに至っています。\n\nCarPlay版のStorm Radarでは、車内からでも現在地の周辺マップを確認できるようになっています。マップはデフォルトの背景と衛星写真の切り替えが可能となっており、レーダーや雲の様子、降水量などのデータレイヤーを重ね合わせて表示することが可能です。これにより、運転中に刻々と変わる気象状況を視覚的に把握しやすいつくりになっています。\n\nさらに、ナビゲーション機能も統合されているのが大きな特徴です。現在地の気象状況だけでなく、目的地までの到着予定時刻（ETA）や、到着地の予想天気もあわせて表示されます。また、走行中の状況変化に合わせて自動でルートを再計算する機能や、移動ルート上の天気アラートをリアルタイムで更新・通知する機能も備わっており、ドライバーの安全な移動をサポートする仕様となっています。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/30/apple-carplay-just-added-a-major-weather-app",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/storm-radar-carplay-app.webp?w=1600",
+ "published": "2026-08-30T19:57:16+00:00"
+}
