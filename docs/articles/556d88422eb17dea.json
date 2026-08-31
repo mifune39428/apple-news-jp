@@ -1,0 +1,20 @@
+{
+ "id": "556d88422eb17dea",
+ "title_ja": "AI企業による大量購入でMac miniとMac Studioが品薄に",
+ "summary_ja": "OpenAIやAnthropicといったAI企業が、自社のワークロード向けにMac miniやMac Studioを大量に購入している。この予期せぬハードウェア需要の急増により、供給が追いつかず品薄状態が発生している。Appleにとっても予測を超える需要拡大となっている。",
+ "points": [
+  "AI企業によるMac miniやMac Studioの需要が急増しているとされる。",
+  "優れた冷却性能を持つデスクトップ型MacがAI処理に重宝されている模様。",
+  "大企業からの想定以上の需要や部品不足により供給不足が発生しているという。",
+  "需要管理のため新型Macの発表が8月に前倒しされたと報じられている。"
+ ],
+ "body": "OpenAIやAnthropicといった大手AI企業の間で、AppleのMac miniやMac Studioの需要が急速に高まっていると報じられています。報道によると、OpenAIは強化学習やコンピュータ操作を行うAIエージェントの処理用として、ここ数ヶ月の間に数万台規模のMac miniやMac Studioを購入したとされています。また、対話型AI「Claude」を提供するAnthropicも、アマゾン・ウェブ・サービス（AWS）を介してMac miniをレンタルして同様の用途に活用している模様です。ノート型のMacBookシリーズとは異なり、デスクトップ型のMac miniやMac Studioは優れた冷却システムを搭載しているため、長時間の高負荷なAI処理ワークロードにも安定して耐えられる点が、AI企業から選ばれる大きな理由とされています。\n\nこうした大企業からの爆発的な需要の急増は、一般ユーザー向けを含めた現在のMacの供給不足に大きな影響を与えている模様です。さらに、世界的なDRAMやNANDフラッシュメモリの供給不足も、この状況に拍車をかけているとされています。Apple側にとっても、これほど急激なAI関連のエンタープライズ需要は想定外だったようで、この急成長する市場に対応するための専用の法人向け販売・サポートチームが十分に整っていなかったと伝えられています。\n\nこのエンタープライズ需要への対応を優先するため、Appleは新型Macの発表スケジュールを異例の形に変更したとみられています。通常であれば10月や11月に開催されるMacの発表イベントを待たず、iPhone 18の発表を控えた8月下旬という異例のタイミングで、M5 ProやM6を搭載する新型Mac mini、およびM5 MaxやM5 Ultraを搭載する新型Mac Studioを発表しました。さらに、通常よりも長い予約期間を設けた上で出荷を9月の第3週に設定しており、これによりサプライチェーンを適切に管理しながら急増する需要をさばく狙いがあるとされています。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/blame-ai-companies-mac-mini-mac-studio-shortage",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/04/mac-mini-studio-sold-out.jpg",
+ "published": "2026-08-31T08:32:43+00:00"
+}

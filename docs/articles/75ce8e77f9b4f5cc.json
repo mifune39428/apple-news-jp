@@ -1,0 +1,20 @@
+{
+ "id": "75ce8e77f9b4f5cc",
+ "title_ja": "macOS 27のAVFでゲスト自動設定やUSBパススルーなど新機能追加へ",
+ "summary_ja": "macOS 27 Golden GateのApple Virtualization Framework（AVF）で機能拡張が行われる見込みだ。macOSゲストの自動プロビジョニングやUSBデバイスのパススルー接続、DiskImageKit、iCloudサポートなどが追加され仮想化環境がより強化される。",
+ "points": [
+  "2026年秋登場のmacOS 27で仮想化機能が大幅に強化される。",
+  "初回設定を自動化するmacOSゲストの自動プロビジョニングに対応。",
+  "USBデバイスの仮想マシンへのパススルー接続が安全に可能となる。",
+  "新フレームワーク導入でディスク管理の効率化やiCloudに対応。"
+ ],
+ "body": "Appleが2026年秋にリリースを予定している「macOS 27 Golden Gate」では、Intel Macのサポートが終了する一方で、AppleのVirtualizationフレームワーク（AVF）に仮想化アプリの機能を大幅に拡張する複数の新機能が追加されると報じられている。WWDC26のセッション情報によると、次期macOS 27のAVFでは、macOS仮想マシンに限定してゲストOSの自動プロビジョニングがサポートされる見込みである。これにより、通常はOSインストール後に設定アシスタントを介して手動で行うユーザー名やパスワード、自動ログイン、リモートログインなどの初期設定を事前に登録し、インストール後に自動で反映させることが可能になるとされている。\n\nまた、新たに導入されるフレームワーク「Accessory Access」により、ホストMacに接続されたUSBアクセサリを安全に制御し、macOSやLinuxの仮想マシンへ直接パススルー接続したり、ホストMacへ接続を戻したりできるようになる。これにより、外付けのハードディスクやSSDなどのUSBデバイスを仮想環境から直接利用することが容易になるという。さらに、ディスクイメージ管理を効率化する新フレームワーク「DiskImageKit」も導入される。これはデータをブロック単位で管理して変更分のみを別レイヤーに保持する仕組みを採用しており、従来のRaw Disk Imageが抱えていたパフォーマンスやストレージ容量の課題を解決するとされる。macOS 26 Tahoeで登場した仮想マシンフォーマット「ASIF」もサポートされ、スナップショット作成や複製時の容量削減にも貢献する。\n\nさらに、長年望まれていたmacOSゲスト環境におけるiCloudのサポートがついに実現するとされている。これにより、仮想マシン上からユーザーのiCloudデータや各種サービスへ直接アクセスできるようになる見通しだ。そのほか、仮想GPUにおける技術的なサポートとしてMetal Indirect Command BufferやArgument Bufferが利用可能になるほか、Linux仮想マシンでのEFI Secure Bootへの対応など、開発者や高度なユーザーにとって仮想化環境の利便性と安全性を大きく向上させるアップデートが含まれていると伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260831-macos-27-golden-new-virtualization.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/Apple-Virtualization-framework-logo-icon.webp",
+ "published": "2026-08-31T02:09:21+00:00"
+}
