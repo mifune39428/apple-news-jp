@@ -1,0 +1,20 @@
+{
+ "id": "889eaeb5ef1cb245",
+ "title_ja": "iPhoneでマリオカート64をネイティブ動作させる方法",
+ "summary_ja": "エミュレーターを使わず、iPhone上で「マリオカート64」をネイティブのMetalレンダリングにより高フレームレートとHDテクスチャで快適にプレイする方法が紹介されている。Bluetoothコントローラーとの組み合わせで最適なゲーム体験が可能。",
+ "points": [
+  "iPhoneでマリオカート64をネイティブ動作させるアプリが登場",
+  "エミュレータよりも高フレームレートや高解像度に対応",
+  "Metalレンダリングにより描画の乱れが少ない仕様",
+  "SideStoreなどを用いてiPhoneへ導入が可能"
+ ],
+ "body": "名作レースゲームをiPhone上でプレイする方法として、従来のN64エミュレータとは異なるネイティブ動作のアプリを活用する手法が注目を集めている。これは開発者がソースコードを移植し、iPhone向けの専用アプリとして再パッケージ化したものであり、Metalレンダリングに対応している点が大きな特徴となっている。これにより、エミュレータ特有の画面の乱れや処理落ちが軽減され、ワイド画面表示や最高120fpsの滑らかなフレームレート、高解像度のテクスチャ表示などが可能になる。Bluetoothコントローラーを接続すれば、より快適にゲームを楽しむことができる環境が整う。\n\nこのアプリをiPhoneに導入するには、PC用のインストール支援ツールや、アプリの署名を管理する仕組みを利用する必要がある。具体的には、対応ツールを使ってiPhoneに専用の管理アプリを導入し、VPN接続アプリを併用しながら設定を進める手順が解説されている。導入の際にはApple IDによるサインインが必要となり、手順に従ってアプリのipaファイルをインストールすることで、ホーム画面から起動できるようになる。ゲームを遊ぶためには、自身で用意した対応するROMファイルを指定のフォルダに配置し、アプリ内でスキャンを実行することでプレイ可能な状態になる仕組みだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mario-Kart-64-SpaghettiPad-Tutorial-Native-Metal-Rendering-iPhone-018.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-08-31T19:50:57+00:00"
+}
