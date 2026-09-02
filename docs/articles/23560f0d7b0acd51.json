@@ -1,0 +1,20 @@
+{
+ "id": "23560f0d7b0acd51",
+ "title_ja": "不要なMacを外部モニター化できるアプリ「OpenDisplay Receiver」登場",
+ "summary_ja": "使っていないiMacやMacBookの画面を、他のMacのセカンドディスプレイとして利用可能にするアプリ「OpenDisplay Receiver」がリリースされた。余っているMacを活用して、手軽にマルチディスプレイ環境を構築できるようになる。",
+ "points": [
+  "余ったMacをセカンドディスプレイにできる無料アプリが登場。",
+  "面倒なアカウント連携や専用ドングル、サブスク契約は不要。",
+  "macOS 12以降の古いIntel/Apple Silicon Macで動作。",
+  "同一ネットワーク内で接続し、最大30fps前後の表示に対応。"
+ ],
+ "body": "使わなくなった古いiMacやMacBookを、メインで使っているMacのサブモニターとして再利用できる無料のオープンソースアプリ「OpenDisplay Receiver」がリリースされた。このアプリは、ドイツの個人開発者が手がける「OpenDisplay」の最新アップデート（バージョン1.18.0）で追加された新機能だ。Apple純正のSidecarや既存のサードパーティ製ソリューションとは異なり、Apple IDによる紐づけや専用のUSBドングル、サブスクリプション契約などが一切不要で、誰でも手軽に導入できる点が大きな特徴となっている。\n\n利用手順は非常にシンプルである。まず、メインとなるホスト側のMacに「OpenDisplay」アプリを導入してセットアップを行う。次に、サブモニターとして活用したいiMacやMacBookに「OpenDisplay Receiver」アプリをインストールして起動する。あとは、ホスト側のアプリから接続先となるレシーバー側のMacを選択して接続ボタンを押すだけだ。レシーバー側の画面上で接続完了を確認し、表示されたウィンドウをフルスクリーン表示に切り替えることで、使っていなかったMacの画面をセカンドディスプレイとして有効活用できるようになる。\n\n動作要件が低く抑えられている点も魅力だ。macOS 12 Monterey以降を搭載したIntelおよびApple SiliconのMacに対応しており、2015年製のiMacやMacBook Air、MacBook Proといった、OSのサポートが終了しつつある古いモデルでも動作させることができる。ただし、利用の際には双方のMacが同一のネットワーク上に存在している必要がある。また、ホスト側が14インチMacBookでWi-Fi接続を行っている環境では、レシーバー側でのリフレッシュレートが30fps前後にとどまるとされており、動きの激しいゲームなどの用途には向かないとされている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260902-opendisplay-receiver-mac-to-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/07/OpenDisplay-for-mac-free-open-source-Sidecar-logo-icon.webp",
+ "published": "2026-09-02T06:50:40+00:00"
+}
