@@ -1,0 +1,19 @@
+{
+ "id": "c9cd8af64f123b50",
+ "title_ja": "Intel Mac向け開発の終了をAppleが推奨",
+ "summary_ja": "Appleは開発者に対し、macOS 13以降を必須とするアプリでIntel Macのサポートを終了できると案内しました。これにより、開発の簡素化やアプリの軽量化が可能になります。",
+ "points": [
+  "AppleがIntel Mac向け開発の終了をデベロッパーに通知",
+  "macOS 13以降対象のアプリはIntelサポートを削除可能に",
+  "macOS 27がRosettaをサポートする最後のバージョンに"
+ ],
+ "body": "Apple独自シリコンのMシリーズが登場して以来、Intel Mac向けソフトウェアの移行が進められてきたが、ついに大きな節目を迎えたと報じられている。Appleはデベロッパーに対し、Intel Mac向けのアプリ開発を終了する時期が来たと通知し、Mac App Storeで配信されるmacOS 13以降を必須とするユニバーサルアプリにおいて、Intelプロセッサのサポートを削除できるようになったことを明らかにした。サポートを外すことで開発プロセスの簡素化や、アプリのダウンロードサイズおよびデバイス内での容量最適化が可能になるとされている。\n\n昨年のmacOS 26 TahoeがIntel Macをサポートする最後のバージョンになると発表されていたが、今回の通知はその方針をさらに一歩進めるものとなっている。新たに公開されたサポート文書によると、macOS 27がRosettaをサポートする最後のリリースとなり、このアップデート以降はAppleシリコン搭載Mac上でIntel専用アプリが動作しなくなる見通しである。これにより、Intel Macからの完全な移行に向けて現実的なタイムラインが示された形となる。\n\n今後は各デベロッパーの判断に委ねられており、自身のユーザーベースにおけるIntel Macの利用状況を見極めながら対応を終了していくことになるとみられている。そのため、当面の間はIntel環境へのサポートを継続せざるを得ないアプリも存在する可能性がある。Intel製プロセッサを搭載したMacや関連アプリを利用しているユーザーは、今後の対応計画について各アプリのデベロッパーに確認することが推奨されている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3225932/apple-to-mac-developers-its-time-to-let-go-of-intel.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/3225932-0-84988800-1788367834-final-intel-macos-release.jpg?quality=50&strip=all",
+ "published": "2026-09-02T16:50:17+00:00"
+}

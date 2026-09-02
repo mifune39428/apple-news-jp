@@ -1,0 +1,19 @@
+{
+ "id": "1ddb31edb9c89e14",
+ "title_ja": "仮想化ソフト「UTM v5.0」ベータ版、DirectX 12/11に対応",
+ "summary_ja": "MacやiOS端末向けの仮想化ソフトウェア「UTM v5.0 (Beta)」が公開されました。今回のアップデートにより、Mac版ではWindows 11仮想マシン上でDirectX 12がサポートされ、iPad版でもDirectX 11が利用可能になります。これにより、仮想環境でのグラフィック処理性能の向上が期待されます。",
+ "points": [
+  "仮想化ソフトウェア「UTM v5.0 (Beta)」が公開",
+  "Mac版でWindows 11仮想マシンのDirectX 12をサポート",
+  "iPad版でも新たにDirectX 11のサポートに対応"
+ ],
+ "body": "オープンソースのQEMUやAppleのVirtualizationフレームワークを利用して各種デバイスで仮想マシンを実行できる「UTM」の開発チームが、次期メジャーアップデートに向けた最新のベータ版となる「UTM v5.0.5」を公開しました。今回のアップデートではグラフィックス機能の大幅な強化が行われており、Mac版では新たにDirectX 12が実験的にサポートされることになりました。D3DMetalバックエンドを利用可能な環境において、最新のゲストツール用3Dグラフィックスドライバを導入することで利用可能となります。\n\nMac版におけるDirectX 12のサポートにより、Windows 11仮想マシン環境でFL 12_1 APIまでが利用できるようになり、高負荷なゲームタイトルなども一定のフレームレートで動作することが確認されています。また、Mac版だけでなくiPad版のUTMにおいても新たにDirectX 11がサポートされるなど、プラットフォーム全体でグラフィックス性能の向上が進められています。競合する他の仮想化ソフトウェアと比較しても先進的な機能拡張となっており、今後の正式リリースに向けた展開に注目が集まっています。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260903-utm-for-mac-v5-beta-support-directx-12.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/07/UTM-for-Mac-logo-icon.webp",
+ "published": "2026-09-02T19:04:57+00:00"
+}

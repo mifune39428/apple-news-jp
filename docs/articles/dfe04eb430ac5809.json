@@ -1,0 +1,20 @@
+{
+ "id": "dfe04eb430ac5809",
+ "title_ja": "iOS 27によりiPhoneとAirPodsでジムのワークアウト計測が可能に",
+ "summary_ja": "iOS 27では、Apple Watchのフィットネス機能「GymKit」が拡張されます。iPhoneとAirPods Pro 3を組み合わせることで、スマートウォッチを装着していなくても、対応するジム器具と連動したワークアウトの計測やデータ連携が可能になります。",
+ "points": [
+  "iOS 27により、iPhoneとAirPods Pro 3でジムキット機能が利用可能になる。",
+  "Apple Watchを使わずに、トレッドミルと連携したワークアウトの追跡ができる。",
+  "AirPods Pro 3が心拍数データを提供し、iPhoneがワークアウトの情報を管理する。",
+  "Apple Watchを忘れた際や充電切れの際の優れたバックアップとして機能する。"
+ ],
+ "body": "海外のApple専門メディア9to5Macにて、次期iOSにおける新たなフィットネス機能に関する検証記事が報じられている。2017年の登場以来、Apple Watchのスマートな機能の一つであったジムキットが、iOS 27ではiPhoneとAirPods Pro 3の組み合わせでも利用できるようになると伝えられている。これにより、Apple Watchを装着していなくても、対応するトレッドミルなどのジム機器と連携したワークアウトのトラッキング体験が可能になるという。\n\n検証によれば、使い方はシンプルで、iPhoneをトレッドミルにかざしてワークアウトを開始すると、機器から距離やペース、傾斜、カロリーなどのデータがiPhoneのフィットネスアプリに送信される。同時に、心拍数の計測ソースとしてAirPods Pro 3が機能し、金属製の心拍センサーを握り続けたりBluetoothの胸部ストラップを装着したりする手間が省けるとしている。ただし、AirPodsを使用しない状態でiPhone単体でジムキットを試した場合、心拍数の取得元がないために切断されてしまうという。\n\n日常的にApple Watchを使用している人にとって必須機能となるわけではないものの、時計の充電が切れていたり自宅に忘れたりした際の優れた代替手段になると評価されている。また、Apple Watchを持っていないiPhoneとAirPodsのユーザーに対しても、同等のフィットネス体験の一部を提供し、将来的なApple Watchの購入を検討するきっかけになる可能性が指摘されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+ "published": "2026-09-02T18:00:00+00:00"
+}
