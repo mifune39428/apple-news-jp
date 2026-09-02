@@ -1,0 +1,20 @@
+{
+ "id": "2e795657200c1d9f",
+ "title_ja": "アドビ、Slack向けにPhotoshopや生成AI機能を統合",
+ "summary_ja": "アドビがSlack向けにPhotoshopやFireflyなどのクリエイティブツールを統合した。プロジェクトの会話画面から離れることなく、チーム共同で画像や動画、PDFの作成・編集作業が行えるようになる。",
+ "points": [
+  "AdobeがSlack向けの新アプリを発表",
+  "PhotoshopやFireflyなど70以上のツールに対応",
+  "Slackbotを通じてAIによる画像生成や編集が可能",
+  "SlackのBusiness+とEnterprise+プラン向けに提供開始"
+ ],
+ "body": "アドビは、Slack上に同社のクリエイティブおよび生産性向上ツールを直接統合する新アプリ「Adobe for Slack MCP」の提供を開始した。このアプリにより、チームはプロジェクトのやり取りが行われているSlackの画面から離れることなく、画像や動画、デザイン、PDFの作成や編集を行えるようになる。対応するツールは、FireflyやAdobe Express、Photoshop、Premiere、Acrobatなど70種類以上のプロ向け機能に及んでおり、世界中のSlackのBusiness+およびEnterprise+プランのユーザーを対象にデスクトップ、ウェブ、モバイルで利用可能となっている。\n\nこの統合機能の中核となっているのは、Slackの内蔵AIアシスタントであるSlackbotである。Slackbotはメッセージやファイル、チャンネル、Canvasesから文脈を読み取り、適切なアドビのツールを呼び出す仕組みとなっている。ユーザーはSlackbotにプロジェクトの概要をまとめさせ、その情報をPDFや画像、動画へと変換するといった作業を行える。また、Creative Cloudの素材を被写体やスタイル、雰囲気で検索し、Slackのワークフローに取り入れて編集することも可能である。\n\n具体的には、承認されたキャンペーン用のクリエイティブを異なるSNSプラットフォーム向けにリサイズしたり、スプレッドシートのデータを視覚化したり、写真の一括調整を行ったりすることができる。アドビによれば、背景や不要なものの削除、明るさや色調の調整、画像の切り抜きなどもSlack上から実行できるという。なお、利用開始時はアドビのアカウントがなくても一部機能を利用可能であり、サインインすることで生成AI機能やCreative Cloud上のファイルにアクセスできるようになる。アドビはこれまでもChatGPTやClaude、Copilotなど主要なAIチャットボットへの対応を進めており、今回のSlackへの展開もその一環となる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/02/adobe-brings-photoshop-firefly-and-70-creative-tools-to-slack-with-mcp-app",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/adobe-slack.webp?w=1600",
+ "published": "2026-09-02T13:00:00+00:00"
+}
