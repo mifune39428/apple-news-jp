@@ -1,0 +1,19 @@
+{
+ "id": "4bebfc639e901cd0",
+ "title_ja": "Mac App Storeの一部アプリでIntel搭載Macのサポート終了が可能に",
+ "summary_ja": "Appleは、macOS 13以降を必要とするユニバーサルアプリにおいて、Intel製Macのサポートを終了できるようになったと開発者に通知した。開発プロセスの簡素化やアプリ容量の削減が期待できる。サポートを終了したアプリでも、Intel製Macユーザーは引き続き最後に互換性があったバージョンを利用できる。",
+ "points": [
+  "macOS 13以降が必要なMac App StoreアプリでIntel対応の除外が可能に",
+  "Intel対応を終了することで開発の簡素化やアプリ容量の最適化を実現",
+  "Intel Macユーザーは最後に互換性があったバージョンの利用を継続可能"
+ ],
+ "body": "Appleは開発者向けに、Mac App Storeで配信されているユニバーサルアプリのうち、macOS 13以降を必須とするものについて、IntelベースのMacへのサポートを終了できるようになったと通知した。これまでAppleは、Intelとの互換性を持つMac App Storeアプリに対して、途中でIntelサポートを外すことを認めていなかったが、今回の仕様変更により対応が可能となる。これにより開発者は、開発プロセスの簡素化や、ダウンロードサイズおよびデバイス内での容量の最適化を図ることができるようになる。\n\nサポートを終了したアプリはIntel搭載Mac向けへのアップデート配信が停止されることになると報じられている。ただし、Intel Macを使用しているユーザー側では、サポート終了前に配信された最後の互換バージョンを引き続き利用できる仕組みとなっている。また、報道によると、Intel Macをサポートする最後のOSとして特定のバージョンが挙げられているほか、Appleシリコン搭載Mac上でIntel向けアプリを動作させる機能であるRosetta 2についても段階的な廃止が進められると伝えられており、特定の古いゲームタイトルなどを除き、一部の環境で動作に影響が出るとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2025/06/intel-macs-no-more-updates.jpg",
+ "published": "2026-09-01T23:50:09+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "40bca9cbdf9f4c29",
+ "title_ja": "フォードの新型EV、マップでApple Mapsを採用",
+ "summary_ja": "フォードは新型EVプラットフォームおよび「Fathom」において、GoogleではなくApple Mapsを標準統合すると発表した。Appleとの提携により実現したもので、次世代の車載ナビゲーション体験を提供する。",
+ "points": [
+  "フォードが新型EV向けにApple Mapsを採用した理由を説明",
+  "Appleとの密接な協力体制や優れた性能・品質が決め手に",
+  "次世代CarPlay Ultraではなく純正マップとして統合される"
+ ],
+ "body": "フォードが次世代の電気自動車向けプラットフォームにおいて、GoogleではなくApple Mapsの採用を決めた理由について同社の幹部がインタビューで言及したことが明らかになっている。フォードは新型EVプラットフォーム向けのマップ選定にあたり、AppleやGoogleなど複数の企業と協議を行い、最終的にApple Mapsを選定したとされる。選定の決め手となったのは近年のマップ性能の著しい向上に加え、最高の顧客体験を実現するためにAppleのチームと柔軟かつ密接な協力体制を築ける点にあったと説明されている。電気自動車の開発においては、航続距離の予測や充電器の空き状況、天候、標高といった多様な要素を正確に把握する必要があり、Appleが提供するソリューションが最適であると判断された模様だ。\n\nまた、今回の取り組みは次世代の車載システムであるCarPlay Ultraの導入ではなく、フォードの車載ソフトウェアプラットフォームへApple Mapsをネイティブ統合する形になると確認されている。新型車ではApple Mapsがネイティブで動作するほか、標準的なCarPlayやAndroid Autoにも対応する予定となっている。これにより、ドライバーは好みや状況に応じてApple MapsやGoogle Maps、Wazeなどを選択して利用できるようになる。大型ディスプレイに映し出される美しいApple Mapsのグラフィックと優れた統合機能は、顧客に対して大きなインパクトを与える要素になると期待されているようだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-01T23:33:07+00:00"
+}

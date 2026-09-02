@@ -1,0 +1,20 @@
+{
+ "id": "63cf9349903be948",
+ "title_ja": "Parallels Desktop 27の不具合修正版がリリース",
+ "summary_ja": "Parallelsが「Parallels Desktop for Mac v27.0.1」のHotfixをリリースした。CoherenceモードやEnterprise Editionにおける不具合の修正が行われている。",
+ "points": [
+  "Parallels Desktop v27.0.1がリリースされた",
+  "Coherenceモードの不具合が修正されている",
+  "Enterprise Editionの問題も対処された",
+  "全体的な安定性とセキュリティが向上した"
+ ],
+ "body": "Parallelsは、Mac向け仮想化ソフトウェアの最新版となる「Parallels Desktop for Mac v27.0.1」をリリースした。今回のアップデートは、直近に配信されたバージョン27に対するホットフィックスとして位置づけられており、いくつかの既知の不具合に対処している。\n\n具体的には、WindowsのアプリケーションをMacのネイティブアプリのようにシームレスに使える「Coherenceモード」において、アプリ起動後に「起動中…」というウィンドウが画面上に残り続けてしまう問題が修正された。また、Enterprise Editionにおけるポリシー適用やプロビジョニングに関する不具合もあわせて解消されている。\n\n本バージョンでの新機能の追加はないものの、全体的な安定性の向上やセキュリティ上の問題修正が含まれている。利用中のユーザーは、ソフトウエアのアップデートを実施することが推奨される。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260902-parallels-desktop-for-mac-v27-0-1.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-09-01T20:54:55+00:00"
+}

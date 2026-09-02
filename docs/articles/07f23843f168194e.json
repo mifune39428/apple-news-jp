@@ -1,0 +1,20 @@
+{
+ "id": "07f23843f168194e",
+ "title_ja": "Apple、OpenAIを証拠隠滅の疑いで非難",
+ "summary_ja": "AppleとOpenAIの間で争われている法的な紛争において、Apple側がOpenAIによる証拠隠滅の懸念を主張した。元従業員のMacBookの引き渡しが遅れたことや、証拠隠滅に関する議論が含まれていたと指摘されている。迅速な証拠開示を求めている状況だ。",
+ "points": [
+  "AppleがOpenAIを証拠隠滅の疑いで告発",
+  "元従業員のMacBookから証拠隠滅の議論が見つかる",
+  "元従業員がAppleの機密情報を不正利用したとされる",
+  "OpenAI側はAppleの主張に反論し不備を指摘"
+ ],
+ "body": "AppleとOpenAIの間で展開されている法廷闘争において、AppleがOpenAIに対して証拠隠滅の恐れがあるとして迅速な証拠開示を求めていることが明らかになった。訴訟の中心となっているのは、最近Appleを退社してOpenAIに加わった元従業員らであり、そのうちの1人がAppleから支給されたMacBookを手元に保持し続けていたとされる。Appleは月曜日に提出した書面の中で、OpenAI側がこのラップトップの検査を怠り、つい最近になってようやく引き渡したと主張している。\n\nAppleが引き渡されたMacBookを調査したところ、元従業員がAppleの機密回路図をダウンロードしてOpenAIでの業務に使用していたことが判明したという。さらに、内部調査の発覚後に元従業員がApple製デバイスの初期化や再利用について議論していたメッセージも見つかり、ログやメタデータなどの重要なフォレンジックデータが失われるリスクがあるとしてApple側は強い懸念を示している。この発見により、証拠隠滅の現実的なリスクが存在するとAppleは主張を強めている。\n\n一方のOpenAI側は、この論争はApple自身が招いた混乱であると法廷闘争の書面で反論している。元従業員の退職プロセスに不備があったことをAppleが他人のせいにしていると主張し、元従業員が不適切な手段でAppleの情報にアクセスした証拠はなく、機密情報を使用する理由もないと説明している。AIデバイスの開発をめぐる両社の法的紛争は、証拠の取り扱いをめぐる双方の激しい非難の応酬へと発展している。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 4,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-09-01T18:19:26+00:00"
+}
