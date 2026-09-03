@@ -1,0 +1,19 @@
+{
+ "id": "5d980836b246b6ad",
+ "title_ja": "MacでWinゲームを動かす「Whisky」がフォークされ開発再開",
+ "summary_ja": "Appleのゲーム開発環境「GPTK」を利用し、Mac上でDirectX 12対応のWindowsゲームを実行できるようにするオープンソースのWineラッパー「Whisky」が、フォークされて開発を再開しました。これにより、今後のアップデートや機能改善が期待されます。",
+ "points": [
+  "MacでWindowsゲームを動かす「Whisky」の開発が再開",
+  "セキュリティエンジニアのAdam Franke氏がフォークして公開",
+  "最新のv3.7.0ではGPTK 4やMetalFX Upscalingに対応"
+ ],
+ "body": "AppleのGame Porting Toolkit（GPTK）を活用し、Mac上でDirectX 12に対応したWindowsゲームの実行を可能にするオープンソースのWineラッパー「Whisky」が、新たな開発者によってフォークされ開発が再開されたと報じられている。Whiskyは元々Isaac Marovitz氏によって2023年4月から開発されていたが、学業への集中などを理由に前年に開発が終了していた。これを受け、米ノースカロライナ州のCollibraでセキュリティエンジニアを務めるAdam Franke氏がプロジェクトを継承するかたちで引き継ぎ、新たにバージョン3.7.0をリリースした。\n\n公開された「Whisky 3.7.0」では、Wineボトル内でのSteamゲームライブラリのアートワーク表示機能をはじめ、GPTKのインポートフロー改善、コマンドラインツール「whisky games」「whisky launch」の追加など、多くの機能が実装されている。さらに、アプリケーションの外側からゲームを直接起動できるURLスキーム「whisky://」への対応や、D3DMetal向けのMetal 4コマンドエンコーディング、MetalFX Upscalingが有効化されており、テストを通じて数多くの不具合も修正されているとされる。\n\n今後の継続的な開発体制については不透明であると伝えられているものの、最新バージョンではGPTK 4への対応も果たされている。Mac環境でDirectX 12に対応するPCゲームタイトルをプレイしたいユーザーにとって、今回の開発再開は注目すべき動きとなりそうだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260904-whisky-for-mac-back.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2023/06/Whisky-logo-icon-2.jpg",
+ "published": "2026-09-03T18:58:37+00:00"
+}

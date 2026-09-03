@@ -1,0 +1,19 @@
+{
+ "id": "c6b51805375a4222",
+ "title_ja": "AppleがMac App StoreでAppleシリコン専用アプリの配信を解禁",
+ "summary_ja": "Appleはデベロッパーに対し、Intel Macのサポートを終了し、Appleシリコン専用アプリとしてMac App Storeで配信することを許可しました。これにより、開発者はIntelモデルへの対応を省略し、Appleシリコンに最適化したアプリを提供できるようになります。",
+ "points": [
+  "Mac App Storeの開発者がIntel製Macのサポートを終了可能に",
+  "macOS 13以降を必須とするアプリでApple Silicon専用のビルドが可能に",
+  "Intel製Mac向けのアプリ更新やOSサポートが終了に向かう見通し"
+ ],
+ "body": "AppleはMac App Storeで配信されるアプリの開発者に対し、Intel製Macのサポートを終了しApple Silicon専用のアプリケーションを構築することを許可したと報じられている。この変更はmacOS 13以降を必要とするすべてのmacOS向けアプリに適用され、開発者はビルド設定を変更して再提出するだけでIntel向けの対応を外すことが可能となる。これまでAppleは、Intelプロセッサと独自開発のApple Siliconという異なるアーキテクチャの間で両方のプラットフォームをサポートすることを義務付けていたが、そのルールが変更された形となる。\n\nこの方針転換により、開発者はアプリのビルド工程を簡素化し、ダウンロードサイズを削減できるようになるとされている。Intel製Macを使用しているユーザー向けの既存アプリがいきなり使えなくなるわけではないが、今後は開発者がApple Silicon専用へと移行するにつれてアップデートが届かなくなる可能性が高まる。また、サードパーティの開発者がIntel製Mac向けのサポートを継続すること自体は禁止されていないものの、Mac App Storeにおける必須要件からは外れることになった。\n\nAppleは2020年からIntelプロセッサから独自チップへの移行を進めており、最後のIntelモデルは2023年までに販売が終了していた。秋に登場する予定のOSがIntel製アプリをサポートする最後のOSになると報じられており、Intel製アプリをApple Silicon上で動作させていたRosetta 2もその後終了するとされている。今回の通知は、長年進められてきたIntelからApple Siliconへの移行プロセスにおいて、ひとつの大きな節目となるポリシーの変更といえる。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/apple-drops-intel-mac-support-requirement",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/09/Intel-Mac-support_01.jpg.webp",
+ "published": "2026-09-03T17:06:22+00:00"
+}
