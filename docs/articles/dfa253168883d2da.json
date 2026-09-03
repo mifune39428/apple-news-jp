@@ -1,0 +1,20 @@
+{
+ "id": "dfa253168883d2da",
+ "title_ja": "Anthropic、ClaudeのPC操作機能を強化",
+ "summary_ja": "Anthropicはデスクトップ版Claudeのコンピュータ操作機能をアップデートし、Macのバックグラウンドで実行できるようにした。作業効率の向上が期待される。",
+ "points": [
+  "AnthropicがClaudeのコンピュータ操作機能をアップデート",
+  "Mac向けにバックグラウンドでの動作が可能に",
+  "ProおよびMaxプランのユーザーが利用可能",
+  "Claude CodeやClaude Coworkに対応"
+ ],
+ "body": "AIアシスタントのClaudeを展開するAnthropicは、Mac向けにClaudeのコンピュータ操作機能をアップデートし、バックグラウンドでの実行に対応したと発表した。これまでは画面上でカーソルが占有されていたため作業が制限されていたが、今回の機能強化により、ユーザーが別の作業をしている間でも、Claudeが裏で自動的にクリックやタイピング、アプリの起動などの操作を行えるようになる。\n\nこの機能はmacOS専用となっており、利用できるのはProおよびMaxのプランに加入しているユーザーに限定される。具体的な機能としては、「Claude Code」および「Claude Cowork」の環境において、バックグラウンドでのコンピュータ操作を活用することが可能となっている。これにより、Macでのマルチタスク効率が大幅に向上することが期待される。\n\nAIによるデスクトップ操作機能については、OpenAI関連のツールがすでにMac向けにバックグラウンド機能を先行して導入していたが、今回のアップデートによってClaudeのMac向けアプリでも同様の利便性が実現された形となる。Anthropicのデスクトップ向け機能の進化により、AIを活用した作業の効率化の選択肢がさらに広がることになる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
+ "published": "2026-09-02T19:14:00+00:00"
+}
