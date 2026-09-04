@@ -1,0 +1,19 @@
+{
+ "id": "c534bd5b7660ba7d",
+ "title_ja": "AIチャット「Grok Bot」がiPadに対応",
+ "summary_ja": "SpaceXAIのAIシステム「Grok Bot」がiPadアプリに対応した。さらに、これまで高価格だったプランの料金も大幅に引き下げられている。",
+ "points": [
+  "SpaceXAIがAIチャット「Grok Bot」をiPadとAndroidに対応させた",
+  "エンタープライズ対応が追加され、一部顧客向けに数週間無料提供される",
+  "月額300ドルだった利用料金が月額20ドルに引き下げられた"
+ ],
+ "body": "SpaceXAIが提供するAIエージェントシステム「Grok Bot」が、新たにiPadおよびAndroid向けに展開されたと報じられている。このサービスは、iMessage風のUIでAIエージェントをチームメイトのように表示する仕組みを持っており、当初はiPhoneとMac向けの専用アプリとして高価格帯で提供されていた。リリースから数週間を経て、対応プラットフォームの拡大と大幅な低価格化が同時に進められている形となる。\n\n今回のiPad版の登場に合わせて、エンタープライズ向けのサポートも新たに追加された。GrokおよびCursorのエンタープライズ顧客を対象として、今後数週間にわたり無料で利用できるキャンペーンが実施されている。また、無料トライアル期間を除いて月額300ドルという非常に高額なサブスクリプションが初期は必須となっていたが、現在は月額20ドルのCursor Proプランでも利用できるようになり、他の一般的なAIサービスと同等の価格水準まで引き下げられた。\n\nSpaceXAIによるCursorの買収が、AI分野での競争力強化に寄与していると伝えられている。出遅れが指摘されていた同分野において、今回のプラットフォーム拡大と価格の引き下げにより、より多くのユーザーが手軽にサービスを試せる環境が整いつつあるようだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans",
+ "lang": "en",
+ "region": "global",
+ "category": "iPad",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+ "published": "2026-09-04T18:30:53+00:00"
+}

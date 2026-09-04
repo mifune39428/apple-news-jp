@@ -1,0 +1,19 @@
+{
+ "id": "16ac24d89d1a803d",
+ "title_ja": "Appleホーム対応のスマートロック「ULTRALOQ」をレビュー",
+ "summary_ja": "Appleの「ホーム」アプリと連携可能なスマートロック「ULTRALOQ Bolt Fingerprint」のレビューが公開されました。指紋認証や暗証番号による解錠に対応し、Wi-Fiも内蔵されています。Appleの「ホームキー」機能には非対応なものの、多くのユーザーにとって魅力的な選択肢です。",
+ "points": [
+  "Apple Homeに完全統合されたスマートロックが登場",
+  "指紋認証やPINなど多彩な解錠方法に対応",
+  "AppleのHome Keyには対応していない"
+ ],
+ "body": "ULTRALOQの「Bolt Fingerprint」は、Apple Homeへの統合機能や内蔵Wi-Fiを備えたスマートロックとして紹介されている。Apple Homeへの完全統合が大きな特徴となっており、ホームアプリからの操作やSiriを使った音声操作、ハブを利用したオートメーションやリモート制御に対応している。指紋認証やPINコード入力など複数の解錠手段が用意されており、多くのユーザーにとって使いやすい選択肢となっている。\n\n解錠方法としては、最大50件の指紋IDやパスコードの登録が可能であり、専用アプリを使った操作や近づくだけで開く機能なども備わっている。万が一のバッテリー切れに備えて物理キーも2本同梱されており、外出時などに全ての電子解錠を一時無効化するロックアウトモードも搭載されている。取り付けは一般的なドライバーがあれば配線や穴あけなしで行える仕様となっている。\n\n多くの優れた機能を備える一方で、iPhoneやApple Watchをかざして解錠する「Home Key」機能には対応していない点が唯一の惜しいポイントとして挙げられている。それでも、Amazon AlexaやGoogle Homeなど他のスマートホームプラットフォームとの互換性もあり、Home Keyの非対応が気にならないのであれば、日常使いにおいて非常に優れたスマートロックであると評価されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ULTRALOQ-Bolt-Fingerprint-WiFi-Smart-Lock-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-04T18:39:00+00:00"
+}
