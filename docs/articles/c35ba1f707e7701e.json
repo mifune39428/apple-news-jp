@@ -1,0 +1,20 @@
+{
+ "id": "c35ba1f707e7701e",
+ "title_ja": "Mac Studio/mini向け多機能ドックが登場",
+ "summary_ja": "WokyisがMac Studio用ドック「Wokyis G7」とMac mini用ドック「Wokyis G5」の発売キャンペーンをKickstarterで開始した。それぞれディスプレイやUSB、SDカードリーダーなどを搭載している。",
+ "points": [
+  "周辺機器メーカーのWokyisがMac Studio用とMac mini用の新型ドックを発表",
+  "Mac Studio用「G7」は7インチのフリップアップ式ディスプレイや各種カードリーダーを搭載",
+  "Mac mini用「G5」は4.96インチディスプレイやNVMe SSDスロットなどを備える",
+  "各モデルに10GbpsとThunderbolt 5対応の2種類が用意されている"
+ ],
+ "body": "香港の周辺機器メーカーであるWokyisが、Mac StudioおよびMac mini向けの新型ドッキングステーション「Wokyis G7」と「Wokyis G5」の発売キャンペーンをクラウドファンディングサイトのKickstarterで開始していると報じられている。同社はこれまでにもApple製デスクトップ向けのドックを手がけており、今回はさらに機能やデザインを拡充したモデルの展開となる。\n\nMac Studio用として登場したWokyis G7は、ゲームボーイ風のデザインを採用し、フリップアップ式の7インチディスプレイを搭載しているのが特徴とされる。ディスプレイの解像度は1280×800となっており、時計や写真、ミュージック、Macのステータス情報などを表示するのに適している。また、本体にはUSBポートやSDおよびmicroSDカードリーダー、CFexpress Type Bカードリーダー、上部にはNVMe SSDスロットや各種操作を行えるMicroPadが備えられている。接続方式としては、USB-CモデルとThunderbolt 5モデルが用意されており、背面ポートの仕様などが異なっている。\n\n一方のWokyis G5はMac mini向けのドッキングステーションとなっており、本体上部に4.96インチのディスプレイやNVMe SSDスロット、MicroPadを搭載している。こちらもG7と同様にUSB-C接続の10GbpsモデルとThunderbolt 5接続の80Gbpsモデルがラインナップされており、前面のUSBポートやカードリーダーに加えて、モデルごとに異なる背面ポートを備えて外部ディスプレイの拡張などに対応する。\n\n今回のKickstarterキャンペーンにおける早期出資プランでは、定価よりも割引された価格で各モデルが入手可能とされている。すでに目標出資金の金額に到達しており、対応するデスクトップ環境で使える拡張性の高いドッキングステーションを探しているユーザーの選択肢となりそうだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260904-wokyis-g7-and-g5-for-mac-studio-mini-dock.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/05/Wokyis-G7-for-Mac-Studio-logo-icon.webp",
+ "published": "2026-09-03T22:26:59+00:00"
+}

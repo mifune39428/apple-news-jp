@@ -1,0 +1,20 @@
+{
+ "id": "9578a9a6d849d376",
+ "title_ja": "主要なAIチャットボットが一時利用停止に",
+ "summary_ja": "ChatGPTやClaude、Grokなどの主要なAIチャットボットが、iPhoneアプリやウェブ版で一時的な障害に見舞われた。各社のステータスページでもエラーが確認されており、運営企業が調査と復旧作業を進めた。",
+ "points": [
+  "ChatGPTやClaude、Grokで障害が発生",
+  "各社のステータスぺージで問題を確認",
+  "全社が原因究明と復旧作業にあたる",
+  "現在は順次オンラインに復旧中"
+ ],
+ "body": "主要なAIチャットボットであるChatGPT、Claude、Grokの3サービスにおいて、iPhoneアプリやウェブ版で一斉に障害や不具合が発生していると報じられている。多くのユーザーがサービスを利用できない状態に陥り、各社のシステムに影響が出ている模様だ。\n\n各社のステータスぺージ等によると、OpenAIではChatGPTとCodexに関連する問題が認められており、Grokのウェブサイトでも障害の発生がアナウンスされている。また、Anthropicのステータスぺージにおいても、Claudeでエラー率が上昇していることが示されている状況にある。\n\nこれらの一連の障害を受けて、各社は速やかに問題の調査と対応にあたっている。その後のアップデートによれば、停止していたチャットボットたちは現在、順次オンラインへと復旧しつつあるプロセスにあると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/03/ChatGPT-Feature.jpg",
+ "published": "2026-09-03T07:01:33+00:00"
+}
