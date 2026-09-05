@@ -1,0 +1,19 @@
+{
+ "id": "3a07b9c8f21a825c",
+ "title_ja": "Google、AirDrop互換のQuick Share機能をPixel 7/8へ拡大",
+ "summary_ja": "GoogleがAndroidの共有機能「Quick Share」とAppleの「AirDrop」を結ぶ相互接続機能を順次展開している。今回この互換機能が、旧世代モデルであるPixel 7シリーズおよびPixel 8シリーズにも拡大され始めた。",
+ "points": [
+  "Pixel 7や8でもAirDrop互換機能が利用可能に",
+  "通知が届いても機能しないなど動作はまだ不安定",
+  "iPhone側は受信設定を変更する必要がある"
+ ],
+ "body": "Googleが提供するAndroidの共有機能Quick ShareとAppleのAirDropを接続する相互接続機能が、旧型のPixel 7シリーズやPixel 8シリーズにも拡大し始めていると報じられている。これまではPixel 8a以降などが対象とされていたが、米メディアAndroid Authorityによると、Pixel 7や8のユーザーの間でも同機能が有効になったことを知らせる通知を受け取る事例が確認されている。先行してPixel Tabletでも追加が確認されており、Googleが対応範囲を段階的に広げている動きの一環とみられている。\n\n一方で、今回の展開には不安定な面もあると伝えられている。機能追加の通知を受け取ったものの、実際にはAirDropとのやり取りができないというユーザーからの報告も上がっており、Googleが通知と機能本体を別々に配信している可能性や、旧機種での動作がまだ完全には安定していないことが指摘されている。手元の端末に通知が届いた場合でも、しばらくは利用できないケースがある点に注意が必要とされる。\n\n実際にこの機能を使ってPixelからiPhoneへファイルを送るためには、iPhone側のAirDrop受信範囲を一時的にすべての人に設定しておく必要がある。設定を完了させたうえでPixel側のQuick Share共有画面から相手のスマートフォンを選択すれば、モバイル通信を使わずに直接データを送信できるようになる。機能はソフトウェア更新によって段階的に配信されているとみられ、対応機種は今後さらに増えていく可能性があると報じられている。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/apple-605297",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/06/03/Airdrop_logo_2025.png",
+ "published": "2026-09-05T13:21:57+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "679371ea09b232da",
+ "title_ja": "仮想マシン向けWindows版Office 2024が約50ドルでセール中",
+ "summary_ja": "Mac上の仮想マシンなどでWindows向けのMicrosoft Office 2024を利用したいユーザー向けに、永続ライセンスが49.97ドルでセール販売されています。WordやExcelに加え、Mac版にはないAccessなども含まれており、月額料金なしで利用できます。",
+ "points": [
+  "Macの仮想環境で使えるWindows版Office 2024の特価セールが実施中",
+  "月額のサブスクリプションではなく買い切りの永続ライセンスで提供されている",
+  "WordやExcelだけでなくAccessやOutlookなども利用可能"
+ ],
+ "body": "Macユーザーの中には業務の都合やAccessなどのMac非対応アプリを利用するためにWindows版のMicrosoft Officeを必要とするケースが少なくない。Microsoft 365のようなサブスクリプションプランを利用する場合、終わりなく毎月の支払いが発生することになる。こうした毎月の固定費を避けたいユーザー向けに、Office 2024を買い切りで導入できるライセンスが約50ドルの特別価格で販売されていると報じられている。\n\n今回セール対象となっているのはWindows環境向けの永続ライセンス版であり、1台のPCに紐づけて利用する仕組みとなっている。インストールできるアプリにはWord、Excel、PowerPoint、Outlook、OneNote、Accessが含まれており、一度購入すれば予期せぬアップデートによって仕様が勝手に変更される心配もない。また、長時間の作業でも目が疲れにくいダークモードが搭載されているほか、動作に必要なハードウェア要件が低いため仮想環境でも快適に動作するとされている。\n\nMicrosoft 365の年間料金を支払い続ける代わりに、一度の支払いで主要なアプリへのアクセスを恒久的に確保できる点が大きなメリットとして挙げられている。Mac上でWindows環境を構築してオフィスソフトを運用したいと考えているユーザーにとって、今回の買い切りライセンスはお得な選択肢になり得ると伝えられている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3226128/get-microsoft-office-for-life-for-a-one-time-fee-just-50.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/3226128-0-49688400-1788595270-sale_328296_article_image.jpg?quality=50&strip=all",
+ "published": "2026-09-05T08:00:00+00:00"
+}

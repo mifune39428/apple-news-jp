@@ -1,0 +1,20 @@
+{
+ "id": "810dcceff8b5ef9e",
+ "title_ja": "Belkin、半固体電池搭載のモバイルバッテリー発表",
+ "summary_ja": "Belkinが半固体電池「BoostSolid Cell」を採用したモバイルバッテリー「UltraCharge Pro」シリーズ2機種を発表した。従来製品と比べて最大3倍のバッテリー寿命を実現している。",
+ "points": [
+  "半固体電池を初採用したモバイルバッテリーを発表",
+  "従来型より寿命が最大3倍になり安全性も向上",
+  "Qi2対応の5Kモデルと高出力な10Kモデルを展開",
+  "米国にて2026年9月8日より販売を開始予定"
+ ],
+ "body": "米国のアクセサリメーカーであるBelkinは、ドイツ・ベルリンで開催されたIFA 2026に合わせて、次世代の半固体電池「BoostSolid Cell」技術を初めて採用した「UltraCharge Pro」シリーズのモバイルバッテリー2機種を発表したと報じられている。この半固体電池の採用により、従来の液体セルを使用した製品と比較して、発火や膨張破損のリスクが低減されるほか、最大3倍のバッテリー寿命を実現していると伝えられている。さらに、エネルギー密度の向上や、より高温および低温の環境下での動作も可能になっているとされている。\n\nラインナップの一つである「UltraCharge Pro Slim Magnetic Power Bank 5K with BoostSolid Cell」は、バッテリー容量が5,000mAhで厚さがわずか8.8mmの薄型設計が特徴と報じられている。Qi2による15Wマグネット式ワイヤレス充電機能や最大22.5W出力のUSB-Cポートを備え、ワイヤレスでのパススルー充電にも対応していると伝えられている。筐体にはプレミアムメタルとシリコングリップが採用され、価格は69.99ドルで米国にて2026年9月8日から販売が開始されると報じられている。\n\nもう一つの機種である「UltraCharge Pro Power Bank 10K with BoostSolid Cell and Display」は、容量が10,000mAhでワイヤレス充電機能は非搭載とされているが、合計3つのポートを備え、USB-C単ポートで最大60W出力によりMacBookシリーズも充電可能であると伝えられている。背面にはバッテリー残量や入出力ワット数、温度を確認できるスマートディスプレイが搭載されており、価格は89.99ドルで5Kモデルと同様に米国で2026年9月8日より販売されると報じられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260905-ultracharge-pro-semi-solid-state-power-banks.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/Belkin-UltraCharge-Pro-Semi-solid-Power-Banks-logo-icon.webp",
+ "published": "2026-09-05T11:08:31+00:00"
+}
