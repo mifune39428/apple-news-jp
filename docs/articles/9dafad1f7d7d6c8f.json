@@ -1,0 +1,20 @@
+{
+ "id": "9dafad1f7d7d6c8f",
+ "title_ja": "CarPlayがClaudeに対応、AIチャットボットが拡充",
+ "summary_ja": "CarPlayに対応するAIチャットボットアプリとして新たに「Claude」が追加された。AnthropicのiPhoneアプリによる対応で、今週に入りAIチャットボットの対応アプリが相次いで拡充されている。",
+ "points": [
+  "CarPlayが主要なAIチャットボット5つに対応",
+  "AnthropicのClaudeが新たにサポートを追加",
+  "Meta AIも今週対応したばかり",
+  "iOS 26.4以降で会話型アプリが利用可能に"
+ ],
+ "body": "車載システムのCarPlayが主要なAIチャットボットアプリのサポートを拡充し、新たにAnthropicのClaudeが対応したことが伝えられている。AppleはiOS 26.4以降で会話型アプリをサポートしており、このカテゴリにはAIチャットボットが含まれている。今週に入ってMeta AIが対応したのに続き、大手AI企業の中で対応が待たれていたAnthropicのClaudeもiPhoneアプリのアップデートによりCarPlayでの利用が可能になった。\n\nCarPlay版のClaudeでは、過去のチャット履歴の一覧を表示して会話を再開できるほか、音声機能を利用した新しい音声チャットの開始にも対応している。これにより、すでに対応しているChatGPT、Perplexity、Grok、そしてMeta AIと合わせて、主要なAIチャットボットがCarPlay上で利用できる環境が整った形となる。なお、今月正式リリース予定のiOS 27からは、Siri AIもCarPlayに加わる予定であると報じられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+ "published": "2026-09-04T21:17:46+00:00"
+}

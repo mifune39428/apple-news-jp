@@ -1,0 +1,20 @@
+{
+ "id": "c2e75066876aa544",
+ "title_ja": "ClaudeのiOSアプリがCarPlayに対応",
+ "summary_ja": "AnthropicのAIアシスタント「Claude」がCarPlayに対応した。車載インフォテインメントシステムを通じて、ハンズフリーで音声による質問や対話が可能になる。ただし、車両やiPhone本体の機能制御には対応していない。",
+ "points": [
+  "ClaudeのiOSアプリがCarPlayに対応",
+  "ハンズフリーでの音声対話が可能に",
+  "車両やiPhone本体の機能制御は不可",
+  "OpenAIに続き主要チャットボットが対応"
+ ],
+ "body": "Anthropicの人気AIアシスタントであるClaudeのiOSアプリがCarPlayに対応し、車のインフォテインメントシステムを通じて音声で会話できるようになったと報じられている。AppleがiOS 26.4でサードパーティ製チャットボットのCarPlay対応を解禁したことを受けたもので、利用にはAppleが指定するテンプレートへの対応や専用の権限取得が必要となる。これにより、ユーザーはハンズフリーでClaudeに質問して回答を得ることが可能になった。\n\n一方で、安全上の理由からいくつかの制限も設けられており、Claudeから車両やiPhone本体の機能を直接操作することはできない。また、サードパーティ独自のウェイクワードには対応していないため、利用の際はCarPlayのインターフェースから手動でClaudeアプリを起動する必要がある。アプリ内にはハンズフリーでの会話を開始する画面が用意されており、新規チャットの開始や最近の履歴へのアクセス、音声のミュートや会話の終了といった操作が視覚的な表示とともに利用できる。\n\n運転中のわき見運転を防ぐため、これまでAppleはCarPlayで利用できるサードパーティ製アプリを厳しく制限してきたが、AIチャットボットの統合が徐々に進んでいる。今年に入ってからはOpenAIのChatGPTアプリもCarPlayに対応しており、車内でのAIアシスタントの利便性が向上している。今回のClaudeの対応により、車載ディスプレイを通じたAIとの音声対話の選択肢がさらに広がったと伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+ "published": "2026-09-04T20:43:31+00:00"
+}
