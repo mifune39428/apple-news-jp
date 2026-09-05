@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T10:58:05.358916+09:00",
+ "updated_at": "2026-09-05T18:38:00.890288+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -27,8 +27,76 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 308,
+ "detail_count": 316,
  "items": [
+  {
+   "id": "cb0e3954dc4f5ef2",
+   "url": "https://www.macworld.com/article/3223456/ifa-2026-the-best-accessories-we-found-for-your-iphone-ipad-and-mac.html",
+   "title_original": "IFA 2026: The best accessories we found for your iPhone, iPad, and Mac",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/09/3223456-0-99012200-1788594375-IFA-2026-banners.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-05T07:46:01+00:00",
+   "title_ja": "IFA 2026で見られたiPhoneやMac向けの最新アクセサリー動向",
+   "summary_ja": "ベルリンで開催された「IFA 2026」にて、iPhoneやiPad、Mac向けの最新アクセサリーが多数披露されました。今回の展示では充電技術が中心となり、Qi2 25W規格の普及やアクティブ冷却システムを備えたモバイルバッテリーなどに注目が集まりました。",
+   "category": "iPhone",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "0275ee839917e914",
+   "url": "https://www.cultofmac.com/news/the-smart-home-gets-smarter-before-apples-big-push-begins",
+   "title_original": "The smart home gets smarter before Apple’s big push begins",
+   "source": "Cult of Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/09/ugreen-homeagent.jpg.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-05T06:40:04+00:00",
+   "title_ja": "Appleのスマートホーム参入に先駆けローカルAI搭載機器が登場",
+   "summary_ja": "Ugreenの「HomeAgent」など、ローカルAIを活用してスマートホーム機能を高める機器が登場しています。Appleによるスマートホームハードウェア分野への本格参入が予想される中、周辺市場におけるAI活用が急速に進みつつあります。",
+   "category": "AI",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "62fd7026d392efb7",
+   "url": "https://iphone-mania.jp/mac-605292",
+   "title_original": "MacBook UltraにM5 Ultraは本当に載るのか～冷却が鍵",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/05/94358438ed475ba54c5bf954dcf3225e.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-05T06:27:45+00:00",
+   "title_ja": "OLED搭載MacBook ProにM5 Ultra採用の噂浮上も冷却が課題に",
+   "summary_ja": "有機ELディスプレイ搭載が見込まれるMacBook Proに、Mac Studioと同じ「M5 Ultra」チップが設定されるという予測が出されました。ただし従来の報道とは食い違う単独の噂にとどまっており、実現には筐体の冷却性能が鍵を握ると分析されています。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "630d670dcc335763",
+   "url": "https://iphone-mania.jp/iphone18-605290",
+   "title_original": "iPhone18 Pro発表まで5日〜可変絞りや本体カラーの最新予想",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/05/iPhone18-Pro-AH-0905.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-05T04:45:04+00:00",
+   "title_ja": "iPhone 18 Proの発表イベント直前、可変絞りや新色の最新予想が公開",
+   "summary_ja": "日本時間9月10日のApple新製品発表イベントを前に、iPhone 18 Proに関する最新の予想情報がまとめられました。カメラへの可変絞り機構の搭載や新たな本体カラーの登場などが期待されています。詳細な仕様やラインアップはイベント内で正式発表されます。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d2846b034a1fd8d4",
    "url": "https://gori.me/sale/peripheral-sale/169658",
@@ -285,6 +353,23 @@
    "has_detail": true
   },
   {
+   "id": "0c65c8e2aa0cf942",
+   "url": "https://sixcolors.com/post/2026/09/this-week-in-apple-counting-apple-ceos",
+   "title_original": "This Week in Apple: Counting Apple CEOs",
+   "source": "Six Colors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2023/06/twia-moltz.png?resize=680%2C389&ssl=1",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-04T21:00:39+00:00",
+   "title_ja": "Six Colorsが届ける今週のAppleトピックとコラム",
+   "summary_ja": "ニュースサイトのSix Colorsが今週のAppleに関するトピックをまとめています。文脈の中でAppleのCEOに関する話題やユーモアを交えたコラムが展開されています。ポッドキャストや各種ニュースの振り返りを中心とした雑記コンテンツです。",
+   "category": "その他",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
    "id": "c2e75066876aa544",
    "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay",
    "title_original": "Anthropic's Claude Comes to CarPlay",
@@ -333,6 +418,23 @@
    "summary_ja": "macOS 26.7のRC版のコード内から、Apple製とみられる未発表のゲームコントローラーに関する記述が見つかった。開発中のハードウェアを示すプロファイルが含まれており、今後の展開に注目が集まっている。",
    "category": "噂・リーク",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "796530c07df5c291",
+   "url": "https://apps.apple.com/us/app/testflight/id899247664",
+   "title_original": "Apple Fixed ‎TestFlight’s Screwy Sort Order",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/4b/51/6d4b517a-be77-29d1-561a-b90a355a81d8/Placeholder.mill/1200x630wa.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-04T20:04:47+00:00",
+   "title_ja": "AppleがTestFlightを更新、アプリのソート順不具合を修正",
+   "summary_ja": "AppleがTestFlightのバージョン4.3.1を公開しました。前バージョンで一部のユーザーに生じていた、サイドバー内でアプリの並び順が正常に表示されないバグが修正されています。あわせてシステムの安定性向上も行われています。",
+   "category": "サービス・アプリ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -1161,6 +1263,23 @@
    "importance": 3
   },
   {
+   "id": "bb15b75972afee3f",
+   "url": "https://www.macrumors.com/2026/09/04/ugreen-launches-homeagent-hubs-qi2-chargers",
+   "title_original": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2026/09/ugreen-HA100-2.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-04T11:57:58+00:00",
+   "title_ja": "UgreenがMatter対応AIハブや液冷Qi2充電器を発表",
+   "summary_ja": "Ugreenがスマートホームプラットフォーム「HomeAgent」と液冷式Qi2充電器を発表しました。HomeAgentハブはMatter規格の機器制御とオンデバイスAIに対応し、月額費用不要でカメラ映像の解析や検索が可能です。あわせてiPhone等で使えるQi2充電器も登場しています。",
+   "category": "その他",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "3cfdda53b4ffc72c",
    "url": "https://www.cultofmac.com/news/ugreen-magflow-power-bank-uses-liquid-cooling-beat-heat",
    "title_original": "Ugreen’s MagFlow power bank uses liquid cooling to beat the heat",
@@ -1240,7 +1359,8 @@
    "title_ja": "iPhone Ultraのカラー展開、ブラックは採用されず",
    "summary_ja": "次期iPhone Ultraのカラーラインナップにブラックは含まれない模様だ。情報筋によると、iPhone 18 Proシリーズと同様に新たなフラッグシップカラーとしてダークチェリーが採用される見通しとなっている。来週開催されるイベントで詳細が明らかになる。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "76020596c3c916cf",
@@ -1272,7 +1392,8 @@
    "title_ja": "9月9日のAppleイベント、新製品購入は見送るべきか",
    "summary_ja": "9月9日のイベントでiPhone UltraやiPhone 18 Pro、新型Apple Watchなどの発表が期待されている。しかし、価格の高騰や期待されるアップグレードの内容を考慮すると、今年の買い替えは慎重に検討すべきかもしれない。新製品の魅力とコストパフォーマンスを冷静に見極める必要がある。",
    "category": "iPhone",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "c9139ee166274831",
@@ -1288,7 +1409,8 @@
    "title_ja": "iPhone Ultra、品質基準の高さで生産台数が伸び悩み",
    "summary_ja": "Nikkei Asiaの報道によると、折りたたみ式iPhoneである「iPhone Ultra」の生産が、厳格な品質管理基準の影響で1日数百台程度に留まっている。製造の難易度が高く、初期需要に対して供給が追いつかない可能性が懸念されている。サプライチェーン関係者からも生産の遅れが示唆されている。",
    "category": "iPhone",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "288e9c43c9a128cc",
@@ -1423,7 +1545,8 @@
    "title_ja": "UgreenがローカルAI搭載のスマートホーム市場へ参入",
    "summary_ja": "UgreenがローカルAIやストレージを統合した「HomeAgent」と4Kカメラを発表した。クラウドに依存せず、デバイス側で処理を行うことで安全なスマートホーム体験を提供する。",
    "category": "その他",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "602c5a7e0138019b",
@@ -6621,121 +6744,6 @@
    "category": "Mac",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "940d5c282422e996",
-   "url": "https://www.macworld.com/article/3223661/ankers-high-rise-dock-is-a-must-have-for-your-mac-at-30-off.html",
-   "title_original": "Anker’s high-rise dock is a must-have for your Mac at 30% off",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3223661-0-81100000-1788199371-Anker-675-12-in-1-Monitor-Stand-Docking-Station.jpg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T18:02:37+00:00",
-   "title_ja": "Ankerの12-in-1モニター台がセール中",
-   "summary_ja": "Ankerの12ポートを備えたモニター台兼ドッキングステーションがセールでお得に購入できる。Studio Displayなどの高さを調整しつつ、デスク周りの配線や接続端子をすっきりとまとめることが可能。",
-   "category": "Mac",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "1c20bc84ab3aaf21",
-   "url": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-   "title_original": "iOS 27 beta 8 is out now as the general release date approaches",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/08/3172166-0-03658900-1788198189-ios_27_hero.jpg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:42:07+00:00",
-   "title_ja": "iOS 27ベータ8配信、正式リリースに向け最終調整へ",
-   "summary_ja": "正式リリースを控え、iOS 27のベータ8が開発者向けに配信が開始された。この時期のアップデートは細かな不具合の修正や最適化が中心となっている。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7629b8ac287a5923",
-   "url": "https://appleinsider.com/articles/26/08/31/eighth-ios-27-macos-27-developer-betas-arrive-for-testing",
-   "title_original": "Eighth iOS 27, macOS 27 developer betas arrive for testing",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://photos5.appleinsider.com/gallery/68056-143709-67884-143086-ios27devbeta1-xl-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:20:55+00:00",
-   "title_ja": "iOSやmacOSなど各種OSのベータ8がテスト向けに登場",
-   "summary_ja": "9月のイベントが近づく中、AppleはiOSやmacOS、watchOSなどの次期OSで第8弾となる開発者向けベータ版の配信を順次開始した。",
-   "category": "ソフトウェア・OS",
-   "importance": 3
-  },
-  {
-   "id": "cb7e61253130dcc4",
-   "url": "https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more",
-   "title_original": "Apple releases beta 8 for iPadOS 27, watchOS 27, and more",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iPadOS-27-b8.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:16:48+00:00",
-   "title_ja": "iPadOSやwatchOSなどのベータ8がリリース",
-   "summary_ja": "Appleは次期OSのテストに向けて、iPadOSやtvOSなどのベータ8を新たにリリースした。一部のOSではパブリックベータテスター向けにも提供されている。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6565da90d0174546",
-   "url": "https://9to5mac.com/2026/08/31/macos-27-developer-beta-8-now-available-heres-whats-coming",
-   "title_original": "macOS 27 developer beta 8 now available, here’s what’s coming",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-beta-8.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:16:05+00:00",
-   "title_ja": "macOS 27開発者向けベータ8の配信がスタート",
-   "summary_ja": "正式リリースに向けた毎週のテストの一環として、macOS 27の開発者向けベータ8の提供が始まった。パブリックベータ版のユーザーも対象となっている。",
-   "category": "ソフトウェア・OS",
-   "importance": 3
-  },
-  {
-   "id": "4925952566502215",
-   "url": "https://www.cultofmac.com/apple-history/imac-g5",
-   "title_original": "Today in Apple history: iMac G5 takes a page out of the iPod’s playbook",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2025/08/iMac-G5-launch.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:15:15+00:00",
-   "title_ja": "【Apple歴史】iPod風デザインを採用したiMac G5発売",
-   "summary_ja": "2004年8月31日、Appleは白いプラスチック製の筐体でiPodを彷彿とさせる一体型パソコン「iMac G5」を市場に投入した。",
-   "category": "その他",
-   "importance": 1
-  },
-  {
-   "id": "f5487c3499687a8f",
-   "url": "https://www.macrumors.com/2026/08/31/apple-seeds-macos-27-beta-8",
-   "title_original": "Apple Releases macOS Golden Gate Beta 8",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-08-31T17:14:06+00:00",
-   "title_ja": "Apple、開発者向けmacOS次期ベータ8を配信",
-   "summary_ja": "Appleは開発者に向けてmacOS次期バージョンのベータ8を配信開始した。Liquid Glassの透明度調整や影の変更など、デザイン面での複数の改善が含まれている。システム設定のソフトウェアアップデートから適用可能だ。",
-   "category": "Mac",
-   "importance": 3
   }
  ]
 }
