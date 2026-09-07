@@ -1,0 +1,20 @@
+{
+ "id": "79cf30a0a2648401",
+ "title_ja": "Apple Watch次期モデルの新機能コード",
+ "summary_ja": "watchOSやiOSのベータ版コードから、Apple Watch向けの新アプリに関する記述が見つかった。既存のバイタルアプリとは異なる「Readiness」アプリの追加などが示唆されている。",
+ "points": [
+  "Apple Watchの新モデルに関する情報が浮上",
+  "watchOSやiOSのベータ版コードから発見",
+  "新しいヘルスケア機能などが搭載される見込み",
+  "過去にも正確なコード解析実績がある情報源"
+ ],
+ "body": "今週後半に予定されているApple Watch Series 12およびUltra 4の発表を前に、watchOS 27やiOS 27のベータ版コードから新機能に関するヒントが見つかったと報じられている。今回の情報は、海外フォーラムのメンバーであるpdfu氏の投稿によるもので、次期モデルに向けた複数の新機能の存在が示唆されている。\n\nブルームバーグのマーク・ガーマン記者も、Apple Watch Series 12とUltra 4には新しいヘルスケアおよびフィットネス機能が搭載されると以前から伝えていた。今回のコード解析による発見は、こうした事前の報道を裏付けるものとなっている。\n\n情報提供者のpdfu氏は、最近のベータ版やリリース候補版のコード解析において注目を集めている人物である。同氏はこれまでに、未発表のゲームコントローラーの存在や、新しいホームポッド関連のサラウンドサウンドシステムおよびパーティモードといった機能を独自に発見した実績を持っている。今回のApple Watchに関する情報も、同様のシステム内部のコード解析から導き出されたものとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12.png",
+ "published": "2026-09-07T15:58:06+00:00"
+}
