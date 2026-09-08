@@ -1,0 +1,20 @@
+{
+ "id": "530e15ae41f34b94",
+ "title_ja": "BASF子会社がAppleを提訴、Face ID技術での特許侵害を主張",
+ "summary_ja": "BASFの子会社であるTrinamiXが、AppleのFace ID技術が同社の保有する特許を侵害しているとして訴訟を起こしました。現行のFace ID実装が対象とされており、今後の法的な展開や製品への影響が注目されます。",
+ "points": [
+  "化学大手BASFの子会社がAppleを提訴",
+  "Face ID関連の特許7件を侵害したと主張",
+  "問題の技術は顔認証時の肌の検知に関するもの",
+  "対象にはiPhoneやiPad Proが含まれる"
+ ],
+ "body": "化学大手BASFの子会社であるtrinamiXが、AppleのFace IDの現行システムが自社の複数の特許を侵害しているとして、アメリカの裁判所に提訴したことが報じられている。対象となっているのは、iPhoneやiPad Proなどに搭載されている比較的新しいバージョンのFace IDであり、合計7件の特許権が侵害されたと主張されている。\n\n訴訟において問題視されているのは、顔認証の際に人間の皮膚を検知する技術に関する特許である。初期のFace IDは特殊な3Dマスクによって突破される事例が報告されていたが、trinamiXが保有する技術は、顔に照射した光の反射を解析して表面の特性を捉える仕組みを持っている。これにより、3D深度情報と組み合わせることで、人間の肌と写真やマスクなどの偽装素材を正確に見分けることができるとされている。\n\ntrinamiXは訴状の中で、Appleに対して特許侵害の認定を求めているほか、対象製品の製造、使用、販売、および輸入の差止めの仮処分や、損害賠償および弁護士費用の支払いを要求している。裁判はテキサス州西部地区連邦地裁において陪審裁判として行われるよう求めており、今後の動向が注目されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/07/basf-subsidiary-sues-apple-over-alleged-face-id-patent-infringement",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/face-id-liquid-glass.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-08T01:34:36+00:00"
+}
