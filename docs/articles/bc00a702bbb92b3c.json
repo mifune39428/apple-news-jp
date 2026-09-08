@@ -1,0 +1,20 @@
+{
+ "id": "bc00a702bbb92b3c",
+ "title_ja": "Meta、iPhone向けパーソナルAIアプリ「Muse」を公開",
+ "summary_ja": "Meta AIがiPhone向けの新しいアプリ「Muse from Meta」をリリースしました。Museはタスクを代行するパーソナルAIエージェントで、UI構成はGrok Botに類似しています。ユーザーの多様な作業をこなす機能を備えています。",
+ "points": [
+  "MetaがiPhone向けAIエージェントアプリ「Muse」を発表",
+  "チャット形式でタスクを処理し名前やアバターのカスタマイズが可能",
+  "基本機能は無料で利用でき有料プランで制限が緩和される",
+  "現時点では米国でのみ提供され今後対象国が拡大される予定"
+ ],
+ "body": "Meta AIは、ユーザーのタスクを代行する新しいパーソナルAIエージェント「Muse」をiPhone向けアプリとして発表した。チャットインターフェースを採用し、AIをより親しみやすく身近な存在にするためのパーソナライズされたキャラクターとして機能する。このアプリでは、エージェントの名前やアバターを自分好みにカスタマイズできる点が特徴となっている。また、iPhoneアプリだけでなく、ウェブ版を通じてMacからも利用可能となっている。\n\n料金体系については、初期費用無料で週ごとの利用制限付きで提供されており、より多くの機能を利用したいユーザー向けに有料プランも用意されている。現時点での提供地域は米国のみとなっており、今後は順次対象国が拡大される予定であるとされている。Metaによる今回のAIエージェントの投入は、各社がAIのパーソナライズ化を進める近年のトレンドに沿った動きとなっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/08/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
+ "published": "2026-09-08T19:17:21+00:00"
+}
