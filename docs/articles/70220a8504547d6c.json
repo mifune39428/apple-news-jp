@@ -1,0 +1,20 @@
+{
+ "id": "70220a8504547d6c",
+ "title_ja": "Apple Intelligenceで健康機能が進化",
+ "summary_ja": "Appleは、Apple Intelligenceを活用した先進的な健康・フィットネス機能を発表した。Apple WatchとiPhoneが科学的根拠に基づいたパーソナルな健康管理ツールとしてさらに深化する。",
+ "points": [
+  "Apple Watchの新モデルに高度な健康管理機能が追加",
+  "心拍数やHRVの測定精度と頻度が大幅に向上",
+  "日々の身体の回復状態を示すレディネス機能を搭載",
+  "Apple Intelligenceが健康管理アプリを刷新"
+ ],
+ "body": "Appleは、iPhoneおよびApple Watchに向けた先進的な健康・フィットネス機能の刷新を発表した。新モデルとなるApple Watch Series 12およびApple Watch Ultra 4には、新しいヘルスセンシングシステムが搭載されており、ウェアラブルデバイスとしてこれまで以上に高精度な心拍数測定を実現している。これにはより大型で電力効率に優れた緑色LEDを備えた新しい光学式および電気式心拍センサーが採用されており、終日5秒ごとに心拍数を計測することで、アクティビティの正確性をさらに高めている。\n\nさらに、ストレスや回復の重要な指標となる心拍変動（HRV）の測定頻度も最大で5分ごとに向上し、日中および夜間のバイタルデータとして詳細に確認できるようになった。新機能として導入されたレディネス機能は、最近の活動量、バイタル、睡眠スコアを分析し、0から10までのスコアと具体的な推奨事項を毎日提示する。これにより、ユーザーは自身の身体がその日にどの程度負荷を受け入れられるかを把握し、日々の活動やトレーニング計画を調整することが可能となる。\n\nこうしたハードウェアの進化に加え、iPhone向けにはApple Intelligenceを統合した新しいヘルスケアアプリが登場する。今年の後半に提供予定の新しいヘルスアプリは、ユーザーのパーソナルな健康・フィットネス指標に合わせて動的に適応し、長期的な健康状態を分かりやすいインサイトとともに提供する。これらの新機能やデータは、プライバシーとセキュリティが厳重に守られた状態でユーザー自身の管理下に置かれる仕組みとなっている。",
+ "source": "Apple Newsroom",
+ "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/tile/Apple-iPhone-18-Pro-Apple-Watch-Series-12-redesigned-Health-app-260909-lp.jpg.og.jpg",
+ "published": "2026-09-09T17:52:05.481000+00:00"
+}

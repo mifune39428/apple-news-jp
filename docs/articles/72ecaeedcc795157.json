@@ -1,0 +1,20 @@
+{
+ "id": "72ecaeedcc795157",
+ "title_ja": "iPhone 18 ProとPro Maxでモデムの仕様に違いが存在か",
+ "summary_ja": "Appleの技術仕様ページにおいて、iPhone 18 ProにはAI機能を備えた自社設計の次世代セルラーモデム「C2」の記載がある一方、iPhone 18 Pro Maxには記載が見られず、異なるモデムが採用されている可能性が浮上しています。なお、両モデルとも新チップN1を搭載します。",
+ "points": [
+  "iPhone 18 ProとPro Maxで異なるモデムが搭載される可能性",
+  "iPhone 18 ProにはAppleの新しいC2モデムが記載されている",
+  "Pro Max側にはC2の記載がなく対応LTEバンドにも違いがある",
+  "両モデルともWi-Fi 7などに対応する無線チップN1を搭載する"
+ ],
+ "body": "Appleの新型スマートフォンであるiPhone 18 ProとiPhone 18 Pro Maxにおいて、内部のモデムに違いがあるのではないかと報じられている。Appleの技術仕様ページや発表内容によると、iPhone 18 Proには次世代の独自セルラーモデムシステムであるC2モデムが記載されている一方で、iPhone 18 Pro Maxのページにはモデムに関する記載が確認されていない。また、米国向けの仕様一覧では、ProモデルにのみBand 106が含まれており、Pro Maxには記載がないなど、対応するLTEバンドにも差異が存在している。\n\nC2モデムはサブ6GHzおよびミリ波の5Gに対応し、AIを活用した通信品質や信頼性の向上をもたらすとされており、C1Xモデムと比較して高速かつ省電力性能に優れている。両モデルにはWi-Fi 7、Bluetooth 6、Threadに対応するApple製の無線ネットワークチップN1が共通して搭載されているものの、なぜ上位モデル同士で異なるモデムが採用されるのかについては現時点で明らかになっていない。発売前には一部の端末でQualmqom製モデムが継続して使用されるという噂もあり、供給上の問題などが影響している可能性も指摘されている。\n\niPhone 18 Proシリーズは9月12日に予約受付が開始され、9月18日に発売される予定となっている。販売価格については、iPhone 18 Proが1199ドルから、iPhone 18 Pro Maxが1299ドルからそれぞれ設定されている。C2モデムがPro Maxにどのように関わっているのか、あるいは別のモデムが使用されているのかなど、詳細な理由や仕様の違いについては今後の動向が注目されるところである。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-different-modem",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+ "published": "2026-09-09T20:07:01+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "2b2bf5d00831181a",
+ "title_ja": "iPhone 18 ProのRAM容量は12GBと判明、前世代から据え置き",
+ "summary_ja": "Xcode 27の最新バージョンから、iPhone 18 ProおよびiPhone 18 Pro MaxのRAM容量が12GBであることが判明しました。これは前世代のiPhone 17 Proシリーズと同じ容量であり、メモリの増加はありません。なお、同じA20 Proチップを搭載するiPhone Duoも12GBのRAMを搭載するとみられます。",
+ "points": [
+  "iPhone 18 ProシリーズのRAM容量は12GBとされる",
+  "前世代のiPhone 17 Proモデルと同容量で据え置き",
+  "業界全体のRAM不足が価格に影響し値上げが行われた",
+  "米国での価格はProが1,199ドル、Pro Maxが1,299ドル"
+ ],
+ "body": "Appleが正式に公表していないiPhone 18 ProおよびiPhone 18 Pro MaxのRAM容量について、最新のXcodeから判明したと報じられている。それによると、両モデルともに12GBのRAMを搭載しているとされる。また、同じA20 Proチップを搭載するiPhone Duoについても同様に12GBのRAMを備えているとみられている。前世代のiPhone 17 Proモデルも12GBのRAMを搭載していたため、今回の世代間での容量の増加はないと伝えられている。\n\n業界全体におけるRAMチップの不足が引き続き影響を与えており、これが近月の多くの製品での価格引き上げにつながったとされている。米国におけるiPhone 18 Proの開始価格は1,199ドル、iPhone 18 Pro Maxは1,299ドルとなっており、それぞれ前世代の同モデルと比較して100ドルの値上げが行われている。\n\n予約注文は米国や多くの国において、9月12日土曜日の太平洋標準時午前5時から開始されると発表されている。製品の発売は、その翌週となる9月18日金曜日に予定されていると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-and-pro-max-ram",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+ "published": "2026-09-09T20:02:14+00:00"
+}
