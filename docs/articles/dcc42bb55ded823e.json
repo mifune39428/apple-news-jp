@@ -1,0 +1,20 @@
+{
+ "id": "dcc42bb55ded823e",
+ "title_ja": "iPhone DuoのメインカメラはiPhone 17eと同等か",
+ "summary_ja": "公開された技術仕様から、iPhone Duoのメインカメラセンサーは標準モデルではなくiPhone 17eと同等であることが判明した。焦点距離や光学手ブレ補正などの仕様が一致している。",
+ "points": [
+  "iPhone Duoのメインカメラ仕様が報じられる",
+  "iPhone 17eや標準モデルと仕様が一部共通",
+  "センサーシフトOISや独自画素を採用する見込み",
+  "価格は1999ドルからで10月23日に発売予定"
+ ],
+ "body": "Appleの技術仕様から、iPhone Duoのメインカメラセンサーは標準モデルのiPhone 17ではなく、iPhone 17eに近い仕様になると報じられている。公開された仕様によれば、iPhone Duoのメインカメラは焦点距離26mm、開放絞り値f/1.6のセンサーを採用し、センサーシフト光学式手ブレ補正やハイブリッドフォーカス像素子を備えることで、1200万画素の2倍望遠クロップにも対応するとされている。この構成はiPhone 17eのメインカメラと非常に似通っており、オートフォーカスの表現なども一致している。\n\n一方で、完全にすべての仕様が一致しているわけではないと伝えられている。iPhone 17eの手ブレ補正の記載にはセンサーシフトという表現が含まれていないのに対し、iPhone Duoにはそれが明記されており、この点は標準モデルのiPhone 17と共通している。しかし、オートフォーカスの表現においては標準モデルの用語とは異なり、iPhone 17eと共通する部分が見受けられる。こうした仕様の混在から、iPhone DuoのメインカメラはiPhone 17eと標準モデルのiPhone 17の中間に位置する仕様になっているとみられている。\n\nAppleはiPhone Duoのセンサーサイズや画素ピッチなどの詳細を正式に発表していないため、共通する用語を手がかりに両者の関連性が推測されている状況にある。なお、iPhone Duoの価格は1999ドルからに設定されており、予約受付は10月16日に開始され、10月23日に発売される予定と報じられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-selfie.jpg",
+ "published": "2026-09-10T13:59:14+00:00"
+}

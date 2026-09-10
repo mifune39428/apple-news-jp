@@ -1,0 +1,20 @@
+{
+ "id": "f897b11e9bb991ec",
+ "title_ja": "新型Apple WatchはRAMが前世代の倍に",
+ "summary_ja": "新たに発表されたApple Watch Series 12とApple Watch Ultra 4には、発表会で触れられなかった秘密のアップグレードが存在する。前世代と比較してRAMの容量が倍増していることが判明した。",
+ "points": [
+  "Apple Watch Series 12とUltra 4が発表された",
+  "両モデルにはRAM容量が前世代から倍増する変更がある",
+  "Xcodeの解析から両モデルとも4GBのRAMを搭載していると判明している",
+  "従来の2GBから強化され、新たなAI機能に対応する"
+ ],
+ "body": "海外メディアの9to5Macによると、新たに発表されたApple Watch Series 12とApple Watch Ultra 4には、Appleが発表会で言及していなかったサプライズとして、前世代からRAM容量が倍増していることが判明したと報じられている。\n\n両モデルには新しいS11チップが搭載されており、近年のApple Watchとしては数年ぶりとなる意味のある性能向上がもたらされている。この進化は、watchOS 27に搭載される一連のAI機能を利用する上で重要な役割を果たすとされている。\n\nXcodeのデータから明らかになったところによると、新型のApple Watch Ultra 4とSeries 12はいずれも4GBのRAMを備えている。従来のApple Watch Ultra 3やSeries 11に搭載されていたメモリは2GBであったため、今回のモデルでは容量が倍増したことになる。Appleは通常、Apple Watchのメモリ仕様を公式には公表していないため、この変更は発表されていなかった仕様の一つとなる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-brown.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-10T13:54:10+00:00"
+}
