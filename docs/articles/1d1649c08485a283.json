@@ -1,0 +1,20 @@
+{
+ "id": "1d1649c08485a283",
+ "title_ja": "iOS 27のiPhone Handoffは提供キャリアが限定",
+ "summary_ja": "iOS 27で追加される、1つの電話番号を2台のiPhoneで共有できる「iPhone Handoff」機能は、初期段階ではアメリカのT-MobileとドイツのDeutsche Telekomのみで利用できる。",
+ "points": [
+  "iOS 27で同じ電話番号を2台のiPhoneで共有する新機能が追加される",
+  "リリース時点では米国のT-MobileとドイツのDeutsche Telekomのみが対応",
+  "メインとサブのiPhoneを自動で切り替え、決済カードなども一部共有可能",
+  "利用には対応キャリアのサポートや両端末での設定が必要と報じられている"
+ ],
+ "body": "iOS 27では、1つの電話番号を2台のiPhoneで共有し、必要に応じて切り替えて使用できる新しい「iPhone Handoff」機能が追加されると報じられている。この機能を利用するには通信事業者のサポートが必要となり、初期設定時にキャリア手数料が発生する場合があるとされている。リリース時点での対応キャリアは、米国ではT-Mobile、ドイツではDeutsche Telekomに限定される見通しである。iOS 27は9月14日月曜日に配信が予定されている。\n\n利用にあたっては、iOS 27以降を搭載した2台のiPhoneをWi-Fiに接続し、同じAppleアカウントでサインインした上で、FaceTimeやiMessageなどの設定を有効にする必要がある。新しいiPhoneのセットアップ時や設定アプリから有効化でき、メインとなるiPhoneに対してもう1台をサブとして同じ番号を共有する仕組みとなっている。デバイスのロックを解除するだけでメインとサブの切り替えが自動で行われ、画面に確認メッセージが表示される。電話番号は同時に1台のiPhoneでのみアクティブになる仕様である。\n\nウォレットアプリ内の支払い用カードや車のキーなどは両方のiPhoneで機能するが、交通系ICカードや身分証明書などは1台でのみ利用可能となる場合があるとされている。また、Apple WatchはiPhone間で切り替わらないほか、転送電話や発信者番号通知などの一部キャリアサービスはメインのiPhoneからのみ管理可能となる。デュアルSIM環境でも利用可能だが、両方のeSIMが対応キャリアのものである必要がある。機能の有効化はキャリアに連絡してオフにするまで継続されると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+ "published": "2026-09-09T23:49:39+00:00"
+}
