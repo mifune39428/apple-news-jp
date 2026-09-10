@@ -1,0 +1,20 @@
+{
+ "id": "a6788f51b6d5f0b9",
+ "title_ja": "Apple Watch Series 12の46mmモデルが米国で20ドルの値上げ",
+ "summary_ja": "Apple Watch Series 12の46mmモデルが、米国で従来より20ドル高い449ドルに値上げされました。42mmモデルは399ドルの据え置きですが、大型モデルへの移行コストが増加しています。RAM不足を背景に、同社は一部の既存iPhoneモデルなども値上げしています。",
+ "points": [
+  "Apple Watch Series 12の46mmモデルが値上げされた",
+  "46mmモデルの価格は20ドル引き上げられ449ドルからとなる",
+  "Apple製品全体で値上げの動きが相次いでいると報じられている",
+  "XcodeからSeries 12とUltra 4のRAM容量増加が判明した"
+ ],
+ "body": "2018年のApple Watch Series 4以降、米国における大型サイズのアルミニウム製Apple Watchの価格は長年429ドルに据え置かれていましたが、Apple Watch Series 12においてその価格設定に変更があったことが明らかになりました。42mmケースを採用するモデルについては従来通り399ドルからのスタートを維持しているものの、より大きな46mmモデルは20ドルの値上げが実施され、新たに449ドルからの販売となっています。この変更により、42mmから46mmのケースサイズへアップグレードする際に追加で支払う差額は、従来の30ドルから50ドルへと引き上げられました。\n\n近年のApple製品全体において価格上昇の傾向が見られており、RAMチップの不足を背景として、今週に入り複数の既存iPhoneモデルで価格が引き上げられたほか、6月にはMacやiPad、HomePod、Apple TVなどの製品群でも値上げが行われていました。さらに、iPhone 18 Proモデルの米国における開始価格は、前モデルであるiPhone 17 Proと比較して100ドル高くなっていると伝えられています。こうした価格改定の動きが進む一方で、開発者向けツールのXcode解析からは、Apple Watch Series 12およびApple Watch Ultra 4の各モデルにおいてRAM容量が増加していることが確認されたと報じられています。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-46mm-price-increase",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12.jpg",
+ "published": "2026-09-10T18:11:11+00:00"
+}
