@@ -1,0 +1,20 @@
+{
+ "id": "2cc52595e4207209",
+ "title_ja": "CarPlayがMicrosoft Copilotに対応",
+ "summary_ja": "Apple CarPlayがMicrosoft Copilotに対応し、主要なサードパーティ製AIチャットボットアプリとして利用可能になりました。Google Geminiは未対応のままとなっています。",
+ "points": [
+  "Microsoft CopilotがCarPlayに対応した",
+  "Google Geminiが主要AIで唯一の未対応となる",
+  "iOS 26.4以降で対話型アプリの利用が可能になる",
+  "Copilotの利用にはサブスクリプションが必要とされる"
+ ],
+ "body": "マイクロソフトのAIチャットボットアプリ「Copilot」が、車載システム「Apple CarPlay」に対応したと報じられている。これにより、主要なサードパーティ製AIチャットボットの中でCarPlayに対応していないのは、現時点でグーグルの「Gemini」のみとなったとされる。CarPlayでこうした対話型のアプリを利用するには、iOS 26.4以降のバージョンが必要になると伝えられている。\n\niPhone向けアプリを通じて提供されるCopilotは、音声操作に対応しており、テキストベースのスレッドを含むチャット履歴がiPhoneアプリと同期される仕様になっているという。ただし、CarPlay上でCopilotを動作させるためには、サブスクリプションへの加入が必要であると報じられている。\n\nCarPlayに対応しているAIチャットボットや音声アシスタントは、今回のCopilotの追加により、Appleの「Siri AI」をはじめ、OpenAIの「ChatGPT」、Perplexity、Grok、Meta AI、Anthropicの「Claude」など複数に広がっている。なお、Siri AIについては、正式リリースを迎える段階でもベータ版として順次展開されていくとされている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/CarPlay-AI-apps.webp?w=1600",
+ "published": "2026-09-11T14:16:54+00:00"
+}
