@@ -1,0 +1,20 @@
+{
+ "id": "927561f6a84cff4d",
+ "title_ja": "iOS 27などの次世代OS正式版、9月15日に一般公開へ",
+ "summary_ja": "Appleは、iOS 27やiPadOS 27、macOS 27 Golden Gateなどの次世代OSの正式版を、日本時間9月15日に一挙公開すると発表しました。今回のアップデートにより、iOS 27ではシステムの動作速度が向上するなどの改善が行われます。",
+ "points": [
+  "次世代OS（iOS27など）が日本時間9月15日に一斉公開される。",
+  "システム動作が高速化し、Liquid Glassデザインの統一感が増す。",
+  "Apple IntelligenceのSiri AIは2026年内に日本語対応予定。",
+  "新型iPhoneやApple Watchには最新OSがプリインストール。"
+ ],
+ "body": "Appleは、iOS27、iPadOS27、watchOS27、macOS 27 Golden Gate、visionOS27の各正式版を、日本時間の9月15日（火）に一般ユーザー向けへ一斉に公開すると発表しました。今回の発表は、iPhone18 ProやiPhone18 Pro Max、同社初の折りたたみ型端末となるiPhone Duo、さらにはApple Watch Series 12やApple Watch Ultra 4といった最新ハードウェアの発表に合わせて行われたものです。過去の公開実績を踏まえると、公開当日の午前2時頃からソフトウェアアップデートを通じて入手可能になると見られています。なお、9月18日（金）に発売されるiPhone18 ProやApple Watchの最新モデルには、あらかじめこれらの新OSが搭載されて出荷されます。一方、10月23日発売予定のiPhone Duoにも対応する予定です。\n\n2026年6月に開催された世界開発者会議（WWDC26）でお披露目されて以来、ベータテストが行われてきたこれらの次世代OS群は、対応機器においてApple Intelligenceによる高度なAI機能が利用できるようになる点が大きな魅力です。中でも、Apple Intelligenceを活用した新しいSiri AI機能は英語から順次提供が開始され、2026年中には日本語環境にも対応する見込みとなっています。また、視覚的な変化として、すべてのOS間でLiquid Glassと呼ばれるデザインの統一感が引き上げられており、エコシステム全体でよりシームレスかつ洗練された操作体験が実現されます。\n\n個別の進化点として、iOS27ではシステム全体の動作速度が大幅に向上していることが挙げられます。アプリの起動をはじめ、写真ライブラリの読み込み処理、AirDropを介したデータ転送などが全体的に高速化される設計です。このパフォーマンス改善は最新端末に限らず、互換性のある既存の旧型iPhoneにおいても体感できるとされています。なお、今回のOS更新に対応しない旧モデルであっても従来OSのまま利用し続けることが可能であり、Appleは一定期間、旧OS向けにも重要度の高いセキュリティアップデートを継続して配信する方針です。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/ios-605547",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/09/Apple-iOS27-0.png",
+ "published": "2026-09-09T20:37:56+00:00"
+}
