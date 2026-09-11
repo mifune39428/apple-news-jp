@@ -1,0 +1,20 @@
+{
+ "id": "3d2a3fb4b968e9dc",
+ "title_ja": "MacBookでも開閉アニメーションが利用可能に",
+ "summary_ja": "iPhone Duoの開閉時の視差ぼかしアニメーションに似た効果をMacBookで再現できる無料アプリ「Mac Duo」が登場した。画面の切り替わりを演出するユニークな体験が楽しめる。",
+ "points": [
+  "iPhone Duoの開閉アニメーションがMacBookで再現可能に",
+  "開発者のDhananjay Bhosale氏が無料アプリ「Mac Duo」を公開",
+  "画面が曲がる、ぼやけるなど計6種類のユニークな効果を選択できる",
+  "アプリの利用にはシステム設定から手動でのセキュリティ許可が必要"
+ ],
+ "body": "Apple製品の細かいこだわりとして知られる、iPhone Duoの端末開閉時に画面が切り替わる遠近感のあるブラーアニメーションが、MacBookでも楽しめるようになった。開発者のDhananjay Bhosale氏が手掛けた「Mac Duo」は、MacBookの蓋を閉じたり開いたりする際に同様の効果を再現できる無料のオープンソースアプリとなっている。実用性こそないものの、思わず何度も開閉したくなるような遊び心のある機能として注目を集めている。\n\nこのアプリでは標準のエフェクトに加えて、画面が曲がったり、ぼやけたり、消え去ったりする4つの新しい効果を含む計6種類のアニメーションが用意されており、好みのスタイルに合わせて選択することができる。実際にMacBook Proで試したところ、何度も開閉したくなる楽しさがあることが確認されている。\n\nなお、このアプリを導入する際には注意点もある。現時点では公式に公証されていないアプリであるため、初回の起動時にはそのまま開くことができない。そのため、インストール後にシステム設定のプライバシーとセキュリティ項目からセキュリティセクションまでスクロールし、通知欄にある強制的な許可ボタンを押して手動で開く設定を行う必要がある。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3233434/that-amazing-iphone-duo-open-animation-has-already-come-to-the-macbook.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/3233434-0-84288000-1789145498-m3-macbook-air-profile-audio-jack.jpg?quality=50&strip=all",
+ "published": "2026-09-11T16:51:22+00:00"
+}
