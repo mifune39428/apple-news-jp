@@ -1,0 +1,19 @@
+{
+ "id": "b03225d2889c56db",
+ "title_ja": "新しいOS各バージョンのリリース日が月曜日に決定",
+ "summary_ja": "Appleの次期OSアップデートが来週月曜日にリリースされる予定です。ベータ版を経て、正式版の公開に向けた準備が進められています。",
+ "points": [
+  "macOS 27などの各OSが9月14日にリリース予定",
+  "新SiriアプリやAI対応ショートカットなどを搭載",
+  "一部の高度なSiri AI機能はM3以降が必要"
+ ],
+ "body": "Appleは、イベントの開催に合わせて各OSのリリース日を明らかにしました。それによると、macOS 27 Golden Gateをはじめとする次期オペレーティングシステムは、9月14日に配信が開始される予定となっています。\n\n今回のアップデートでは、新しく刷新されたSiri AIに合わせた専用アプリが追加されるほか、自然言語のプロンプトからショートカットを作成できるAI機能などが導入されます。さらに、AIを活用した拡張機能ビルダー、Safariでの引っ張って更新する機能のサポート、iPhoneミラーリングの改良、Apple Podcastsでのビデオ再生対応などが含まれています。\n\nまた、新しいテーマの壁紙やスクリーンセーバーが追加される一方で、ウィンドウやアプリの角のデザインについて、前バージョンで導入された動的な変更から固定半径の角へと戻されています。なお、新機能の中でも高度なSiri AIの利用には、M3以降のプロセッサと12GB以上のメモリを搭載したMacが必要になるとされています。",
+ "source": "Daring Fireball",
+ "url": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&strip=all&resize=1200,628",
+ "published": "2026-09-10T20:15:52+00:00"
+}

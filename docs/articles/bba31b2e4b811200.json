@@ -1,0 +1,19 @@
+{
+ "id": "bba31b2e4b811200",
+ "title_ja": "T-Mobile、iOS 27のiPhone Handoffに月額料金",
+ "summary_ja": "米T-Mobileは、1つの電話番号を2台のiPhoneで共有できるeSIM機能「iPhone Handoff」の利用に月額5ドルを課金する。対象地域では通話やデータ通信などの機能が複数端末で利用可能になる。",
+ "points": [
+  "T-Mobileが月額5ドルでiPhone Handoffを提供すると報じられている",
+  "同一の電話番号を2台のiPhoneで切り替えて使用できる機能とされる",
+  "利用にはiOS 27を搭載した2台の対応デバイスが必要になると伝えられている"
+ ],
+ "body": "米通信キャリアのT-Mobileが、iOS 27で導入される新機能「iPhone Handoff」の利用に対して、月額5ドルの料金を課す予定であると報じられている。この機能はe-SIMを利用したもので、1つの電話番号を2台の異なるiPhoneで共有し、状況に応じてアクティブな端末を切り替えて使用できるようにするものとされている。提供開始時点では、米国のT-Mobileユーザーおよびドイツのドイツテレコムのユーザーのみが利用できる見込みである。\n\niPhone Handoffの利用には、iOS 27以降を搭載した2台のiPhoneが必要となり、同一のApple Accountにサインインした上で、FaceTimeやiMessageなどの設定を有効にする必要があると伝えられている。機能が有効な状態では、端末のロックを解除するだけでメインとサブのiPhoneが自動的に切り替わる仕組みになっており、通話やデータ通信、テザリングなどが両方の端末で利用可能になるとされている。ただし、電話番号がアクティブになるのは常にどちらか1台のみであり、Apple Payの交通系ICカードや身分証明書など、一部のウォレット機能には制限があることも指摘されている。\n\nこの機能は、対応キャリアを通じて設定が行われ、キャリアに連絡して無効化するまで継続されると報じられている。なお、iOS 27は9月14日の月曜日にリリースされる予定であり、新型のiPhone 18 Proモデルは9月18日の金曜日に発売される見通しであると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg",
+ "published": "2026-09-10T22:58:32+00:00"
+}

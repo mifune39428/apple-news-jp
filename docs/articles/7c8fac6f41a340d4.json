@@ -1,0 +1,20 @@
+{
+ "id": "7c8fac6f41a340d4",
+ "title_ja": "Apple、Siri Recapの会話記録機能について説明",
+ "summary_ja": "新モデルのApple Watchに搭載されたオーディオインテリジェンス機能は、日常の会話を常に聞き取りメモを作成する。Appleは、ユーザーの記憶を呼び起こすための継続的な要約生成機能について仕組みを説明している。",
+ "points": [
+  "Apple Watchの新機能Siri Recapが発表された",
+  "終日周囲の会話を聞き取り要約を生成する機能となる",
+  "音声の録音・保存や話者の特定は行われない仕様である",
+  "利用には対応Apple WatchとiPhone 16以降が必要"
+ ],
+ "body": "Apple Watchの新型モデルに搭載される新しいオーディオインテリジェンス機能のひとつとして、Siri Recapと呼ばれる機能が提供されると報じられている。この機能は、着用者の周囲の会話を日常的に聞き取り、Apple Intelligenceを活用してその内容を継続的に要約するというものである。日々の出来事を思い出させることで、その瞬間に集中できるようにすることを目的としているとされる。\n\n常に周囲の音声を聴き取るウェアラブル端末に対する懸念を予測し、プライバシー保護に関する詳細な説明も公開されている。それによれば、音声そのものが録音・保存されることはなく、話し手が誰であるかも特定されない仕組みになっているという。ただし、Appleは着用者に対して周囲のプライベートな会話や機密性の高い状況に配慮するよう求めている。\n\n利用にあたっては、新世代のApple Watchに加えて、iPhone 16以降のモデルが必要となることが示されている。なお、iPhone 16eはこの要件から除外されている。本機能は今年後半のリリースが予定されていると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-siri-recap.jpg",
+ "published": "2026-09-10T23:38:33+00:00"
+}

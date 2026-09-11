@@ -1,0 +1,19 @@
+{
+ "id": "c64bcde8d67bdc0a",
+ "title_ja": "T-Mobile、新しいiPhone Handoff機能に月額5ドルを課金",
+ "summary_ja": "Appleの新機能である「iPhone Handoff」の利用に対し、米通信キャリアのT-Mobileが月額5ドルの料金を設定した。この機能により、1つの電話番号を2台のiPhone間で共有できるようになる。",
+ "points": [
+  "T-Mobileが新機能の「iPhone Handoff」に月額5ドルを課金すると報じられている。",
+  "ひとつの電話番号を2台のiPhoneで共有できる機能で、iOS 27で導入される予定とされる。",
+  "T-Mobileやドイツのテレコムなどで提供され、他キャリアも順次対応する見込みである。"
+ ],
+ "body": "Appleが発表した新しい「iPhone Handoff」機能の利用に関して、米キャリアのT-Mobileが月額5ドルの料金を設定すると報じられている。この機能はひとつの電話番号を2台のiPhoneの間で共有できるもので、ユーザーが手にとった端末でそのまま番号が有効になる仕組みとなっている。WWDCの基調講演で予告された後、最近のイベントで詳細が明らかにされ、iOS 27の機能として展開される予定であるとされている。\n\nイベント内では料金に関する詳細な説明はなかったものの、SNS上の情報やAppleのサポートページを通じて、キャリア側の料金が発生する場合があることが示唆されている。ドイツのテレコムなどでも提供が予定されており、同社ではマルチSIMのプラン体系の一部として扱われる見通しである。T-Mobile以外のキャリアについても、ベライゾンやEEが年末までに対応を予定しているほか、今後さらに対応キャリアが拡大していくと伝えられている。具体的な契約条件やプランの詳細はキャリアによって異なる可能性があるため、利用を検討する際は事前の確認が必要になるとみられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&strip=all&w=1600",
+ "published": "2026-09-11T00:28:45+00:00"
+}

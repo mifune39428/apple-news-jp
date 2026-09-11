@@ -1,0 +1,20 @@
+{
+ "id": "02e6a27262d8222d",
+ "title_ja": "Apple Watch Ultra 4がGLONASSを非対応に",
+ "summary_ja": "テクニカルスペックによると、Apple Watch Ultra 4ではGLONASSのサポートが削除された。他の複数の衛星測位システムに対応しており、デュアル周波数サポートとの兼ね合いや信号アーキテクチャの違いが背景にある。",
+ "points": [
+  "Apple Watch Ultra 4からGLONASSのサポートが外された",
+  "Ultra 4はGPSやGalileoなどの他システムに対応する",
+  "GLONASS非対応化により位置情報の精度向上や効率化が期待される",
+  "Apple Watch Series 12は引き続きGLONASSをサポートする"
+ ],
+ "body": "Apple Watch Ultra 4の技術仕様から、ロシアの衛星測位システムであるGLONASSのサポートが削除されていることが明らかになった。従来モデルであるUltra 3では、GPSやGLONASS、Galileo、QZSS、BeiDouに対応していたが、最新のUltra 4ではGPS、Galileo、QZSS、BeiDouの4つのシステムのみのサポートとなっている。\n\nGLONASSが外された背景として、技術的な特性や効率化の面が指摘されている。GPSやGalileoなどのシステムはCDMA方式の信号を採用し、複数周波数に対応して高精度な位置情報を実現する一方、民生用デバイスの多くはGLONASSからL1信号しか受信できないため、デュアル周波数対応の端末では有用性が低い。さらに、GLONASSは信号アーキテクチャが異なり、受信機側で衛星ごとにハードウェアのタイミング遅延を補正する必要があるため、位置情報の誤差につながる要因にもなっていた。Appleはこの変更の理由について公式に説明していないものの、GLONASSを廃止することで測位精度の向上や処理の軽減、ひいてはバッテリー駆動時間の改善につながる可能性がある。\n\nなお、同時に展開されているApple Watch Series 12においては、引き続きGLONASSのサポートが維持されている。これは、シングルమfrequency対応のデバイスにおいては、L1信号のみという制限の影響が比較的少なかったためだとみられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/10/apple-watch-ultra-4-glonass",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/Apple-Watch-Ultra-4-hero-260909-scaled.jpg",
+ "published": "2026-09-10T23:16:19+00:00"
+}
