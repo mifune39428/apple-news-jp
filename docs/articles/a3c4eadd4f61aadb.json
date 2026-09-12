@@ -1,0 +1,20 @@
+{
+ "id": "a3c4eadd4f61aadb",
+ "title_ja": "Lightningコネクタが発表された日【Apple歴史】",
+ "summary_ja": "2012年9月12日、長年使われた30ピンのドックコネクタに代わり、新しくLightningコネクタが発表されました。これは2003年のiPod Classicから続いた仕様を大きく変更するものでした。",
+ "points": [
+  "2012年の今日、iPhone 5でLightningコネクタが初登場",
+  "2003年からの30ピン端子を置き換え、小型化とリバーシブル化を実現",
+  "独自規格である点や既存アクセサリが使えなくなることで議論を呼んだ",
+  "のちにMacBookやiPad、最終的にはiPhone 15などでUSB-Cへ移行"
+ ],
+ "body": "2012年9月12日は、Appleの歴史において長年使われてきた30ピンコネクタが新しい「Lightningコネクタ」へと置き換えられた記念すべき日である。2003年のiPod Classicで登場して以来使われてきた独自端子に代わり、iPhone 5と共にデビューを果たしたLightningは、小型かつリバーシブル仕様という大きな進化をもたらした。従来のmicro USBなどと比較しても優れた利便性を誇り、充電だけでなくMacやPCとのデータ転送にも対応していた。\n\n一方で、それまでの30ピン端子向けアクセサリに投資してきたユーザーにとっては、突然の規格変更が大きな負担となり、多くの議論や反発を呼ぶことになった。また、Android端末とケーブルを共有できない独自の端子であるという点は、消費者にとっての主なデメリットでもあった。多くのLightningケーブルはUSB 2.0に対応し最大60MBpsのデータ転送速度にとどまっていたが、AppleのカメラアダプタなどはUSB 3.0ホストをサポートしていた。\n\nその後、リバーシブルでさらに高速なデータ転送が可能なUSB-C規格が登場すると、Appleは2015年のMacBookを皮切りに順次移行を進めていった。iPadシリーズを経て、欧州連合の規制なども後押しとなり、2023年のiPhone 15シリーズや最新の周辺機器に至るまでUSB-Cへの切り替えが完了し、長年親しまれたLightningはその役目を終えることになった。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/apple-history/lightning-connector-launch",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 1,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2025/09/Lightning_cable_01.jpg",
+ "published": "2026-09-12T13:30:04+00:00"
+}
