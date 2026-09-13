@@ -1,0 +1,20 @@
+{
+ "id": "0c6131694ec72cb7",
+ "title_ja": "Mac向けレトロデザインの多機能ドック",
+ "summary_ja": "Mac miniやMac Studio向けに、1984年のMacintoshを模したレトロなデザインのドックが登場しました。Thunderbolt 5や大容量ストレージに対応しています。",
+ "points": [
+  "1984年のMacintosh風デザインを採用したMac用ドックが登場",
+  "Mac mini向けのG5とMac Studio向けのG7の2種類を展開",
+  "本体には7インチ画面や物理ボタン、多数のプロ向けポートを搭載",
+  "高速なThunderbolt 5やNVMe SSDストレージ拡張に対応"
+ ],
+ "body": "Wokyisは、Mac miniおよびMac Studio向けに設計されたレトロなデザインのドック製品を発表した。1984年のMacintoshを彷彿とさせる外観を持ちながら、現代の作業環境に必要な拡張性や機能を備えている点が特徴となっている。Mac mini向けのG5と、Mac Studio向けのG7の2モデルが用意されており、それぞれ外観だけでなく搭載されるディスプレイのサイズなども異なる仕様になっている。\n\n本体には多数のプロ向けポートやNVMe SSD用のストレージスロットが備わっており、大容量のストレージ拡張や周辺機器の接続を一台でこなすことができる。上位モデルではThunderbolt 5に対応し、内蔵ストレージに迫る高速なデータ転送を実現している。また、本体に搭載されたディスプレイはmacOSから外部モニターとして認識され、動画の視聴や各種アプリの表示など実用的な使い方が可能となっているほか、操作用の物理ボタンも備えられている。\n\n本製品はUSB-C接続を備えた他のコンピュータでも単体で使用することが可能で、デザイン性と実用性を兼ね備えた周辺機器として注目を集めている。Kickstarterでのクラウドファンディングを経て、2026年10月から全世界への発送が予定されている。デスク周りに遊び心を加えつつ、ポート不足やストレージ容量の課題を解消したいユーザーにとって有力な選択肢となり得る製品である。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wokyis_2x1_400kb.jpg?quality=82&strip=all&w=1086",
+ "published": "2026-09-13T14:30:00+00:00"
+}
