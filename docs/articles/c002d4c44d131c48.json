@@ -1,0 +1,20 @@
+{
+ "id": "c002d4c44d131c48",
+ "title_ja": "iPhone18 Pro Max米国モデルのみQualcomm製モデム搭載か",
+ "summary_ja": "Appleが掲載した技術仕様から、iPhone18 Pro Maxの米国向けモデルのみ独自の「Apple C2」通信モデムが搭載されていないことが明らかになりました。米国モデルに限ってQualcomm製のモデムが継続採用される可能性を示しています。",
+ "points": [
+  "iPhone18 Pro Maxの米国向けモデルのみQualcomm製モデム搭載。",
+  "iPhone18 Proや他地域向けモデルはApple C2モデムを採用。",
+  "iOS27のコード解析から米国向け端末識別子などの存在が確認された。",
+  "C2の歩留まり問題による数量不足や過去の供給契約が背景との見方。"
+ ],
+ "body": "Appleが公開したiPhone18 Proシリーズの技術仕様やiOS27のコード解析により、iPhone18 Pro Maxの米国向けモデルのみ独自開発の「Apple C2」モデムではなくQualcomm製通信モデムが採用されていることが確認された。iPhone18 Proは全世界のモデルでApple C2モデムを搭載し、iPhone18 Pro Maxも日本を含む米国以外の地域向けモデルではApple C2が搭載されている。しかし米国向けiPhone18 Pro Maxのみ仕様上のモデム記述がなく、iOS27コード内にもQualcomm製モデムを示す識別子が発見されている。\n\n搭載されているQualcomm製モデムの型番についてAppleは公式な発表を行っていないが、最新世代にあたるSnapdragon X85が採用されている可能性が指摘されている。発表前にはSnapdragon X80シリーズが搭載されるとの噂もあったが、実機に搭載されている通信モデムの型番や、Apple C2モデムを搭載するモデルとの内部構造の違いについては、今後実施される製品の分解調査によって明らかになると期待されている。\n\n米国向けiPhone18 Pro Maxのみ他社製モデムを採用した理由は明らかになっていない。Apple C2モデムは米国向けのiPhone18 ProやiPhone Duoで5Gミリ波通信に対応しているため、ミリ波対応が目的ではないとされる。自社製モデムはQualcommからの調達より製造コストを抑えられると考えられるため、あえて他社製品を採用したことには理由があると見られる。推測される要因として、Apple C2の歩留まり率がまだ高くなく、iPhone18 ProシリーズやiPhone Duoに必要な数量を十分に確保できなかった可能性が挙げられている。需要の大きい米国向けiPhone18 Pro MaxをQualcomm製にすることで自社製モデムの必要数を抑えたとの見方がある。また、QualcommがAppleと2026年まで通信モデムの供給契約を結んでいたことも、今回の使い分けに影響を与えた可能性があると報じられている。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/iphone18-605895",
+ "lang": "ja",
+ "region": "jp",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/13/iPhone18-Pro-Max-USA.png",
+ "published": "2026-09-13T10:41:50+00:00"
+}
