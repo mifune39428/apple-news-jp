@@ -1,0 +1,20 @@
+{
+ "id": "9f7eb2f4d253027b",
+ "title_ja": "Mac情報確認ツール「MachineProfile」が最新OSやM6搭載機に対応",
+ "summary_ja": "Macのハードウェア情報や製造日、対応OSなどを確認できるアプリ「MachineProfile」が更新されました。今回のアップデートにより、macOS 27 Golden Gateをはじめ、Apple M6チップ搭載のMac miniやM5 Ultra搭載のMac Studioに対応しています。",
+ "points": [
+  "Macのシステム情報確認ツール「MachineProfile」がアップデート",
+  "macOS 27 Golden Gateやアップグレード対応Macの確認をサポート",
+  "Apple M5 Max/Ultra搭載のMac Studio (2026)に対応",
+  "M6やM5 Proチップを搭載したMac mini (2026)の情報を確認可能"
+ ],
+ "body": "Macのハードウェア情報や製造日、サポートOSなどを詳細に確認できるシステム情報確認ツール「MachineProfile」がアップデートされ、最新のOS環境や未発売とされる新型Macへの対応が行われたことが伝えられている。このツールは、米カリフォルニア州のソフトウェア会社であるMicromatが公開しているもので、日々のMacのメンテナンスなどに活用できる各種システム情報を手軽に表示できる機能を備えていることが特徴となっている。\n\n今回のアップデートにより、バージョン1.5.4では新しくmacOS 27 Golden Gateのサポートが追加され、ユーザーが手元のMacを次期OSへとスムーズにアップグレードできるかを確認できるようになっている。また、ハードウェア情報の確認対象としても拡張が図られており、Apple M5 MaxおよびM5 Ultraチップを搭載するとされるMac Studio（2026）や、M6およびM5 Proチップを搭載するとされるMac mini（2026）の認識に対応したと報じられている。\n\nこのように最新のOS環境や新世代のチップを搭載したハードウェア情報をいち早く確認できる仕様となっているため、次世代のシステム環境や新型モデルの導入を検討しているユーザーにとって役立つツールとなり得る。詳細な機能の利用やツールを試してみたい場合は、開発元の提供情報を参照の上で確認することができる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260913-machineprofile-support-macos-27-golden-gate-and-mac-mini-m6.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/MachineProfile-logo-icon.webp",
+ "published": "2026-09-12T22:59:23+00:00"
+}
