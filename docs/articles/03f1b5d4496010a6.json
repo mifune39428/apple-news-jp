@@ -1,0 +1,20 @@
+{
+ "id": "03f1b5d4496010a6",
+ "title_ja": "Apple、各OSプラットフォームの大型更新を提供",
+ "summary_ja": "Appleの最新ソフトウェアアップデートが利用可能になった。新しいSiriの機能をはじめとする、便利なApple Intelligence機能が多数導入されている。",
+ "points": [
+  "Appleの各OS向け最新ソフトウェアアップデートが配信開始",
+  "Apple Intelligenceと新しいAI機能Siri AIを導入",
+  "フランス語や日本語などの対応言語を10月に追加予定",
+  "子ども向けの見守り機能やスクリーンタイムも刷新"
+ ],
+ "body": "Appleは、各ソフトウェアプラットフォーム向けの大規模なアップデートの提供を開始した。今回のアップデートでは、より高度で知識が豊富になった新しいSiri AIや、日常的なアプリをより便利にするApple Intelligenceの新機能が導入されている。新世代のApple Intelligenceを基盤とするSiri AIは、iPhone、iPad、Mac、Apple Watch、Apple Vision Proに深く統合されており、個人の文脈理解や画面上の認識、広範な世界知識を備えた会話型アシスタントとして機能する。まずは英語でのベータ版として展開され、10月にはフランス語、日本語、韓国語、ポルトガル語、スペイン語のサポートが追加される予定となっている。\n\nさらに、Apple Intelligenceの機能によって、写真、Safari、通話などの日常的に使われるアプリが強化されている。写真アプリでは、新しい編集ツールや高度なクリーンアップ機能が追加されたほか、Image Playgroundを用いた画像生成機能が利用可能になる。Safariでは、タブのトピック別自動整理やウェブサイトの変更通知機能などが搭載された。また、ビジネスへの電話の際に確認番号や予約番号などの関連情報を表示する機能も追加されており、ユーザーの利便性が向上している。\n\n子どもの安全を守る機能やスクリーンタイムの体験も刷新された。保護者が子どものデバイス利用をより簡単に管理できるよう、年齢に応じたセーフガードの設定フローが改善されている。新しいウェブサイトへのアクセスに保護者の承認を求める機能や、連絡先の管理、過激なコンテンツをブロックする通信安全機能などが強化された。また、スクリーンタイムのデザインがより直感的になり、専門家のガイダンスに基づいた一日の利用時間の制限やスケジュール管理が容易に行えるようになっている。",
+ "source": "Apple Newsroom",
+ "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg",
+ "published": "2026-09-14T17:10:12.527000+00:00"
+}

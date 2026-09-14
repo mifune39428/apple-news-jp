@@ -1,0 +1,20 @@
+{
+ "id": "0dde4ea743fbeb84",
+ "title_ja": "「macOS 27 Golden Gate」が正式リリース、Intel Macは対象外に",
+ "summary_ja": "Appleは応答性と信頼性を高め、Liquid Glassの調整に対応する「macOS 27 Golden Gate」をリリースした。今バージョンからIntel Macはサポート対象外となる。",
+ "points": [
+  "応答性と信頼性を高めた次期OS「macOS 27 Golden Gate」が正式リリース",
+  "Mission Controlやスペース移動の速度向上に加えAirDropの転送速度も改善",
+  "導入済みのLiquid Glassデザインにおいて不透明度の調整が可能に",
+  "Intel Macのサポートが終了し、Apple Silicon Mac専用となる"
+ ],
+ "body": "Appleは、現地時間2026年6月8日に開催したWWDC26の基調講演を経て、次期Mac向けOSとなる「macOS 27 Golden Gate」の正式リリースを開始した。今回のアップデートは、前バージョンのような大規模なデザイン刷新こそないものの、Macとの応答性と信頼性をさらに高め、日常的な操作をより快適にすることを目的とした多岐にわたる改善が含まれている。具体的な変更点として、Mission Controlへの移行やスペース間の移動速度が向上しているほか、同じmacOS 27やiOS/iPadOS 27を搭載するデバイス間でのAirDropによるファイル転送速度が最大80%大幅に向上している。\n\nまた、前バージョンで導入された、すりガラスを重ねたようなUIシステムであるLiquid Glassデザインの不透明度をユーザー自身で調整できるようになり、ユーザーインターフェイスの見やすさを好みに合わせて最適化することが可能となった。さらに、さまざまなアプリにおけるApple Intelligenceの統合をはじめ、新しいペアレンタルコントロール機能が追加されており、子どもの閲覧コンテンツ、コミュニケーション相手、アプリの利用時間をより簡単に管理できるよう設計されている。\n\nなお、事前の発表通り、今バージョンからIntel Macのサポートが正式に終了している。そのため、macOS 27 Golden Gateへアップグレードできる対象はApple Siliconを搭載したMacのみとなっているため、利用の際は事前の確認が必要となる。Safariでのウェブブラウジングから写真編集に至るまで、日常的に使用するアプリケーションの利便性やスマートさが全体的に底上げされている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260915-macos-27-golden-gate-now-available.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
+ "published": "2026-09-14T18:36:32+00:00"
+}

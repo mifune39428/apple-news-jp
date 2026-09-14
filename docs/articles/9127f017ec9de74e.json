@@ -1,0 +1,19 @@
+{
+ "id": "9127f017ec9de74e",
+ "title_ja": "次期OSでのAirDrop転送速度が最大80%向上",
+ "summary_ja": "次期OSであるmacOS 27 Golden GateやiOS 27において、AirDropによるファイル転送速度が従来バージョンと比べて最大80%高速化することが判明した。デバイス間のデータやり取りがさらにスムーズになる。",
+ "points": [
+  "macOS 27やiOS 27でAirDropの転送速度が向上",
+  "事前の読み込みやP2P処理の改善により実現",
+  "検証では転送時間が大幅に短縮され約4分の1に"
+ ],
+ "body": "Appleが発表した次世代OSであるmacOS 27 Golden GateやiOS/iPadOS 27では、ファイル転送機能であるAirDropの速度が従来バージョンと比べて大幅に向上していると報じられている。世界開発者会議（WWDC26）の基調講演において、ファイルの事前読み込み処理やP2P処理の改善によって最大80%高速化されることが明らかにされていた。\n\n実際の検証では、macOS 27 Golden Gateを搭載したMacBook Proから、約151MBの高画質写真17枚をiPhoneへと転送するテストが行われた。その結果、従来バージョンのiOSを搭載したデバイスでは転送完了までに約27秒を要した一方で、iOS 27を搭載したデバイスでは約6秒で完了し、転送時間が大幅に短縮される結果が確認されたと伝えられている。\n\n今回のOSアップデートではAirDropの高速化だけでなく、さまざまなパフォーマンスの向上も含まれているとされており、対応するデバイスをアップグレードすることで全体的な動作の改善が期待できると見られている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260915-macos-and-ios-27-airdrop-speed.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/AirDrop-logo-icon.webp",
+ "published": "2026-09-14T21:06:24+00:00"
+}

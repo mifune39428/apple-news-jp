@@ -1,0 +1,19 @@
+{
+ "id": "23df7816aea942fb",
+ "title_ja": "macOS各バージョンの最新アップデートで200件超の脆弱性を修正",
+ "summary_ja": "Appleは最新および従来のmacOS向けにアップデートを配信し、200件以上の脆弱性を修正した。セキュリティ向上のため、ユーザーには早めの適用が推奨されている。",
+ "points": [
+  "macOS最新版および旧OS向けに200件以上の脆弱性を修正",
+  "カーネル権限でのコード実行やサンドボックス脱出などを対処",
+  "OpenAIやNVIDIAなどのAI関連セキュリティチームも貢献"
+ ],
+ "body": "Appleは、macOS 27 Golden Gate、macOS Tahoe 26.7、macOS Sequoia 15.8の各アップデートにおける詳細なセキュリティ変更履歴を公開した。これらの一連のアップデートを通じて、合計で200件を超える脆弱性が修正されていることが明らかになっている。近年のmacOSアップデートと同様に、今回のセキュリティ修正に関する謝辞には、OpenAI Codex SecurityやNVIDIA AI Red Team、Anthropic Researchといった複数のAI関連のセキュリティチームや研究者の名前が多数含まれているのが特徴となっている。\n\nmacOS 27で修正された脆弱性の中には、悪意のあるアプリや攻撃者がカーネル権限やルート権限で任意のコードを実行したり、macOSのサンドボックスから脱出したり、Gatekeeperの保護をバイパスしたり、保護されたシステムファイルを改変したり、機密性の高いユーザーデータにアクセスしたりするのを可能にするものが含まれている。具体例としては、AVEVideoEncoderやUDFファイルシステムに関する欠陥があり、サンドボックス化されたアプリやファイルシステムを通じてカーネルレベルでのコード実行を許してしまう可能性があった。さらに、BluetoothやCUPS、WebDAV経由でのリモートコード実行につながる脆弱性も対処されている。\n\n古いバージョンのOSとなるmacOS Tahoe 26.7およびmacOS Sequoia 15.8においても、上述したカーネルレベル、ルート権限、サンドボックス脱出、Gatekeeperバイパス、リモートコード実行などの多くの脆弱性が同様に修正されている。さらに、これらの旧システムではmacOS 27には記載されていない独自の修正も含まれており、たとえばmacOS Sequoia 15.8では、悪意を持って作成された画像を処理する際に任意のコード実行を引き起こす可能性があったImageIOの脆弱性がパッチ適用されている。新バージョンへの移行を検討しているユーザーや旧OSを使い続けているユーザーの双方にとって、今回のアップデートはセキュリティ上のリスクを低減するために重要な内容となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/14/macos-27-golden-gate-macos-tahoe-26-7-and-macos-sequoia-15-8-fix-200-vulnerabilities",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-14T20:54:46+00:00"
+}
