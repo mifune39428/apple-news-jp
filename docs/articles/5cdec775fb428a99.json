@@ -1,0 +1,20 @@
+{
+ "id": "5cdec775fb428a99",
+ "title_ja": "9月14日リリースのmacOS 27 Golden Gate対応Mac互換性リストが公開",
+ "summary_ja": "9月14日にリリースされるmacOS 27 Golden Gateに対応するMacのモデル一覧が紹介されている。自身のMacが最新OSを動作可能か確認することで、最新の機能やセキュリティ保護を享受できるかが分かる。",
+ "points": [
+  "「macOS 27」はIntel非対応で9月14日リリースとされる。",
+  "すべてのAppleシリコン搭載Macが新OSに対応するとされる。",
+  "一部の高度なAI機能はM3チップと12GB以上のメモリが必要。",
+  "前バージョンのTahoeがIntel Macをサポートする最後となる。"
+ ],
+ "body": "AppleのMac向け次期オペレーティングシステム「macOS 27 Golden Gate」が、2026年9月14日にリリースされると報じられている。今回のアップデートにおける最大の変更点は、Intelプロセッサを搭載したMacのサポートが完全に打ち切られることである。これにより、macOS 27はAppleシリコン搭載モデル専用のシステムとなり、M1チップ搭載モデルや、A18 Proチップを搭載するMacBook Neoを含むすべてのAppleシリコン搭載Macが対応機種になるとされる。一方で、2025年に登場した「macOS 26 Tahoe」が、Intel搭載Macをサポートする最後のmacOSバージョンになるという。\n\nAppleの人工知能技術「Apple Intelligence」の対応状況についても詳細が明らかになっている。Appleシリコンを搭載したすべてのMacでApple Intelligenceの基本機能を利用できるとされるが、一部の高度な機能にはハードウェア上の制限が設けられている。例えば、より表現豊かなSiriの音声機能や高度な音声入力といったAI機能を利用するには、M3以上のチップと、最低でも12GBのRAMを搭載したMacが必要になると報じられている。もちろん、Intel搭載MacではApple Intelligenceの機能は一切利用できない。\n\nIntel搭載Macのユーザーにとっては、Appleシリコンへの移行を本格的に検討すべきタイミングが訪れている。現在使用しているIntel製Macが前バージョンのmacOS Tahoeを実行できる場合、macOS 27のリリース後も少なくとも1年間はセキュリティアップデートが継続して提供される見込みであるため、急いで買い替える必要はないとされる。しかし、Tahoeすら実行できないさらに古いモデルの場合、macOS 27の登場に伴ってセキュリティアップデートの提供が終了する可能性がある。脆弱性から保護されない状態を避けるためにも、計画的なアップグレードが推奨されている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/673697-0-01058000-1789378928-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all",
+ "published": "2026-09-14T09:41:56+00:00"
+}
