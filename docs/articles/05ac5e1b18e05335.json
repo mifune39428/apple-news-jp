@@ -1,0 +1,20 @@
+{
+ "id": "05ac5e1b18e05335",
+ "title_ja": "Apple Vision Pro全モデル向けに「visionOS 27」が配信開始",
+ "summary_ja": "Apple Vision Proの最新メジャーソフトウェアアップデート「visionOS 27」がリリースされた。全Vision Proモデルを対象に順次配信が始まっており、最新機能の追加や体験の向上が図られている。",
+ "points": [
+  "Apple Vision Pro向け最新OS「visionOS 27」の配信が開始",
+  "M2搭載の従来モデルとM5モデルの双方がアップデートに対応",
+  "空間コンピューティングにおいて最大の見どころとなるSiri AIを統合",
+  "EU地域でもiPhoneなどに先駆けてVision ProでSiri AIを利用可能"
+ ],
+ "body": "Apple Vision Pro向けとなる次期大型ソフトウェアアップデート「visionOS 27」の配信が、すべてのモデルを対象に順次開始されている。今回のアップデートでは、M2チップを搭載した初期モデルからM5モデルまでが幅広く対応しており、対応デバイスを使用しているユーザーであれば誰でも新機能を利用することが可能となっている。\n\n今回のアップデートにおいて最も大きなハイライトとなるのが、空間コンピューティング向けに強化されたSiri AIの統合である。空間コンピューティングの環境において、より強力なSiriの存在が大きなメリットをもたらすという期待に応える形で、本格的なAI機能が実装されることになった。これにより、音声操作やアシスタント機能の利便性が飛躍的に向上するものとみられている。\n\nまた、特筆すべき点として、このビジョンOSにおけるSiri AIは欧州連合（EU）の地域でも展開されることが挙げられている。EU圏のユーザーは、iPhoneやiPad、Apple Watchといった他のデバイスではまだ新しいSiriを利用できない状況にあるものの、Vision Proにおいては先行してその最新AI機能を体験できるようになる見通しである。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/14/visionos-27-is-here-for-apple-vision-pro-with-these-new-features",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionOS-27-hero-02.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-14T17:10:17+00:00"
+}

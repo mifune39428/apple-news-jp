@@ -1,0 +1,19 @@
+{
+ "id": "fda7fcda8198cdd5",
+ "title_ja": "Apple、Siri AI搭載の「iOS 27」「iPadOS 27」公開",
+ "summary_ja": "AppleはiPhoneおよびiPad向けの最新OSとなる「iOS 27」と「iPadOS 27」の配信を開始した。Siri AIの統合やLiquid Glassのアップデートなどが含まれており、対応デバイスの「設定」アプリから無料でアップデートできる。",
+ "points": [
+  "iOS 27とiPadOS 27が対応デバイス向けに配信開始",
+  "より高度なSiri AIや新しいデザインを導入",
+  "Apple Intelligenceの機能が各アプリで拡充"
+ ],
+ "body": "Appleは、iPhoneおよびiPad向けの最新オペレーティングシステムとしてiOS 27とiPadOS 27の配信を開始した。対応しているすべてのデバイスに対して無料で提供されており、設定アプリの一般メニューにあるソフトウェアアップデートから無線でダウンロードすることができる。配信開始直後は混雑によってすべてのユーザーに行き渡るまでに時間がかかる場合がある。対応機種については、iOS 27がiOS 26を搭載できるiPhoneのほか、特定の世代以降のiPadシリーズを対象としている。\n\n今回のアップデートでは、よりスマートで機能が向上したSiri AIが導入された。利用するには設定アプリ内の項目から登録が必要となる場合があり、専用のSiriアプリのほか、新しいLiquid Glassデザインや多数のApple Intelligence関連機能が追加されている。AI機能を使用するにはApple Intelligenceに対応したデバイスが必要となり、現時点でSiri AIなどの機能に追加料金は発生しないが、将来的に高負荷な利用に対して課金が開始される可能性がある。\n\nアップデートには多岐にわたる新機能や改善が含まれている。Siri AIでは文脈の理解や画面上の認識機能に加え、自然な音声表現や専用アプリでの会話の同期などが利用できるようになる。また、写真アプリでの空間的な構図調整や画像の拡張、削除機能の強化が行われているほか、Safariでのタブの自動整理や自然言語による拡張機能の作成なども可能になった。さらに、ホームアプリやカレンダー、メールなどシステム全体のアプリ連携が強化され、アクセシビリティ機能の向上など幅広いアップデートが行われている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://images.macrumors.com/article-new/2026/09/iOS-27-Out-Now-Thumb.jpg",
+ "published": "2026-09-14T17:04:19+00:00"
+}

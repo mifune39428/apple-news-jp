@@ -1,0 +1,20 @@
+{
+ "id": "74c2a9adf734a0bb",
+ "title_ja": "Apple Watch向けの最新OS「watchOS 27」が正式リリース",
+ "summary_ja": "AppleはApple Watchユーザー向けに、最新のメジャーアップデートとなる「watchOS 27」の配信を開始した。順次ロールアウトが行われており、今回のリリースにより各種新機能や改善が提供されている。",
+ "points": [
+  "Apple Watch向け最新OSのwatchOS 27が配信開始",
+  "一部の旧モデルのサポートが終了し対象外に",
+  "iPhoneと同等の高度なSiri AI機能を搭載",
+  "各種のバグ修正により動作の滑らかさが向上"
+ ],
+ "body": "Appleは、Apple Watch向けの次期メジャーアップデートとなる「watchOS 27」の配信を順次開始した。このアップデートを適用するには、事前にiPhoneのOSを「iOS 27」へとアップデートしておく必要があり、手続きはiPhoneのWatchアプリ経由で行う仕組みとなっている。今回のリリースに伴い、これまで対応していた複数の旧モデルがサポート対象外となり、Apple Watch Ultraの初代、Series 8、Series 7、Series 6、そしてApple Watch SEの第2世代などはインストールできなくなる。\n\n今回のアップデートにおける最大の目玉は、大幅に強化された新しいSiri AI機能の導入である。これまでの腕時計向けに機能を制限した簡易版ではなく、iOS 27を搭載したiPhoneやmacOSを搭載したMacと同等レベルの、非常にパワフルなアシスタント機能が手首の上でも利用できるようになった。さらに、Apple Watch上でSiriと交わした会話の内容は、新しいSiriアプリを通じてユーザーが持つすべてのデバイス間で同期されるため、シームレスな連携が可能になる。\n\n新機能の追加やAIの強化に加えて、細かなバグ修正や各種の最適化も実施されている。これにより、日々のさまざまな操作における動作がこれまでよりも滑らかになり、全体的なユーザー体験の向上につながるとしている。対象となるApple Watchを使用しているユーザーは、iPhone側の準備を済ませた上でアップデートを行うことで、新しい機能や改善されたパフォーマンスを体験することができる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-tap-gesture-wrist.jpg?quality=82&strip=all&w=1500",
+ "published": "2026-09-14T17:10:29+00:00"
+}

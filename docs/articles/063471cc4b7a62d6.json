@@ -1,0 +1,20 @@
+{
+ "id": "063471cc4b7a62d6",
+ "title_ja": "HomePodソフトウェア27配信、AutoMixに対応",
+ "summary_ja": "AppleはHomePodおよびHomePod mini向けに、AutoMixに対応した新ソフトウェアをリリースした。Apple Music再生時のシームレスな曲間移行や、AirPlayの接続パフォーマンス向上などの機能が追加されている。",
+ "points": [
+  "HomePod向けに最新ソフトウェア27が配信開始",
+  "Apple Musicの自動DJ機能「AutoMix」に対応",
+  "AirPlayの接続パフォーマンスが向上",
+  "ホームアプリから手動または自動でアップデート可能"
+ ],
+ "body": "Appleは、HomePodおよびHomePod mini向けに最新のソフトウェアバージョン27の提供を開始した。今回のアップデートでは、Apple Musicの新機能としてAutoMixサポートが追加されているのが大きな特徴となっている。この機能により、DJのように楽曲同士を自然につなぎ合わせることが可能となり、テンポの調整やビートマッチングによって途切れることのない音楽体験を楽しむことができるようになる。音楽の再生環境だけでなく、デバイス間の連携機能も強化されており、AirPlayのパフォーマンス向上も含まれている。これにより、iPhoneやiPad、Macなどのデバイスから音楽を共有する際の接続速度がより速く、応答性が高くなっている。そのほか、システム全体のバグ修正やセキュリティアップデートも適用されている。アップデートの適用は、iPhone、iPad、Macのホームアプリを経由して行うことが可能であり、詳細メニューからホーム設定を開き、ソフトウェアアップデートの項目を選択することでインストールできる。なお、自動アップデート機能を有効にしている場合は、設定した状態に応じて自動的に適用される仕組みになっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/14/apple-releases-homepod-software-27",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2023/11/homepods-red.jpg",
+ "published": "2026-09-14T17:00:00+00:00"
+}

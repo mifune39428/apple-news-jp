@@ -1,0 +1,20 @@
+{
+ "id": "d0ec5ffb4c083e22",
+ "title_ja": "macOS 27 Golden Gateがリリース、Apple Silicon搭載Macに対応",
+ "summary_ja": "Appleは最新OS「macOS 27 Golden Gate」の配信を開始した。新しいSiri AIアシスタントの追加やLiquid Glassの改善、パフォーマンス向上が図られている。なお、本アップデートはApple Silicon搭載Macが対象となっている。",
+ "points": [
+  "Apple Silicon搭載Mac向けにmacOS 27 Golden Gateが配信開始",
+  "新Siri AIやLiquid Glassの改良、パフォーマンス向上の新機能が追加",
+  "Intel搭載Macは対象外となり、昨年のmacOS Tahoeが最終大型アプデに",
+  "新Siri AIは当面ベータ版として英語のみで提供され専用アプリも登場"
+ ],
+ "body": "Apple Siliconを搭載したMac向けに、新OSであるmacOS 27 Golden Gateの配信が開始された。今回のアップデートでは、新機能となるSiri AIアシスタントの導入をはじめ、Liquid Glassの改良や全体的なパフォーマンスの向上が図られている。なお、対応機種はApple Silicon搭載Macのみとなっており、Intel搭載Macは対象外となっている。Intel製Mac向けの大型アップデートは、昨年のmacOS Tahoeが最後となっていた。\n\n今アップデートの最大の目玉機能となる新Siri AIでは、質問への回答や、写真やメールといった個人的な文脈に関わる情報の検索、メッセージやリマインダーなどのアプリ内でのアクション実行が可能になる。また、これまでのやり取りをアーカイブして簡単に参照できる専用のSiriアプリも新しく用意された。ただし、新Siri AIは初期段階ではベータ版として提供され、利用できる言語は英語のみにとどまる。\n\nデザイン面では、Liquid Glassに関して均一な屈折とコントラストの改善が施されたとされており、要素の不透明度を調整できる新しいスライダーが追加された。さらに、長年ユーザーの間で注目されていたUIの変更点として、ウィンドウの角の丸みが統一されるという嬉しい改善も含まれている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-09-14T17:10:13+00:00"
+}
