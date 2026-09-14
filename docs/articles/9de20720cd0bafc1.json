@@ -1,0 +1,20 @@
+{
+ "id": "9de20720cd0bafc1",
+ "title_ja": "「ipatool」がMac App Storeに対応",
+ "summary_ja": "App StoreからiOSアプリのipaファイルを検索・ダウンロードできるコマンドラインツール「ipatool」がアップデートされた。新たにMac App Storeで配信されているアプリの検索とダウンロード機能にも対応している。",
+ "points": [
+  "iOSアプリのipaファイルをダウンロードできるツールが更新",
+  "最新のv2.6.0でMac App Storeアプリに対応",
+  "専用のオプションを使いターミナルから検索や取得が可能",
+  "利用にはApple IDでのログインや購入履歴が必要"
+ ],
+ "body": "iPhoneやiPad向けアプリのipaファイルをApp Storeから検索してダウンロードできるコマンドラインツール「ipatool」が、最新のバージョン2.6.0へとアップデートされた。このツールは、Mac App Store向けの人気コマンドラインツールである「mas」のiOS版のような位置づけとしてGo言語で開発されており、これまでiOSやiPadOSなどのアプリに対応していた。\n\n今回のアップデートにより、新たにMac App Storeで配信されているアプリの検索とダウンロードがサポートされることになった。開発者のMajd氏によると、コマンド実行時にプラットフォームを指定するオプションを追加することで、Macアプリの検索だけでなく、利用可能なバージョンのリスト表示やメタデータの取得なども行えるようになっている。\n\n利用にあたってはApple IDでのログインが必要となるほか、すでに購入済みやダウンロード済みのアプリであれば、指定のコマンドを用いることでパッケージ形式での取得が可能となっている。Mac App Storeで配信されているアプリを自身の環境で管理したいと考えているユーザーにとって、便利な選択肢のひとつとなりそうだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260914-ipatool-support-mac-app-store.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Terminal-macOS-26-Tahoe-logo-icon.webp",
+ "published": "2026-09-13T22:57:14+00:00"
+}
