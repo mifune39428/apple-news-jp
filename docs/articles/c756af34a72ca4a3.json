@@ -1,0 +1,20 @@
+{
+ "id": "c756af34a72ca4a3",
+ "title_ja": "Apple、新機能を満載した「macOS Golden Gate」を公開",
+ "summary_ja": "Appleは対応するMac向けに最新のOS「macOS Golden Gate」を一般公開した。M1チップ以降を搭載したMacなどでアップグレードが可能となる。SiriのAI機能や、写真、カレンダーなどの純正アプリでApple Intelligenceが利用できる。",
+ "points": [
+  "Apple Silicon搭載Mac向けの新OS「macOS Golden Gate」が配信開始",
+  "AI機能が大幅に強化され、Spotlightから直接Siriを利用可能に",
+  "画面上の情報を読み取る「Visual Intelligence」がMacにも登場",
+  "自然言語でショートカットやSafariの拡張機能を作成可能に"
+ ],
+ "body": "Appleは、Apple製チップを搭載したMac向けに最新OS「macOS Golden Gate」の配信を開始した。EU圏ではMacでのみ利用可能なSiriのAI機能をはじめ、写真やカレンダー、リマインダー、ホーム、Safariなどの純正アプリにおける新しいApple Intelligence機能が多数追加されている。デザイン面では、ウィンドウの透明度や角の丸みが調整できるようになり、サイドバーのフロート表示が廃止されるなど、アクティブなウィンドウの判別がしやすく視認性が向上した。\n\n今アップデートの最大の特徴はAIを活用した機能拡充であり、Command＋Spaceキーで呼び出すSpotlightが「検索または質問」を統合したバーへと進化している。専用のSiriアプリを通じて過去の会話の確認や新規のやり取りが可能になり、画面上の情報を読み取って質問に答えるビジュアルインテリジェンス機能もMacで利用できるようになった。また、システム全体で利用できる文章作成支援機能や、スペル・文法修正の精度向上なども含まれており、ユーザーの作業効率を多方面からサポートする。\n\nさらに、iPhoneミラーリング機能ではウィンドウのサイズ変更が可能になり、利用するアプリに合わせて柔軟な表示レイアウトを選べるようになった。ショートカットやSafariの機能拡張では、作りたい内容を自然言語で説明するだけでAIが自動生成してくれる機能が導入され、より手軽にカスタマイズを行える。このほかにも、Safariにおけるインテリジェントなタブの自動グルーピング機能や、ウェブページの更新監視機能などが追加され、パフォーマンスの向上と合わせて日常的な使い勝手が大きく引き上げられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://images.macrumors.com/article-new/2026/09/10-macOS-Features-to-Try-First-Feature.jpg",
+ "published": "2026-09-15T00:02:40+00:00"
+}

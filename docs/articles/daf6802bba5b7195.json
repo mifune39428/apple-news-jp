@@ -1,0 +1,20 @@
+{
+ "id": "daf6802bba5b7195",
+ "title_ja": "watchOS 27が配信開始、新Siriやジェスチャーに対応",
+ "summary_ja": "AppleはApple Watch向け最新OS「watchOS 27」の配信を開始した。新しいSiriやタップジェスチャーなどが追加されているが、Series 8と初代Ultraは対象外となる。",
+ "points": [
+  "Apple Watch向け最新OS「watchOS 27」が配信開始",
+  "対応機種はSE 3、Series 9〜11、Ultra 2〜3の6機種に限定",
+  "Series 6〜8、初代Ultra、SE（第2世代）は対象外となる",
+  "新Siriや片手タップ、オフラインのShazam認識機能などを搭載"
+ ],
+ "body": "Appleは9月15日、Apple Watch向け最新OS「watchOS 27」の配信を開始した。今作では新しいSiriをはじめ、改良されたWorkout Buddy、片手でウィジェットを選べるタップジェスチャー、よく使うアプリを前面に出すダイナミックアプリグリッドなどが導入されている。アップデートはiPhoneのWatchアプリ経由で実行可能となっており、実行には50％以上の充電やWi-Fi接続、iPhoneの通信圏内にあることが条件となる。また、利用にはiOS 27を搭載したiPhone 11以降、またはiPhone SE（第2世代）以降とのペアリングが必要とされている。\n\n一方で、今年のwatchOSは対応機種の線引きが厳しいと報じられている。対応するのはApple Watch SE 3、Series 9、Series 10、Series 11、Ultra 2、Ultra 3の6機種のみで、Series 6からSeries 8、初代Ultra、SE（第2世代）の5機種が対象外となった。特に2022年発売のSeries 8や初代Ultraなどが外れたことで、サポート期間が短くなったと受け止められている。この厳格な線引きの背景には、Siri AIやオフライン処理などの新機能を支えるためのチップ性能要件があるものとみられている。\n\n対応機種に残ったユーザー向けには、実用的な新機能が多く追加されている。片手でのタップジェスチャーにより、両手がふさがった状態でもスマートスタック内のウィジェット選択が可能になった。また、Workout BuddyはiPhoneが近くにない状態でも利用できるようになり、オフライン環境でのShazamによる楽曲識別にも対応している。さらに、40歳以上を対象とした更年期前を暗示する生理周期の変動通知機能など、健康管理機能も拡充されている。対象外となった古いモデルについては引き続きwatchOS 26を利用できるとされている。",
+ "source": "gori.me",
+ "url": "https://gori.me/watchos/watchos-news/170175",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 5,
+ "image": "https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-459-800x534.jpg",
+ "published": "2026-09-14T21:20:06+00:00"
+}

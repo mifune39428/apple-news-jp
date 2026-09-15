@@ -1,0 +1,20 @@
+{
+ "id": "54ecf8efd312dcf1",
+ "title_ja": "Xの独立型メッセージングアプリ「XChat」が配信停止",
+ "summary_ja": "iPhoneおよびiPad向けに提供されていたXのスタンドアロンメッセージングアプリ「XChat」が、現在App Storeからダウンロードできない状態になっていることが明らかになった。",
+ "points": [
+  "Xの独立型メッセージアプリ「XChat」がApp Storeから削除された",
+  "当初は理由が不明だったが開発者側が自ら取り下げたと報じられている",
+  "Android版もGoogle Playストアから消えている模様",
+  "今年リリースされたばかりだが短期間で終了した可能性がある"
+ ],
+ "body": "Xのユーザー間ダイレクトメッセージ機能に特化した独立型アプリ「XChat」のiPhoneおよびiPad向け版が、App Storeからダウンロードできなくなっていると報じられている。今年に入ってから配信が開始された同アプリだが、突如として利用できない状態となり、一時はその理由が不明とされていた。\n\nその後の情報によると、今回のアプリ消失はApple側がストアから削除したものではなく、開発者自身が自らの意思で取り下げたものとされている。また、当初はAndroid版についてはGoogle Playストアで入手可能であると伝えられていたものの、実際にはこちらもストアから姿を消している模様だ。\n\n今年公開されたばかりのXChatであるが、わずか数ヶ月でストアから削除された状況証拠から、Xが同アプリの提供を終了に向かわせているのではないかと見られている。今後の公式なアナウンスや詳細な経緯については引き続き注目が集まることになりそうだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/xchat.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-14T22:30:42+00:00"
+}

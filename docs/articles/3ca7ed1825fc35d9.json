@@ -1,0 +1,20 @@
+{
+ "id": "3ca7ed1825fc35d9",
+ "title_ja": "Apple Homeの新セキュリティ機能、AI活用で月額料金が発生",
+ "summary_ja": "最新のiOSおよびtvOSのリリースに伴い、Apple HomeにAIを活用した動画要約機能が追加された。HomeKit Secure Videoのカメラ映像をAIがテキストで説明する機能だが、利用には追加の費用が必要となる。",
+ "points": [
+  "Apple HomeのセキュリティカメラにAI機能が追加",
+  "利用には高額なiCloud PlusやApple Oneのプランが必要",
+  "カメラの台数に応じて月額料金が最大約60ドルまで跳ね上がる",
+  "既存のHomeKit Secure Videoの基本機能には影響なし"
+ ],
+ "body": "iOSなどの新しいソフトウェア公開に伴い、Apple HomeのHomeKit Secure VideoにApple Intelligenceを活用した新機能が導入されると報じられている。これにより、対応するセキュリティカメラが捉えた人物や状況の短いテキスト要約機能をはじめ、新しいビデオ検索機能や複数カメラの映像を一つにつなぎ合わせる機能などが利用できるようになるとされている。しかし、これらのAI機能を利用するためには高額な費用が必要になると伝えられており、利用するカメラの台数に応じて必要なiCloud PlusのストレージプランやApple Oneのサブスクリプションが指定されている。\n\n公開されたサポートページの情報によると、AI機能を利用できるのは1台のカメラにつき月額9.99ドルの2TBプラン、または月額39.95ドルのApple One Premierからとされている。さらに、2台目のカメラでAI機能を利用するには月額29.99ドルの6TBプランが必要になり、最大5台までの場合は月額59.99ドルの12TBプランへと引き上げる必要があると報じられている。これまでのHomeKit Secure Videoは比較的安価な月額プランから利用できたのに対し、AI機能の追加に伴う価格の引き上げ幅は非常に大きいと指摘されている。\n\n競合他社であるAmazonのRingやGoogle Nestが提供する同等のAI機能を持つサブスクリプションと比較しても、Appleの新しい価格設定はかなり高額であると伝えられている。一方で、今回の仕様変更によって既存のHomeKit Secure Videoで利用できる機能やサービスの内容自体が変わるわけではないとされている。また、システムの裏側での改良により速度や信頼性が向上しているほか、新たに4Kのビデオ解像度にも対応するなど、ソフトウェア全体の改善も図られていると報じられている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-09-14T22:28:52+00:00"
+}

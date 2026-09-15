@@ -1,0 +1,21 @@
+{
+ "id": "d5daebe14fca5633",
+ "title_ja": "アップル、旧型Mac向けに各OSのセキュリティ更新を配信",
+ "summary_ja": "アップルは、最新OSにアップグレードできないIntel Macなどを対象に、多数の脆弱性を修正した「macOS 26.7 Tahoe」や「macOS 15.8 Sequoia」、さらに「Safari 27」をリリースした。",
+ "points": [
+  "macOS 27非対応のIntel Mac向けに新OSを公開",
+  "macOS 26.7 TahoeとmacOS 15.8 Sequoiaをリリース",
+  "AIセキュリティチームが発見した150件以上の脆弱性を修正",
+  "ゼロデイ脆弱性の含まれないセキュリティアップデートを実施",
+  "Safari 27でも6件の脆弱性が修正され適用が推奨される"
+ ],
+ "body": "Appleは、新OS「macOS 27 Golden Gate」へアップグレードできないIntel Macや、旧OSの継続利用を希望するユーザーに向けて、「macOS 26.7 Tahoe」および「macOS 15.8 Sequoia」を正式にリリースした。今回のアップデートには、NVIDIA AI Red Teamをはじめとする各種AIセキュリティチームによって発見されたものを含め、150件を超える多数の脆弱性を修正する重要なセキュリティパッチが含まれている。なお、今回の公開分にはゼロデイ脆弱性の修正は含まれていないとされている。\n\n同時に公開された各OS向けの「Safari 27」においても、合計6件の脆弱性が修正されていることが明らかになっている。macOS 27への移行を見送っているユーザーや、引き続きサポート対象外の環境でMacを使用しているユーザーにとっては、システム全体の安全性を保つために早めのアップデート適用が推奨される内容となっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260915-macos-26-7-tahoe-and-15-8-sequoia.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/macos-26-Tahoe-logo-icon.webp",
+ "published": "2026-09-14T22:57:10+00:00"
+}
