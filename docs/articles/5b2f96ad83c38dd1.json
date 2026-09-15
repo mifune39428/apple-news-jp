@@ -1,0 +1,20 @@
+{
+ "id": "5b2f96ad83c38dd1",
+ "title_ja": "watchOS 27の新Siriアプリ、仕様に注意",
+ "summary_ja": "Apple Watch向けのwatchOS 27には、新しいSiriアプリが新たに搭載されました。iPhoneやiPad版とは異なり、一部の操作において少し分かりにくい仕様になっています。既存のチャットを継続できる機能などが含まれています。",
+ "points": [
+  "watchOS 27でApple Watchに新しいSiriアプリが追加された",
+  "新機能としてSiriとのチャット履歴の保存と再開に対応している",
+  "Apple Watch版では会話の継続方法が少し分かりにくい仕様になっている",
+  "画面を開いた状態でSiriを起動することで既存の会話を続けられる"
+ ],
+ "body": "Apple Watch向けに提供されるwatchOS 27では、新しくSiriアプリが搭載され、これまでのOSからアップデートが行われていると報じられている。今作からはSiriが初めてチャットの履歴を保存できるようになり、過去に調べた内容を改めて質問し直すことなく簡単に参照できるほか、最初からやり直すことなく会話を再開できるようになるとされている。これにより、毎回詳細な説明をしなくても自然な形でSiriとコミュニケーションを取ることが可能になると伝えられている。\n\n一方で、iPhoneやiPad、Mac版のSiriアプリではiMessageのように直感的に会話を引き継げるのに対し、Apple Watch版では一見するとチャットを継続するための明確なユーザーインターフェイスが用意されていないと指摘されている。そのため、Apple Watchでは会話の再開がサポートされていないように見えるものの、実際にはチャットスレッドを表示した状態でSiriを起動するという隠された手順を踏むことで、入力内容が現在のスレッドに追加され会話を続けられると説明されている。今後のwatchOSのアップデートでより良い操作方法に変更される可能性があるとも報じられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/15/watchos-27-siri-app-lets-you-continue-existing-chats-though-its-a-bit-hidden",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?w=1600",
+ "published": "2026-09-15T17:00:11+00:00"
+}

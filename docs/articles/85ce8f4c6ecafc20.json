@@ -1,0 +1,20 @@
+{
+ "id": "85ce8f4c6ecafc20",
+ "title_ja": "macOS 27のFinderにAI機能が統合、ファイル名を自動提案",
+ "summary_ja": "macOS 27 Golden Gateにおいて、Apple Intelligenceを活用した新しいファイル名提案機能がFinderに統合された。写真やPDFなどの内容をAIが自動で理解し、最適なファイル名を提示してくれるようになる。",
+ "points": [
+  "macOS 27 Golden GateでFinderにApple Intelligenceが統合",
+  "画像やPDFなどの内容をオンデバイスで把握し最適なファイル名を提案",
+  "保存ウィンドウやファイル名変更時に提案が表示される仕組み",
+  "Finderの設定から機能をオフにすることが可能"
+ ],
+ "body": "Appleは日本時間2026年9月15日に「macOS 27 Golden Gate」をリリースし、さまざまなアプリへのApple Intelligence機能の統合を通じてMacの応答性と信頼性を向上させている。この最新OSでは、ファイル管理を行うFinderにもApple Intelligenceが組み込まれ、新しい機能としてファイル名の提案機能が追加された。この機能は、画像、ドキュメント、PDFファイルなどの内容をオンデバイスで自動的に把握し、アプリの保存ウィンドウやファイル名の変更時に最適な名前を提案してくれるというものである。\n\nファイル名の提案機能はテキストエディタやプレビューをはじめとする様々なアプリで表示されるが、そのベースとなっているのはFinderに統合されたApple Intelligence機能である。自動でファイル名を付けられるのではなく、これまで通り自分でファイルやフォルダ名を付けたいと考えているユーザー向けに、設定の変更も用意されている。Finderメニューの設定から「ファイル名を提案」の項目をオフにすることで、この提案機能を無効化できるようになっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260916-macos-27-golden-gate-finder-suggested-names.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/11/Finder-macOS-26-Tahoe-logo-icon.webp",
+ "published": "2026-09-15T20:15:48+00:00"
+}
