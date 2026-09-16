@@ -1,0 +1,20 @@
+{
+ "id": "6424ca8b1c0ad62b",
+ "title_ja": "iOS 27の新しいSiri AI機能を使うにはウェイトリストへの登録が必要",
+ "summary_ja": "AppleがリリースしたiOS 27の新機能である「Siri AI」を利用するには、ウェイトリストへの登録が必要です。iOS 27自体はiPhone 11以降に対応していますが、新しいSiri AI機能の利用はApple Intelligenceに対応したiPhone 15 Pro以降のモデルに限定されます。",
+ "points": [
+  "iOS 27がリリースされ新Siri AIが利用可能に",
+  "利用にはウェイティングリストへの登録が必要",
+  "Siri AIの対応機種はiPhone 15 Pro以降",
+  "日本語を含む多言語対応は10月予定と報じられる"
+ ],
+ "body": "Appleが約3か月のベータテストを経てiOS 27をリリースした。アップデートを適用したものの、新しくなったSiri AIや専用のSiriアプリが見当たらない場合、利用するにはウェイティングリストへの登録が必要となっている。OS自体はiPhone 11以降に対応しているが、Siri AI機能を利用できるのはiPhone 15 Pro以降のモデルに限られる。\n\nウェイティングリストへの登録後、アクセスが許可されるまでの待機時間はユーザーによって異なり、数分で完了する場合もあれば数時間から数日かかることもあるとされる。利用可能になるとiPhoneに通知が届き、専用アプリが自動で表示される仕組みだ。新しいSiri AIは従来の基本操作に加え、ChatGPTのように柔軟な応答が可能となっており、端末内の個人情報や画面上の表示を認識して動作する。\n\n初期段階では英語のみの対応となるが、日本語やフランス語、韓国語、スペイン語、ポルトガル語などのサポートは10月に予定されていると伝えられている。なお、欧州連合（EU）圏内では規制上の問題により、初期リリース時点では利用できない。Appleは、iOS 27の正式リリース後もSiri AIについては引き続きベータ版の位置づけとしている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/06/Personalized-Siri-iOS-27.jpg",
+ "published": "2026-09-15T15:54:20+00:00"
+}
