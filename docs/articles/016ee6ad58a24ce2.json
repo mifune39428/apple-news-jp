@@ -1,0 +1,20 @@
+{
+ "id": "016ee6ad58a24ce2",
+ "title_ja": "macOS 27、AirMacやTime Capsuleへの新規バックアップ不可に",
+ "summary_ja": "macOS 27 Golden Gateにて、AirMacやTime Capsuleへの新規Time Machineバックアップが作成不可能になりました。2026年9月にリリースされた最新OSにおける変更で、既存のバックアップ環境を利用しているユーザーは運用の見直しが必要です。",
+ "points": [
+  "macOS 27でAFPが非サポートとなりAirMacへの新規バックアップが不可に",
+  "前OSの警告表示から変化し対象ストレージが認識されない仕様に変更された",
+  "代替としてSMBプロトコルに対応したサードパーティ製NASの利用が推奨される",
+  "macOS 27では「AirMacユーティリティ」の標準同梱も終了している"
+ ],
+ "body": "Appleが2026年9月15日にリリースしたmacOS 27 Golden Gateにおいて、長年提供されてきたファイル共有プロトコルであるAFP（Apple Filing Protocol）のサポートが正式に終了した。AFPは1980年代から使用されてきたプロトコルだが、この非サポート化に伴い、AFP経由で接続するAirMac Extreme Base StationやAirMac Time CapsuleといったApple製機器への新規Time Machineバックアップ作成が不可能な状態となっている。AppleはAFPの代わりに業界標準プロトコルであるSMBをデフォルトとして採用しており、ネットワーク経由のバックアップ環境は大きな転換点を迎えている。\n\n前バージョンであるmacOS 26 Tahoeにおいては、AirMacやTime Capsuleへの新規バックアップを設定する際に、将来のバージョンでバックアップが利用できなくなる旨の警告が表示されるにとどまっていた。しかし、macOS 27 Golden Gateでは仕様変更が行われ、システムのTime Machine設定画面において接続されたAirMacストレージやハードディスクそのものが表示されなくなった。これにより、新規にバックアップを作成する手順自体が遮断されている状態となっている。\n\nこうした変更に対応するため、Time Machine機能をネットワーク経由で引き続き利用したい場合は、SMBプロトコルに対応したサードパーティ製のNASストレージへ移行することが推奨されている。SynologyやUgreen、QNAPなどのメーカー製品はTime Machine over SMBに対応しており、適切な代替手段となる。なお、macOS 27 Golden Gateでは新規インストール時に「AirMacユーティリティ」が同梱されなくなった。以前のmacOSからアップグレードした場合はシステム内にアプリが残されるものの、動作保証の対象外となっているため注意が必要だ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260916-macos-27-golden-gate-end-support-airmac-time-capsule-time-machine.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/AirMac-AirPort-Exterme-logo-icon.webp",
+ "published": "2026-09-16T05:18:10+00:00"
+}

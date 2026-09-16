@@ -1,0 +1,20 @@
+{
+ "id": "cc706e14c6a5f9a2",
+ "title_ja": "Macの仮想化環境で使えるWindows版Office 2024がセール中",
+ "summary_ja": "Mac上のParallels DesktopやVMware Fusionなどの環境で動作するWindows版Microsoft Office 2024の永久ライセンスが、割引価格の54.99ドルで販売されている。追加のサブスクリプションを支払わずにWindows用のOffice環境を導入できる。",
+ "points": [
+  "Win版Office2024の永久ライセンスが54.99ドルでセール中。",
+  "ParallelsなどのMac上仮想Windows環境で利用可能。",
+  "サブスク不要で、二重課金を防ぎコストを固定できる。",
+  "特定の作業でたまにWindowsを使うMacユーザーに最適。"
+ ],
+ "body": "Macユーザーの中には、Parallels DesktopやVMware Fusionといった仮想化ソフト、あるいはBoot Campを利用して、Macの中にWindows環境を構築している人が少なくありません。こうした環境でWindows用のMicrosoft Officeを使用する場合、通常であればMac用とは別にMicrosoft 365のサブスクリプションを契約するなど、追加の維持費が発生してしまいます。しかし、現在セールが実施されている「Microsoft Office 2024 Professional Plus for Windows」の永久ライセンスを利用すれば、サブスクリプションを追加することなく、安価にWindows側のOffice環境を整えることができます。\n\nこのセールでは、通常249.99ドルで提供されている1台のPC（仮想マシンを含む）向けの永久ライセンスが、54.99ドルという大幅に割引された価格で購入可能です。一度購入してしまえば、その後は追加の費用が発生しないため、ソフトウェア関連の月々の出費を固定することができます。MacとWindowsという2つの異なるOSを同時に運用しているユーザーにとって、ソフトウェアのサブスクリプション料金が二重に発生することは大きな負担となりますが、この買い切り型のライセンスを導入することで、そのコストを賢く削減することが可能です。\n\n特に、特定のアプリケーションの利用や特定のワークフローのために、月に数回程度しかWindows環境を起動しないというライトユーザーにとって、この永久ライセンスは非常に魅力的な選択肢となります。使用頻度が低いにもかかわらず、毎月サブスクリプション料金を支払い続けるのは非効率的ですが、一括支払いで済むライセンスであれば、どれだけ長期間Windows環境を維持していても無駄な出費がありません。Parallelsなどの仮想環境をすでに構築している、あるいはこれから導入を検討しているMacユーザーにとって、このセールはWindows用Office環境を格安で手に入れる絶好の機会となっています。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3235177/your-parallels-setup-can-run-microsoft-office-2024-for-54-99.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/3235177-0-25378600-1789545710-mso-2024-Pro-Plus-green.jpg?quality=50&strip=all",
+ "published": "2026-09-16T08:00:00+00:00"
+}
