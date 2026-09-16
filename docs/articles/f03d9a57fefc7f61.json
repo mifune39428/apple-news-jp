@@ -1,0 +1,21 @@
+{
+ "id": "f03d9a57fefc7f61",
+ "title_ja": "macOSのベータ版アップデートが開発者向けに",
+ "summary_ja": "Appleは次期macOSアップデートのテストとして、開発者向けにベータ版の提供を開始した。システム設定のソフトウェアアップデートから適用できる。",
+ "points": [
+  "開発者向けにmacOS Golden Gate 27.2ベータが配信開始",
+  "システム設定のソフトウェアアップデートからダウンロードが可能",
+  "見送られたApple Intelligence機能が復活する可能性がある",
+  "メッセージアプリの提案機能などが初期版から削除されていた",
+  "Safariでの脆弱なパスワードの自動更新機能も削除対象となっていた"
+ ],
+ "body": "Appleは次期アップデートに向けたテストとして、開発者向けにmacOS Golden Gate 27.2ベータの提供を開始した。このベータ版は、macOS Golden Gate 27.0のリリースからわずか2日後に公開されたものであり、登録済みの開発者はシステムのソフトウェアアップデート経由で入手することができる。\n\n今回のアップデートに関連して、初期版から見送られていたいくつかのApple Intelligence機能が今後のソフトウェアアップデートで復活すると伝えられている。機能が復活する時期については、早ければ今回の27.2リリースになる可能性もあると報じられている。\n\n初期版で削除された機能の一つとして、メッセージアプリ内での提案機能が挙げられている。この機能は会話の文脈に基づいてアクションを提案するもので、写真の送信やカレンダーへのイベント追加などをサポートするものだった。また、Safariを使用して脆弱なパスワードを自動的に更新するApple Intelligence機能も同様に削除されていた。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+ "published": "2026-09-16T17:15:52+00:00"
+}
