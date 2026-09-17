@@ -1,0 +1,19 @@
+{
+ "id": "6226f0f1b9b29ab4",
+ "title_ja": "マスク氏の訴訟取り下げめぐり連邦地裁が詳細を要求",
+ "summary_ja": "イーロン・マスク氏の企業がOpenAIをめぐる反トラスト法訴訟からアップルを除外したことに関連し、連邦地裁の判長が合意の有無や詳細な説明を求めている。",
+ "points": [
+  "イーロン・マスク氏の企業がAppleに対する反トラスト法訴訟を取り下げた",
+  "OpenAIとAppleの癒着を主張していたがAppleへの請求のみ放棄された",
+  "担当判事はAppleとの間で結ばれた合意内容の詳細な提出を命じた"
+ ],
+ "body": "イーロン・マスク氏の関連企業であるXおよびSpaceXAIが、AppleとOpenAIを相手取って起こした訴訟において、Appleに対する請求を自発的に取り下げる動議を提出したと報じられている。もともとの訴訟では、AppleとOpenAIが合意の上でChatGPTをSiriやApple Intelligenceに統合し、競合するAIアプリがApp Storeで露出しないよう共謀していると主張されていた。AppleとOpenAIはこの主張を否定していたが、直近の提出書類においてX側などはAppleに対する請求を解決したとしつつ、OpenAIに対する請求については取り下げない方針を示していた。\n\nこの動きに対し、訴訟を管轄する連邦判事のマーク・ピットマン氏が、Appleとの間で結ばれた合意に関する詳細な資料を裁判所に提出するよう命じたと伝えられている。この命令は、X側とAppleの間の和解に関する合意書の提出を求めてOpenAIが緊急動議を申し立てたことを受けて下されたものとされる。担当判事は、OpenAIの申し立てに対して指定された期日までに回答するよう求めている模様だ。訴訟の枠組みや当事者間の関係性にどのような影響を与えるのか、今後の展開に注目が集まっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-16T21:26:54+00:00"
+}
