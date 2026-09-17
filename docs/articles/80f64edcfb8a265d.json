@@ -1,0 +1,20 @@
+{
+ "id": "80f64edcfb8a265d",
+ "title_ja": "macOS 27とParallels環境で不具合",
+ "summary_ja": "macOS 27 Golden GateにアップグレードしたMacにおいて、Parallels Desktop経由のWindows 11仮想マシンで音声が出力されないトラブルが確認されています。また、iCloud Driveへの接続に失敗する問題も発生しているため注意が必要です。",
+ "points": [
+  "macOS 27とParallels 27の組み合わせで不具合。",
+  "Windows 11仮想マシンで音声が出力されない。",
+  "iCloud Driveとの連携機能も利用不能に。",
+  "最新版v27.0.2でも未修正のため注意が必要。"
+ ],
+ "body": "Appleが日本時間2026年09月15日に正式リリースしたMac向けの最新オペレーティングシステム「macOS 27 Golden Gate」は、さまざまなアプリケーションへのApple Intelligence機能の統合に加え、システム全体の応答性や信頼性の向上を図ったOSである。しかし、このmacOS 27 Golden Gateへとアップグレードを完了させたMacにおいて、仮想化ソフトウェア「Parallels Desktop 27 for Mac」を用いた環境で特定の障害が発生していることが明らかとなった。\n\n問題が発生しているのは、Parallels Desktop 27 for Macを利用して構築されたWindows 11の仮想マシン環境である。報告によると、macOS 27 Golden Gateへ更新したMac上でWindows 11仮想マシンを稼働させた際、システムからの音声が正常に出力されなくなったり、iCloud Driveとの接続や連携機能が機能しなくなったりする不具合が確認されている。Parallelsの公式サポートフォーラムにおいても、macOS 27 Golden GateをホストOSとするMacBook Pro上でParallels Desktop 27.0.2（ビルド58673）を実行し、ゲストOSのWindows 11で同様の現象が発生しているというユーザーからの報告が掲載されている。\n\nParallelsのサポート側はフォーラムで報告されたこれらの不具合に対して個別にチケットを発行して対応を進めており、今後のソフトウェア更新によって修正が行われるとみられている。しかしながら、2026年09月17日に配信された最新版の「Parallels Desktop 27 for Mac v27.0.2」においても本件の修正は行われていない模様である。そのため、Mac上でParallelsを利用してWindows 11環境を運用しているユーザーは、今後の不具合修正に関する情報やアップデートの配信状況について十分な注意を払うことが求められる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260918-macos-27-golden-gate-parallels-desktop-issue.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-09-17T18:54:54+00:00"
+}

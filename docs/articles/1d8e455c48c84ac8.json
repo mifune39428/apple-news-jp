@@ -1,0 +1,20 @@
+{
+ "id": "1d8e455c48c84ac8",
+ "title_ja": "新型iPhone 18 Pro、セットアップ時に初日アップデートが必要に",
+ "summary_ja": "新しいiPhone 18 ProシリーズやApple Watch Series 12などを手にするユーザーは、初期セットアップ時にソフトウェアアップデートを適用する必要があります。出荷時のOSバージョンが最新のローンチバージョンと異なるためで、iOS 27やwatchOS 27の最新版への更新が求められます。",
+ "points": [
+  "iPhone 18 Proシリーズなどは発売初日にアップデートが必要",
+  "本体の初期出荷版OSは正式リリース版より古いビルド番号",
+  "Apple WatchシリーズやAirPods 5も同様の対応を予定",
+  "新製品群は9月18日金曜日に発売される予定"
+ ],
+ "body": "新たに発売されるiPhone 18 ProおよびiPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4を手に入れたユーザーは、デバイスの受け取り直後にソフトウェアのアップデートを適用する必要があると伝えられている。これらの製品には正式リリース版とは異なるビルド番号のOSがプリインストールされており、初期設定のプロセスにおいてアップデートが求められる見通しとなっている。iPhoneの各モデルだけでなく、Apple Watchの新型モデルについても同様に、初期状態のソフトウェアから最新版への更新が必要になるとされている。\n\nまた、AirPods 5についても、ワイヤレス経由で発売初日のファームウェアアップデートが適用される見込みであると報じられている。AppleはすでにiOS 27の新機能に対応するための新しいファームウェアをリリースしている状況にある。これらの新製品群はすべて、9月18日の金曜日に発売されるスケジュールとなっており、購入したユーザーは手元に届き次第、それぞれのデバイスでソフトウェアの適用作業を行うことが想定される。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+ "published": "2026-09-17T19:25:14+00:00"
+}
