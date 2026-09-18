@@ -1,0 +1,19 @@
+{
+ "id": "ae316a8255702626",
+ "title_ja": "次期OSでAirPodsのカスタムイコライザが可能に",
+ "summary_ja": "macOS 27やiOS/iPadOS 27などの最新OSにおいて、各種AirPodsシリーズでカスタム・イコライザの設定が可能になる。",
+ "points": [
+  "macOS 27やiOS/iPadOS 27でAirPodsのカスタムEQが可能に",
+  "対象はAirPods 4以降、AirPods Pro 2以降、AirPods Max 2",
+  "低音・中音・高音の3つのバランスを細かく調整できる仕様"
+ ],
+ "body": "Appleが正式リリースした最新のOSアップデートにおいて、ワイヤレスイヤホンであるAirPodsシリーズのカスタマイズ機能が拡張され、新たにカスタム・イコライザ設定を利用できるようになっている。この機能がサポートされているのは、AirPods 4以降のモデル、AirPods Pro 2以降のモデル、そしてAirPods Max 2となっており、利用するには対応するOSへのアップグレードと、特定のファームウェアへのアップデートが必要となる。設定項目には低音、中音、高音が用意されており、それぞれのバランスを自分の好みに合わせて調整することが可能になっている。\n\n具体的な設定手順としては、Macの場合はシステム設定アプリからAirPodsの項目を開き、オーディオとルーティングの中にあるイコライザ設定からカスタムを選択することで調整画面へアクセスできる。また、iPhoneやiPadを使用している場合も、設定アプリから接続中のAirPodsメニューを開き、同様の経路ですぐにカスタムイコライザの設定を行うことができる。Appleによると、本体で設定したカスタムEQの内容はAirPods本体に直接保存される仕組みになっているため、一度調整を行えば、ペアリングしているほかのApple製デバイスに接続した際にも同じ設定がそのまま引き継がれるという。手軽に音質を自分好みに追い込める便利な機能として、対応機器を持つユーザーの間で注目を集めている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260918-macos-27-golden-gate-and-ios-27-support-customize-eq-on-airpods.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/AirPods-5-logo-icon-2.webp",
+ "published": "2026-09-17T21:27:06+00:00"
+}
