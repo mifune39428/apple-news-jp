@@ -1,0 +1,20 @@
+{
+ "id": "d6d031eb8eb3a572",
+ "title_ja": "M5 UltraとM6チップのGPUベンチマークが判明",
+ "summary_ja": "発売を控えた新型Mac向けのM5 UltraとM6チップのGPUベンチマーク結果が明らかになった。M5 Ultraは前世代より大幅にスコアを伸ばし、優れたグラフィックス性能を示している。",
+ "points": [
+  "M5 UltraとM6チップのGPUベンチマーク結果が判明",
+  "M5 UltraはM3 Ultra比で最大59%高いMetalスコアを記録",
+  "M5 UltraのOpenCLスコアはGeForce RTX 4080と同等とされる",
+  "M6チップはM5比で最大34%高いMetalスコアを記録したと報じられている"
+ ],
+ "body": "新型のMac StudioやMac miniの発売を前に、AppleのM5 UltraおよびM6チップに関する初めてのGPUベンチマーク結果が明らかになったと報じられている。すでにCPUに関するテスト結果は公開されていたが、今回はグラフィックス性能に関する数値が浮上した格好となる。Geekbench 7を用いた測定によると、M5 UltraのMetalスコアは最高で366,744を記録しており、M3 Ultraの平均スコアである230,420と比較して最大で59%ほど高い数値を示していると伝えられている。さらに、同チップのOpenCLスコアについては、NVIDIAのGeForce RTX 4080とおおむね同等の水準にあるとされている。\n\n一方のM6チップについてもグラフィックス性能のベンチマーク結果が伝えられており、M5チップの平均スコアである69,563に対して、最大で34%ほど高い93,217というMetalスコアを記録したと報じられている。ただし、こうしたベンチマークの数値はあくまでテスト環境における測定結果であり、実際の利用シーンやデバイスの仕様によって実際のパフォーマンスには変動が生じる可能性がある点には注意が必要とされる。これらの新型チップを搭載した新しいMacシリーズの登場により、さらなるグラフィックス性能の向上が期待される状況となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
+ "published": "2026-09-18T19:56:02+00:00"
+}

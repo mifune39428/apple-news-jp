@@ -1,0 +1,19 @@
+{
+ "id": "0e7cbe69273704fb",
+ "title_ja": "MetaのAIアプリがChatGPTを抜き米国App Store首位に",
+ "summary_ja": "Metaが新たに提供するAIエージェントアプリが、米国のApp Store無料アプリランキングでChatGPTを抜いて首位を獲得した。このアプリは多くのユーザーの関心を集め、急速にダウンロード数を伸ばしている。",
+ "points": [
+  "MetaのAIアプリ「Muse」がApp Storeで首位獲得",
+  "ChatGPTを抜いて米国の無料iPhoneアプリで1位に浮上",
+  "Mac版も公開され、カジュアルなメッセージ風UIを採用"
+ ],
+ "body": "Metaが開発した新しいAIエージェントアプリ「Muse」が、米国のApp Storeにおける無料iPhoneアプリのランキングで首位を獲得したと報じられている。これまで1位を維持していたOpenAIのChatGPTを追い抜く形となった。今月にリリースされたこのアプリは、初日の勢いにとどまらず、その後の新規インストール数を順調に伸ばしていることがランキング上昇の要因となっているようだ。\n\nさらに、リリースから間もないタイミングでMacへの対応も発表された。ただし、Mac版についてはウェブサイトからのダウンロード提供となっているため、App Storeのランキング集計対象には含まれないとされている。OpenAIやAnthropicが既存のアプリを通じてエージェント型ツールを展開する中、Metaなどはカジュアルなメッセージングインターフェースの採用や、キャラクター性を持たせた外観など、異なるアプローチでエージェントワークフローを提供しているのが特徴だ。\n\nなお、競合の動向としては、AppleがiPhoneやiPad、Mac、Apple Watch向けの新OSを通じて、新しい「Siri」を一般向けに公開したばかりである。新しいSiriには専用のチャットアプリが含まれており、写真の編集や画面上のコンテンツを文脈として活用したシステム操作が可能となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
+ "published": "2026-09-18T17:47:37+00:00"
+}

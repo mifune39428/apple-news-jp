@@ -1,0 +1,19 @@
+{
+ "id": "dea1a9ff0ac2850c",
+ "title_ja": "iPhone Duoの公式壁紙がダウンロード可能に",
+ "summary_ja": "Xcode 27.1ベータ版のシミュレーターから、iPhone Duoの公式ライト・ダークモード用壁紙が見つかり配布されている。iOS 27には標準搭載されていなかったものとなる。",
+ "points": [
+  "折りたたみiPhone「iPhone Duo」の公式壁紙が登場",
+  "Xcode 27.1 betaのシミュレータから抽出が可能に",
+  "ライトモードとダークモード用で合計4種類が用意されている"
+ ],
+ "body": "Appleが発表した初の折りたたみ式iPhoneであるiPhone Duo向けに用意された公式壁紙が、ダウンロード可能になったと報じられている。今月はじめに同端末が発表された際、iOS 27.0のRC版にはiPhone 18 Proの壁紙は含まれていたものの、iPhone Duoの壁紙はなぜか収録されていなかった。しかし、その後に配信されたXcode 27.1 betaのiPhoneシミュレータ内に、専用の画像データが同梱されていることが判明した。\n\n今回明らかになったのは、山脈を背景にした砂丘を描いたデザインで、ライトモード用とダークモード用がそれぞれ2種類ずつ、合計4種類の壁紙となっている。正式なiOSのアップデートには含まれなかったものの、開発者向けツールを経由するかたちで全種類の高解像度なアートワークを入手できるようになった形だ。保存の際は、画像をしっかりと実寸大で読み込んでから設定することが推奨されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-18T20:05:43+00:00"
+}
