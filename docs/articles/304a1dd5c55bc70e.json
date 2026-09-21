@@ -1,0 +1,20 @@
+{
+ "id": "304a1dd5c55bc70e",
+ "title_ja": "「macOS 27」でiPhoneミラーリング時のアプリサイズ変更が可能に",
+ "summary_ja": "「macOS 27 Golden Gate」において、iPhoneミラーリング機能が強化されます。特定のアプリを「iPhone Duo」のようなサイズに変更し、Macの画面上に表示できるようになりました。これにより、Mac上でのiPhoneアプリの視認性や操作性がさらに向上します。",
+ "points": [
+  "macOS 27 Golden GateでiPhoneミラーリングが進化",
+  "特定のアプリをMac上でリサイズして表示可能に",
+  "対応アプリならiPadのようなUIで利用できる",
+  "ツールバーのボタンやショートカットで元に戻せる"
+ ],
+ "body": "macOS 27 Golden Gateでは、iPhoneミラーリング機能を利用して特定のアプリケーションをMac上でリサイズし、広く表示させることが可能になると報じられている。Appleが発売を予定している折りたたみ式デバイスの画面サイズと同様に、一部のアプリを拡大して使用できるようになる仕組みとされている。\n\nアプリケーションのウィンドウサイズを変更するには、iPhoneミラーリングで対応アプリを起動した状態で、Mac側からウィンドウをドラッグするだけでよいとされている。これにより、Safariやメール、メッセージ、カレンダーなどの一部の純正アプリを、iPadアプリのようなサイズ感やユーザーインターフェイスで操作できるようになると伝えられている。\n\n元のiPhoneサイズに戻したい場合は、iPhoneミラーリングのツールバーに追加された専用ボタンをクリックするか、Commandと9のショートカットキーを押すだけで切り替えが可能になるとのこと。現時点では対応するApple製アプリでのみサイズ変更が行え、非対応のサードパーティ製アプリやホーム画面では従来のiPhoneサイズの表示に固定されると報じられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/macos-27-golden-gate-iphone-mirroring-support-resize.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-iPhone-Mirroring-resize-logo-icon.webp",
+ "published": "2026-09-20T21:39:27+00:00"
+}

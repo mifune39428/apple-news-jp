@@ -1,0 +1,19 @@
+{
+ "id": "f41ba10d535814a8",
+ "title_ja": "Satechi、M6 Mac mini向けのTB5対応ドックを発表",
+ "summary_ja": "Satechiが新型Mac miniに最適なThunderbolt 5対応のCubeDockをリリースした。最新のM6およびM5 Proチップを搭載したMac miniの拡張性を高める優れたアクセサリとなっている。",
+ "points": [
+  "SatechiのThunderbolt 5対応CubeDockがMac miniのデザインに最適",
+  "本体に8つのポートやM.2 NVMe SSDスロットを搭載している",
+  "最大140Wのホスト充電に対応し価格は399.99ドルとなっている"
+ ],
+ "body": "Satechiから新たに発売されたThunderbolt 5 CubeDockは、Mac miniと同じ形状をしており、本体の横に並べたり上に重ねたりして相性良く設置できる周辺機器となっている。Thunderbolt 5の優れた通信速度を活かして、複数のディスプレイ出力に対応するほか、合計8つのポートやSDカードリーダー、イーサネットポートなどを備えているのが特徴である。デザイン性と拡張性を兼ね備えた優れたドックとして位置づけられている。\n\n本体内部にはM.2 NVMe SSDを搭載できるベイが用意されており、ヒートシンク付きの大型SSDもそのまま収納できる設計になっている。最大8TBの容量や幅広いサイズのドライブに対応し、SSDを収めても設置面積が変わらないのも利点である。また、ノートパソコンと接続した場合には最大140Wのホスト充電も可能となっており、実用性の高さが光る仕様となっている。\n\n価格は399.99ドルと高めの設定になっており、利用時には本体が温かくなる特性もあるが、Thunderbolt 5の性能を最大限に引き出せる環境を求めているユーザーにとっては有力な選択肢となる。Amazonなどで購入が可能であり、特定の条件下では割引が適用されるプロモーションも実施されている。Mac miniの環境をより快適に拡張したい場合に適したアイテムとして紹介されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/20/satechi-thunderbolt-5-cubedock-mac-mini-review",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC01978.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-20T22:29:43+00:00"
+}
