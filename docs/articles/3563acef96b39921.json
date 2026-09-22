@@ -1,0 +1,19 @@
+{
+ "id": "3563acef96b39921",
+ "title_ja": "AppleがwatchOSやvisionOSなどのベータ2を公開",
+ "summary_ja": "Appleは、watchOS 27.2、tvOS 27.2、visionOS 27.2の第2ベータ版を開発者向けに公開しました。今回のアップデートでは、新型Apple Watchのデータを利用する新しい「ヘルスケア」アプリのテストが行われており、コンディションスコアなどが確認できるようになります。",
+ "points": [
+  "Appleが各OSの第2ベータ版を公開",
+  "watchOS 27.2などで新しい健康機能などをテスト中",
+  "登録デベロッパーは設定アプリからダウンロード可能"
+ ],
+ "body": "Appleは、watchOS 27.2、tvOS 27.2、visionOS 27.2の第2ベータ版を開発者向けにリリースした。これらのベータ版は、最初のベータ版が公開されてから約1週間後の登場となり、対象となるデバイスの設定アプリからダウンロードして適用することができる。\n\n今回のテストでは、iOS 27.2およびwatchOS 27.2を通じて、9月のiPhoneイベントで発表された新しいヘルスケアアプリの検証が進められている。このアップデートされたヘルスケアアプリには、新しく「インサイト」や「ロンジェビティ」タブが追加されており、Apple Watchの最新モデルから取得した情報に基づくレディネススコアなどが活用される仕様となっている。\n\n一方で、visionOS 27.2やtvOS 27.2における具体的な変更点や新機能については現時点で詳細が明らかにされていない。ただし、年末までにSiri AIをサポートした新しいApple TV 4Kが登場するのではないかと報じられており、今後の展開に注目が集まっている状況にある。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
+ "published": "2026-09-21T17:20:00+00:00"
+}
