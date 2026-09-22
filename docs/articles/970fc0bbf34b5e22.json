@@ -1,0 +1,20 @@
+{
+ "id": "970fc0bbf34b5e22",
+ "title_ja": "Apple、開発者向けにmacOS次期ベータを配信",
+ "summary_ja": "Appleは開発者に向けて次期macOSアップデートの第2ベータ版の提供を開始した。新しい言語でのSiri AI機能などが含まれており、配信元からダウンロードできる。",
+ "points": [
+  "開発者向けにmacOS Golden Gate 27.2の第2ベータ版が配信",
+  "最初のベータ版公開から約1週間でのリリースとなった",
+  "新言語に対応したSiri AIが新たに導入されている",
+  "正式リリースは10月下旬頃になると見込まれている"
+ ],
+ "body": "Appleは次期アップデートに向けて開発者テストを進めており、新たに「macOS Golden Gate 27.2」の第2ベータ版が利用可能になった。今回のベータ版は、最初のベータ版がリリースされてから約1週間という短いスパンで公開されている。登録済みの開発者は、システム設定の一般項目にあるソフトウェアアップデートからベータ版を有効にすることでダウンロードが可能となっている。\n\n今回のベータ版では、新しく対応言語が追加されたSiri AIが導入されている点が大きな特徴となっている。Apple関連の動向として、この新しいアップデートは10月下旬頃の正式リリースに向けて準備が進められていると報じられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+ "published": "2026-09-21T17:23:13+00:00"
+}
