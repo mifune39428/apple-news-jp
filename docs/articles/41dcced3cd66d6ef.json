@@ -1,0 +1,19 @@
+{
+ "id": "41dcced3cd66d6ef",
+ "title_ja": "OpenAI、ChatGPTの音声モードを刷新",
+ "summary_ja": "OpenAIは、ChatGPTの音声モード機能に対して3つの新たな改善を順次提供開始すると発表しました。ユーザーとの音声対話エクスペリエンスがより自然で便利に向上するアップデートとなっています。",
+ "points": [
+  "OpenAIがChatGPT Voiceの音声モードを大幅に改善",
+  "新モデルの導入やプラグイン対応などの新機能を追加",
+  "ウェブ版やモバイル版のChatGPT Workでも利用可能に"
+ ],
+ "body": "OpenAIは、ChatGPTの音声モードであるChatGPT Voiceの機能を強化し、3つの重要なアップデートの提供を開始したと報じられている。これによって日常的な音声での対話機能がさらに向上することになり、ユーザーの利便性が高まることが期待されている。\n\n今回のアップデートの1つ目はモデルの刷新であり、最上位のAstraに加えて、中規模モデルのSolとLunaが最新のGPT-6モデルへとアップグレードされた点にある。2つ目はプラグインへの対応であり、これによってメールやカレンダー、Slackなどの外部サービスと音声モードの連携が可能になり、従来の大きな不満点が解消されることになった。\n\n3つ目はウェブ版およびモバイル版のChatGPT Workへの対応であり、クラウドと接続されたエージェントシステムをより幅広い環境で利用できるようになる。OpenAIはこれまでもデスクトップアプリへの最新音声コントロールの導入など音声機能に力を入れており、今回のアップデートもその流れを汲むものとなっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+ "published": "2026-09-23T17:24:11+00:00"
+}

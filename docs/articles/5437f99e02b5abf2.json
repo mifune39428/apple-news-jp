@@ -1,0 +1,20 @@
+{
+ "id": "5437f99e02b5abf2",
+ "title_ja": "新しいMac miniとMac Studioが本日発売",
+ "summary_ja": "M6やM5 Proを搭載したMac miniと、M5 MaxやM5 Ultraを搭載したMac Studioが発売された。Apple Storeの店舗やオンライン、専用アプリから購入可能となっている。",
+ "points": [
+  "M6およびM5 Proを搭載した新しいMac miniが発売",
+  "M5 MaxとM5 Ultraを搭載した新しいMac Studioが発売",
+  "AIパフォーマンスが大幅に向上し最新のApple Intelligenceに対応",
+  "Mac miniは899ドルから、Mac Studioは2499ドルから販売"
+ ],
+ "body": "Appleは、最新のAppleシリコンを搭載した「Mac mini」および「Mac Studio」を本日より発売開始した。コンパクトで汎用性の高いMac miniにはM6およびM5 Proチップが採用され、日常的な作業から高度なクリエイティブワーク、AI処理まで幅広い用途に対応する。一方のMac StudioにはM5 Maxおよび新開発のM5 Ultraチップが搭載され、プロフェッショナル向けに極めて高い処理能力を提供する。両モデルともにApple Storeや公式オンラインストア等で購入可能となっている。\n\nMac miniは、M6チップの採用によりAIパフォーマンスが最大4倍、グラフィックスとストレージ性能が最大2倍、CPU性能が40パーセント向上している。さらに上位のM5 Proモデルを選択することで、動画制作やゲーム開発などの複雑なプロジェクトにも対応するプロレベルの性能を引き出せる。本体は省スペースなデザインを維持しながら、Wi-Fi 7やBluetooth 6、2.5Gb Ethernetなどの最新規格にも対応し、教育機関向けの値引きも用意されている。価格はM6搭載モデルが899ドルから、M5 Pro搭載モデルが1,699ドルからとなっている。\n\nMac Studioは、世界中の最も過酷なワークロードに挑むプロフェッショナルに向けて設計された最高峰のデスクトップである。M5 MaxおよびM5 Ultraチップを搭載し、最大512GBのユニファイドメモリをサポートすることで、巨大なAIモデルのローカル実行や8K映像のリアルタイム編集などを可能にしている。各コアにNeuralアクセラレータを備えた次世代GPUやThunderbolt 5ポートを搭載し、複数台のクラスタリングによるさらなるパフォーマンス向上にも対応する。価格はM5 Max搭載モデルが2,499ドルから、M5 Ultra搭載モデルが5,499ドルからとなっている。",
+ "source": "Apple Newsroom",
+ "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/tile/Apple-Mac-mini-and-Mac-Studio-available-hero-lp.jpg.og.jpg",
+ "published": "2026-09-22T12:59:21.039000+00:00"
+}

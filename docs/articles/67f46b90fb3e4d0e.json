@@ -1,0 +1,19 @@
+{
+ "id": "67f46b90fb3e4d0e",
+ "title_ja": "Apple、自動再起動を修正するwatchOS 27.0.1をリリース",
+ "summary_ja": "Apple Watch向けにwatchOS 27.0.1の提供が開始された。一部のモデルで確認されていた予期せぬ再起動の不具合を解消するためのアップデートとなっている。",
+ "points": [
+  "AppleがwatchOS 27.0.1を配信開始",
+  "一部のApple Watchが予期せぬ再起動をする不具合を修正",
+  "対象はApple Watch Series 12とUltra 4"
+ ],
+ "body": "Appleは、Apple Watch向けに最新アップデートとなる「watchOS 27.0.1」の配信を開始した。今回のアップデートは、一部の端末で発生していた予期せぬ再起動の問題を修正するためのものであり、対象機種はApple Watch Series 12およびApple Watch Ultra 4のユーザーに限定されている。\n\nリリースノートによると、このアップデートにはApple Watchのバグ修正が含まれており、主に突然本体が再起動してしまう不具合の解消に焦点を当てている。Redditなどのオンラインフォーラムでは、新しい腕時計が1日に何度もランダムに再起動を繰り返すという報告が一部のユーザーから寄せられていた。この問題はすべてのユーザーに影響していたわけではないが、明確に不具合が発生している状況であった。\n\n今回のソフトウェアアップデートの適用により、こうした予期せぬ再起動のトラブルが解消されることが期待されている。該当するモデルを使用しているユーザーは、手元のデバイスでアップデートを確認し、適用することが推奨される。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/23/apple-releases-watchos-27-0-1-to-fix-apple-watch-series-12-and-ultra-4-bug",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Series-12-Aluminum-Nike-Concrete-Sport-Band-Steps-Counter-Watch-Face-Heart-Rate-.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-23T19:58:59+00:00"
+}
