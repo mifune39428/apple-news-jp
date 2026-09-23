@@ -1,0 +1,20 @@
+{
+ "id": "7c87074feeefa505",
+ "title_ja": "macOS Tahoe 26.7.1などの第2弾RCが配信",
+ "summary_ja": "Appleは正式リリースに向け、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の第2弾リリース候補版を公開した。開発者向けに続き、同等のビルド番号を持つパブリック版も提供されている。",
+ "points": [
+  "macOS Tahoe 26.7.1とSequoia 15.8.1の第2弾RCが配信",
+  "開発者向けに続きパブリック向けRCも同様のビルドで公開",
+  "主な内容は重要なセキュリティ修正で全ユーザーに推奨",
+  "正式リリースは数週間以内に予定され詳細はその後公開"
+ ],
+ "body": "Appleは、正式リリースを間近に控え、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1の第2弾となるリリース候補版（RC）の提供を開始した。最初のRC版がリリースされてから1週間足らずでの迅速な展開となっており、開発者向けに続いて同じビルド番号を持つパブリック向けのRC版も公開されている。今回のRC2におけるビルド番号は、macOS Tahoe 26.7.1が25G313、macOS Sequoia 15.8.1が24H212となっている。\n\nこれらのバージョンでは大規模な新機能の追加などは含まれておらず、全ユーザーに対して推奨される重要なセキュリティ修正を提供することが案内されている。具体的な脆弱性の詳細やセキュリティに関する情報は、今後数週間以内に予定されている正式版の公開に合わせて明らかにされる見通しだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-22T23:05:25+00:00"
+}
