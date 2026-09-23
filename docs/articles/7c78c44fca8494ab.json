@@ -1,0 +1,20 @@
+{
+ "id": "7c78c44fca8494ab",
+ "title_ja": "最新OSが各種カメラのRAWフォーマットに対応",
+ "summary_ja": "Appleの最新OSベータ版において、「OM SYSTEM PEN」や約1億5,100万画素を誇る文化遺産デジタルアーカイブ向けカメラ「Phase One iXH 150MP」などのRAWフォーマットがネイティブサポートされる。",
+ "points": [
+  "最新のOSで複数のRAW形式をネイティブサポート",
+  "来月発売のOM SYSTEM PENにも対応する",
+  "約1億5100万画素のPhase One製カメラも含まれる",
+  "対応拡充により画像処理の自由度や精度が向上"
+ ],
+ "body": "Appleは、現地時間2026年9月14日にリリースした最新の各OSにおいて、新たに複数のデジタルカメラのRAWフォーマットをネイティブサポートしたと報じられている。対象となるのは、Mac向けのmacOS 27 Golden Gateをはじめ、iPhoneやiPad向けのiOS/iPadOS 27、そしてVision Pro向けのvisionOS 27となっている。今回のサポート拡充により、デジタルカメラのRAW形式における画像処理の性能が向上し、細部をより鮮明に再現できるようになるとされている。\n\n今回新たに追加されたカメラのリストには、2011年から2012年にかけて発売された富士フイルムのいくつかのモデルや、来月発売予定のOM SYSTEMのミラーレス一眼カメラ、パナソニックのモデルなどが含まれている。さらに、デンマークのPhase Oneが展開する高解像度な中判カメラシステムや、文化財の保存を目的として開発された約1億5,100万画素に対応する「Phase One iXH 150MP」なども対象となっている。こうした専門性の高いカメラのサポート追加により、RAW対応アプリを使用する際の編集作業などの自由度が広がるとみられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260923-appleos-27-support-om-system-pen-phase-one-ixh.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/05/iOS-Camera-app-logo-icon.webp",
+ "published": "2026-09-23T05:33:03+00:00"
+}
