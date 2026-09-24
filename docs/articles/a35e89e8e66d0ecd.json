@@ -1,0 +1,19 @@
+{
+ "id": "a35e89e8e66d0ecd",
+ "title_ja": "SquareがApple Businessと連携、Appleマップの店舗情報を改善",
+ "summary_ja": "決済サービスを提供するSquareは、Apple Businessとの新たな連携を発表しました。この統合により、事業者とユーザーの双方において、Appleマップ上のビジネス情報の精度や利便性が向上します。店舗情報の管理がよりスムーズになり、マップ利用者の体験改善につながる見込みです。",
+ "points": [
+  "SquareがApple Businessとの新たな連携機能を発表",
+  "店舗情報をSquareダッシュボードから一元管理可能に",
+  "Apple MapsやSiriなどの正確性向上が期待される"
+ ],
+ "body": "決済サービスを提供するSquareは、Apple Businessとの新たな連携を発表した。これにより、Squareを利用する店舗オーナーは、専用のダッシュボードから直接Apple Businessに自社のロケーション情報を接続し、Apple Mapsなどに表示される主要なビジネス情報をシームレスに管理および同期できるようになる。\n\nこれまで店舗側は複数のチャネルを個別に管理する必要があったが、今回の統合によってSquareのビジネス管理画面内でApple上のプレゼンスも合わせて維持できるようになる。これにより、住所や電話番号、営業時間などの情報を常に最新かつ正確な状態に保つことが容易になり、ユーザー側にとっても情報の誤りによるフラストレーションが軽減される。\n\nこの連携機能によって更新された情報は、Apple Mapsだけでなく、SiriやApple Walletといった他のApple製アプリ上でも反映される仕組みとなっている。Squareを導入している事業者にとっては業務効率化につながり、Appleのサービスを利用するユーザーにとってもより信頼性の高い情報を得られるようになるため、双方にとって利便性の高いアップデートとなりそうだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/24/square-now-integrates-with-apple-business-to-improve-maps-listings",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-maps-square-business-integration.jpg?quality=82&strip=all&w=1500",
+ "published": "2026-09-24T14:03:21+00:00"
+}
