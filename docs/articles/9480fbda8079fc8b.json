@@ -1,0 +1,20 @@
+{
+ "id": "9480fbda8079fc8b",
+ "title_ja": "iOS 27の新機能「iPhone Handoff」とは？2台のiPhoneで番号共有が可能に",
+ "summary_ja": "AppleがiOS 27で導入した「iPhone Handoff」は、1つの電話番号を2台のiPhoneで共有し、シームレスに切り替えられる新しいeSIM機能です。同時に通信できるのは1台のみですが、切り替え時に関係する通話やメッセージ、探すアプリなどのデータが移行されます。",
+ "points": [
+  "iOS 27で同一番号を2台のiPhoneで切り替えて使える機能が登場",
+  "通話やメッセージ、探す機能などが有効な端末へ自動で移動する",
+  "対応キャリアは米国T-MobileやドイツのTelekomなど一部のみ",
+  "T-Mobileでは月額5ドル、Telekomでは月額6.95ユーロの料金がかかる"
+ ],
+ "body": "AppleがiOS 27で導入した「iPhone Handoff」は、1つの電話番号を2台のiPhoneで共有し、シームレスに切り替えて使用できる新しいeSIM機能である。この機能は一度に片方の端末でのみ番号が有効になる仕組みであり、従来のアプリ連携機能であるHandoffとは異なる。切り替えを行うと、通話や留守番電話、各種メッセージ、探す機能の位置情報などが有効なiPhoneへと移動し、画面には切り完了の通知が表示される。iCloudで同期されるデータやサードパーティ製アプリも利用できるが、一部のアプリでは個別サインインや同期に時間がかかる場合があり、銀行系アプリなどではアクセス許可の承認が求められることがある。\n\n利用には両方の端末がiOS 27以降である必要があり、対応する通信事業者での設定が求められる。現在、米国ではT-Mobileが月額5ドルで提供しており、年内にはVerizonや英国のEEも対応する予定とされている。ドイツではTelekomが月額6.95ユーロで提供している一方で、AT&Tは現時点で対応を表明していない。設定は新規のiPhoneセットアップ時、または設定アプリのモバイル通信から行うことができ、メインとサブの端末を選択して画面の指示に従うことで有効化される。なお、 Apple Watchとのペアリングは自動で切り替わらないため注意が必要であり、利用を停止する際は通信事業者への連絡が必要となる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/guide/iphone-handoff-how-it-works-carrier-support-cost",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+ "published": "2026-09-24T06:25:03+00:00"
+}
