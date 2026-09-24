@@ -1,0 +1,20 @@
+{
+ "id": "c431ab64ebdcc86d",
+ "title_ja": "Mac用文字起こしアプリ「MacWhisper」が大型アップデート",
+ "summary_ja": "Macの人気文字起こしアプリ「MacWhisper」がアップデートされ、リアルタイムの会議文字起こしや話者認識の精度が向上した。Apple Intelligenceとの連携強化や新モデルの導入も行われている。",
+ "points": [
+  "Mac用文字起こしアプリMacWhisperがバージョン15.2にアップデート",
+  "NVIDIAの技術を活用した最大8人までの高度な話者認識に対応",
+  "リアルタイムでの会議文字起こしや新規モデルの追加を実施",
+  "Apple IntelligenceやSiri、ショートカットとの統合を強化"
+ ],
+ "body": "Mac向けのAI音声文字起こしツールとして知られるMacWhisperが、バージョン15.2へとアップデートされた。今回の更新では、会議の文字起こしをリアルタイムで行える新機能が追加され、進行中の内容をその場で確認したり、コピーや転送を行ったりすることが可能となっている。専用のウィンドウを他のアプリの上に常時表示させておくこともでき、会議終了後には音声の録音データとともに文字起こしが保存される仕様だ。\n\n話者認識機能も大幅に強化され、NVIDIAの Nemotron 3 Diarizationモデルを採用することで最大8人までの識別に対応した。この機能は、新しく搭載されたリアルタイムの会議表示画面でも利用できる。さらに、文字起こしの精度を向上させる新たなモデルとして、22言語をサポートするAlibabaのQWEN3-ASRモデルが追加されている。\n\nmacOS環境におけるApple IntelligenceやSiri、Spotlight、ショートカットとの連携もより緊密になった。システム全体から文字起こしを検索したり、Siriを使って開いたり、ショートカットにテキストを取り込んだりすることが可能で、画面に表示されている文字起こしをSiriやApple Intelligenceのリクエストの参照元として活用できるようになっている。また、サイドバーからのドラッグ＆ドロップに対応したフォルダやサブフォルダによる整理機能も新たに導入された。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600",
+ "published": "2026-09-23T21:17:11+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "480fb4d9c9de938f",
+ "title_ja": "OpenAI、Apple IntelligenceでのChatGPT利用に不満か",
+ "summary_ja": "法廷文書から、Apple Intelligence経由でのChatGPTの利用率がOpenAIの期待を大きく下回っていたことが明らかになった。同社は公開後の普及ペースが予想以上に低迷したと受け止めている。",
+ "points": [
+  "OpenAIがApple IntelligenceでのChatGPT採用に不満を示す",
+  "2024年の統合開始後、期待されたほどユーザーの関心を集めなかったと判明",
+  "統合機能がデフォルトでオフだったことが低迷の一因と指摘されている",
+  "訴訟においてOpenAIは裁判所に対し、裁判前の早期棄却を求めている"
+ ],
+ "body": "Apple IntelligenceにおけるChatGPTの統合をめぐり、OpenAIが期待していたほどの成果が得られず不満を抱いていたことが、新たな裁判資料から明らかになったと報じられている。2024年に両社が提携を発表した際、OpenAIはAppleブランドとの結びつきによる相乗効果や、多くの新規サブスクリプション獲得を期待していたとされる。しかし、機能提供が開始されてからわずか1ヶ月の時点で利用の立ち上がりは鈍く、OpenAIは週間アクティブユーザー数の予測を下方修正せざるを得なくなった模様である。2025年の夏を迎える頃には、Apple製デバイスへのChatGPT統合が計画を大きく下回る結果に終わっていたことが明白になったと伝えられている。\n\nこの問題が浮上した背景には、XおよびSpaceXAIによるAppleとOpenAIを相手取った訴訟が存在している。訴訟の中で原告側は、両社の提携がAI市場における競合の排除やスーパーアプリの開発妨害を目的としたものであると主張してきた。これに対しAppleおよびOpenAIは、提携が排他的なものではないと反論し、法廷でそれぞれの主張を展開している。今回の資料提出によって、水面下での両社のパートナーシップの実態や、利用が伸び悩んだ背景の一端が明らかになった形となっている。\n\n利用が低迷した要因の一つとして、ChatGPTの統合機能が初期設定でオフになっていたことが指摘されている。また、Appleが将来的にGoogleのGeminiなど別のAIパートナーとの連携を模索する可能性をOpenAIの幹部らが懸念していたことも資料からうかがえる。現在、OpenAIは裁判所に対し、競争阻害を訴える原告側の主張には根拠がないとして、裁判を経ずに自らに有利な判断を下すよう求めている。なお、本件に関する裁判は1月に開廷される予定であると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-23T23:58:31+00:00"
+}
