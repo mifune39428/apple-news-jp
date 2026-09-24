@@ -1,0 +1,20 @@
+{
+ "id": "fe5bce6446ecb2b7",
+ "title_ja": "iOS 27のAI写真編集とPhotoshopの比較",
+ "summary_ja": "iOS 27で強化されたAI写真編集ツールと、AdobeのPhotoshopが持つ生成AI機能を比較検証している。Appleが新たに導入した機能が、Adobeのツールとどのように違うのかをテストしている。",
+ "points": [
+  "iOS 27の「Clean Up」と新機能「Extend」をPhotoshopと比較検証",
+  "被写体削除ではAppleのツールが影の処理などでAdobeを上回る場面もあった",
+  "複雑な背景の人物削除ではPhotoshopがより自然な仕上がりを見せた",
+  "画像の拡張機能では、ツールによって仕上がりの自然さに大きな違いが出た"
+ ],
+ "body": "iOS 27に搭載された写真の「Clean Up」ツールと新しい「Extend」ツールを、AdobeのPhotoshopにおける生成AI機能と比較した検証結果が報じられている。スイスや欧州で撮影された複数の写真を使用し、不要なオブジェクトの消去と画像の拡張性能をテストした。比較にはiPhoneで撮影・編集された画像と、MacBook上のPhotoshopで処理された画像が用いられ、それぞれのAIモデルの描画能力が確認された。\n\n不要なオブジェクトの削除テストでは、赤い椅子の消去においてAppleの「Clean Up」が椅子の影のテクスチャや周囲の光を正確に再現し、Photoshopよりも自然な結果を残した。赤いテーブルの上の皿を消去するテストでも、マグカップの反射や影の処理において「Clean Up」が優れた詳細を再現している。一方で、木の葉や花々の後ろにいる人物を消去する複雑なシーンでは「Clean Up」が不自然な描画や残骸を残したのに対し、Photoshopは違和感なく背景を補完することに成功した。\n\n画像の拡張テストでも両者のアプローチの違いが浮き彫りになった。古い階段の写真を拡張した検証では、Appleのツールが予期せぬ形状に解釈してしまった一方で、Photoshopは木目を自然に合致させて拡張を行った。別の風景写真の拡張ではAppleの「Extend」が窓や橋の描写を説得力を持って再現したのに対し、Photoshop側は不自然な仕上がりや川の流れの矛盾が生じる結果となった。検証全般を通して、シーンによって両者の得意不得意が分かれる結果となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-24T15:25:43+00:00"
+}

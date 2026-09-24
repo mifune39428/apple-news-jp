@@ -1,0 +1,21 @@
+{
+ "id": "ab23a595f83c9ff3",
+ "title_ja": "キヤノンITS、macOS 27対応のESET新バージョンを提供開始",
+ "summary_ja": "キヤノンITソリューションズは、macOS 27 Golden Gateへの新規インストールに対応した個人およびSOHO向けセキュリティソフト「ESET Cyber Security V10.0」の提供を開始した。",
+ "points": [
+  "キヤノンITSがESET Mac版の最新版を提供開始。",
+  "macOS 27 Golden Gateへの新規インストールに対応。",
+  "個人およびSOHO向け製品が対象となる。",
+  "新型Macへのセキュリティソフト導入が可能に。",
+  "法人向け製品は現在対応プログラムを準備中。"
+ ],
+ "body": "キヤノンITソリューションズは、Mac向けセキュリティソフトウェア「ESET Cyber Security」の最新バージョンV10.0.2100.0の提供を2026年09月24日に開始しました。この新バージョンでは、最新のmacOS 27 Golden Gateへの新規インストールが可能になったことが主な変更点です。これまでmacOS 27 Golden Gate環境への新規導入が不可能だった状況が解消され、個人ユーザーおよびSOHO（Small Office/Home Office）向けのMac環境において、セキュリティ対策を強化できるようになります。\n\nこれまでの「ESET Cyber Security」は、バージョン9.0.6700.0までにおいて、macOS 26.x Tahoeが搭載されたMacにインストールされている場合、OSをmacOS 27 Golden Gateへアップグレードした後も引き続き利用することはできました。しかし、macOS 27 Golden Gateが最初から搭載されているMacに対して、新たにESET Cyber Securityをインストールすることはできない状態が続いていました。このため、macOS 27 Golden Gateを導入したばかりのユーザーや、新しいMacを購入したユーザーは、対応するセキュリティソフトの選択肢が限られていました。\n\n今回公開されたバージョン10.0.2100.0では、新規インストーラーがmacOS 27 Golden Gateに正式に対応したことで、この問題が解決されました。これにより、デフォルトでmacOS 27 Golden Gateを搭載して新たに発売されたMac mini (M6、M5 Proチップ搭載モデル)やMac Studio (M5 Max/Ultraチップ搭載モデル)など、最新のMacデバイスにもESET Cyber Securityを導入することが可能になります。既存のMacユーザーがmacOS 27 Golden Gateへアップグレードする際は、セキュリティ対策を継続するためにも、ESET Cyber Securityを対応バージョンに更新してからOSのアップグレードを行うよう注意が促されています。\n\n一方で、法人向けサーバー・クライアント用製品のmacOS 27 Golden Gateへの対応については、個人およびSOHO向け製品とは状況が異なります。法人向け製品では現在、対応プログラムの準備が進められている段階と報じられています。そのため、法人ユーザーに対しては、対応プログラムの提供が開始されるまでの間、OSのアップグレードを控えるよう呼びかけられています。また、ESET Endpoint Security for macOS上には新OSへのアップデートメッセージが表示される場合があるものの、誤ってアップデートしないよう注意が必要とされています。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260924-eset-cyber-security-support-macos-27-golden-gate.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2024/09/ESET-Cyber-Security-logo-icon.jpg",
+ "published": "2026-09-24T12:39:36+00:00"
+}

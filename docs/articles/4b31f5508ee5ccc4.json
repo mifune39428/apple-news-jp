@@ -1,0 +1,19 @@
+{
+ "id": "4b31f5508ee5ccc4",
+ "title_ja": "watchOS27.0.1配信、Apple Watch再起動不具合を修正",
+ "summary_ja": "AppleはwatchOS27.0.1を配信し、Series 12とUltra 4で報告された突発的な再起動問題を解消した。アップデートは設定アプリから適用可能で、安定性向上が期待される。",
+ "points": [
+  "watchOS27.0.1の配信が開始された",
+  "Apple Watchの突然再起動する不具合を修正",
+  "対象はSeries 12とUltra 4のみ"
+ ],
+ "body": "Appleは、Apple Watch向けに「watchOS 27.0.1」の配信を開始した。今回のアップデートは、最新のApple Watch Series 12およびApple Watch Ultra 4で発生していた、端末が突然再起動してしまう不具合を修正するための緊急的なマイナーアップデートとなっている。\n\nアップデートの対象となっているのはApple Watch Series 12とUltra 4の2モデルのみであり、それ以外のモデルには配信されていない。新機能の追加などは含まれていないものの、日常的な使用や各種トラッキング機能の信頼性に関わる重要なバグ修正であるため、該当するモデルを使用している場合は早めのアップデートが推奨される。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/iwatch-606562",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/06/20/6e9e202a200f640e6385bc4ff5b52c94.jpg",
+ "published": "2026-09-24T11:13:44+00:00"
+}
