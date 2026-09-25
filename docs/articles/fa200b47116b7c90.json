@@ -1,0 +1,20 @@
+{
+ "id": "fa200b47116b7c90",
+ "title_ja": "ULTRALOQ、Apple Home対応のUWBスマートロック発表",
+ "summary_ja": "ULTRALOQがApple Homeに対応した同社初のUWB（超広帯域無線）スマートロックを発売した。従来のGPS位置情報による自動解除とは異なり、UWB技術を活用してドアへの接近を高精度に検知する仕組みを採用している。",
+ "points": [
+  "ULTRALOQがApple Home対応のスマートロック新製品を発表",
+  "Bolt MissionはUWBを活用し高精度なハンズフリー解錠を実現",
+  "Bolt ProとLatch 5 ProはAliro規格に対応しウォレットで解錠可能",
+  "全モデルがMatterに準拠し主要なスマートホームプラットフォームで動作"
+ ],
+ "body": "ULTRALOQが、Apple Homeに対応する新たなスマートロックコレクションを発表した。中でも注目を集めているBolt Missionは、従来のGPSやBluetoothによる位置情報追跡とは異なり、超広帯域無線（UWB）技術を採用している点が大きな特徴となっている。Bluetooth Low Energyの検出やUWB、内蔵のレーダーによる存在検知を組み合わせることで、ユーザーが建物の外からドアに近づいているのか、あるいは室内から近づいているのかを正確に判断する仕組みだ。iPhoneとロックの間で直接距離や方向を解析するため、クラウド接続や自宅内のハブを必要とせずにハンズフリーでの解錠を可能にしている。\n\n同時に発表されたBolt ProおよびLatch 5 Proの2機種は、Apple WalletやSamsung Walletを利用したタップ解錠が可能な「Aliro」認証を取得している。これらはMatter規格を推進するConnectivity Standards Allianceが開発したオープン標準に対応しており、Apple独自のNFC機能であるHome Keyとは異なるアプローチを採用している。デッドボルト型のBolt Proと、レバーハンドル型のLatch 5 Proは、どちらも指紋認証、PINコード、アプリ操作、物理キーによるバックアップをサポートしている。\n\n新コレクションに含まれる3つのロックはいずれもMatter認証を取得しており、Apple HomeだけでなくGoogle HomeやAmazon Alexaなど主要なスマートホームシステムと連携する。UWBを用いたBolt Missionの空間認識技術は、従来のハンズフリー解錠における信頼性の課題を解決するアプローチとして期待されている。また、複数プラットフォームでのウォレット解錠を求めるユーザーに向けては、Aliroに対応したBolt ProやLatch 5 Proが新たな選択肢となる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Bolt-Mission-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-25T15:00:00+00:00"
+}
