@@ -1,0 +1,19 @@
+{
+ "id": "bf24fe843bda5bb1",
+ "title_ja": "TestFlightアプリがアップデート、新機能に対応",
+ "summary_ja": "AppleはTestFlightアプリをバージョン4.4.0にアップデートした。最新ソフトの新機能に対応し、iPhoneでの横向き表示やMacでのiPhoneミラーリング時のウィンドウサイズ変更が可能になった。安定性の向上やバグ修正も含まれている。",
+ "points": [
+  "TestFlightがバージョン4.4.0にアップデート",
+  "iPhone版が横向き表示に対応",
+  "MacでのiPhoneミラーリング時にサイズ変更が可能"
+ ],
+ "body": "Appleは、iOSやiPadOS、macOS、visionOS向けの開発者向けテストアプリ「TestFlight」をバージョン4.4.0にアップデートした。今回の更新では、最新のソフトウェアアップデートや製品で導入された新機能へのサポートが追加されている。\n\niPhone版のTestFlightでは、10月に発売予定の「iPhone Duo」を見据え、新たに横向き表示がサポートされた。この横向き表示のオプションは、iPhone Duoに限らずすべてのiPhoneで利用可能となっている。さらに、iOS 27を搭載したiPhoneとmacOS 27を搭載したMacを組み合わせて「iPhoneミラーリング」を使用する際、TestFlightのウィンドウサイズを変更できるよう機能が拡張された。\n\n公式のリリースノートによると、今回のバージョンアップには機能追加のほか、詳細については言及されていないものの、安定性の向上や不具合の修正も含まれているとされる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2025/01/TestFlight-Banner.jpg",
+ "published": "2026-09-24T22:28:23+00:00"
+}

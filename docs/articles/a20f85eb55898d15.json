@@ -1,0 +1,20 @@
+{
+ "id": "a20f85eb55898d15",
+ "title_ja": "macOS Golden GateでIntel Macのサポート終了、Boot Campも非対応に",
+ "summary_ja": "Appleの次期OS「macOS Golden Gate」では、Intel搭載Macのサポートが完全に打ち切られ、Appleシリコン搭載モデルのみの対応となります。これに伴い、Intel Mac向けの機能であった「Boot Campアシスタント」などのレガシー機能も廃止されます。Appleは2028年秋までセキュリティアップデートを継続する計画です。",
+ "points": [
+  "macOS Golden Gateで古い機能やアクセサリのサポートが終了",
+  "次期OSのmacOS 28ではIntel関連機能の排除が進む見込み",
+  "macOS 28ではRosetta 2のサポートが大部分で終了する方針",
+  "Rosetta依存アプリには事前警告が表示され設定で確認可能"
+ ],
+ "body": "Appleの「macOS Golden Gate」では、古い機能やサービスが段階的に廃止され、旧型のデバイスやアクセサリに対するサポートが終了したと報じられている。さらに、インテル搭載Mac向けの古い機能を完全に排除する動きの一環として、次期OSとみられる「macOS 28」ではさらなる機能削減が予定されているとされる。\n\n2027年秋の登場が予想されているmacOS 28では、Rosetta 2のサポートが大部分で終了する見込みである。これにより、Rosettaに依存している大半のアプリケーションは、同OSを搭載したMac上で起動しなくなると伝えられている。ただし、開発者がすでにメンテナンスを行っていない一部の古いゲームについては、例外的な措置が取られる方針とされている。\n\nこうした変更に向けた準備として、macOS Golden GateではRosettaに依存するアプリを使用する際に警告が表示される仕様となっている。ユーザーは、将来的に開発者によるアップデートがないと動作しなくなるアプリを事前に把握できるようになっている。影響を受けるアプリの一覧は、「設定」アプリの一般、情報、インテルベースのアプリから詳細をクリックすることで確認できる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/24/macos-golden-gate-features-removed",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+ "published": "2026-09-24T23:06:55+00:00"
+}
