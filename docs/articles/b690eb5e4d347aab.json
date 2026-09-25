@@ -1,0 +1,20 @@
+{
+ "id": "b690eb5e4d347aab",
+ "title_ja": "iPhone 18 Pro Maxで通信トラブル報告",
+ "summary_ja": "アメリカの一部ユーザーの間で、iPhone 18 Pro MaxにおけるAT&Tのモバイル回線やeSIM接続の不具合が報告されている。通話やデータ通信が利用できない状況に陥っている。",
+ "points": [
+  "一部のiPhone 18 Pro Maxで通信トラブル",
+  "米国内のAT&T回線やeSIMで接続不良",
+  "音声通話やデータ通信が利用できない状態に",
+  "来週配信のiOS 27.0.1での修正に期待"
+ ],
+ "body": "一部のユーザーの間で、iPhone 18 Pro Maxにおける米国のAT&Tの回線やeSIMの設定に関連した接続トラブルが発生していると報じられている。MacRumorsのフォーラムやReddit、Appleサポートコミュニティなどに同様の不具合に関する苦情が寄せられており、影響を受けているユーザーはAT&Tのネットワークに接続できず、音声通話やテキストメッセージ、データ通信を利用できない状態にあるとされている。\n\n今回の問題については、米国版のiPhone 18 Pro Maxが今月発売された新型iPhoneの中で唯一Qualcomm製のセルラーモデムを搭載していることが注目されている。他のモデルや他国版にはApple独自のC2モデムが搭載されているが、今回の通信トラブルにこれが影響しているかどうかについては現時点では明確になっていない。\n\nAppleでは現在、来週の配信が予定されているiOS 27.0.1のテストが進められている。このアップデートにはキャリア設定の更新が含まれることが期待されており、AT&T回線で起きているこれらの問題が解決に向かうかどうかに注目が集まっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+ "published": "2026-09-25T17:02:15+00:00"
+}
