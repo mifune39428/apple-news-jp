@@ -1,0 +1,19 @@
+{
+ "id": "1d4fece28f3e874d",
+ "title_ja": "iOS 27のAppleウォレットに物理パスの取り込み機能が追加",
+ "summary_ja": "iOS 27のAppleウォレットには様々な新機能や変更が加えられています。長年望まれていた物理パスのインポート機能が新たに追加されました。",
+ "points": [
+  "iOS 27のApple Walletに物理パスの取り込み機能が追加される",
+  "カメラアプリでバーコードを読み取るだけでデジタル化が可能",
+  "会員証やチケットなどをiPhoneやApple Watchに保存できる"
+ ],
+ "body": "iOS 27のApple Walletには、物理的なパスを取り込める待望の新機能が追加されると報じられている。Apple Walletはこれまでもクレジットカードや身分証、搭乗券などをデジタル化してきたが、今回のアップデートにより、さらに物理財布の不要化が進むことになる。\n\n新機能では、会員証やチケットなどの物理的なカードをiPhoneやApple Watchに取り込んで保存できるようになるとされている。カメラアプリのSiriモードを活用し、バーコードが付いた物理カードに向かってiPhoneをかざすだけで、Apple Walletへの保存が促される仕組みだ。また、デジタル版のスクリーンショットからの取り込みや、ウォレットアプリ内からの直接作成にも対応している。\n\nこれによって、日常でまだ紙やプラスチックのカードを必要とする店舗やイベントがあっても、持ち歩く必要がなくなると伝えられている。常に持ち歩くiPhoneにすべてを集約できるため、特別なカードを忘れるのではないかという不安や負担が解消されることになる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-25T13:10:12+00:00"
+}
