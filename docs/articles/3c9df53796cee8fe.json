@@ -1,0 +1,20 @@
+{
+ "id": "3c9df53796cee8fe",
+ "title_ja": "macOS 27が一般公開、Siriや純正アプリにApple Intelligence機能",
+ "summary_ja": "Appleは数ヶ月におよぶベータテストを経て、macOS 27 Golden Gateを一般向けに正式リリースしました。今回のアップデートではSiri AIを中心として、多くのApple純正MacアプリにApple Intelligenceを活用した新機能や強化が追加されています。",
+ "points": [
+  "macOS 27ゴールデンゲートが一般公開",
+  "写真アプリにAI編集ツールを追加",
+  "Safariとショートカットが自然言語に対応",
+  "Finderのファイル名提案機能などを搭載"
+ ],
+ "body": "Appleは数か月にわたるベータテストを経て、最新の「macOS 27 ゴールデンゲート」を一般向けにリリースした。今回のアップデートはSiriのAI機能が目玉となっているほか、Macの標準アプリの多くにApple Intelligenceによる機能強化が施されており、様々な場面でAIを活用した効率的な操作が可能になっている。対応機種はApple Siliconを搭載したすべてのMacとなっている。\n\n写真アプリでは、撮影後の画像の視点を変更できる空間リフレーミングや、元の端を超えて画像を拡張できる機能、不要なオブジェクトや人物を削除する強力なクリーンアップなど、複数のAI編集ツールが利用できるようになる。また、Safariにはタブのトピック別自動グループ化機能が追加されたほか、ウェブサイトの変更時にプッシュ通知を受け取れる通知機能や、自然言語のプロンプトを使ってカスタム拡張機能を作成できる機能などが搭載されている。\n\nさらに、ショートカットアプリでは自然言語で作成したい内容を説明するだけで自動的にショートカットを構築できるようになり、作成後の調整も自然言語で行うことが可能となった。Finderにおいても、ファイルやフォルダの名前を変更する際に、その内容に基づいてApple Intelligenceが適切な名前を提案してくれる機能が追加されている。このように、日常的に使用する多くのアプリでAIを活用した新機能が利用できるようになった。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-25T23:24:55+00:00"
+}

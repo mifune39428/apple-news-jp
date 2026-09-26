@@ -1,0 +1,19 @@
+{
+ "id": "f7cf81386e5f3621",
+ "title_ja": "iPhone 18 ProのFace ID不具合、修正予定",
+ "summary_ja": "iPhone 18 ProでFace IDが正常に動作せず再起動を余儀なくされる不具合が報告されている。Appleは来週初めにも、この問題を修正するためのソフトウェアアップデートを配信する準備を進めている。",
+ "points": [
+  "一部のiPhone 18 Proで不具合が発生",
+  "Face IDの不具合と画面の無反応は関連か",
+  "Appleが来週初めにも修正アップデート配信へ"
+ ],
+ "body": "発売初期のiPhone 18 Proにおいて、Face IDの認証失敗やそれに伴う強制再起動、さらに画面がランダムに反応しなくなる不具合が多数報告されていると報じられている。当初はこれらは別個の問題とみられていたが、両者は同一の起因によるものとされ、Appleは近くソフトウェアアップデートを通じて修正を提供する見込みであるという。\n\n新型モデルでは赤外線カメラを画面下に配置することでDynamic Islandのサイズが縮小されているため、ハードウェアの欠陥を懸念する声もあった。しかし、Appleは今回のソフトウェア更新によって大半の問題が解消できると自信を持っている模様である。配信は来週初め頃が予定されており、iOSのマイナーアップデートなどが提供される見通しとされている。\n\n新モデルの発売直後にAppleが修正パッチを配布する事例は過去にも存在しており、過去にはタッチスクリーンの不具合に対してディスプレイの交換プログラムが実施されたこともあった。今回はハードウェアの深刻な欠陥ではなく、ソフトウェアの修正で対応可能とみられる点が、早期の解決に向けた明るい材料となっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3244462/iphone-18-pro-fix-coming-soon-to-address-face-id-freezing-bug.html",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/09/3244462-0-99092000-1790344488-iPhone-18-Pro-Glacier-4.jpg?quality=50&strip=all",
+ "published": "2026-09-25T13:54:31+00:00"
+}
