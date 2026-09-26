@@ -1,0 +1,20 @@
+{
+ "id": "74f9529432a99076",
+ "title_ja": "Mac miniの電源をUSB-C化する変換アダプターがKickstarterに登場",
+ "summary_ja": "Mac miniの電源をUSB-C仕様に変換し、USB充電器やモバイルバッテリーでの駆動を可能にするアダプター「VoltFun MiniPal」がKickstarterに登場しました。UPS機能にも対応しており、Mac miniの持ち運びやポータブルな運用を実現します。",
+ "points": [
+  "Mac miniをUSB-C電源で駆動する変換アダプターが登場",
+  "モバイルバッテリー接続によるUPS機能や持ち運びが可能",
+  "M4やM6などのチップを搭載したモデルに対応する",
+  "Kickstarterで出資を募り将来はAmazonでも販売予定"
+ ],
+ "body": "AppleのM4およびM6チップを搭載したMac miniの電源をUSB-C化し、USB充電器やモバイルバッテリーで駆動できるようにする電源変換アダプター「VoltFun MiniPal」が、クラウドファンディングサイトのKickstarterに登場していると報じられている。M4チップやM6チップを搭載したMac miniは優れた省電力性能を持っているが、このアダプターを利用することで専用のAC電源ポートを20V PD対応のUSB-Cポートへと変換できるようになるとされている。これによって、コンセントがない場所でもUSB充電器やモバイルバッテリーを通じてMac miniを起動および動作させることが可能になるとのことだ。\n\nこの電源変換アダプターには、電源が落ちた際にも駆動を維持できる無停電電源装置のようなUPSとしての利用価値もあると伝えられている。背面と前面にUSB-Cポートを備えており、背面は主に電源用、前面はモバイルバッテリーの接続用として設計されている。筐体にはアルミニウム合金と樹脂が使用され、コンパクトで軽量なサイズに仕上げられているとされている。対応モデルはM4やM6などのチップを搭載したMac miniとなっており、上位のProチップモデルにも接続できるものの、高負荷時の動作については保証されないと報じられている。\n\nプロジェクトの資金調達はすでに目標金額を達成しており、出資者への製品発送は2026年12月頃が予定されているとのことだ。キャンペーン終了後にはAmazon.comでの販売も計画されていると伝えられており、Mac miniを外出先でも活用したいユーザーの選択肢の一つとして注目を集めている。製品の開発や製造に向けた準備も着実に進められているとされており、今後の展開に関心が集まっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260926-voltfun-minipal-usb-c-power-converter-for-mac-mini-m4-and-m6.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/VoltFun-MiniPal-USB-C-Power-Converter-for-Mac-mini-logo-icon.webp",
+ "published": "2026-09-26T13:33:53+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "f5e0462c8aedb2aa",
+ "title_ja": "Apple HomeのAIカメラ機能と他社製品を比較",
+ "summary_ja": "Apple HomeのAIセキュリティカメラ機能の実力を検証するテストが実施されました。競合するAmazonやGoogleの機能と性能を比較しています。",
+ "points": [
+  "AppleがHomeKit Secure Video向けApple Intelligenceの提供を開始",
+  "テキスト要約や自然言語での動画検索などの新機能が利用可能に",
+  "対応機能を利用するには上位のiCloud+プランへの加入が必要となる",
+  "競合他社と比較して料金設定が割高であると報じられている"
+ ],
+ "body": "AppleのHomeKit Secure Videoサービスにおいて、Apple Intelligenceを活用した新しいカメラ機能の提供が開始されたと報じられている。これにより、従来の単なる「動作検知」の通知から、カメラが捉えた状況を簡潔なテキストで瞬時に伝えてくれる機能が利用できるようになり、ユーザーは動画の読み込みを待つことなくスマートフォン画面で状況を把握できるようになるとされている。\n\n新機能には、AIを活用したテキストによる状況説明のほか、自然言語での動画検索、注目すべきイベントの抽出、関連するクリップの結合などが含まれている。また、連続する通知を一つにまとめて更新する機能なども備わっており、従来のスマートアラートに比べて状況判断が大幅にしやすくなっていると評価されている。\n\n一方で、これらの機能を利用するための価格設定には厳しい目が向けられている。Apple IntelligenceをHomeで利用するためには上位のiCloud+プランが必要となり、対応カメラの台数制限を含めて競合他社のサービスと比較すると高額になると指摘されている。AmazonやGoogleの同様のAI機能と比較して、コスト面に見合う価値があるかどうかが注目を集めている状況である。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-09-25T13:00:00+00:00"
+}
