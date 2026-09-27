@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T00:59:36.933306+09:00",
+ "updated_at": "2026-09-28T05:35:22.764668+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -30,6 +30,39 @@
  "count": 400,
  "detail_count": 309,
  "items": [
+  {
+   "id": "ad3c7a6e584c8613",
+   "url": "https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging",
+   "title_original": "Sunday Reboot: Big Whoop and more Apple Watch nagging",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/69133-145788-Apple-Watch-Series-12-Readiness-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-27T20:32:03+00:00",
+   "title_ja": "Apple Watchの健康機能や画面なし端末の噂を追う週刊コラム",
+   "summary_ja": "AppleInsiderの週刊コラム記事にて、Apple Watchの健康管理機能や新たに加わった機能、さらに噂される画面非搭載ウェアラブルについて言及されています。健康維持に役立つ一方で、画面のない端末が心の平穏につながる可能性など、一週間のライトな話題が紹介されています。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 1
+  },
+  {
+   "id": "676607552bb1ecc0",
+   "url": "https://iphone-mania.jp/iwatch-606688",
+   "title_original": "watchOS27.2ベータ2でApple Watchに「Appスイッチャー」が復活",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/09/28/IMG_8668.jpeg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-27T20:20:07+00:00",
+   "title_ja": "watchOS 27.2ベータ2でアプリ切り替え機能が復活",
+   "summary_ja": "開発者向けに配信されたwatchOS 27.2ベータ2において、以前のバージョンで廃止されていたAppスイッチャー機能が復活したことが判明しました。アプリの切り替えが再び可能になりますが、操作方法には変更が加えられている模様です。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b1b12ec64f688ce5",
    "url": "https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes",
@@ -228,6 +261,23 @@
    "title_ja": "Apple、iOSの子ども向け安全管理機能を紹介する解説動画を公開",
    "summary_ja": "Appleは、iOSなどで強化された子どもの安全機能に関する動画を公開しました。保護者がアプリやWebサイトの利用制限、連絡先や利用時間の管理を行える仕組みが紹介されています。単に行動を制限するだけでなく、適切な保護と管理のあり方を示した内容です。",
    "category": "ソフトウェア・OS",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5e38d6407e54939b",
+   "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available",
+   "title_original": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-09-27T08:24:00+00:00",
+   "title_ja": "iPhone 18 Pro向けケースが登場　純正および人気ブランド製品まとめ",
+   "summary_ja": "Apple純正のシリコンやTechWovenモデルをはじめ、NomadやSpigenといった人気ブランドからiPhone 18 Pro向けケースが発売された。スタンド付きやレザー製、14ドルからの手頃なモデルまで揃っており、好みに合わせた選択が可能だ。",
+   "category": "iPhone",
    "importance": 2,
    "has_detail": true
   },
@@ -6688,56 +6738,6 @@
    "category": "Mac",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "6d7ae48cd547b390",
-   "url": "https://www.macworld.com/article/3241056/apples-next-gen-photo-controls-only-work-on-images-captured-on-a-new-iphone.html",
-   "title_original": "Apple’s next-gen photo controls only work on images ‘captured’ on a new iPhone",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/09/3241056-0-16940700-1790087462-iPhone-18-Pro-Glacier-3.jpg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-22T13:33:27+00:00",
-   "title_ja": "新機能の制限とハードウェアの関係性",
-   "summary_ja": "今月のイベントではハードウェアとソフトウェアの境界があいまいになる発表が見られました。新しい健康や音声AI機能について、古いハードウェアでの対応状況を気にする声が多く上がっています。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0e71e5f1a47d3881",
-   "url": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro",
-   "title_original": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-22T13:27:17+00:00",
-   "title_ja": "2029年のProモデルに採用される新ディスプレイ技術",
-   "summary_ja": "2029年のPro向けiPhoneには、偏光板を排除して薄型化と省電力化を実現する有機ELスクリーンが採用される見通しです。光の透過率を高めることで、電力消費を増やさずに高輝度化が可能になります。",
-   "category": "iPhone",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b6da93d3bce4c082",
-   "url": "https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases",
-   "title_original": "PITAKA’s iPhone 18 Pro cases bring stunning designs and protection from $59.99 [Save 10%]",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pitaka-iphone-18-pro-hero.webp?w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-22T13:25:39+00:00",
-   "title_ja": "PITAKA、新型iPhone向けの保護ケースを発表",
-   "summary_ja": "PITAKAがアラミド繊維を採用した新型iPhone向けケースの最新ラインナップを発表しました。耐衝撃性やデザイン性の異なる複数のモデルが用意され、割引コードも提供されています。",
-   "category": "iPhone",
-   "importance": 2
   }
  ]
 }
