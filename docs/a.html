@@ -6,6 +6,7 @@
 <title>Apple News 日本語まとめ</title>
 <meta name="theme-color" content="#f5f5f7" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
@@ -65,12 +66,41 @@
   .note { font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
   .note p { margin: 0 0 7px; }
   .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+
+  /* ---------------------------------------------------------------- 一覧（index.html）と見た目を揃える
+     元の指定は残したまま、ここで上書きしている（後に書いたものが勝つ）。 */
+  :root { --bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#6e6e73;--line:rgba(0,0,0,.08);--accent:#0071e3;--chip:rgba(0,0,0,.05);--badge:#0071e3;--header:rgba(255,255,255,.86);--quote:rgba(0,113,227,.06);--shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.05); }
+  @media (prefers-color-scheme: dark) { :root { --bg:#000;--card:#1c1c1e;--text:#f5f5f7;--muted:#98989d;--line:rgba(255,255,255,.08);--accent:#2997ff;--chip:rgba(255,255,255,.08);--badge:#2997ff;--header:rgba(0,0,0,.78);--quote:rgba(41,151,255,.1);--shadow:0 0 0 1px rgba(255,255,255,.06); } }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Segoe UI", sans-serif;
+    font-feature-settings: "palt"; letter-spacing: .02em; line-height: 1.85;
+  }
+  header { padding: env(safe-area-inset-top) 0 0; }
+  .bar { max-width: 720px; height: 52px; padding: 0 16px; }
+  .back { font-size: 14px; font-weight: 700; color: var(--text); }
+  .brandmark { margin-left: auto; display: flex; align-items: center; gap: 7px; color: var(--text); }
+  .logo { border-radius: 3px; font-size: 9px; font-weight: 800; letter-spacing: .1em; line-height: 1; padding: 5px 5px 5px 6px; }
+  .logo { background: var(--text); color: var(--bg); }
+  .wordmark { font-size: 16px; font-weight: 900; letter-spacing: .12em; line-height: 1; }
+  h1 { font-size: 25px; font-weight: 800; line-height: 1.5; letter-spacing: .02em; margin: 0 0 16px; }
+  .cover { border-radius: 16px; max-height: 380px; margin-bottom: 20px; box-shadow: var(--shadow); }
+  .points {
+    position: relative; overflow: hidden; background: var(--card); border: 0; border-radius: 16px;
+    box-shadow: var(--shadow); padding: 16px 18px 16px 22px; margin: 0 0 24px;
+  }
+  .points::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--accent); }
+  .points h2 { font-size: 12px; color: var(--accent); letter-spacing: .08em; font-weight: 800; }
+  .btn { border-radius: 999px; padding: 14px; font-weight: 700; }
 </style>
 </head>
 <body>
 
 <header>
-  <div class="bar"><a class="back" href="./">← 一覧へ戻る</a></div>
+  <div class="bar">
+    <a class="back" href="./">‹ 一覧へ戻る</a>
+    <a class="brandmark" href="./" aria-label="Apple News 日本語まとめ トップへ"><span class="logo">APPLE</span><span class="wordmark">NEWS</span></a>
+  </div>
 </header>
 
 <main id="main"><p class="loading">読み込み中…</p></main>
