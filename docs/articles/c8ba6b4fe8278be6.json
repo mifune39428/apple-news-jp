@@ -1,0 +1,19 @@
+{
+ "id": "c8ba6b4fe8278be6",
+ "title_ja": "Apple、バグ修正版の「macOS 27.0.1 GG」をリリース",
+ "summary_ja": "Appleは複数のバグ修正を施した「macOS 27.0.1 Golden Gate」をリリースした。日本時間の2026年9月15日に公開され、さまざまなアプリケーションに関連する修正が行われている。",
+ "points": [
+  "Appleが「macOS 27.0.1 Golden Gate」をリリース",
+  "アップデート内容はバグ修正のみで詳細は不明",
+  "同時に他のOS向けにゼロデイ脆弱性の修正も公開"
+ ],
+ "body": "Appleは、日本時間2026年9月28日付で「macOS 27.0.1 Golden Gate（ビルド26A434）」のアップデートを新たにリリースした。先だってリリースされていた「macOS 27 Golden Gate」のHotfixに位置づけられており、Macのバグを修正するための内容となっている。同バージョンのリリースノートにはMac用のバグ修正が含まれていると記載されているのみで、具体的な不具合の内容や修正された脆弱性については明らかにされていない。また、同時に公開されたセキュリティコンテンツ上でも、本バージョンにおけるCVEの記載はない状況となっている。\n\n一方で、同時期には「macOS 26.7.1 Tahoe」や「macOS 15.8.1 Sequoia」、さらに「iOS/iPadOS 26.7.1」といった他のOS向けアップデートも公開されており、これらでは1件のゼロデイ脆弱性が修正されていることが確認されている。そのため、手元のMacを安全かつ快適に利用するためにも、ユーザーは時間を見つけて早めにアップデートを適用することが推奨される。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260929-macos-27-0-1-golden-gate.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
+ "published": "2026-09-28T21:04:39+00:00"
+}

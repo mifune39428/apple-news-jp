@@ -1,0 +1,19 @@
+{
+ "id": "734a37657b52b38d",
+ "title_ja": "AppleがiOS 27.0.1をリリース、Face IDの再起動バグを修正",
+ "summary_ja": "Appleが「iOS/iPadOS 27.0.1」をリリースしました。本アップデートでは、iPhone 18 Proおよび18 Pro Maxにおいて、Face IDの認証失敗時に端末が予期せず再起動してしまう問題など、複数の不具合が修正されています。",
+ "points": [
+  "Appleが「iOS/iPadOS 27.0.1」をリリース",
+  "iPhone 18 Proの再起動バグなどを修正",
+  "旧OS向けにゼロデイ脆弱性修正も同時公開"
+ ],
+ "body": "Appleは、最新のiPhone 18 ProおよびiPhone 18 Pro Maxにおける不具合を修正する「iOS/iPadOS 27.0.1（ビルド24A446）」をリリースした。今回のアップデートは、発売されたばかりの同シリーズで発生していた特定のトラブルに対処するためのものとなっている。\n\nリリースノートによると、主な修正内容にはiPhone 18 ProシリーズでFace IDの認証に失敗した際に、端末が予期せず再起動してしまう不具合の解消が含まれている。また、特定の照明条件下において、f/1.48の2倍ズームで撮影した写真に異常な色が発生してしまう問題も合わせて修正された。\n\nなお、今回のiOS/iPadOS 27.0.1にはセキュリティ脆弱性の修正は含まれていないとされている。しかし、Appleは同時にiOS/iPadOS 26を搭載しているデバイス向けとして、1件のゼロデイ脆弱性を修正する「iOS/iPadOS 26.7.1」も公開しているため、それぞれの対象ユーザーはアップデートの確認が推奨される。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260929-ios-2701-iphone-18-pro-face-id-reboot-bug.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://applech2.com/wp-content/uploads/2026/06/Apple-OS-27-logo-icon.webp",
+ "published": "2026-09-28T21:41:55+00:00"
+}

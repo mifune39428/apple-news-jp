@@ -1,0 +1,20 @@
+{
+ "id": "8420471fadce74d8",
+ "title_ja": "Apple、全対応モデル向けに「watchOS 27.0.1」を配信",
+ "summary_ja": "Appleは「watchOS 27.0.1」の提供対象を拡大し、すべての互換性を持つApple Watchモデルに向けてリリースした。先週実施された一部モデル向けの初期リリースに続く対応となる。",
+ "points": [
+  "watchOS 27.0.1がすべての対応Apple Watchへ展開された",
+  "一部のデバイスが予期せぬ再起動を起こす不具合を修正する",
+  "ビルド番号は先週リリースされたものと同一の24R365である",
+  "同時にiOSやmacOSなど複数のOSアップデートも公開された"
+ ],
+ "body": "Appleは、すべての対応Apple Watchモデルに向けて「watchOS 27.0.1」の提供を開始した。先週の時点では「Apple Watch Series 12」および「Apple Watch Ultra 4」を対象に先行してリリースされていたが、今回の拡大によりその他の互換性を持つすべてのモデルでも適用が可能になった。\n\n今回のアップデートにおけるリリースノートの内容に変更はなく、端末が予期せず再起動してしまう問題の修正を含む、各種のバグ修正が提供される。また、本日配信されたバージョンのビルド番号も、先週配信されたものと同じ「24R365」となっている。\n\nなお、watchOSのアップデートと同時に、AppleはiOS 27.0.1、iPadOS 27.0.1、visionOS 27.0.1、macOS 27.0.1 Golden Gateなど、多数のオペレーティングシステムの新しいバージョンも同時にリリースしている。それぞれの環境に応じた不具合の修正やセキュリティの改善が含まれており、ユーザーは各デバイスからアップデートを確認することができる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-hero.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-28T21:10:42+00:00"
+}

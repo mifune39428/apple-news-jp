@@ -1,0 +1,19 @@
+{
+ "id": "0f0840deeabdf1df",
+ "title_ja": "新しいSiri AIに対応するApple製デバイス一覧",
+ "summary_ja": "大規模な進化を遂げた次世代のSiri AI機能は、最新のハードウェアでのみ利用できる。対応しているデバイスはiPhoneやiPad、Mac、Apple Watch、Apple Vision Proの一部モデルに限られる。",
+ "points": [
+  "iOS 27などで刷新されるSiri AIは対応デバイスが限定される",
+  "音声のカスタマイズ機能などはさらに一部の最新モデルでのみ利用可能",
+  "高度なデバイス内AIモデルの処理能力を確保するためとされる"
+ ],
+ "body": "iOS 27などの最新アップデートで提供される大幅に刷新されたSiri AIは、比較的新しいApple製デバイスでのみ利用できることが明らかになっている。対応するハードウェアはiPhoneやiPad、Mac、Apple Watch、Apple Vision Proなど多岐にわたるが、地域による制限もあるためすべての環境で無条件に使えるわけではない。Apple WatchについてはAIをサポートするiPhoneとペアリングしている場合に利用可能となる。\n\nまた、Siri AIの音声のテンポや表現力を完全にカスタマイズするといった一部の高度な機能については、さらに限られた特定のハードウェアでのみ提供される。具体的にはiPhone 18 ProやiPhone 18 Pro Max、iPhone Duo、iPhone 17 Pro、iPhone 17 Pro Max、iPhone Airをはじめ、M4以降のチップと12GB以上のユニファイドメモリを搭載したiPadモデル、M3以降のチップと12GB以上のユニファイドメモリを搭載したMacモデル、そしてM5を搭載したApple Vision Proなどが対象となっている。\n\nこのような厳しいハードウェア制限が設けられている背景には、Appleの最も強力なデバイス内AIモデルを動作させるために高い処理能力が必要であることが挙げられている。対応モデルを使用しているユーザーであれば、Siri AIの動作においてより高速なパフォーマンスが期待できる場合もあるとされている。手持ちのデバイスがこれらの要件を満たしているか、事前に確認しておいたほうがよさそうだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-28T19:43:11+00:00"
+}
