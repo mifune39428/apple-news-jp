@@ -1,0 +1,19 @@
+{
+ "id": "00a4376cbbd917b9",
+ "title_ja": "Apple Creator Studioが更新、iPad版アプリに新機能追加",
+ "summary_ja": "Appleは「Apple Creator Studio」のアップデートを発表しました。これにより、iPad版のPixelmator Proに「選択とマスク」機能が追加されます。また、Mac版のFinal Cut ProやMotionにおいて、iPhone 18 Proで撮影したビデオにシネマティックモードのエフェクトが適用可能になります。",
+ "points": [
+  "Apple Creator Studioが2026年9月29日にアップデートを発表",
+  "iPad版Pixelmator Proに選択とマスク機能を追加",
+  "Mac版Final Cut ProでiPhone 18 Proのビデオ編集に対応"
+ ],
+ "body": "Appleは2026年9月29日、Apple Creator Studioの大型アップデートを発表した。今年1月の提供開始と6月の更新に続く3回目のアップデートとなり、月額1,780円などの料金設定はそのまま据え置かれている。今回の更新は、これまでの利用環境で惜しいとされていた細かな部分を埋める内容となっている。\n\n目立った新機能としては、iPad版Pixelmator ProにMac版と同様の選択とマスク機能が加わったことが挙げられる。これにより、AIによる背景削除を行った後の髪の毛などの複雑な境目を、iPad単体で細かく調整して仕上げられるようになった。また、動きのあるデザインやビジネス向けの新しいテンプレートに加え、ポッドキャストのカバーアート用カテゴリも追加されている。\n\nMac版のFinal Cut ProやMotionでは、iPhone 18 Proで撮影したビデオのシネマティックモードのエフェクトに対応し、タイムライン上で被写界深度や焦点を直接調整できるようになった。さらに、Keynoteなどのオフィス系アプリやフリーボードでもテンプレートの追加や新機能が導入され、Apple Vision Proの空間への3Dモデル配置などもサポートされている。",
+ "source": "gori.me",
+ "url": "https://gori.me/apps/ipad-app-news/170803",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://gori.me/uploads/2026/01/Apple-Creator-Studio-Prerelease-Review-08-800x534.jpg",
+ "published": "2026-09-29T21:05:52+00:00"
+}

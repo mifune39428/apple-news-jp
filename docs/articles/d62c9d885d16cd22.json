@@ -1,0 +1,19 @@
+{
+ "id": "d62c9d885d16cd22",
+ "title_ja": "AirPods Pro 3などの新ベータファームウェアが配信開始",
+ "summary_ja": "AppleはAirPods Pro 3やAirPods Pro 2などの一部モデルを対象に、新しいベータ版ファームウェアの提供を開始しました。対応デバイスを使用しているユーザー向けに、順次アップデートが適用されています。",
+ "points": [
+  "H2チップ搭載モデル向けに新しいベータ版ファームウェアが配信開始",
+  "ビルド番号は「9B5042a」で詳細な変更点は不明",
+  "対象はAirPods ProやAirPods Maxなどの一部モデル"
+ ],
+ "body": "Appleは、H2チップを搭載した一部のAirPodsモデルを対象に、新たなベータ版ファームウェアの配信を開始したと報じられている。今回のベータ版で確認されているビルド番号は9B5042aとなっており、対象モデルにはAirPods Pro 3やAirPods Pro 2、AirPods Max 2などが含まれている。現時点でこの新しいファームウェアによってどのような変更や新機能が追加されるのかは明らかにされていない。\n\n考えられる可能性として、今後のOSアップデートに向けた事前準備が進められているか、あるいは不具合の修正やパフォーマンスの向上が主な目的であるとみられている。一般ユーザー向けの正式リリースに先立って試用したい場合は、iPhoneのAirPods設定画面からベータ版のアップデートを有効にすることが可能となっている。ただし、ファームウェアの更新を手動で強制的に実行する手段はないため、自動アップデートがスムーズに行われるための環境を整える必要がある。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/29/airpods-pro-3-and-more-just-got-new-firmware-update-in-beta",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-29T18:34:24+00:00"
+}

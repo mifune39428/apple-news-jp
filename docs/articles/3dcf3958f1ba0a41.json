@@ -1,0 +1,20 @@
+{
+ "id": "3dcf3958f1ba0a41",
+ "title_ja": "iWorkやPixelmator ProなどApple製アプリがアップデート",
+ "summary_ja": "AppleはFinal Cut Cameraの更新に合わせ、PagesやKeynote、Numbers、Pixelmator Pro、Freeformなどのアプリをアップデートした。それぞれ新機能の提供が順次開始されている。",
+ "points": [
+  "PagesやKeynoteなどApple製アプリのアップデートが発表",
+  "iWorkスイートやPixelmator Pro、Freeformに新機能",
+  "Siriへの質問機能やコラボレーションの効率化が追加",
+  "Apple Creator Studio加入者向けの特典やテンプレートも用意"
+ ],
+ "body": "Appleは、Pages、Keynote、NumbersのiWorkスイートをはじめ、Pixelmator ProやFreeformといった主要アプリのアップデートを発表した。今回のアップデートでは、アプリに関する質問をSiriに投げかけて回答を得られる機能が追加されたほか、共有されているプレゼンテーションやドキュメントへのアクセス権を直接リクエストできる機能が実装され、共同作業がよりスムーズに行えるようになっている。それぞれのアプリ単体でも多くの機能強化が図られている。\n\nPagesのMac向けバージョンには、コンテンツの閲覧や集中した執筆作業に最適なスクリーン表示機能が新しく搭載された。Numbersには、複雑なスプレッドシートの課題を解決するための新しい三角関数、統計、論理関数が追加されている。また、Apple Creator Studioの加入者向けには、3つのiWorkアプリすべてで利用できる新しいテンプレートやテーマが提供され、Keynoteではプレゼンテーションの内容に合わせた画像を自動生成するインテリジェントなスライド作成機能が利用可能になる。\n\nPixelmator ProのiPad版には、これまでMac版限定だった選択およびマスクツールが追加されたほか、スポーツやアクション向け、あるいは新しいビジネスやアイデアの立ち上げ向けなど、いくつかの新しいテンプレートコレクションがMacとiPadの両方で利用できるようになった。ポッドキャストの主要プラットフォームに最適化されたカバーアート用のカテゴリーも新たに加わっている。Freeformにおいては、ダークモードへの自動適応や、フォルダによるボードの整理と共同作業への招待機能が導入された。Apple Intelligenceによるライティングツールを活用した手書きノートの校正や要約、ショートカットを使ったコンテンツ追加の自動化なども可能になり、ビジョンPro向けにはボード上の複数のアイテムを空間内に引き出したり3Dモデルを共同で表示したりする機能が提供されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-29T17:15:52+00:00"
+}
