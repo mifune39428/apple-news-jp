@@ -1,0 +1,19 @@
+{
+ "id": "0543e890cc33e7d0",
+ "title_ja": "DoorDash、Appleメッセージでテキスト注文を開始",
+ "summary_ja": "DoorDashがAppleのMessagesアプリ内でテキストベースの注文機能を提供。AIが注文内容を解析し、メッセージから食事を注文できるようになった。",
+ "points": [
+  "DoorDashがメッセージアプリ経由の注文機能を発表",
+  "AIエージェントを活用したテキストでの注文が可能に",
+  "現在は米国のみで提供されウェイトリストへの登録が必要"
+ ],
+ "body": "フードデリバリーサービスのDoorDashが、Appleの標準メッセージアプリを使って食事の注文ができる新しい方法を発表したと報じられている。専用のアプリを開くことなく、テキストメッセージのやり取りだけで手軽に注文を完了できる仕組みとなっており、その裏側ではAIエージェントが駆動しているとされる。\n\nこの新機能は、まず米国での提供からスタートすることが明らかにされている。利用を希望するユーザーは、事前にウェイトリストに登録する必要があり、アクセス権が付与されると通知を受け取ることができる。需要の状況によってはすぐに利用可能になる場合もあるが、状況によって待ち時間が発生することもあると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/doordash-apple-messages.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-30T13:35:16+00:00"
+}
