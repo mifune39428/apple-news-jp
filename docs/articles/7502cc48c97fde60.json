@@ -1,0 +1,19 @@
+{
+ "id": "7502cc48c97fde60",
+ "title_ja": "「Numbers v15.4」公開、18種類の新しい関数を追加",
+ "summary_ja": "Appleの表計算アプリ「Numbers v15.4」において、新たな関数が追加されました。三角関数や統計関数、論理関数など計18種類が利用可能になっており、ACOTやXOR、FISHER、GAMMA、PEARSON、DAYSといった関数が含まれています。",
+ "points": [
+  "Appleの表計算ツール「Numbers v15.4」がリリースされた",
+  "三角関数や統計関数など新しい18の関数が追加された",
+  "利用可能な関数の総数は合計355個に達している"
+ ],
+ "body": "Appleは、クリエイティブアプリやiWorkのAI機能を利用できるサブスクリプションサービス「Apple Creator Studio」に対応したアプリケーションの一斉アップデートを実施しました。その一環として、表計算ツールの「Numbers v15.4」がリリースされ、さまざまな新機能や機能拡張が行われています。今回のアップデートでは、新機能として新しい三角関数、統計関数、論理関数が多数追加されたことが発表されています。\n\n新バージョンであるNumbers v15.4と従来のv15.3における関数ヘルプを比較検証したところ、今バージョンではACOTやXOR、FISHER、GAMMA、PEARSON、DAYSをはじめとする合計18の関数が新しく実装されていることが確認されています。これにより、Numbersで利用できる関数の総数は全部で355個に増加しました。高度な計算やデータ分析を行うユーザーにとって、より幅広い表現や効率的な作業が可能になるアップデートとなっています。日常的にNumbersを活用しているユーザーは、新たに追加された関数をチェックしてみるとよいでしょう。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20260930-apple-numbers-nw-trigonometry-statistics-and-logic-func.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/Numbers-macOS-27-Golden-Gate-logo-icon.webp",
+ "published": "2026-09-29T22:10:55+00:00"
+}

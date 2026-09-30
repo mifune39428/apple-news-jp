@@ -1,0 +1,20 @@
+{
+ "id": "19dd8bf5be4f67c3",
+ "title_ja": "インドでApple Payが提供開始、Axis Bankカードに対応",
+ "summary_ja": "インドにおいてApple Payの利用が可能になった。対象となるのはアクシス銀行のVisaおよびMastercardのカードで、ウォレットアプリに追加して非接触決済やオンライン決済に利用できる。ただし国内ブランドのRuPayなどは非対応となっている。",
+ "points": [
+  "インドでApple Payが利用可能に",
+  "対象はアクシス銀行のカード",
+  "加盟店側の対応が今後必要に",
+  "約10年越しのサービス展開"
+ ],
+ "body": "インドにおいてApple Payの提供が開始され、対応するカードをiPhoneやApple Watchのウォレットアプリに追加して非接触決済やオンライン決済に利用できるようになると報じられている。現在利用可能なのはアクシス銀行が発行するVisaまたはMastercardネットワークのクレジットカードであり、一部の報道によればすべての非接触決済ロケーションですぐに機能するわけではなく、加盟店や決済端末側でのサポート追加が必要になるとされている。\n\n一方で、インド国内のカードネットワークであるRuPayや、HDFC銀行、ICICI銀行、SBIカードなどの主要銀行は、現時点でApple Payのサポートを追加していない。インドへのApple Pay導入については約10年前から噂されていたものの、規制上の問題などから難航していたと伝えられている。インド国内では国家支援による即時資金移動システムであるUPIがすでに広く普及しており、デジタル決済の取引量の大部分を占めているが、現時点でUPIとApple Payの互換性はない状況となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/09/29/apple-pay-india",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/09/Apple-Pay-India.jpg",
+ "published": "2026-09-30T00:01:50+00:00"
+}
