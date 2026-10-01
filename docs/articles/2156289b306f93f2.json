@@ -1,0 +1,19 @@
+{
+ "id": "2156289b306f93f2",
+ "title_ja": "Apple TVや一部のサービスで一時的な障害が発生",
+ "summary_ja": "一部のユーザーの間でApple TVやサブスクリプションの購入機能などが利用できない障害が発生した。Appleによると、Apple TVを除き大部分のサービスでの不具合はすでに復旧しているとのこと。",
+ "points": [
+  "Apple TVやApp Storeなどで障害が発生",
+  "大半のトラブルは定時メンテナンスと説明",
+  "Apple TV以外の障害は復旧済みと発表"
+ ],
+ "body": "Appleの複数サービスにおいて、一時的な障害や不具合が発生していると報じられている。公式のシステムステータスぺージによると、Apple TVをはじめ、App Store、Apple Fitness+、Apple Music、Mac App Store、および各種サブスクリプションの購入機能などで問題が確認された。大部分のトラブルは現地時間の午後4時22分頃に始まったとされており、App StoreやApple Musicなどについてはユーザーへの影響がない定時メンテナンスの一環として案内されていた。一方、Apple TVの不具合は午後4時43分頃に発生し、計画メンテナンスのためにサービスが利用できなくなる可能性があるとされていた。\n\n検証では、iOS環境においてApple TVのインターフェースが正常に読み込めない現象が確認された一方で、他のデバイスではコンテンツの再生自体は通常通り行える状態だったという。また、これらの問題が表面化する直前には、App StoreやTestFlight、Fitness+などのアプリ内で通常のテキスト表示が内部的なローカライズ文字列に置き換わってしまう現象も発生していたが、一連のシステム障害との関連性は明らかになっていない。障害発生時には海外のダウン検知サイトでも同様の報告が相次いだものの、その後は減少傾向にあると伝えられている。\n\n最新の更新によれば、Apple TVを除くすべてのサービスにおける障害はすでに解消されたと発表されている。Apple TVに関する問題については引き続き影響が残っているとみられているが、全体の状況は徐々に改善に向かっていると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/09/30/apple-tv-is-currently-down-for-some-users-as-other-apple-services-also-face-issues",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-09-30T22:47:35+00:00"
+}
