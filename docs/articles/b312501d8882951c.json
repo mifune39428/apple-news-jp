@@ -1,0 +1,21 @@
+{
+ "id": "b312501d8882951c",
+ "title_ja": "Apple、「Apple Creator Studio」のアップデートを発表",
+ "summary_ja": "Appleは、クリエイティブおよび生産性アプリのコレクション「Apple Creator Studio」の最新アップデートを発表しました。このアップデートにより、クリエイター向けツール群の機能がさらに強化されます。ユーザーの創造性と生産性を高めるための新しい機能が多数導入される予定です。",
+ "points": [
+  "Apple Creator Studioの各アプリに新機能が追加",
+  "Pixelmator ProはiPad版で高度な選択ツールに対応",
+  "Final Cut Proなどでシネマティックモード効果の編集が可能",
+  "KeynoteやPagesなどのiWorkアプリに新テンプレートを追加",
+  "FreeformやvisionOS 27でのコラボレーション機能が向上"
+ ],
+ "body": "Appleは、クリエイティブおよび生産性向上アプリのコレクションであるApple Creator Studioに向けた新機能を発表した。iPad版のPixelmator Proには、Mac版と同様に細部まで正確な選択やマスク処理が行える機能が追加され、髪の毛のような複雑なエッジも精密に調整できるようになる。また、MacおよびiPad共通で、スポーツやビジネス立ち上げ向けなどの新しいテンプレートが用意されたほか、主要なポッドキャストプラットフォームに合わせた専用のカバーアート作成カテゴリも新たに導入されている。\n\nMac向けのFinal Cut ProやMotionでは、 iPhone 18 Proで撮影されたネイティブビデオに対して、後からシネマティックモードの効果を適用できるようになり、タイムライン上で直接フォーカスポイントや被写界深度の調整が行えるようになった。さらにCompressorを使用することで、シネマティックモード効果を適用したビデオを以前のフォーマットに変換できるほか、SNS共有向けのHEVCおよびMPEG-4の新規書き出しプリセットも追加されている。\n\niWorkアプリ群やFreeformにおいても大幅なアップデートが実施された。Keynote、Pages、Numbersにはプロフェッショナルがデザインした新しいテンプレートやテーマが導入され、Keynoteではプレゼンテーションに合わせた画像を自動生成する機能も搭載されている。Numbersには新たに三角関数、統計、論理関数が加わり、Pagesには読書や執筆に集中できるスクリーンビューが追加された。Freeformではダークモードへの自動適応やフォルダによる整理機能に加え、Apple Intelligenceを活用した手書きノートの文章校正や要約、visionOS 27環境下での3Dモデルの空間配置など、多彩な機能強化が図られている。",
+ "source": "Apple Newsroom",
+ "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://www.apple.com/newsroom/images/2026/09/new-updates-coming-to-apple-creator-studio/tile/Apple-Creator-Studio-hero.jpg.og.jpg",
+ "published": "2026-09-29T17:00:02.643000+00:00"
+}
