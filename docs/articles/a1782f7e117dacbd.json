@@ -1,0 +1,20 @@
+{
+ "id": "a1782f7e117dacbd",
+ "title_ja": "Apple、iPhone 18 Pro Maxの通信障害を認める　発症端末は本体交換が必要",
+ "summary_ja": "Appleは、AT&Tネットワークを利用する一部のiPhone 18 Pro Maxでモバイル通信機能が失われる問題を認めました。新たな被害を防ぐアップデートを配信したものの、すでに不具合が発生している端末については本体の交換対応が必要になると説明しています。",
+ "points": [
+  "一部のiPhone 18 Pro Maxで通信障害が発生",
+  "AppleがiOSアップデートとキャリア設定を配信",
+  "すでに圏外になった端末はハードウェア交換が必要",
+  "Qualcomm製モデム搭載モデル特有の問題"
+ ],
+ "body": "Appleは、米キャリアのAT&T回線を利用する一部のiPhone 18 Pro Maxにおいて、モバイル通信が利用できなくなる不具合を確認した。この問題により、該当する端末では通話やデータ通信ができなくなり、ステータスバーに「SOS」と表示される状態になることが報じられている。影響を受けているのは一部のユーザーに限定されており、すべての利用者に発生しているわけではない。\n\nこの問題に対処するため、AppleはiOSのアップデートおよびキャリア設定の更新をリリースした。これらのソフトウェア更新は今後の不具合の発生を防ぐためのものであり、すでに通信サービスが完全に失われてしまった端末については、ソフトウェアの適用だけでは復旧しないと説明されている。そのため、すでに接続が切断されてしまった端末に対しては、ハードウェアの交換が必要になると案内されている。\n\nすでにサービスが利用できなくなっているユーザーは、AppleサポートやAT&Tに連絡するか、直営店などの店舗を訪れて対応を求める必要がある。なお、今回の通信障害はAT&Tネットワークを使用するiPhone 18 Pro Maxで発生しており、Apple独自のC2モデムを搭載するiPhone 18 Proはこの問題の影響を受けていないと伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-02T20:47:02+00:00"
+}
