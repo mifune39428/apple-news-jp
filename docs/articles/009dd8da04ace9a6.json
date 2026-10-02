@@ -1,0 +1,19 @@
+{
+ "id": "009dd8da04ace9a6",
+ "title_ja": "SpaceXAIが企業ユーザー向けにGrokのiOSアプリをリリース",
+ "summary_ja": "SpaceXAIは、企業ユーザー向けに人工知能「Grok」の独立したiOSアプリをリリースしました。競合であるOpenAIが5月に企業向けモバイルアプリを公開した動きに続くものです。これにより、ビジネス環境におけるAIアシスタントの活用がモバイル領域でもさらに活発化します。",
+ "points": [
+  "xAIが企業向けに専用のGrokアプリをリリースした",
+  "新アプリの名称は「Grok for Intune」となる",
+  "Microsoft Intuneによる管理や保護ポリシーに対応する"
+ ],
+ "body": "xAIが企業ユーザー向けに専用のモバイルアプリをリリースしたと報じられている。これは企業向けの専用アプリを展開する動きに続くものであり、ビジネス環境での利用を視野に入れた展開となっている。\n\n新たに登場した企業向けアプリは「Grok for Intune」という名称で提供されている。xAI側の説明によると、このアプリケーションは組織がアプリやデータを管理するためのMicrosoft Intuneに対応したエディションとして構築されている。\n\n具体的には、Intuneのモバイルアプリケーション管理をサポートし、組織が定めるアプリ保護ポリシーを遵守する仕組みを備えている。また、利用の際は仕事用のメールアドレスを使用してサインインする仕様となっており、すでにApp Storeからダウンロード可能となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/grok-intune.webp?w=1600",
+ "published": "2026-10-01T18:16:46+00:00"
+}
