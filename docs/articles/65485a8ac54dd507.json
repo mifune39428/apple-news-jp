@@ -1,0 +1,20 @@
+{
+ "id": "65485a8ac54dd507",
+ "title_ja": "Apple Creator Studioに多数の新機能が追加",
+ "summary_ja": "Apple Creator Studio向けに大規模なアップデートが配信された。Pixelmator ProやFinal Cut Pro、各種プロダクティビティアプリに新たなツールが追加され、クリエイターの作業環境が強化されている。",
+ "points": [
+  "Apple Creator Studioの各アプリに多数の新機能が追加された",
+  "Pixelmator ProのiPad版に高度な選択・マスクツールが導入された",
+  "Final Cut ProなどでiPhone 18 Proのシネマティックモード動画を編集可能に",
+  "Freeformや各オフィスアプリにテンプレートやAI機能が拡充された"
+ ],
+ "body": "Appleは、MacとiPad向けのクリエイティブおよび生産性向上アプリをまとめたサブスクリプションバンドルであるApple Creator Studioに対し、大規模なアップデートの提供を開始した。今回のアップデートでは、動画編集から画像加工、文書作成、アイデア出しに至るまで、幅広いアプリに新しいツールや機能が追加されている。クリエイターやデザイナー、動画編集者などの作業効率をさらに高めるための様々な改良が盛り込まれているのが特徴となっている。\n\n具体的には、iPad版のPixelmator ProにMac版と同等の精度の高い選択およびマスクツールが導入され、髪の毛などの複雑な輪郭もきれいに切り抜けるようになった。また、Final Cut ProとMotionでは、新型のiPhone 18 Proで撮影されたネイティブ動画に対して、シネマティックモードの効果をタイムライン上で直接適用や調整ができるようになったほか、Compressorを用いたフォーマット変換や書き出しプリセットの追加も行われている。\n\nさらに、Keynote、Pages、Numbersの各アプリには、新しいテンプレートやテーマが追加され、KeynoteではAIを活用したスライド用画像の自動生成機能も利用できるようになった。フリーフォーム（Freeform）においては、ダークモードへの対応やフォルダによるボードの整理機能に加え、Apple Intelligenceを利用した手書きメモの校正や要約、ショートカットによる自動化機能などが新たに導入され、より快適なコラボレーションが可能になっている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/apple-creator-studio-new-features-2026",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/09/Apple-Creator-Studio-Logo_01.jpg",
+ "published": "2026-09-30T16:21:38+00:00"
+}
