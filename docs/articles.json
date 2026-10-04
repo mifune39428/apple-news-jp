@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T05:20:03.309171+09:00",
+ "updated_at": "2026-10-04T12:22:14.443179+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,8 +29,59 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 316,
+ "detail_count": 318,
  "items": [
+  {
+   "id": "b8281791ffc9f3bb",
+   "url": "https://gori.me/iphone/170905",
+   "title_original": "iPhone Duo＋Pro持ち、サブ回線は楽天モバイルが正解かも",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-76-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-04T01:44:01+00:00",
+   "title_ja": "iPhone複数持ちのサブ回線には楽天モバイルが便利",
+   "summary_ja": "メインのiPhone Duoに加えてProモデルをカメラ用として2台持ちするスタイルについて考察している。複数端末を運用する際の通信回線として楽天モバイルが適しているという。",
+   "category": "iPhone",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "dd4e1b94c12ea000",
+   "url": "https://gori.me/iphone/170901",
+   "title_original": "iPhone Duo、スタンバイが起動する置き方を選べるらしい",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-72-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-03T23:15:01+00:00",
+   "title_ja": "iPhone Duoのスタンバイ機能は置き方の選択が可能に",
+   "summary_ja": "噂されるiPhone Duoのスタンバイ機能において、起動させる置き方を選択できる仕様になるようだ。設定画面から特定のポーズや置き方を個別にオン・オフ切り替えられるようになるという。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "008823ae039921b0",
+   "url": "https://iphone-mania.jp/iphone18-606948",
+   "title_original": "米国版iPhone18 Pro MaxのモデムはなぜQualcommのまま？日本のミリ波事情も解説",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/04/IMG_8695.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-03T23:05:52+00:00",
+   "title_ja": "iPhone18 Pro MaxのモデムがQualcomm製の理由",
+   "summary_ja": "Appleが推し進める5Gモデムの内製化において、最新のiPhone18 Pro Maxの一部モデルでQualcomm製が継続されている。日本向けのミリ波事情なども踏まえてその背景を解説している。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "579d03774a32fbbe",
    "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp",
@@ -1727,7 +1778,8 @@
    "title_ja": "AT&T、iPhone 18 Pro Maxの通信不具合に言及",
    "summary_ja": "米通信大手AT&Tが、一部のiPhone 18 Pro Maxで発生している通信障害について顧客へ通知を送った。ユーザーに対して最新のiOSへのアップデートを推奨しているが、一部では解決しないとの声も上がっている。",
    "category": "iPhone",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "6de7dad2af0a7081",
@@ -1811,7 +1863,8 @@
    "title_ja": "iOS 27で長年の通知センター操作が変更",
    "summary_ja": "最新のiOS 27では、iPhoneとiPadにおける通知センターの開き方に大きな変更が加えられた。2011年のiOS 5以来続いていた従来の操作方法から仕様が刷新されており、ユーザーは新たな操作への適応が求められている。",
    "category": "ソフトウェア・OS",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "ddf1add1072635c8",
@@ -6694,57 +6747,6 @@
    "summary_ja": "Appleは複数のバグ修正を施した「macOS 27.0.1 Golden Gate」をリリースした。日本時間の2026年9月15日に公開され、さまざまなアプリケーションに関連する修正が行われている。",
    "category": "ソフトウェア・OS",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7e870913f393ca36",
-   "url": "https://9to5mac.com/2026/09/28/apples-taptic-engine-patent-defeat-sends-litigation-funders-shares-up-9",
-   "title_original": "Apple’s Taptic Engine patent defeat sends litigation funder’s shares up 9%",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-28T20:21:14+00:00",
-   "title_ja": "Appleの特許訴訟敗訴で支援企業の株価が9%上昇",
-   "summary_ja": "Taptic Engineに関する特許侵害訴訟でAppleが57億ドルの評決を受けたことを受け、訴訟支援を手がけるBurford Capitalの株価が9%以上急上昇した。今回の判決結果が市場に影響を与えている。",
-   "category": "ビジネス・業績",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "dc63dc1f5109c929",
-   "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
-   "title_original": "Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store",
-   "source": "Daring Fireball",
-   "lang": "en",
-   "region": "global",
-   "image": "",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-28T19:50:19+00:00",
-   "title_ja": "Mac App Storeで公式アプリを装う偽物が横行",
-   "summary_ja": "MetaのMuseをはじめ、有名アプリに酷似した偽物アプリがMac App Storeで上位にランクインしている。信頼できるアプリストアでありながら詐欺の温床となっており、多くのユーザーが混乱している状況だ。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0f0840deeabdf1df",
-   "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list",
-   "title_original": "Siri AI is available on newer Apple devices only, here’s the full list",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-09-28T19:43:11+00:00",
-   "title_ja": "新しいSiri AIに対応するApple製デバイス一覧",
-   "summary_ja": "大規模な進化を遂げた次世代のSiri AI機能は、最新のハードウェアでのみ利用できる。対応しているデバイスはiPhoneやiPad、Mac、Apple Watch、Apple Vision Proの一部モデルに限られる。",
-   "category": "AI",
-   "importance": 4,
    "has_detail": true
   }
  ]
