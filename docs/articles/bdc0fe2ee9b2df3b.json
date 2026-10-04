@@ -1,0 +1,20 @@
+{
+ "id": "bdc0fe2ee9b2df3b",
+ "title_ja": "米Anker、iPhoneやMacBookに対応する最大65W急速充電器を発売",
+ "summary_ja": "米Ankerは、小型充電器「Anker Nano Charger Neo」を発売した。AVSおよびPPS規格に対応しており、iPhone 18 Proの高速充電や、最大65W出力によるMacBookの充電が可能となっている。Apple製品を含めた幅広い機器での活用が見込まれる。",
+ "points": [
+  "Ankerが最大65W出力の小型充電器Nano Charger Neoを発売。",
+  "80gの軽量筐体に180度スイング可動式プラグとAVS/PPS技術を搭載。",
+  "iPhone 18 Pro Maxを32分で80%まで急速充電可能とされる。",
+  "MacBook等の充電に対応する一方、一部で出力に関する初期の指摘もある。"
+ ],
+ "body": "米AnkerがコンパクトなNanoシリーズの新作となるUSB-C急速充電器「Anker Nano Charger Neo (A120M)」を発売した。本製品は1ポートのUSB-C仕様で、発熱やバッテリーへの負担を抑えながら高速充電を行えるAVSおよびPPSプロトコルに対応している。出力は45Wから最大65Wに対応しており、従来の65WモデルであるAnker Nano IIと同等の出力を備えつつ、サイズ感は45Wモデルに近い約34×36.5×43.2mm、重さ約80gという小型軽量設計を実現している。プラグ部分には180度スイング可能な折りたたみ式構造を採用しており、家具の裏など狭い場所にあるコンセントにも接続しやすいほか、コンパクトに折りたたんで手軽に持ち運ぶことができる。\n\n性能面では、最大65WのAVSをサポートすることでiPhone 18 Proシリーズなどのより高速な有線充電が可能とされている。メーカーによるテストでは、iPhone 18 Pro Maxを32分間で80%まで、iPhone 17 Pro Maxを30分間で60%まで充電できると案内されているほか、MacBook AirやMacBook ProといったノートPCの充電にも対応している。また、1日あたり約1,000万回の温度監視を行い過度な発熱を防ぐ保護システム「ActiveShield 4.0」を搭載。メーカーのテストによるとiPhone 18 Pro Maxの充電時における最高温度は47℃に抑えられ、安全基準の目安とされる77℃を大幅に下回る安全性が確保されている。カラーバリエーションはブラック、ホワイト、ブルー、バーガンディの4色が用意されており、価格は25.99ドルとなっている。日本国内においても今後4,000円前後で投入されるとみられる。\n\n本製品は幅広い機器に対応する高性能充電器として発表されているが、初期のユーザーレビューでは評価が分かれている。MacBook Air M4において安定した高出力が得られたという報告がある一方で、iPhone 18 ProやMaxへの接続時に最大出力に達せず43W程度にとどまったとする声もあり、初期ロットの挙動について注視が必要とされる。なお、Ankerはスマートディスプレイを搭載した別モデル「Anker Nano Charger (45W, Smart Display, 180° Foldable) (A121D)」向けにも、iPhone 18 Proシリーズの識別とAVS対応を追加するファームウェアv1.5.2のOTA配信を開始している。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261004-anker-nano-charger-neo-a120m.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/Anker-Nano-Charger-Neo-A120M-logo-icon.webp",
+ "published": "2026-10-04T04:22:22+00:00"
+}
