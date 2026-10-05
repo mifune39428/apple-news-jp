@@ -1,0 +1,19 @@
+{
+ "id": "b389ec0c93a0f7a0",
+ "title_ja": "次期Apple TVにApple Intelligence対応の兆候",
+ "summary_ja": "tvOSの最新ベータ版コードから、次期Apple TVがSiriやApple Intelligenceをサポートする可能性が浮上した。設定アプリ内に学習モデルの改善に関するプライバシー項目が追加されている。",
+ "points": [
+  "tvOSのベータ版にApple Intelligenceの記述",
+  "Siriのデータ共有に関する設定コードが追加される",
+  "メッセージ表示用の新しいUIフレームワークも確認"
+ ],
+ "body": "次期Apple TVへのApple Intelligence対応に関する観測を裏付けるように、最新のtvOSベータ版から新たな手がかりが見つかったと報じられている。設定アプリ内には、SiriおよびApple Intelligenceの精度向上を目的としたデータ収集に関するトグルスイッチを追加するコードが確認された。このようなプライバシーに関する記述やオプトイン設定は、すでにApple Intelligenceに対応している他のApple製デバイスと同様のものであるとされる。非対応のデバイスでは従来の表示にとどまることから、この新しい設定は対応ハードウェアでのみ利用可能になるとみられている。\n\nまた、コード内には新しいSiriのメッセージ用UIフレームワークも含まれており、将来的にApple TV上でメッセージの内容が表示されるようになる可能性が指摘されている。連携したiPhoneに届いたメッセージをSiriが読み上げたり、スマート返信の選択肢を表示したりする機能が想定されているが、現在のApple TVのSiriにはメッセージの送受信機能が備わっていないため、これらはAI機能に関連するものとみられている。次期モデルではA19またはA19 Proチップに加え、8GBまたは12GBのメモリが搭載されると噂されており、こうしたハードウェアがデバイス上のAI処理を支えるとされている。\n\nAppleはこうした機能追加に向けた準備を着実に進めていると伝えられており、早ければ10月にも新しいApple TVが登場する可能性があると報じられている。現行モデルではサポートされていない高度なSiriの機能やAI処理が次期型でどのように実装されるのか、今後の動向に注目が集まっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
+ "published": "2026-10-05T20:45:55+00:00"
+}
