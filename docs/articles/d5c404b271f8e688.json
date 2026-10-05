@@ -1,0 +1,20 @@
+{
+ "id": "d5c404b271f8e688",
+ "title_ja": "Mac用ランチャー「Alfred」次期バージョン6.0でAI機能などを実装へ",
+ "summary_ja": "Mac用の人気多機能ランチャーアプリ「Alfred」が、次期バージョン6.0のアップデート内容を発表しました。新しいAlfred UIを採用したLaunchpadのほか、LLMを活用したAIワークフロー機能やテキスト変換機能などが実装される予定です。",
+ "points": [
+  "Mac用多機能ランチャー「Alfred 6.0」の開発が発表された",
+  "macOSネイティブのUIツールキット「Alfred UI」を新搭載",
+  "LaunchpadやLLMを活用したAI機能などが実装予定",
+  "2026年秋のリリースを予定し条件付きで無償アップデートを提供"
+ ],
+ "body": "人気Mac用多機能ランチャーアプリ「Alfred」の次期メジャーアップデートとなるバージョン6.0のプレビューが公開された。開発元であるRunning with Crayonsによると、今作では新たな機能や改善が多く盛り込まれており、その中核としてmacOSネイティブの新しいUIツールキット「Alfred UI」が導入されると報じられている。これにより、ユーザーは効率的かつ軽量に、独自の優れたワークフローを作成できるようになるとされている。\n\n新バージョンでは「Alfred UI」を活用した具体的な機能として、いくつかの便利なツールが実装される予定である。これには、OSから廃止された機能の代替となる「Launchpad」のほか、ローカルLLMやAPIキーを使用して動作するAIワークフロー「Brain Outsourcing」、多様なテキスト変換を行う「Text Transform」、そしてAppleのアイコン素材であるSF Symbolsを検索できる「SF Symbols Browser」などが含まれると伝えられている。\n\nAlfred 6.0はこれまで通り100% macOSネイティブのアプリケーションとして開発が進められており、DMGファイルのダウンロードサイズは6MB以下という軽量さを維持する見込みである。リリース時期は2026年秋が予定されており、対象期間内にPowerpackを購入したユーザーや、メガサポーター、レジェンドサポーターには無償でアップデートが提供されると報じられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261005-alfred-6-sneak-peek.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2022/07/Alfred-v5-logo-icon.jpg",
+ "published": "2026-10-05T11:50:08+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "06e4fd2e482f0fa9",
+ "title_ja": "JDK 28でIntel Mac向けOpenJDKが非推奨に、将来的な廃止も計画",
+ "summary_ja": "開発キットのJDK 28において、Intel Mac向けのOpenJDKが非推奨となることが分かりました。これはAppleがmacOS 27 Golden GateでIntel Macのサポートを終了したことに伴う対応です。今後はmacOS/x64ポート自体を完全に削除することが計画されています。",
+ "points": [
+  "JDK 28でIntel Mac向けOpenJDKが非推奨となる",
+  "保守コスト削減のため将来的にmacOS/x64ポートが削除予定",
+  "HomebrewもIntel Macのサポート終了へ向けて段階的に移行"
+ ],
+ "body": "AppleがmacOS 27 Golden GateでIntel Macのサポートを終了したことに伴い、Java Development KitであるJDK 28において、Intel Mac向けのmacOS/x64ポートが非推奨となり今後削除される予定であると報じられています。Oracleのエンジニアによる提案をまとめたJEP 541によると、Appleのハードウェア移行が進む中でx64のサポートを終了する動きに合わせて、開発側でも保守負担を軽減する目的から今回の判断に至ったとされています。代替案として保守を引き継ぐ意思を持つ開発者グループが現れなければ非推奨化が進む見込みとなっており、現在はIntel MacでJDKのmacOS/x64をビルドしようとすると警告が表示され停止する仕様に変更されています。\n\n次期JDK 28では特定のオプションを追加することでビルドの継続自体は可能とされているものの、動作の保証はされないため実質的に利用は難しくなるとみられています。こうした開発環境におけるIntel Macの切り捨てはJavaに限らず広範に及んでおり、パッケージマネージャーのHomebrewにおいても、すでにIntel Macの扱いを非サポートのTier 3へ移行させています。Homebrew側は2027年9月をもってすべてのmacOSにおけるIntel Macのサポートを完全に終了する計画を明らかにしており、主要なツールや開発環境の舞台は急速にApple Siliconへと移行していくことになりそうです。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261005-openjdk-deprecates-intel-mac-support-in-jdk-28.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/OpenJava-logo-icon.webp",
+ "published": "2026-10-05T12:28:18+00:00"
+}
