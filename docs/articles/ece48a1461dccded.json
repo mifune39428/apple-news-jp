@@ -1,0 +1,20 @@
+{
+ "id": "ece48a1461dccded",
+ "title_ja": "Apple、iPhone Duoに最適化したアプリの提出を開発者に呼びかけ",
+ "summary_ja": "Appleは、新型デバイスであるiPhone Duoの発売に向けて、開発者に向けたアプリの提出受付を開始しました。Xcode 27.1を利用して最適化されたアプリやゲームをApp Storeへ申請可能となっており、発売に向けた準備を促しています。",
+ "points": [
+  "iPhone Duo向けアプリのApp Store申請が受付開始",
+  "Xcode 27.1を使用し専用バッジの表示やテストが可能",
+  "2027年4月からiPhone Duo用スクリーンショットが必須に",
+  "予約は10月16日開始、発売は10月23日に予定"
+ ],
+ "body": "Appleは、間近に迫ったiPhone Duoの発売に向けて、同デバイスに最適化されたアプリやゲームのApp Storeへの提出受付を開始した。開発者はXcode 27.1を使用してアプリをビルドまたは再コンパイルすることが可能となっており、これによりApp Storeの製品ページにはiPhone Duoに最適化されていることを示すバッジが表示されるようになる。また、既存のアプリをXcode 27.1で再コンパイルすることで開発サポートが追加され、Device Hubを活用して新しいデバイスのあらゆる姿勢や向きにおける動作を確認できるとしている。\n\nさらに同社は、App Store Connectへ提出するすべてのアプリやゲームに対して、2027年4月からiPhone Duo用のスクリーンショットを含めることを義務付ける方針を示している。開発者の準備を支援するため、アプリや製品ページの最適化に関するリソースが公開されているほか、数日中には対面式のワークショップも開催される予定となっている。\n\niPhone Duoに関しては、10月16日から予約注文の受付が開始され、10月23日より製品の配送および店頭販売がスタートするスケジュールとなっている。発売に向けた準備として、10月12日からは予約注文に向けた事前準備が可能になることも案内されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-trio.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-06T00:52:16+00:00"
+}
