@@ -1,0 +1,20 @@
+{
+ "id": "474adf4e06cd5b06",
+ "title_ja": "Apple、最新OSで主要カメラのRAWフォーマットに対応",
+ "summary_ja": "Appleは最新のmacOSやiOSなどで、ソニーやキヤノンの特定カメラモデルによるRAWフォーマットのネイティブサポートを開始した。写真編集の利便性が向上する。",
+ "points": [
+  "最新OSでデジタルカメラのRAW対応機種が追加",
+  "Sony RX10 VやCanon EOS R5 Cなどをサポート",
+  "FUJIFILMやLeicaなどのカメラも対象に含まれる",
+  "写真アプリなどでノイズ除去や細部の再現性が向上"
+ ],
+ "body": "Appleは現地時間2026年10月6日、最新のmacOS 27 Golden GateやiOS/iPadOS 27、visionOS 27において、新たにサポートするデジタルカメラのRAWフォーマットのリストを更新したと発表した。今回のアップデートにより、幅広いメーカーのカメラで撮影されたRAW画像のネイティブサポートが追加されている。\n\n新たに追加された主な機種には、2026年7月末に発売されたソニーのレンズ一体型カメラの第5世代モデルであるSony RX10 Vや、冷却ファンを内蔵し高画素と8K記録に対応するキヤノンのデジタルシネマカメラCanon EOS R5 Cが含まれている。さらに、FUJIFILMのFinePixシリーズをはじめ、Leaf、Leica、Olympus、Phaseといった各社のカメラのRAWフォーマットにも対応した。\n\nこれらのシステムデータが順次提供されることで、純正の写真アプリやプレビューアプリ、Creator Studioアプリなどにおける画像処理能力が向上する。具体的にはノイズ除去の性能が上がり、写真の細部をより鮮明に再現できるようになるため、クリエイターのワークフローにおいて利便性が高まることになりそうだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261007-appleos-27-support-sony-rx10-v.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/05/iOS-Camera-app-logo-icon.webp",
+ "published": "2026-10-06T18:55:12+00:00"
+}
