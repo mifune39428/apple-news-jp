@@ -1,0 +1,20 @@
+{
+ "id": "ea7a90a55314bec1",
+ "title_ja": "Microsoft OneDrive、iPhone XRやXSなどのサポート終了へ",
+ "summary_ja": "マイクロソフトのクラウドストレージアプリ「OneDrive」が、iOS 18およびiPadOS 18のサポートを終了することが分かりました。これにより、iOS 26へアップデートできないiPhone XRやiPhone XS、XS Max、第7世代iPadなどの古いモデルがサポート対象外になります。",
+ "points": [
+  "マイクロソフトがOneDriveのサポート要件を変更へ",
+  "iOS 18およびiPadOS 18のサポートが終了予定",
+  "iPhone XRやXSなどが対象外になる見込み",
+  "アプリの自動停止はないが今後の更新は受け取れず"
+ ],
+ "body": "マイクロソフトの人気クラウドストレージアプリ「OneDrive」において、iOS 18およびiPadOS 18のサポートが間もなく終了すると報じられている。これに伴い、一部の古いiPhoneやiPadモデルでの動作環境対象外になると伝えられている。最新のテスト版アプリのリリースノートによると、iOS 18系をサポートする最終バージョンは「18.12.1」になるとされており、次期以降のバージョンではより新しいOS環境が必須になるとみられている。\n\n今回の仕様変更によって影響を受けるのは、最新OSへアップデートできないデバイス群であるとされている。具体的には、iPhone XR、iPhone XS、iPhone XS Max、そして第7世代iPadが対象に含まれる模様だ。マイクロソフトはApp Store上の製品情報に、iOSおよびiPadOS 18のサポートが間もなく終了する旨の通知を追加しており、最新バージョンを利用し続けるためにOSのアップデートを推奨していると伝えられている。\n\nなお、サポート終了後も、すでにインストールされている既存のアプリがいきなり利用できなくなるわけではないとされている。しかし、今後は新機能の追加や不具合の修正といったアップデートが一切提供されなくなるため、セキュリティや利便性の面で徐々に制約が生じる可能性がある。公式アプリストアでの案内やベータ版の動向から、正式な仕様変更の適用は遠くない未来に迫っているとみられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/06/microsoft-onedrive-drop-support-iphone-models",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/microsoft-onedrive-logo@2x-scaled.jpg",
+ "published": "2026-10-06T11:53:38+00:00"
+}

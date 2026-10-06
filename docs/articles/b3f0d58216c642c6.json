@@ -1,0 +1,20 @@
+{
+ "id": "b3f0d58216c642c6",
+ "title_ja": "macOS 27に新たなフォントとUnicode 16.0対応文字が追加",
+ "summary_ja": "macOS 27 Golden Gateにおいて、新たに「Produkt」フォントファミリーの10スタイルがダウンロード可能になりました。さらに、Unicode 16.0で追加されたスヌワール文字に対応するため、新しいフォント「Noto Sans Sunuwar」が追加されています。",
+ "points": [
+  "macOS 27で利用可能なフォントリストをAppleが公開。",
+  "新たにProduktファミリーの10スタイルが追加。",
+  "スヌワール文字用のNoto Sans Sunuwarを搭載。",
+  "前バージョンで非搭載だったKefa Regularが復活。"
+ ],
+ "body": "Appleは2026年9月14日に、Apple Intelligence機能の統合やシステムの応答性・信頼性の向上を果たしたmacOS 27 Golden Gateを正式にリリースしました。これに伴い、同OSに組み込まれているフォントや書体の最新リストが公開されています。macOS 27 Golden Gateで利用可能なフォントは、標準で組み込まれている1,333書体に加え、以前のApple製アプリに組み込まれていた書類用の古いフォント295書体を合わせた、合計1,629書体となっています。これらのフォントの多くは自動的にインストールされて有効になりますが、一部のフォントはアプリケーションフォルダ内にあるFont Bookアプリを使用して個別にダウンロードする仕様となっています。\n\n前バージョンのmacOS 26 Tahoeのフォントリストと比較すると、今回のアップデートではいくつかの重要な変更が行われています。まず、デザイナーのクリスチャン・シュワルツ氏らによってデザインされ、コマーシャル・タイプ社から販売されているProduktファミリーのフォントが新たに10スタイル追加されました。これにより、Font Bookアプリからダウンロードして利用できる同ファミリーのスタイルは合計18スタイルに拡大しています。さらに、macOS 26 Tahoeの時点で一度姿を消していたラテン文字用のフォントであるKefa Regularが、今回のmacOS 27 Golden Gateにおいて再び復活を遂げていることも特徴の一つです。\n\n多言語対応の面でも進化が見られます。macOS 27 Golden Gateでは、Unicode 16.0で新しく追加されたスヌワール文字に対応するため、GoogleのNoto Sans Sunuwarフォントが新たに追加されました。スヌワール文字は、ネパールやインドのシッキム州などで話されているスヌワール語を表記するための文字です。今回のアップデートにより、特殊な文字や多様な言語環境を必要とするユーザーにとっても、Macでの表示や編集の選択肢がさらに広がることになります。ユーザーは自身のFont Bookアプリを確認することで、これらの新フォントのダウンロードや有効化を行うことができます。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261006-macos-27-golden-gate-produkt-and-noto-sans-sunuwar-fonts-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/FontBook-2026-logo-icon.webp",
+ "published": "2026-10-06T09:54:13+00:00"
+}
