@@ -1,0 +1,19 @@
+{
+ "id": "41432b27384e334e",
+ "title_ja": "Adobe、macOS新版におけるソフトの互換性を公開",
+ "summary_ja": "Adobeは、Appleが配信を開始した最新のmacOS向けに、自社製ソフトウェアの互換性に関する情報を発表した。ユーザーは各アプリの動作状況を確認できるようになっている。",
+ "points": [
+  "AdobeがmacOS 27 Golden Gateとの互換情報を公開",
+  "Acrobat DCでアップデート確認のボタンが反応しない不具合",
+  "Wacom製ドライバの影響でIllustratorが起動しない場合がある"
+ ],
+ "body": "Adobeは、AppleがリリースしたmacOS 27 Golden Gateにおける同社製ソフトウェアの互換性情報を公開した。現時点で一部のアプリについて動作確認が行われており、今後もテストの完了に合わせて順次情報が更新される予定とされている。\n\n公開された情報によると、対応が確認されているアプリがある一方で、Acrobat DCについては一部で不具合が確認されている。具体的には、アップデートの確認ダイアログに表示されるボタンがマウスやトラックパッドのクリックに反応しない現象が発生する場合がある。この問題が発生した際の回避策として、キーボードのTabキーでオプション間を移動し、Returnキーやスペースキーを使って操作するよう案内されている。\n\nまた、Adobe製アプリとOS側の直接的な問題とは異なるものの、周辺機器に関連するトラブルについても注意が呼びかけられている。古いWacom製タブレットのドライバがインストールされている環境では、IllustratorなどのAdobe製アプリケーションが正常に起動しない不具合が確認されているため、利用者はドライバの状況を確認することが推奨される。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261008-adobe-compatible-with-macos-27-golden-gate.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2020/08/Adobe-Creative-Cloud-2020-logo-icon.jpg",
+ "published": "2026-10-07T21:22:20+00:00"
+}

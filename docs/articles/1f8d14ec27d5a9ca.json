@@ -1,0 +1,19 @@
+{
+ "id": "1f8d14ec27d5a9ca",
+ "title_ja": "MetaのAIアシスタント「Muse」アプリがiPadに対応",
+ "summary_ja": "Metaの自律型AIアシスタントアプリ「Muse」が、新たにiPadに対応しました。iPhoneやMac向けのリリースからわずか数週間でのタブレット対応となります。iPadの大画面を活かして、様々なタスクを実行するAIアシスタント機能が利用可能になります。",
+ "points": [
+  "MetaのAIアシスタント「Muse」のiPad向けネイティブ版が登場",
+  "大画面やマルチタスクに対応し、複数の外部サービスと連携可能",
+  "バージョン10.0へのアップデートで中小企業向けの機能も拡充"
+ ],
+ "body": "Metaが提供する個人向けAIエージェント「Muse」のiPad向けネイティブアプリがリリースされた。iPhoneやAndroid向けの提供開始から1ヶ月足らずでの展開となり、デスクトップ版のMac向けに続いてタブレットにも対応した形となる。Museは、ユーザーの代わりにウェブブラウジングや買い物、画像・書類の生成、複数のステップを伴うプロジェクトの実行などを行えるAIアシスタントとして展開されている。\n\n最新のバージョン10.0ではiPadの大きな画面やiPadOSのマルチタスク機能が活用できるようになり、アプリを切り替えながらAIの作業を確認しやすくなっている。また、中小企業向けの新機能として、マーケティングコンテンツの計画やクライアント向けの提案作成、商品ページの開発などをAIに指示できるようになっているのが特徴だ。さらに、CanvaやDropbox、Figma、QuickBooks、GitHub、Zoom、Asana、Klaviyo、Notionなどの外部サービスとの連携機能も新たに追加されている。\n\nApp Storeから無料でダウンロードして利用できるが、プライバシーやセキュリティに関してMetaは安全性を謳っているものの、App Storeの表示によると多様なユーザーデータを追跡する仕様となっている。iPhone版と同様に基本機能を踏襲しつつ、タブレットならではの画面サイズや操作性を活かした運用が可能になっている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/metas-muse-ai-agent-app-comes-to-ipad",
+ "lang": "en",
+ "region": "global",
+ "category": "iPad",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/Meta-Muse-for-iPad_01.jpg.webp",
+ "published": "2026-10-07T19:58:23+00:00"
+}
