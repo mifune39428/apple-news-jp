@@ -1,0 +1,19 @@
+{
+ "id": "d225309bf2ea8416",
+ "title_ja": "Macで使えるおすすめのUSB-Cハブとアダプタ",
+ "summary_ja": "Macの接続規格として広く使われているUSB-CおよびThunderboltの規格について解説している。データ転送や急速充電、映像出力に対応する各種アダプタやハブの選び方、互換性について詳しく紹介されている。",
+ "points": [
+  "現在のMacで主流となるUSB-CおよびThunderboltの規格を解説",
+  "最大80Gbpsのデータ転送や最大240Wの急速充電に対応する仕様",
+  "MacBookやデスクトップMacに対応する多彩なハブ製品を網羅"
+ ],
+ "body": "近年のMacにおいて標準となっているUSB-CおよびThunderboltは、上下の向きを問わない利便性に加え、最大80Gbpsのデータ転送速度や最大240Wの急速充電に対応する優れた規格であると紹介されている。データ転送だけでなく映像出力や電力供給を1つのポートでこなせる万能性を備えており、MacにはThunderbolt 3、4、5といったさらに高速な規格のバリエーションも搭載されている。これらは従来のUSB-Cとも互換性があるため、ノートブックからデスクトップまで、近年のMacの幅広いモデルで各種アダプターやハブが利用可能となっている。\n\n記事内では、実際の接続速度や用途に応じた多様な製品がピックアップされている。USB-C自体の基本速度である5Gbpsから10Gbpsの範囲では、Thunderbolt本来の超高速性能の一部が制限されるものの、日常的な用途の大部分では十分な速度を発揮すると説明されている。一方で、非常に高速なデータ転送を求めるユーザー向けには、Thunderboltや40GbpsのUSB4に対応したハブも用意されており、それぞれのニーズに合わせた選択肢が示されている。\n\n具体的な製品としては、Plugableの9-in-1や10-in-1モデル、SatechiのOntheGo 7-in-1や8K対応モデル、EZQuestのUSB 4対応ハブなどが挙げられている。さらに、複数のUSB-Aポートを搭載した手頃なモデルや、複数画面の出力に特化したディスプレイリンク対応ハブ、Ethernetアダプター、Mac miniやiMacの形状に合わせた専用スタンド型ハブなども網羅されている。Apple製デバイスのポート構成に合わせた多様な周辺機器の選択肢が提示されている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/668462/best-usb-c-hubs-and-adapters-for-mac.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/668462-0-82080300-1791306758-Best-USB-C-Hubs-Adapters-for-Mac.jpg?quality=50&strip=all",
+ "published": "2026-10-06T16:09:00+00:00"
+}

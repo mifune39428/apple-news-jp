@@ -1,0 +1,20 @@
+{
+ "id": "245993e437c9e4b0",
+ "title_ja": "計算機アプリ「Calcbot 2」が約5年ぶりにアップデート",
+ "summary_ja": "人気アプリ「Calcbot 2」が約5年ぶりにアップデートを実施した。今回の更新により、Apple Watchのサポートなどが追加されている。",
+ "points": [
+  "Tapbotsが「Calcbot 2」を約5年ぶりにアップデート",
+  "バージョン2.5.3でwatchOS 27のApple Watchに対応",
+  "watchOS 27以降で発生していた不具合を解消",
+  "Apple Watch版では計算や単位変換、チップ計算が可能"
+ ],
+ "body": "人気のサードパーティ製アプリを手がけるTapbotsは、iPhoneやiPad向けの高機能計算機アプリ「Calcbot 2」のアップデートを配信開始した。今回のバージョン2.5.3では、約5年ぶりとなる大規模な更新が行われ、最新のwatchOS 27を搭載したApple Watchへのサポートが追加されている。\n\nCalcbotシリーズは以前からApple Watch版を提供していたものの、近年のOSアップデートに伴う互換性の問題によって、watchOS 27環境ではアプリが正常に利用できない状態が続いていた。今回のアップデートにより、この不具合が解消され、再び手元でアプリを活用できるようになる。\n\nApple Watch向けのCalcbotアプリでは、基本的な計算機機能だけでなく、日常のさまざまなシーンで役立つ単位変換機能や、チップの計算機能なども引き続き利用可能となっている。長年アプリの愛用者であったユーザーや、手元で手軽に計算を行いたいApple Watchユーザーにとって待望のアップデートとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261007-calcbot-2-support-watchos-27.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/Calcbot-2-logo-icon.webp",
+ "published": "2026-10-07T05:58:24+00:00"
+}
