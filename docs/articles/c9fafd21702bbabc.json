@@ -1,0 +1,20 @@
+{
+ "id": "c9fafd21702bbabc",
+ "title_ja": "Mac用システムモニタ「macmon」がM6チップと新OSに対応",
+ "summary_ja": "Apple Silicon Mac向けのコマンドライン型システムモニタ「macmon」がアップデートされました。今回の更新により、未発表のApple M6チップやmacOS 27 Golden Gateでの電力表示に対応したほか、Neural Engineのストレステスト機能が新たに追加されています。",
+ "points": [
+  "macmon v0.9.0がリリースされ、新機能や対応が追加された。",
+  "macOS 27 Golden Gateでの電力消費値の表示が復活した。",
+  "Apple M6チップのCPU・GPU動作周波数の検出に対応した。",
+  "Neural Engine向けの新しいストレステスト機能が追加された。"
+ ],
+ "body": "Apple Silicon搭載Mac向けの軽量なコマンドラインシステムモニタ「macmon」の最新バージョンとなるv0.9.0が公開されている。macmonはRust言語をベースに開発され、macOSのプライベートAPIを活用することで管理者権限のsudoなしでも動作手軽に利用できることから人気を集めているツールである。今回のアップデートにより、最新のOS環境における利便性や機能の拡張が図られている。\n\n最新バージョンでは、一部の環境で表示されなくなっていた電力消費の数値が、macOS 27 Golden Gate以降の環境において再び確認できるよう修正された。さらに、次世代プロセッサとみられるApple M6チップにおけるCPUおよびGPUの動作周波数の検出にも新たに対応している。ハードウェアの進化に合わせたモニタリング性能の向上が見られる。\n\n機能面では、ユーザーインターフェースがアップデートされ、ショートカットキーを用いたプロセスリストの並び替えや絞り込み機能が強化された。CPUやGPU、メモリ、電力消費量といった項目ごとのソートやプロセス名でのフィルタリングが可能になっている。また、ストレステスト機能にはAppleのVisionフレームワークを活用し、連続的なOCR処理によってNeural Engineへ負荷をかけるANEストレステストが新たに追加されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261008-macmon-support-macos-27-golden-gate-power-and-m6.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Terminal-macOS-26-Tahoe-logo-icon.webp",
+ "published": "2026-10-08T06:48:44+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "7de9ff1fa12c76f6",
+ "title_ja": "不具合を修正した「Parallels Desktop for Mac v27.0.3」が公開",
+ "summary_ja": "Parallelsは、最新版へのアップグレード後にWindows仮想マシンが起動しなくなる不具合などを修正した「Parallels Desktop for Mac v27.0.3」をリリースしました。macOS 27環境におけるiCloud DriveやCoherenceモードの動作不良も改善されています。",
+ "points": [
+  "Parallels Desktop 27.0.3がリリース",
+  "macOS 27環境下で発生していた複数の不具合を修正",
+  "Windows仮想マシンが起動しなくなる致命的な問題を解決",
+  "iCloud接続やCoherenceモードの動作不良も改善"
+ ],
+ "body": "Alludo傘下のParallels International GmbH.は、現地時間2026年9月29日に仮想化ソフトウェアの最新バージョンとなる「Parallels Desktop 27 for Mac v27.0.3（ビルド58680）」をリリースしました。今回のアップデートは、主に最新のオペレーティングシステムであるmacOS 27 Golden Gate環境において発生していた複数の重大な不具合への対処を目的として開発されたものです。全体的なシステムの安定性向上やセキュリティ問題の修正も同時に行われており、すべてのユーザーに適用が推奨されるメンテナンスアップデートとなっています。\n\n本バージョンにおける最も重要な修正点の一つが、Parallels Desktop 27へのアップグレードを行った後にWindowsの仮想マシンが起動しなくなるという、ユーザーから報告されていた深刻な不具合の解決です。あわせて、仮想マシンのハードウェア設定画面において「プロパティ…」や「パーティションの選択…」といった重要な設定項目が正常に開かなくなっていた問題も解消されました。これにより、アップグレード後にシステムの移行や設定変更が不可能になっていたユーザーの不便が解消され、安定した運用が可能になります。\n\nさらに、macOS 27 Golden Gateへアップグレードした環境で生じていた機能的な連携不具合も複数修正されています。具体的には、Windowsの仮想マシン内からmacOS側のiCloud Driveフォルダへアクセスできなくなる問題が解決されました。また、Macのデスクトップ上でWindowsアプリケーションをシームレスに融合させて動作させる「Coherenceモード」の使用中に、Windowsアプリの各種ダイアログやポップアップウィンドウが最前面ではなくバックグラウンドの背後に隠れて開いてしまう現象も修正され、日常的な操作性が大幅に向上しています。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261008-parallels-desktop-for-mac-v27-0-3.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-10-08T07:30:48+00:00"
+}
