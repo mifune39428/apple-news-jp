@@ -1,0 +1,20 @@
+{
+ "id": "0cc1ae4e704c1c6d",
+ "title_ja": "TablePlus、Apple Silicon向け仮想化ソフト「VMPal」公開",
+ "summary_ja": "TablePlusがApple Silicon搭載Mac向けの仮想化ソフトウェア「VMPal」をリリースした。AIエージェントによる操作に対応したmacOSやWindows、Linuxの仮想マシンを作成できる。",
+ "points": [
+  "Apple Silicon Mac向けの仮想化ソフトVMPalが発表された",
+  "AIエージェントに操作させることを想定して開発されている",
+  "macOSやWindows、Linuxの仮想マシンを作成できる",
+  "個人ライセンスは69ドルで現在は発売記念の50パーセントオフ"
+ ],
+ "body": "データベースマネージャーで知られるTablePlusが、Apple Silicon Mac向けにAIエージェントの操作を前提とした新しい仮想化ソフトウェアVMPalをリリースした。近年のAIエージェントの急増に伴い、実際のMacでアクセシビリティ権限や管理者権限をAIに与えることのリスクを考慮し、安全な作業環境として仮想マシンを提供する目的で開発されたとされている。本ソフトを使用することで、Apple Silicon Mac上にmacOSやWindows、Linuxの仮想マシンを構築することが可能となっている。\n\n仮想マシンの仕組みとしては、macOSおよびLinuxの環境においてAppleのVirtualizationフレームワークが利用され、Windows環境に関してはAppleのHypervisorフレームワークをベースにした独自のエンジンが採用されている。Parallels Desktopと同様にOSのインストールプロセスは自動化されており、各種設定を事前に行うことでISOファイルのダウンロードからセットアップまでの手順がスムーズに行われる仕様となっている。また、ホストおよびゲストの双方で主要なAIエージェントのデフォルトサポートが組み込まれており、接続されたAIが画面の視覚情報やキーボード、マウスを用いて仮想マシンを直接操作できる点が大きな特徴となっている。\n\nさらに、エージェントは画面操作だけでなく、仮想マシン内でのコマンド実行やスナップショットの作成、復元、再起動といった管理作業も行うことができる。仮想マシンの制御には専用のコマンドが用意されているほか、ホストとゲスト間でファイルやクリップボードを共有する機能も実装されている。動作にはmacOS 26 Tahoe以降を搭載したApple Silicon Macが必要となり、価格は1年間のアップデートを含む個人ライセンスが69ドル、チームライセンスが1シート49.50ドルに設定されており、現在は発売記念として50パーセントオフで提供されているほか、機能制限なしの体験版も用意されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261009-tableplus-vmpal-for-apple-silicon-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/VMPal-for-Apple-Silicon-Mac-logo-icon.webp",
+ "published": "2026-10-08T22:27:08+00:00"
+}
