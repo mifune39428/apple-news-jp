@@ -1,0 +1,21 @@
+{
+ "id": "0a8041dd0125d3f7",
+ "title_ja": "マンチェスターの交通系IC「Bee Card」がAppleウォレットに対応",
+ "summary_ja": "英グレーター・マンチェスターの交通系ICカード「Bee Card」がAppleウォレットで全ユーザー向けに利用可能となった。iPhoneやApple Watchに追加することで、ビーネットワークの各種乗車券がスムーズに利用できる。",
+ "points": [
+  "マンチェスターの交通カード「Bee Card」がApple Walletに完全対応。",
+  "すべての乗車券がiPhoneやApple Watchに追加可能に。",
+  "Wallet内でチケットを直接購入し、端末をかざすだけで乗車できる。",
+  "エクスプレスモードに対応し、端末のロック解除なしで支払いが可能。",
+  "カードの追加と利用にはiOS 27が必要となる。"
+ ],
+ "body": "英国グレーター・マンチェスターの公共交通機関で導入されている交通カード「Bee Card」が、iPhoneやApple WatchのApple Walletアプリに完全対応しました。これまで同カードのApple Walletへの追加は、今年8月に発表されて以降、若者向けの無料または割引チケットである「Our Pass」の利用者に限定されていました。しかし、今週の火曜日からは制限が撤廃され、すべての種類の「Bee Network」乗車券がApple Walletに登録できるようになりました。これにより、一般の利用者も自身のモバイル端末を使ってスムーズに交通機関を利用できるようになります。\n\nApple WalletにBee Cardを追加するには、まずiPhoneなどのWalletアプリを起動します。画面右上にあるプラス記号のアイコンをタップし、カードの選択肢から「トラベルカード」（一部のユーザー環境では「交通系ICカード」と表示される場合があります）を選択します。その後、国や地域のリストから連合王国（イギリス）のセクションまでスクロールし、一覧から「Bee Network」を選択することで追加手続きを進めることができます。\n\n仮想のBee CardをApple Walletに追加した後は、アプリ内で直接バスや路面電車の乗車券を購入し、カード内に保存することが可能です。グレーター・マンチェスター内の交通網であるBee Networkを利用する際は、iPhoneやApple Watchを改札口などのカードリーダーにかざすだけで、運賃の支払いが完了します。さらに、端末の設定で「エクスプレスモード」を有効にしておけば、乗車時にデバイスのスリープを解除したり、Face IDやTouch IDによるロック解除を行ったりすることなく、端末をリーダーに近づけるだけで瞬時に決済が行えます。なお、この機能を利用してApple WalletにBee Cardを追加するためには、iOS 27が必要仕様とされています。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/07/manchesters-bee-card-apple-wallet",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/Apple-Wallet-Bee-Card.jpg",
+ "published": "2026-10-07T16:09:06+00:00"
+}

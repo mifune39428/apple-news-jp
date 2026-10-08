@@ -1,0 +1,20 @@
+{
+ "id": "0acc4a08f4f3e3d3",
+ "title_ja": "MSが「Surface Laptop Ultra」を発表、MacBook Proに対抗",
+ "summary_ja": "マイクロソフトは、MacBook Proに対抗する新型ノートPC「Surface Laptop Ultra」の価格と発売時期を発表しました。価格は2,599ドルからで、クリエイターや開発者をターゲットにしています。最大20コアのCPUや128GBのメモリを搭載し、高い処理能力を必要とするワークロードに対応します。",
+ "points": [
+  "マイクロソフトが新型のSurface Laptop Ultraを発表",
+  "価格は2599ドルからで16インチMacBook Proに対抗",
+  "Nvidia RTX Sparkチップと最大128GBメモリを搭載",
+  "10月16日に発売されMacからの乗り換えキャンペーンも実施"
+ ],
+ "body": "マイクロソフトは、クリエイターや開発者向け市場をターゲットにした新型の15インチノートパソコン「Surface Laptop Ultra」の価格と発売時期を発表した。価格は2599ドルからに設定されており、2999ドルの16インチMacBook Proを下回る価格設定となっている。同社によると、このモデルはクリエイティブ作業、ソフトウェア開発、AI、エンジニアリング、3D処理などの高負荷なワークロードに対応するように設計されており、これまでに発売されたノートパソコンの中で最も強力な性能を持つとされている。\n\nハードウェア面では、最大6144コアのNvidia Blackwell RTX GPUと最大20コアのNvidia Grace CPUを統合したArmベースのNvidia RTX Sparkチップを搭載している。最大128GBのユニファイドメモリをサポートし、ミニLEDを採用したタッチスクリーンディスプレイは、ピーク時のHDR輝度がM5を搭載するMacBook Proよりも高くなっている。本体は165インチのMacBook Proよりも軽量で、大型のハプティックトラックパッドや換装可能なストレージを備えるほか、世界初とされる磁気式のUSB-C充電機能や多様なポート類が搭載されている。\n\nさらに、デスクトップ向けのMac StudioやMac miniに対抗するものとして、5999ドルの「Surface RTX Spark Dev Box」も発表されている。発売日は10月16日に予定されており、マックブックからの乗り換えを促すため、対象デバイスを下取りに出すと最大1000ドルのキャッシュバックが受けられるキャンペーンも用意されている。なお、将来的にアップル側でも有機ELディスプレイやタッチスクリーンを搭載し、ウルトラの名称を持つ新型MacBookが投入されるのではないかと噂されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/surface-laptop-ultra.jpg",
+ "published": "2026-10-08T00:45:43+00:00"
+}
