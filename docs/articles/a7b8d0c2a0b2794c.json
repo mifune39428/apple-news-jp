@@ -1,0 +1,20 @@
+{
+ "id": "a7b8d0c2a0b2794c",
+ "title_ja": "SanDisk、次世代ポータブルSSDを日本で発売開始",
+ "summary_ja": "ストレージメーカーのSanDiskが、人気のポータブルSSD「SANDISK Extreme Portable SSD」などの次世代モデルの日本国内での発売を開始した。詳細は公式サイトや販売ページなどで確認できる。",
+ "points": [
+  "SanDiskの次世代ポータブルSSDが日本で発売",
+  "最大読み込み速度が各モデルで大幅に向上",
+  "Extremeシリーズなどは高い耐久性と防水防塵に対応",
+  "SSD価格の高騰により旧モデルより2〜3倍の値上がり"
+ ],
+ "body": "SanDiskは、ポータブルSSDシリーズの第3世代となる次世代モデルの日本国内での販売を開始した。今回登場したのは「SANDISK Extreme PRO Portable SSD」「SANDISK Extreme Portable SSD」「SANDISK Portable SSD」の3製品で、いずれも持ち運びしやすい薄型軽量のポータブルサイズを継承しながら、内部性能が大きくアップグレードされている。インターフェイスは全モデル共通でUSB-Cを採用している。\n\n各モデルの性能面では、エントリー向けのPortable SSDがUSB 3.2 Gen2に対応し最大読み込み速度1,000MB/sとなり、中位のExtremeはUSB 3.2 Gen 2×2対応で最大2,000MB/sに強化された。さらに、上位モデルのExtreme PROはUSB4に対応し、最大読み込み速度4,000MB/sという非常に高速なデータ転送を実現している。また、タフな利用環境を想定した耐久性も備わっており、Portable SSDは約2m、ExtremeとExtreme Proは約3mの耐落下保護性能を持つ。加えて、ExtremeとExtreme Proの2モデルはIP65等級の防塵防水性能やAES-256暗号化にも対応し、外出先でもデータを安全に扱える仕様となっている。\n\n一方で、近年のストレージ市場におけるSSD価格の高騰が大きく影響しており、販売価格は非常に高価なものとなっている。下位モデルのPortable SSDの1TBモデルが3万7千円前後、Extremeの1TBモデルにいたっては5万円前後に設定されるなど、旧モデルの発売時価格と比較して2倍から3倍近い値上がりを見せている。そのため、ユーザーにとっては性能が向上した一方で、購入のハードルが従来よりもかなり高い価格設定となっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261010-sandisk-extreme-pro-portable-usb4.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/02/SanDisk-Extreme-PRO-Portable-SSD-V3-logo-icon.webp",
+ "published": "2026-10-10T00:48:09+00:00"
+}
