@@ -27,6 +27,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
 
 import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キーは呼び出し時に参照される）
+import digest as digest_lib  # noqa: E402  一覧の先頭に出す「ここ数日のまとめ」
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "articles.json")
@@ -689,6 +690,22 @@ def cleanup_details(kept_ids: set[str]) -> None:
 # 保存
 # --------------------------------------------------------------------------
 
+# --------------------------------------------------------------------------
+# ここ数日のまとめ（一覧の先頭に出す）
+# --------------------------------------------------------------------------
+# 作り方そのものは digest.py（4サイト共通）。ここにはこのサイトならではの違いだけを書く。
+DIGEST_SITE = {
+    "editor": "Apple専門のニュースメディアの日本語編集者",
+    "focus": "Appleの公式発表と、噂・リークを混ぜない。噂は「〜と報じられている」のように、確定していないと分かる書き方にする。",
+    "columns": "カテゴリ / 国内か海外か / 重要度 / 見出し / 要約",
+    "describe": lambda i: (
+        f"{i.get('category', '')}{'（Apple公式）' if i.get('official') else ''} / "
+        f"{'国内' if i.get('region') == 'jp' else '海外'} / {i.get('importance', 3)} / "
+        f"{i['title_ja']} / {i.get('summary_ja', '')}"
+    ),
+}
+
+
 def load_existing() -> dict:
     if not os.path.exists(OUTPUT_PATH):
         return {"updated_at": None, "items": []}
@@ -768,6 +785,7 @@ def main() -> int:
     merged.sort(key=lambda item: item["published"], reverse=True)
     merged = [to_public(item) for item in merged[:KEEP_MAX]]
     cleanup_details({item["id"] for item in merged})
+    digest = digest_lib.build_digest(merged, existing.get("digest"), DIGEST_SITE, parse_date)
 
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),
@@ -775,6 +793,7 @@ def main() -> int:
         "sources": sorted({item["source"] for item in merged}),
         "count": len(merged),
         "detail_count": sum(1 for item in merged if item.get("has_detail")),
+        "digest": digest,
         "items": merged,
     }
 
