@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T11:52:21.058156+09:00",
+ "updated_at": "2026-10-11T18:32:24.395558+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -28,8 +28,191 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 281,
+ "detail_count": 283,
+ "digest": {
+  "headline": "Appleが10月13日に新イベント開催を発表、月末にも追加イベントの噂",
+  "points": [
+   {
+    "text": "Appleは現地時間10月13日にニューヨークでメディアイベント「Welcome home.」を開催すると正式に発表した。",
+    "ids": [
+     "aaad97115501c996",
+     "71d97ae3b53417b7",
+     "eefa69f5762be27c"
+    ]
+   },
+   {
+    "text": "10月13日のイベントでは、新型スマートホームハブやHomePod mini 2、新型Apple TV 4Kの発表が期待されている。",
+    "ids": [
+     "96d8068e25205858",
+     "93a38b672773feec",
+     "71c52c0c2fc2f6b6"
+    ]
+   },
+   {
+    "text": "開発中のスマートホームハブの名称は「HomeView」になるのではないかと報じられている。",
+    "ids": [
+     "62bc419edccd3e82",
+     "3d746d2c76d5d711"
+    ]
+   },
+   {
+    "text": "Appleは10月27日前後にも追加の発表会を開催し、タッチ対応MacBook Proや新型iPad miniなどを発表するとの見方が伝えられている。",
+    "ids": [
+     "fe2967c65e269e67",
+     "2b21ea49f2fbb2e3",
+     "d52046f636dc5444"
+    ]
+   },
+   {
+    "text": "AppleがAIスタートアップ「Huxe」を買収したことが、EUの規制関連サイトから明らかになった。",
+    "ids": [
+     "02ae61baa8eafc05"
+    ]
+   }
+  ],
+  "days": 3,
+  "from": "2026-10-08T18:35:33.529630+09:00",
+  "generated_at": "2026-10-11T18:35:35.160912+09:00",
+  "article_count": 24,
+  "sig": "f70735d40c3a"
+ },
  "items": [
+  {
+   "id": "efb90e65131619e1",
+   "url": "https://applech2.com/archives/20261011-microsoft-365-and-office-2024-support-macos-27-golden-gate.html",
+   "title_original": "Microsoft、「Microsoft 365/Office for Mac」でmacOS 27 Golden Gateのサポートを開始。今後はmacOS 14 Sonomaが非サポートに。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2025/10/Microsoft-365-for-Mac-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T09:19:38+00:00",
+   "title_ja": "Mac用Officeが次期macOSをサポート、Sonomaは対象外に",
+   "summary_ja": "マイクロソフトは、Mac用Microsoft 365およびOffice 2024で次期macOSのサポートを開始しました。これに伴い、今後はmacOS 14 Sonomaがサポート対象外となります。対応OSの移行が進む形です。",
+   "category": "Mac",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "09a7ea903f02bec8",
+   "url": "https://www.macworld.com/article/3256680/pay-19-97-once-and-get-the-mac-tools-apple-left-out.html",
+   "title_original": "Pay $19.97 once and get the Mac tools Apple left out",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3256680-0-33869800-1791705656-MacMagic.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T08:00:00+00:00",
+   "title_ja": "macOSの機能を補完するユーティリティアプリがセール中",
+   "summary_ja": "キャッシュ削除やPDF結合などの機能をまとめたMac用アプリ「MacMagic」が、割引価格で販売されています。標準機能では物足りない部分を補う便利なツールとして紹介されています。",
+   "category": "サービス・アプリ",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "b7297c83826ef18c",
+   "url": "https://www.macworld.com/article/3256581/this-23-99-find-my-tracker-is-thin-enough-to-live-in-your-wallet.html",
+   "title_original": "This $23.99 Find My tracker is thin enough to live in your wallet",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3256581-0-07132400-1791705630-MagTag.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T08:00:00+00:00",
+   "title_ja": "財布に収まる薄型Find My対応トラッカーカード",
+   "summary_ja": "厚さ1.5mmの極薄設計を採用した「MagTag」トラッカーカードがセール中です。Appleの「探す」アプリに対応し、財布やパスポートケースなどに入れてリアルタイムの位置追跡が可能です。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "818330135a8aa713",
+   "url": "https://iphone-mania.jp/ios-607287",
+   "title_original": "iOS27で「ホーム」に追加された新機能まとめ！AI活用や4K対応、リアルタイム通知など",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/11/2ae16193837059544ce1dc653c22c10a.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T07:11:35+00:00",
+   "title_ja": "iOS27の「ホーム」アプリ新機能まとめ",
+   "summary_ja": "Appleの最新OS「iOS27」では、ホームアプリに関連する機能が拡充されました。AIの活用や4K対応、リアルタイム通知の導入など、ユーザーの利便性を高める複数のアップデートが含まれています。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c1678f4715f8562e",
+   "url": "https://iphone-mania.jp/ios-607291",
+   "title_original": "iOS27で「メール」が大幅強化！4つの新機能とは？",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/11/ezgif-4dc60e543ef27629.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T07:07:22+00:00",
+   "title_ja": "iOS27で大幅に強化された「メール」アプリの新機能",
+   "summary_ja": "iOS27の正式版リリースに伴い、「メール」アプリが大幅に強化されていることが判明しました。検索機能をはじめとする4つの新機能が追加され、日々のメール管理がより便利に進化しています。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "56fe79b0da664d75",
+   "url": "https://iphone-mania.jp/iphone18-607289",
+   "title_original": "iPhone18 Proの実質価格が上がる？総務省の残価ルール見直し案",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/11/441f60a7c42d4a15eaf5983cfd4c8ad1.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T05:37:50+00:00",
+   "title_ja": "iPhone18 Proの実質価格が上昇するか",
+   "summary_ja": "総務省によるスマホの残価設定ルール見直しの議論が進んでいる。iPhone15 Proの買取実績を適用して試算すると、iPhone18 Proの実質価格は約1.9倍となる可能性がある。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "28ca72b61e966f9a",
+   "url": "https://iphone-mania.jp/homepod-607286",
+   "title_original": "HomePod mini2、10月13日発表か！6年ぶり刷新でSiri AI対応へ",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/11/HomePodmini2-image.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T04:33:06+00:00",
+   "title_ja": "HomePod mini2が10月発表か",
+   "summary_ja": "Appleが10月13日に開催予定のイベントで、6年ぶりとなる新型HomePod miniが発表される見通し。新型ではSiriのAI対応や音質向上が予定されているという。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "eb6a28b0180dc615",
+   "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring",
+   "title_original": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T04:25:16+00:00",
+   "title_ja": "次期MacBook Proのデザイン刷新前倒しか",
+   "summary_ja": "2027年春に登場が噂されるM7搭載のエントリー向けMacBook Proについて、当初の予想よりも早く新しいデザインが導入される見込みであると伝えられている。",
+   "category": "Mac",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "3d127ea9c7c6418d",
    "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership",
@@ -6576,140 +6759,6 @@
    "summary_ja": "Apple Intelligenceを使用しないMacユーザー向けに、関連データを削除して12GB以上のストレージ容量を解放できるオープンソースのツールが話題となっています。しかし、システムの安定性や将来のアップデートに影響を与える可能性があるため、メディアは利用に対して慎重な姿勢を求めています。",
    "category": "Mac",
    "importance": 3
-  },
-  {
-   "id": "f8b95dc92471d995",
-   "url": "https://9to5mac.com/2026/10/05/daily-october-5-2026",
-   "title_original": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T22:39:59+00:00",
-   "title_ja": "9to5Mac Daily：macOSのプライバシー変更などを解説",
-   "summary_ja": "海外メディアの9to5Macが配信するポッドキャスト番組において、macOSに関するプライバシー機能の変更点などの主要ニュースが取り上げられました。各種ポッドキャスト再生アプリや配信フィードから聴くことができます。",
-   "category": "その他",
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "83d9b9bcdfd147ca",
-   "url": "https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks",
-   "title_original": "macOS development continues to hint at touchscreen MacBooks",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69228-146019-68057-143514-66579-139653-M5-MacBook-Pro-display-xl-xl-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T22:35:04+00:00",
-   "title_ja": "macOSの最新ベータ版にタッチスクリーン対応MacBookを示唆する記述",
-   "summary_ja": "「macOS 27.2」の最新ベータ版から、Safariやメモなどのシステムアプリにおける新しいタッチジェスチャーの記述が発見されました。これはSidecar機能の大幅なアップデートか、あるいは噂されているタッチスクリーン搭載MacBook Proの登場を示唆している可能性があります。",
-   "category": "噂・リーク",
-   "importance": 3
-  },
-  {
-   "id": "8e310b860b7a37bb",
-   "url": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving",
-   "title_original": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/HeyPolo-2.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T22:30:00+00:00",
-   "title_ja": "10代の運転を親がリアルタイムで見守れるアプリ「HeyPolo」が登場",
-   "summary_ja": "子供が車の運転を始めた親の不安を解消するアプリ「HeyPolo」が登場しました。このアプリを使用することで、親は10代の子供が運転している速度や目的地への到着状況、安全運転の度合いなどを1つのアプリ内でリアルタイムに把握できます。親が安心して子供の運転を見守るための新たな選択肢となりそうです。",
-   "category": "サービス・アプリ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "2da4b812af2e612a",
-   "url": "https://gori.me/sale/peripheral-sale/170969",
-   "title_original": "”小さいほう”派に朗報。Apple Watch Series 11の42mmモデルが実質6.2万円セール中です",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/onur-binay-8OQt1zTnJeE-unsplash-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T22:05:58+00:00",
-   "title_ja": "AmazonでApple Watch 11の42mmモデルが実質6.2万円のセール中",
-   "summary_ja": "Amazonにおいて、Apple Watch Series 11の42mmローズゴールドが13%のポイント還元セールを実施しています。販売価格71,800円に対し9,334円分のポイントが付与されるため、実質62,466円で購入可能です。46mmサイズが大きいと感じていた人には見逃せないセールとなっています。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "97c87b3ac0f2025c",
-   "url": "https://appleinsider.com/articles/26/10/05/siri-ai-smart-replies-coming-to-the-apple-tv-tvos-272-code-suggests",
-   "title_original": "Siri AI & Smart Replies coming to the Apple TV, tvOS 27.2 code suggests",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69227-146018-68879-145107-Apple-TV-4K-front-xl-(1)-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T21:49:25+00:00",
-   "title_ja": "次期Apple TVに「Siri AI」搭載か、tvOSベータ版から記述が発見",
-   "summary_ja": "tvOS 27.2のデベロッパー向けベータ3のコードから、次世代Apple TV 4KにApple Intelligenceが導入される新たな兆候が見つかりました。設定アプリのコード内に、Siri AIやスマートリプライに関する記述が直接含まれています。次世代モデルでのAI機能対応への期待がさらに高まっています。",
-   "category": "噂・リーク",
-   "importance": 3
-  },
-  {
-   "id": "1e119b8d5c47df67",
-   "url": "https://gori.me/macbookpro/170970",
-   "title_original": "「タッチ対応MacBook」を示唆するコード、macOS 27.2から発見。年内登場か",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2025/04/martin-sanchez-4PDPLw1flgE-unsplash-800x534.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T21:35:04+00:00",
-   "title_ja": "macOS 27.2ベータからタッチ操作対応MacBookを示唆するコードが発見",
-   "summary_ja": "macOS 27.2の最新ベータ版から、画面を指でタッチ操作するための新しいコードが見つかった。Appleが開発中と噂されるタッチ対応の有機EL搭載MacBookに向けた準備が進められている可能性がある。年内登場の噂もある中で、OS側でのタッチジェスチャー対応に向けた基盤整備が着実に進んでいる模様だ。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7a193c7b5b7d58e1",
-   "url": "https://9to5mac.com/2026/10/05/macos-27-2-reveals-new-clues-about-apples-touchscreen-macbook-pro",
-   "title_original": "macOS 27.2 reveals new clues about Apple’s touchscreen MacBook Pro",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m5-14-inch.webp?w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T21:34:48+00:00",
-   "title_ja": "macOS 27.2にタッチパネル搭載MacBook Proの存在を示すコードが見つかる",
-   "summary_ja": "今月にも登場すると予想されているタッチパネル搭載MacBook Proに関して、macOS 27.2から新たなヒントが発見された。Macとして初となるタッチ対応モデルの投入に向けて、Appleは最新OS内でタッチジェスチャーを受け入れるための技術的な下準備を進めているとみられる。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a95a18d89084e675",
-   "url": "https://gori.me/apple/apple-news/170963",
-   "title_original": "iCloud+のカスタムドメイン、アドレスが10個まで作れるようになった",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/icloud-mail-800x444.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-05T21:30:01+00:00",
-   "title_ja": "iCloud+のカスタムドメイン機能で作成可能なアドレス上限が10個に拡大",
-   "summary_ja": "AppleがiCloudメールのサポート情報を更新し、iCloud+のカスタムメールドメインで作成できるパーソナライズメールアドレスの上限を拡大した。従来は1ドメインあたり3個までだったが、最大10個まで作成可能となった。ユーザーにとって柔軟なメール管理や運用の幅が広がる変更である。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }

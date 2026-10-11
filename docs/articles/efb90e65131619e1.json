@@ -1,0 +1,19 @@
+{
+ "id": "efb90e65131619e1",
+ "title_ja": "Mac用Officeが次期macOSをサポート、Sonomaは対象外に",
+ "summary_ja": "マイクロソフトは、Mac用Microsoft 365およびOffice 2024で次期macOSのサポートを開始しました。これに伴い、今後はmacOS 14 Sonomaがサポート対象外となります。対応OSの移行が進む形です。",
+ "points": [
+  "Microsoft 365およびOffice for MacがmacOS 27 Golden Gateに対応",
+  "サポート方針に基づき直近の主要3つのmacOSバージョンが対象に",
+  "今後はmacOS 14 Sonoma以前の環境が非サポートとなり更新を受信できず"
+ ],
+ "body": "Microsoftは、オフィススイートであるMicrosoft 365およびOffice for Macのサポートページを更新し、最新バージョンにおいてmacOS 27 Golden Gateのサポートを開始したと発表している。新しいオペレーティングシステム環境でWord、Excel、PowerPoint、Outlook、OneNoteなどの各アプリケーションを最適に利用するためには、最新のアップデートを適用することが推奨されている。\n\n同社のサポート方針では、Microsoft 365およびOffice for Macが対象とするmacOSを、Appleによるセキュリティサポートが継続している最新の3つのメジャーバージョンに限定している。そのため、今回macOS 27 Golden Gateが新たにサポート対象へ追加されたことに伴い、サポート範囲はmacOS 26 TahoeおよびmacOS 15 Sequoiaまでとなる。\n\nこの変更により、macOS 14 Sonomaをはじめとするそれ以前の古いバージョンを利用している環境では、今後はMicrosoft 365やOffice for Macのセキュリティサポートや各種アップデートを受けられなくなる。該当する古いOS環境でこれらのオフィスツールを使用しているユーザーは、アプリの継続的な利用やセキュリティ確保のために注意が必要となる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261011-microsoft-365-and-office-2024-support-macos-27-golden-gate.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Microsoft-365-for-Mac-logo-icon.webp",
+ "published": "2026-10-11T09:19:38+00:00"
+}
