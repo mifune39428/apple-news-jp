@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:12:33.735388+09:00",
+ "updated_at": "2026-10-12T12:14:42.099914+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -30,34 +30,39 @@
  "count": 400,
  "detail_count": 287,
  "digest": {
-  "headline": "Appleが10月13日に新製品発表イベントを開催、スマートホーム新製品の噂",
+  "headline": "Appleが10月13日に新製品発表イベントを開催、スマートホーム新製品などを予",
   "points": [
    {
-    "text": "Appleは10月13日にニューヨークでメディアイベント「Welcome home.」を開催すると発表し、スマートホーム製品の発表が期待されている。",
+    "text": "Appleは10月13日に新製品発表イベント「Welcome home」を開催し、スマートホーム製品を発表すると明かしている。",
     "ids": [
-     "cc2ca8941494c995",
-     "aaad97115501c996",
-     "87a0e9dbad08d370"
+     "cc2ca8941494c995"
     ]
    },
    {
-    "text": "次期Apple TV 4KやHomePod mini 2、新スマートホームハブ「HomeView」が発表・発売されると報じられている。",
+    "text": "初の折りたたみiPhone「iPhone Duo」の発売に向け、店舗で大規模なデモ展示の準備が進められていると報じられている。",
     "ids": [
+     "7ce7f93083139101",
+     "2d158d468a123027"
+    ]
+   },
+   {
+    "text": "A18チップやディスプレイを搭載する新スマートホームハブ「HomeView」が10月に発表され、11月中旬に発売されると報じられている。",
+    "ids": [
+     "99fbf39672ff96ad",
+     "763651586777cb5f",
+     "63238a9613f3767a"
+    ]
+   },
+   {
+    "text": "新型HomePod mini 2やA19チップ搭載のApple TV 4Kが10月30日に発売されると噂されている。",
+    "ids": [
+     "f3bd0f04641f6e80",
      "b5324f84007935df",
-     "cb2bf4e238b89237",
-     "cb85b692e1116567"
+     "20bf3bf04da5042f"
     ]
    },
    {
-    "text": "折りたたみiPhone「iPhone Duo」の発売に向けて、直営店で特設展示や購入時のパーソナライズオプションが計画されていると伝えられている。",
-    "ids": [
-     "2d158d468a123027",
-     "31cfb2d5f496191d",
-     "85b673746138fe3b"
-    ]
-   },
-   {
-    "text": "有機ELディスプレイを採用する新型iPad miniは、価格が799ドル近辺へと値上がりする可能性があると報じられている。",
+    "text": "有機EL搭載の新型iPad miniは、価格が約799ドルへ値上がりする可能性があると伝えられている。",
     "ids": [
      "a7f1d651916fd080",
      "c1180333b721e92c"
@@ -65,12 +70,131 @@
    }
   ],
   "days": 3,
-  "from": "2026-10-09T06:14:03.218373+09:00",
-  "generated_at": "2026-10-12T06:14:04.653105+09:00",
+  "from": "2026-10-09T12:15:11.397505+09:00",
+  "generated_at": "2026-10-12T12:15:12.943105+09:00",
   "article_count": 24,
-  "sig": "27d30ec1456d"
+  "sig": "90358a0302a1"
  },
  "items": [
+  {
+   "id": "184cfa926623a816",
+   "url": "https://applech2.com/archives/20261012-screens-v5-support-iphone-duo.html",
+   "title_original": "iPhone用VNCリモートデスクトップクライアント「Screens v5」がiPhone Duoに対応。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2025/06/Screens-v5-for-Mac-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-12T02:39:08+00:00",
+   "title_ja": "VNCリモート操作アプリ「Screens v5」がiPhone Duoに対応",
+   "summary_ja": "iPhone向けのリモートデスクトップクライアントアプリ「Screens v5」がアップデートされ、新たにiPhone Duoへの対応を果たしました。Edovia Inc.が手がけるVNCクライアントで、折りたたみ端末の環境でも快適なリモート操作が可能となります。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7ce7f93083139101",
+   "url": "https://gori.me/apple/apple-news/171160",
+   "title_original": "iPhone Duoの展示は本気、在庫は厳しめ。体験→購入はワンテンポ遅れるかも",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-34-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T23:55:23+00:00",
+   "title_ja": "折りたたみiPhone「iPhone Duo」は展示に力、在庫は少なめか",
+   "summary_ja": "Apple初の折りたたみiPhoneであるiPhone Duoの発売に向け、米国のApple Storeでは大規模なデモ展示の準備が進められています。体験の機会が豊富に用意される一方、発売初期の在庫は厳しめの供給状況になる見通しです。",
+   "category": "噂・リーク",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "7ed2426c24b0582e",
+   "url": "https://gori.me/macbookpro/171158",
+   "title_original": "M7 MacBook Pro、来春には新デザイン採用か。エントリーモデルもタッチ対応＆有機ELに",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/01/taan-huyn-Da5_1StN0m8-unsplash-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T23:35:27+00:00",
+   "title_ja": "M7搭載のMacBook Proエントリーモデルが2027年春に登場か",
+   "summary_ja": "上位モデル向けの新デザインが、14インチのエントリーモデルにも早めに採用される可能性があります。M7チップを搭載し、タッチ対応や有機ELディスプレイを備えた新型MacBook Proが2027年春ごろに登場する見込みです。",
+   "category": "Mac",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f3bd0f04641f6e80",
+   "url": "https://gori.me/music-accessories/speakers/homepod/171157",
+   "title_original": "新型HomePod mini 2、6年ぶり進化はWi-Fiもチップも飛躍か。Siri AIやMatter対応の予想も",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2020/11/Apple_homepod-mini-white-iphone-pairing_10132020-800x555.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T23:10:51+00:00",
+   "title_ja": "新型HomePod mini 2が10月発売か、6年ぶりの大幅進化へ",
+   "summary_ja": "6年ぶりの刷新となる新型HomePod mini 2が、ニューヨークのイベントで発表され10月末に発売されると報じられています。Wi-Fi性能やチップの飛躍的な進化に加え、SiriのAI機能やMatterへの対応が予想されています。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fc77ce592d45159b",
+   "url": "https://gori.me/appletv/171156",
+   "title_original": "新型Apple TV 4Kの最新情報、A19チップ搭載よりも「リモコン探し」「リモコンなし操作」が気になる",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/omar-rodriguez-GjOl79QjfD8-unsplash-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T22:45:33+00:00",
+   "title_ja": "新型Apple TV 4KはA19搭載か、リモコンなし操作の噂も",
+   "summary_ja": "次期Apple TV 4KにはA19チップが搭載される見通しです。さらに、本体内蔵マイクでSiriに直接話しかける機能や、スピーカー付きの新リモコンなどの開発が進められており、操作性の向上が期待されています。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "99fbf39672ff96ad",
+   "url": "https://gori.me/apple/apple-news/171153",
+   "title_original": "新製品「Apple HomeView」は10月13日発表→11月中旬発売か。A18搭載、4色の新ホームハブ",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2025/06/generated-image-fo-homepad-800x572.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T22:20:28+00:00",
+   "title_ja": "新型スマートホームハブ「HomeView」は10月発表か",
+   "summary_ja": "Appleの新しいスマートホームハブ「HomeView」が10月13日のイベントで発表され、11月中旬に発売される可能性がある。A18チップを搭載し、4色展開になると報じられている。",
+   "category": "噂・リーク",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "71416fd9f3307559",
+   "url": "https://gori.me/sale/peripheral-sale/171151",
+   "title_original": "超絶進化の新型iPad mini、価格の”進化”も覚悟せよ。10万→13万円の予想",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2025/10/maury-page-JPuy_QxpZx4-unsplash-800x500.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T21:47:01+00:00",
+   "title_ja": "新型iPad miniは価格上昇の可能性、799ドル規模へ",
+   "summary_ja": "次期iPad miniは有機ELディスプレイの搭載に伴い、価格が大幅に引き上げられる可能性がある。現行の599ドルから約799ドルへと値上がりするとの予想が伝えられている。",
+   "category": "iPad",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "2007f5c7b9d93ebc",
    "url": "https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad",
@@ -103,6 +227,22 @@
    "category": "iPad",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "763651586777cb5f",
+   "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks",
+   "title_original": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-HomeView-HomePod-Mini-tweaked.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-11T19:56:28+00:00",
+   "title_ja": "新型Apple TVやHomeViewなどの詳細がリーク",
+   "summary_ja": "イベントを前に、新型ホームハブ「HomeView」やHomePod mini 2、新しいApple TV 4Kに関する多数の情報が報じられた。HomeViewにはA18チップとSiri AIが搭載される見込み。",
+   "category": "噂・リーク",
+   "importance": 4
   },
   {
    "id": "846930204901d77a",
@@ -368,23 +508,6 @@
    "summary_ja": "新型のHomePod mini 2やApple TV 4Kを含む、新たなホーム関連製品が間もなく発表される見通しだ。スマートホームハブの新製品やアクセサリの登場も期待されている。",
    "category": "Apple Watch・ウェアラブル",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "66fdccf2b140997e",
-   "url": "https://www.cultofmac.com/news/apple-homeview-two-versions-no-an-app-store",
-   "title_original": "Last-minute details about HomeView, Apple’s smart home hub",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/Apple-event-Welcome-Home-October-2026_00.jpg.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-11T14:51:22+00:00",
-   "title_ja": "新型スマートホームハブ「HomeView」の詳細",
-   "summary_ja": "Appleが準備していると噂されるスマートホームハブ「HomeView」の名称の由来に関する直前情報が報じられています。画面を見て操作したり話しかけたりする用途を想定したデバイスになる見通しです。",
-   "category": "噂・リーク",
-   "importance": 3,
    "has_detail": true
   },
   {
@@ -6638,124 +6761,6 @@
    "summary_ja": "Appleは今年後半にも、これまでで最大規模となるMacBook Proのモデルチェンジを行うと予想されている。直近のアップデートに続く大型の刷新内容に注目が集まっている。",
    "category": "Mac",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "43e2cd431bd21dab",
-   "url": "https://www.macrumors.com/2026/10/06/prime-day-savings-tvs-accessories",
-   "title_original": "Prime Day Savings: TVs, Headphones, Chargers, and Other Tech Accessories",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2025/10/Prime-Big-Deal-Days-25-Blue.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T15:24:39+00:00",
-   "title_ja": "Amazonプライムデーで周辺機器がお買い得に",
-   "summary_ja": "Amazonのセールに合わせて、充電器やスマートホーム関連機器などのサードパーティ製アクセサリーが割引価格で販売されている。Apple関連製品と合わせて購入できるアクセサリがお得になっている。",
-   "category": "その他",
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "76cd1db969e16405",
-   "url": "https://9to5mac.com/2026/10/06/prime-day-deals-airpods-pro-3-m6-mac-mini-macbook-air",
-   "title_original": "Prime Day 1 deals: AirPods Pro 3, Max 2 $120 off, M6 Mac mini $150 off, MacBook Air $200 off, more",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Prime-Day-Apple-deals-day-1-2026-october.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T15:19:11+00:00",
-   "title_ja": "AmazonセールでMacやAirPodsが特別価格に",
-   "summary_ja": "Amazonのプライムデーセールにおいて、Apple製品の多数が値引き対象となっている。AirPodsシリーズに加え、最新のMac miniやMacBook Air、Apple Watchの一部モデルなどが割引価格で販売されている。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "371156e75ae0e888",
-   "url": "https://appleinsider.com/articles/26/10/06/modernized-apple-music-logo-is-now-chunkier-than-ever",
-   "title_original": "Modernized Apple Music logo is now chunkier than ever",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69235-146028-applemusiclogobeta-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T12:07:51+00:00",
-   "title_ja": "macOS 27.2などのベータ版でApple Musicのロゴ刷新が判明",
-   "summary_ja": "macOS 27.2やiOS 27.2の最新開発者向けベータ版において、Apple Musicのロゴがアップデートされていることが明らかになりました。11年前のサービス提供開始以来初めてとなる今回の変更では、小文字の「music」の文字がより太くモダンなデザインに調整されています。",
-   "category": "サービス・アプリ",
-   "importance": 3
-  },
-  {
-   "id": "ea7a90a55314bec1",
-   "url": "https://www.macrumors.com/2026/10/06/microsoft-onedrive-drop-support-iphone-models",
-   "title_original": "Microsoft OneDrive to Drop Support for These iPhone Models",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/10/microsoft-onedrive-logo@2x-scaled.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T11:53:38+00:00",
-   "title_ja": "Microsoft OneDrive、iPhone XRやXSなどのサポート終了へ",
-   "summary_ja": "マイクロソフトのクラウドストレージアプリ「OneDrive」が、iOS 18およびiPadOS 18のサポートを終了することが分かりました。これにより、iOS 26へアップデートできないiPhone XRやiPhone XS、XS Max、第7世代iPadなどの古いモデルがサポート対象外になります。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1f2f5a0cea60e34c",
-   "url": "https://9to5mac.com/2026/10/06/see-for-yourself-the-difference-the-wider-aperture-of-the-iphone-18-pro-makes",
-   "title_original": "See for yourself the difference the wider aperture of the iPhone 18 Pro makes",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Heres-the-difference-the-wider-aperture-of-the-iPhone-18-Pro-makes-in-real-life-photos.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T11:51:09+00:00",
-   "title_ja": "iPhone 18 Proの広くなった絞り値がもたらす撮影効果を検証",
-   "summary_ja": "iPhone 18 Proのメインカメラは、可変絞りレンズの採用に加えて従来モデルよりも絞り値が広くなっています。Appleはポートレート撮影などで被写界深度を浅くできるとアピールしていますが、小さなセンサーで実際にどれほどの違いが生じるのか、実機を用いた検証が行われています。",
-   "category": "iPhone",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "faa69c51a067f39d",
-   "url": "https://9to5mac.com/2026/10/06/prime-day-apple-watch-deals-series-12-all-time-low-ultra-4-100-off-ceramic-more",
-   "title_original": "Prime Day Apple Watch deals: Series 12 all-time low, Ultra 4 $100 off, ceramic, more",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Series-12-Ultra-4.webp?w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T11:44:44+00:00",
-   "title_ja": "AmazonプライムデーでApple Watch最新モデルが大幅値下げ",
-   "summary_ja": "Amazonで秋のプライムデーセールが開始され、2026年モデルのApple Watch Series 12が過去最安値を記録したほか、Apple Watch Ultra 4も約100ドル引きで販売されています。AirPods Pro 3やAirPods Max 2なども対象に含まれる大規模なセールとなっています。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ca81a57749a416f8",
-   "url": "https://www.macrumors.com/2026/10/06/homepod-mini-waits-reach-eight-weeks",
-   "title_original": "HomePod Mini Waits Reach Eight Weeks Ahead of Rumored Refresh",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2021/11/homepod-mini-color-bars.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-06T11:31:13+00:00",
-   "title_ja": "HomePod miniの出荷に最大8週間の遅れ、新型登場の予兆か",
-   "summary_ja": "世界各国のAppleオンラインストアにて、HomePod miniの出荷予定が最長で8週間に延びているほか、一部のカラーが注文不可となっています。新型モデルの登場が噂される中での出荷遅延であり、リフレッシュ版の発表が近づいている兆候ではないかと注目されています。",
-   "category": "噂・リーク",
-   "importance": 2,
    "has_detail": true
   }
  ]
