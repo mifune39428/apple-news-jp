@@ -1,0 +1,20 @@
+{
+ "id": "dabd38ebc28c8196",
+ "title_ja": "スマート家電シリーズ「Apple Home Collection」発表",
+ "summary_ja": "AppleがLGやシュナイダーエレクトリックと提携し、スマートホーム製品群を発表した。セキュリティカメラやスマートロックなどが含まれる。",
+ "points": [
+  "LGやシュナイダーエレクトリックと共同開発したスマートホーム製品群を発表",
+  "セキュリティカメラ、ビデオドアベル、スマートロック、サーモスタットなど全6製品",
+  "iPhoneやAirPodsのように近づけてタップするだけで簡単にペアリングが可能",
+  "UWBによるハンズフリー解除に対応したスマートロックは349ドルで12月に発売予定"
+ ],
+ "body": "Appleは、LGエレクトロニクスやシュナイダーエレクトリックと共同で開発した「Apple Home Collection」を発表した。同社が自社プラットフォーム向けにスマートホーム機器を直接手がけるのは今回が初めてとなり、これまではサードパーティ製に依存していた分野への本格的な参入となる。ニューヨークで開催されたイベントにおいて、新型Apple TV 4KやHomePod Mini 2とともに披露された。\n\n今回発表されたコレクションは、セキュリティカメラ、ビデオドアベル、スマートロック、サーモスタットなど全6製品で構成されている。最大の特徴はセットアップの簡便さとプライバシー保護への配慮であり、専用のサードパーティ製アプリを使わず、Apple Homeアプリのみで管理できる。iPhoneやAirPodsのようにデバイスをタップするだけでBluetoothとNFCを通じて簡単にペアリングでき、通信はすべてエンドツーエンドで暗号化される仕組みになっている。\n\nラインナップの中で注目を集めるLG製のスマートロックは349ドルで12月に米国とカナダで発売され、UWBを活用したハンズフリー解除やApple Home Keyをサポートする。また、2.5K解像度に対応したビデオドアベルは249ドルで、訪問者用と荷物用の2つのカメラを搭載し、HomeKit Secure VideoやApple Intelligence連携機能を利用できる。さらに、屋内・屋外用のカメラも複数用意されており、統一感のあるシンプルでクリーンなデザインを採用している。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Home-Collection-lineup.png?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-13T13:00:00+00:00"
+}
