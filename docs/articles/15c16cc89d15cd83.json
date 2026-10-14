@@ -1,0 +1,19 @@
+{
+ "id": "15c16cc89d15cd83",
+ "title_ja": "Apple、Taction社との特許訴訟で57億ドルの賠償判決取り消しを要求",
+ "summary_ja": "Appleは、iPhoneやApple WatchのTaptic Engineを巡るTaction社の特許訴訟において、連邦裁判官に57億ドルの損害賠償判決を取り消すよう求めた。同社は判決による賠償額が根拠のない推測に基づいて算出されたものだと主張している。",
+ "points": [
+  "AppleがTactionとの特許訴訟の評決無効化を連邦地裁に申し立てた",
+  "過去最大とされる57億ドルの賠償金は憶測に基づくものと主張している",
+  "技術的な非侵害や専門家による不正なテスト手法の存在を指摘している"
+ ],
+ "body": "Appleは、Taction Technologyとの間で行われている特許侵害訴訟において、陪審員による57億ドルの賠償命令を覆すよう連邦地裁に求めていることが報じられている。この訴訟はiPhoneやApple Watchなどに搭載されているTaptic Engineに関連する2件の特許を巡るもので、数週間前に陪審団がAppleに対して巨額の支払いを命じる評決を下していた。Appleはこの評決について事実に基づかないものであり、特許侵害にあたる技術とは根本的に異なると強く反発して控訴する方針を示していた。今回提出された申し立てでは、過去最大の特許賠償額とされる57億ドルを正当化する十分な証拠がTaction側から提示されておらず、陪審員が大規模な憶測に頼らざるを得なかったと主張されている。裁判所から事前の分析が排除されていたことなども挙げられ、合理的な金額を示す証拠がないまま不適切な判断が下されたと指摘されている。さらにAppleは、Taction側の技術専門家が裁判のために設計した不正なテストを用いて侵害を主張したとも訴えている。特許が規定する振動の特性と自社のTaptic Engineの動作は異なっており、テスト手法自体に問題があったと説明されている。仮にTaction側の解釈が認められるのであれば、特許そのものが無効になるべきであるとも主張されている。そのためAppleは、陪審の評決を覆して損害賠償を認めない判決を下すことや、特許の有効性や侵害をめぐる新たな裁判のやり直しを求めている。最終的な判断は今後、裁判所によって下されることになると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-14T00:56:57+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "216b6590e44da71d",
+ "title_ja": "watchOS 27.2とvisionOS 27.2のベータ4が公開",
+ "summary_ja": "Appleは各OSのベータ版と同時に、watchOS 27.2およびvisionOS 27.2の第4ベータ版を開発者向けにリリースした。新機能の健康管理アプリなどのテストが進められている。",
+ "points": [
+  "watchOS 27.2とvisionOS 27.2のベータ4が配信開始",
+  "登録デベロッパーは各デバイスの設定アプリからダウンロード可能",
+  "iOS 27.2とwatchOS 27.2で新しいヘルスケアアプリのテストを実施"
+ ],
+ "body": "Appleは、iOSやiPadOSなどの新ベータ版の配信に合わせ、watchOS 27.2とvisionOS 27.2のベータ4を開発者向けにリリースした。今回の新しいベータ版は、前回の第3ベータ版の公開から約1週間後の提供となり、現時点でtvOS 27.2のベータ4はまだ公開されていない。対象となる登録デベロッパーは、それぞれのデバイスの設定アプリからアップデートをダウンロードしてインストールすることが可能となっている。\n\n現在、iOS 27.2とwatchOS 27.2の組み合わせでは、9月のiPhoneイベントで披露された新しいヘルスケアアプリのテストが進められている。このアップデートされたヘルスケアアプリには、新しいインサイトタブやロンジェビティタブが追加されており、新モデルであるApple Watch Series 12やUltra 4から取得した情報を使用したレディネススコア機能などが組み込まれている。\n\n一方で、visionOS 27.2における具体的な新機能や変更点については、現時点で詳細な情報は明らかにされていない。また、同日に発表された第4世代のApple TVについては、SiriのAI機能への対応が含まれていることが伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/13/apple-releases-watchos-27-2-beta-4",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2025/04/General-visionOS-watchOS-and-tvOS-Betas-Feature-Redux.jpg",
+ "published": "2026-10-13T18:20:00+00:00"
+}

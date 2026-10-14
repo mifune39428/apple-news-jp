@@ -1,0 +1,19 @@
+{
+ "id": "96b654ca87b47a6c",
+ "title_ja": "新端末「HomeView」の顔認識機能の仕組みとは",
+ "summary_ja": "Appleが発表したスマートディスプレイ「HomeView」は最大6人の顔を認識できる。ユーザーごとに最適化されたパーソナライズ体験を提供する仕組みが詳細に報じられている。",
+ "points": [
+  "Appleがスマートディスプレイ「HomeView」を発表",
+  "顔認識機能にはApple Intelligence対応の端末が必要",
+  "価格は299ドルで11月13日に発売予定"
+ ],
+ "body": "Appleが新たに発表したスマートディスプレイ「HomeView」について、最大6人までの顔を認識してユーザーごとにパーソナライズされた体験を提供すると報じられている。この顔認識や音声認識によるユーザー特定機能を利用するためには、Apple Intelligenceに対応した登録済みの個人用端末が不可欠となる。具体的には、その端末が自宅のWi-Fiネットワークに接続されており、かつ最近ロックが解除されている状態である必要があるとされている。\n\nHomeView自体にはFace IDを搭載しておらず、センターステージ用のカメラのみを備えている。カメラ単体での顔認識の仕組みについて、自宅は安全な空間であるという前提に加え、先述したApple Intelligence対応端末の存在と直近のロック解除が条件になると説明されている。なお、プレスリリースに記載された脚注によれば、パーソナライズされたコンテキストリクエストには、最新ソフトウェアを搭載しSiri AIが有効化されたペアリング済みのiPhoneまたはiPadが必要であり、Apple Watchはこの登録端末の対象外となるとのこと。\n\nHomeViewは299ドルで本日から予約注文の受付が開始されており、11月13日に発売される予定とされている。自宅という安心できる空間の特性を活かしつつ、手持ちのAI対応デバイスと連携させることで、安全かつパーソナライズされたスマートホーム体験を実現する新しいプロダクトとして注目を集めている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/13/heres-how-homeviews-facial-recognition-works",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-13T17:51:41+00:00"
+}

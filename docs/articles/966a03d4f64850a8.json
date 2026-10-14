@@ -1,0 +1,20 @@
+{
+ "id": "966a03d4f64850a8",
+ "title_ja": "新端末HomeView、独自App Storeは非搭載か",
+ "summary_ja": "新しく登場したスマートホームディスプレイ「HomeView」には専用のApp Storeが用意されていないことが判明しました。アプリの展開方法や今後のサードパーティ製アプリの対応についてはCarPlayに近い形態を想定している模様です。",
+ "points": [
+  "HomeViewには独自のApp Storeがない",
+  "CarPlay対応のオーディオや動画アプリが利用可能",
+  "Siriの検索機能でiPhone内のデータにアクセス可能",
+  "初期モデルは限定的だが将来的な拡張の可能性が指摘されている"
+ ],
+ "body": "Appleの新デバイスであるHomeViewには独自のApp Storeが存在せず、ホーム画面に表示されるのはApple製の厳選されたアプリのみとなっている。ユーザーが自由に新しいアプリを追加することはできない仕組みになっており、初期段階では非常に限定的なプラットフォームとしてスタートすると伝えられている。\n\n一方で、iPhoneからの投影機能を利用することで、CarPlayに対応したオーディオや動画関連のアプリであればHomeView上でも利用できるとされている。また、今年追加されたCarPlayの動画再生機能が活用され、常に据え置き状態であるHomeViewでも動画アプリを楽しめる環境が整えられている。さらに、Siriを使った検索ではiPhoneやiPad内のアプリも含めた個人データを探すことができるため、本体で直接アプリを起動できなくても情報は参照可能となっている。\n\nカレンダーなどの機能を利用する際は当面の間Apple純正アプリを使う必要が生じるものの、Safariが提供されているためウェブアプリで代用することは可能と見られている。海外メディアの間では、現時点のHomeViewは機能拡張の余地を多く残した第1世代の製品であると受け止められており、将来的にアプリやウィジェット、あるいは非対応だったCarPlayアプリへの開放が行われるかどうかに注目が集まっている。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/built-in-apps-and-iphone-available-apps-icons-6c.png?ssl=1",
+ "published": "2026-10-14T00:14:38+00:00"
+}
