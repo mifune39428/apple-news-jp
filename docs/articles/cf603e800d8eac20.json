@@ -1,0 +1,20 @@
+{
+ "id": "cf603e800d8eac20",
+ "title_ja": "Apple Home Collectionは高価格なスマートホーム構築手段",
+ "summary_ja": "Appleが新たに発表したスマートホーム向け製品群とともに、LGやシュナイダーエレクトリックと共同開発した関連アクセサリーが登場した。Appleエコシステムに対応するこれらの製品は、スマートホームを構築する上で比較的高価な選択肢となる。",
+ "points": [
+  "Appleが他社と共同開発したスマート家電製品群を発表",
+  "LGとシュナイダーエレクトリック製で12月以降に発売",
+  "製品価格は同等スペックの他社製品と比べて高め",
+  "HomeKit Secure VideoやApple Intelligenceに対応"
+ ],
+ "body": "Appleは新たなスマートホーム製品群として、LGおよびシュナイダーエレクトリックと共同開発した「Apple Home Collection」を発表した。これらはAppleブランドではないものの、Apple Storeなどで12月以降に順次発売される予定となっている。ラインナップにはビデオドアベル、各種セキュリティカメラ、スマートデッドボルト、スマートサーモスタットなどが含まれており、全体的に同等スペックを持つ他社製品と比較してやや高価な価格設定となっている。一部の製品は地域によって取り扱いが異なり、別売りの温度センサーやアクセサリーなども用意されている。\n\n提供されるカメラ製品などはAppleのHomeKit Secure Videoに対応しているため追加のサブスクリプション契約は不要だが、利用できるカメラの台数は契約しているiCloud+のプランによって制限される仕組みとなっている。50GBプランでは1台のみ、200GBプランでは最大5台、2TBプランでは無制限のカメラに対応する。一方で、Apple Intelligenceを活用したスマートな通知や説明機能を利用する場合はさらに上位のストレージプランが必要となり、5台のカメラですべてのAI機能を利用するためには大容量のプランと高額な月額費用が求められることになる。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3259650/apple-home-collection-build-your-smart-home.html",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/3259650-0-26314500-1791909715-apple-home-collection.jpg?quality=50&strip=all",
+ "published": "2026-10-13T16:41:43+00:00"
+}

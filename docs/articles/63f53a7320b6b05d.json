@@ -1,0 +1,20 @@
+{
+ "id": "63f53a7320b6b05d",
+ "title_ja": "Apple HomeViewは外部デバイス経由でサードパーティ製アプリに対応",
+ "summary_ja": "Apple HomeViewは標準アプリを多数搭載し、iPhoneやiPadと接続することでサードパーティ製アプリも利用できる。単体でのApp Storeからの直接ダウンロードには対応していない。",
+ "points": [
+  "新型Apple HomeViewが価格299ドルで発表され予約受付を開始",
+  "専用のApp Storeは非搭載でiPhoneやiPadと連携する仕組み",
+  "音声と内蔵カメラによる個人認証で最大6人のユーザーを切り替え可能",
+  "11月13日の発売を予定しApple製アプリやサードパーティ製アプリに対応"
+ ],
+ "body": "Appleの新しい「HomeView」は、Apple MusicやApple Podcasts、FaceTimeなどのApple製アプリがあらかじめインストールされており、さらにサードパーティ製のオーディオおよびビデオアプリもサポートすると報じられている。専用のApp Storeが本体に搭載されていないためデバイス単体でのアプリダウンロードはできず、対応するiPhoneやiPadと接続することでサードパーティ製アプリが表示されるCarPlayに似た仕組みを採用しているとされる。SpotifyやAudibleといったCarPlay向けオーディオアプリが利用できるほか、開発者は既存のiOS向けビデオアプリにもHomeViewのサポートを拡張できる見込みである。\n\n最大6人までの家族メンバーが利用でき、本体前面の内蔵カメラと音声によってユーザーを識別する仕組みとなっている。メッセージやカレンダーといった個人情報や対応するサードパーティ製アプリが表示されるのは、登録および認証された人のみであり、利用にはカメラによる顔認識に加えて、ペアリングされ最近ロック解除されたiPhoneやiPadが近くにあることが条件になると伝えられている。なお、共有のフォトアルバムや音楽については、ゲストを含む家の中の誰でもアクセスが可能となっている。\n\n本機の価格は299ドルに設定されており、すでに予約受付が開始されている。発売日は11月13日を予定していると報じられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/13/homeview-third-party-apps",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/10/homeview-multiple-users.jpg",
+ "published": "2026-10-13T17:03:44+00:00"
+}
