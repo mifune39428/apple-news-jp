@@ -1,0 +1,20 @@
+{
+ "id": "010944e679dda499",
+ "title_ja": "HomeView、YouTube等の対応が明らかに",
+ "summary_ja": "新たに公開されたAppleの文書により、発表された「HomeView」でYouTubeやNetflixなどのサードパーティ製動画アプリが利用可能になることが判明した。ただし、これは各サービスの対応が前提条件となる。",
+ "points": [
+  "新製品「HomeView」でサードパーティ製動画アプリが利用可能になると判明",
+  "CarPlay向けの動画アプリ対応がHomeViewでもそのまま適用される仕組み",
+  "YouTubeやNetflixなどの主要アプリが追加の修正なしで動作する見込み",
+  "HomeViewの登場により、デベロッパーがCarPlay対応を進める強い動機に"
+ ],
+ "body": "先日発表されたアップルの新製品「HomeView」におけるサードパーティ製アプリの対応状況について、新たなApple製ドキュメントから詳細が明らかになったと報じられている。発表時点ではサードパーティ製アプリの扱いついて不明な点が多く、iPhoneのように専用のApp Storeから自由にダウンロードすることはできない仕様とされていた。しかし、一部の音声や動画アプリへの対応については示唆されており、その後の調査で対応アプリの条件が判明した形となる。\n\n新たに更新されたCarPlayの開発者向けガイドによると、CarPlay用の音声および動画アプリは、アプリ側に特別な修正を加えることなくHomeView上でも動作するとされている。今年導入されたCarPlay向けの動画アプリは、これまで対応している自動車メーカーが少なかったため、デベロッパー側があえて対応させるメリットが薄い状態にあった。しかし、今回のHomeViewの登場により、状況は大きく変わるとみられている。\n\nYouTubeやNetflix、Disney+といった主要な動画サービスは、CarPlayへの対応を追加するだけでHomeView上でもアプリを利用できるようになる。これにより、デベロッパー側にはCarPlayおよびHomeViewの両方に対応するアプリ開発へ投資する大きな理由が生まれることになると伝えられている。HomeViewは11月13日の発売が予定されており、価格は289ドルからとなっているが、主要な動画アプリが発売までに対応を表明するかどうかに注目が集まっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/14/homeview-will-support-video-apps-like-youtube-netflix-if-they-say-yes",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-third-party-video-apps-youtube.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-14T15:25:56+00:00"
+}

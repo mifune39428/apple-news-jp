@@ -1,0 +1,20 @@
+{
+ "id": "08f0c3ce3ed2d4cd",
+ "title_ja": "HomeViewはiPhoneのサードパーティ製ウィジェットに対応",
+ "summary_ja": "新製品のHomeViewにはApp Storeが搭載されないものの、特定の条件下でサードパーティ製アプリをサポートする。特に、iPhoneのサードパーティ製ウィジェットを実行できる仕様となっている点が注目される。",
+ "points": [
+  "HomeViewは独自App Storeを持たないがサードパーティに対応する",
+  "iPhoneのサードパーティ製ウィジェットがHomeView上で利用可能になる",
+  "CarPlay向けウィジェットの仕組みを流用し幅広いアプリに対応する",
+  "一部モデルが289ドルから予約受付を開始している"
+ ],
+ "body": "Appleの新型デバイス「HomeView」には専用のApp Storeが用意されないものの、特定の条件下においてサードパーティ製アプリやウィジェットがサポートされることが明らかになっている。発表当時はサードパーティ製アプリへの対応について詳細な説明はなかったものの、その後の開発者向け契約などの情報から具体的な仕様が判明しつつある。報道によると、SpotifyやNetflixといった主要なオーディオおよびビデオ系のサードパーティ製アプリが利用可能になるだけでなく、iPhoneのウィジェット機能にも対応することが示されている。\n\nAppleの更新された開発者向け契約には、iOSアプリケーションのウィジェットがCarPlayおよびHomeViewで利用可能になることが明記されている。CarPlayにウィジェットを導入した仕組みと同様に、iOSアプリ向けに提供されているウィジェットがHomeViewでもそのままサポートされる形となる。開発者側が明示的に除外設定を行わない限り、AmazonやChatGPT、Instagramといった人気のサードパーティ製ウィジェットも含めて、幅広いアプリのウィジェットがHomeViewの画面上に表示できるようになるとされている。\n\n独自のアプリストアを持たない制限がある一方で、iPhoneとの連携を通じて多様なウィジェットやサービスを利用できる点は、HomeViewの大きな特徴の一つとなりそうだ。なお、一部のモデルについては価格が289ドルからとなっており、すでに予約受付が開始されていると伝えられている。CarPlayと共通の基盤を活用することで、開発者側にとっても大きな手間をかけずにHomeView対応を進めやすい環境が整えられていると見られている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-home-screen-widget-apps-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-14T15:43:34+00:00"
+}

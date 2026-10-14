@@ -1,0 +1,19 @@
+{
+ "id": "383aed4f11e90c51",
+ "title_ja": "新型Siriリモコンの探索機能は制限あり",
+ "summary_ja": "新型Siriリモコンの精密探索機能を利用するには、iPhone 17以降の世代が必要となる。従来のモデルも最新の超広帯域チップを搭載しているものの、対応機種は新しい世代に限定されている。",
+ "points": [
+  "新しいSiri Remoteの正確な位置特定機能には条件がある",
+  "詳細な距離表示にはiPhone 17以降などの対応が必要",
+  "新搭載のN1チップによるBluetoothチャネルサウンディングが鍵"
+ ],
+ "body": "新型のSiri Remoteに搭載された「探す」機能の正確な位置特定機能を利用する際には、特定のiPhoneが必要になると報じられている。これまでのiPhoneにも超広帯域チップが搭載されていることから対応が疑問視されていたが、The Vergeの報道によってその理由が明らかになった。\n\n新リモートで「20フィート」のような詳細な距離表示を得るためには、iPhone DuoやiPhone Air、あるいはiPhone 17以降のモデルが必要になるとされている。これらの対応機種には、新しいN1ネットワークチップが搭載されており、Bluetoothチャネルサウンディングをサポートしている。\n\nこのN1チップによる技術によって、従来のUWBチップを必要とせずにAirTagのような高精度な追跡が可能になると伝えられている。そのため、新しくリモートを購入して利用する際には、手元のスマートフォンが対応しているかどうかを事前に確認する必要がある。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/link/2026/10/new-siri-remotes-find-my-feature-limited-to-n1-equipped-iphones",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1",
+ "published": "2026-10-14T15:16:43+00:00"
+}
