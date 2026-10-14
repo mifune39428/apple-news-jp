@@ -1,0 +1,20 @@
+{
+ "id": "e776b3f92ca90692",
+ "title_ja": "古いiPodを近代化する基板「Sprout Pi」",
+ "summary_ja": "古いiPodのマザーボードを置き換え、BluetoothやWi-Fi、USB-C、microSDカードスロットなどを追加できるカスタム基板が登場した。",
+ "points": [
+  "iPodの機能を近代化する交換用基板が登場",
+  "BluetoothやUSB-C、microSDに対応",
+  "ハンダ付け不要で組み込みが可能と報じられている",
+  "上位モデルは音楽ストリーミング機能も搭載"
+ ],
+ "body": "古いiPodの機能を現代的にアップデートできる交換用マザーボード「Sprout Pi」および「Sprout Pico」が登場すると報じられている。これらの製品は、人気の高いさまざまなカスタムパーツの機能を1枚の基板に統合したものであり、Bluetooth、Wi-Fi、USB-Cポート、microSDカードスロット、FLAC形式の再生機能などを追加することができるとされている。iPodの本体を開けて作業を行う必要があるものの、ハンダ付けの作業は不要であると伝えられている。\n\nファームウェアの仕様により、従来の3.5ミリイヤホンジャックだけでなく、USB経由での有線ヘッドセット接続にも対応している。また、BluetoothによってAirPodsなどのワイヤレス機器との接続が可能になるほか、Wi-Fiを活用したGoogle CastやAirPlayによるストリーミング、ポッドキャストのダウンロード機能なども備えていると伝えられている。上位モデルにあたるSprout Piでは、SpotifyやApple Musicといった音楽ストリーミングサービスや各種アプリの利用もサポートされると報じられている。\n\n一方で、Sprout Piの対応機種は第3世代および第4世代のiPodとiPod miniに限られるため、利用できる対象は限定的になるとされている。開発元はクラウドファンディングサイトのCrowd Supplyを通じて間もなくプロジェクトを開始する予定であると伝えられているが、現時点では価格についての発表はなされていないと報じられている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-14T17:19:11+00:00"
+}

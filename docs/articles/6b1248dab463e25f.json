@@ -1,0 +1,19 @@
+{
+ "id": "6b1248dab463e25f",
+ "title_ja": "中国でのApple Intelligence提供時期が浮上",
+ "summary_ja": "規制当局の承認を経て、中国向けApple IntelligenceがiOS 27.3で12月にも提供される見通しとなった。写真編集などの基本機能が対象となる一方で、SiriのAI機能や画像生成ツールなどは初期段階では見送られる。",
+ "points": [
+  "Apple Intelligenceが中国で12月に提供開始と報道",
+  "iOS 27.3を通じて配信され、一部機能のみ利用可能",
+  "中国当局の規制によりAlibaba等との提携が必須に"
+ ],
+ "body": "Appleが約2年間に及ぶ規制遅延を経て、中国においてApple Intelligenceを12月に提供開始する予定であると報じられている。配信はiOS 27.3を通じて行われる見通しで、写真編集などの基本的な機能が含まれる一方で、SiriのAI機能やImage Playground、新しいバージョンのGenmojiなどは利用できない見込みであり、テキスト生成ツールも制限されるとされている。\n\n中国の工業和信息化部が、AlibabaのQwenやTongyi WanxiangのモデルをiPhoneに導入するためのネットワークアクセス許可をAppleに最近与えたことが報じられており、これがApple Intelligence導入への道を開いた形となっている。Appleは初期段階の機能をiOS 18.1で発表したものの、中国市場ではローンチ当初から利用できない状態が続いていた。今年7月に初期承認を獲得していたものの、一般消費者向けの展開にはさらなる許可が必要となっていた。\n\n中国では外国製のAI技術に対して厳しい制限が課されているため、Appleはこの国でApple Intelligenceを展開するためにAlibabaやBaiduといった現地企業との提携を余儀なくされた。さらに、AIモデルに対する継続的なアップデートについても、中国政府の承認を得る必要がある状況となっている。中国国内の競合スマートフォンメーカーはAI機能を長年提供しており、同等の機能を持たないAppleはこれまで市場で不利な立場に置かれていた。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+ "published": "2026-10-14T20:24:50+00:00"
+}
