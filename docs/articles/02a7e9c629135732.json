@@ -1,0 +1,20 @@
+{
+ "id": "02a7e9c629135732",
+ "title_ja": "HomePod miniのSiri AI対応を巡る報道の訂正",
+ "summary_ja": "CNETが掲載した初代HomePod miniへのSiri AI対応に関する記事が訂正された。当初はソフトウェアアップデートでの対応が報じられたが、実際には新型のHomePod mini 2限定の機能となる見込み。",
+ "points": [
+  "初代HomePod miniがSiri AIに対応するという報道が訂正された",
+  "初代HomePod miniはSiri AI非対応で、対応は新型の第2世代のみとされる",
+  "第2世代HomePod miniはS10チップを搭載し10月30日に発売される",
+  "Apple TV 4Kは第2世代以降でSiri AIをサポートすると明記されている"
+ ],
+ "body": "海外メディアの間で初代HomePod miniがSiri AIをサポートするという情報が流れ、その後訂正される出来事があった。当初の報道では、現行の第5世代チップを搭載した初代HomePod miniでも、今後のソフトウェアアップデートを通じてSiri AIを利用できるようになると伝えられていた。しかし、のちにその記述は修正され、Siri AIに対応するのは新型のHomePod mini 2のみであると報じられている。\n\nAppleの公式サイトに掲載された細則を確認する限り、現時点では初代HomePod miniへのSiri AI対応に関する明確な記述は確認されていない。一方で、Apple TV 4Kについては、2021年に発売された第2世代以降のモデルでSiri AIがサポートされることが明記されている。そのため、メディア側はAppleに対して初代HomePod miniの対応状況についてのコメントを求めている。\n\nまもなく発売される第2世代のHomePod miniは、従来のS5チップからS10チップへとプロセッサが強化されており、Siri AIの処理能力向上が図られている。この新型モデルでSiri AIを利用するには、Apple Intelligenceに対応したiPhoneやiPadとのペアリングが必要となる。なお、パーソナルコンテキストに関わる処理には引き続き対応デバイスが必要となるものの、一度有効化すれば、対応端末を持たないユーザーでも高度な会話機能や音楽の探索機能を利用できるとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2020/11/homepod-mini-thumb-feature.jpg",
+ "published": "2026-10-14T16:36:42+00:00"
+}

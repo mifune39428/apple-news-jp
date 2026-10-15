@@ -1,0 +1,19 @@
+{
+ "id": "7fd28601d5f50759",
+ "title_ja": "未発売のiPhone Duo、ベンチマークでGalaxy Z Fold8超え",
+ "summary_ja": "予約注文の開始を前に、iPhone DuoとされるGeekbench 7のベンチマークスコアが確認されました。測定されたCPUスコアは競合のGalaxy Z Fold8を上回る数値を記録しており、新モデルの高い処理能力を示すデータとして話題を呼んでいます。",
+ "points": [
+  "iPhone DuoのGeekbench 7スコアが複数確認されている",
+  "薄型筐体ながらiPhone 18 Pro Maxと同等の性能を持つ",
+  "Galaxy Z Fold8のCPUスコアを上回る結果が示されている"
+ ],
+ "body": "2026年10月16日の予約注文開始を控える中、iPhone DuoとみられるGeekbench 7のベンチマークスコアが複数確認されていると報じられている。登録された情報によると、識別子はiPhone19,4、マザーボードはV68APと表示されており、メモリ容量は12GB、CPUの動作周波数は4.93GHzとされている。これらはiPhone 18 Proシリーズに搭載されるA20 Proと同じ構成であり、CPUやGPUのスコアはいずれもiPhone 18 Pro Maxとほぼ同等の数値を示していると伝えられている。展開時の本体厚が5.2mmという薄型筐体でありながら、ピーク性能を大きく落とさずに通常のA20 Proと同等の設定で搭載されていることがうかがえるとされている。\n\n一方で、Geekbenchは比較的短時間のテストであるため、ゲームや動画編集などの高負荷な状態を長時間続けた場合に、発熱による性能低下がどの程度発生するかについては、発売後の連続負荷テストを待つ必要があると指摘されている。また、ライバル機種とされるGalaxy Z Fold8に搭載のSnapdragon 8 Elite Gen 5 for GalaxyとのCPUスコアの比較では、Galaxy側の高水準な結果を基準にした場合でも、iPhone Duoはシングルコアで大きく上回り、マルチコアでも約3%高い結果が確認されたと報じられている。\n\n従来のAシリーズチップは、シングルコアで高い性能を発揮する一方で、マルチコアではコア数の多いSnapdragon搭載機に後れを取る場面もあった。しかし今回の結果では、A20 Proがシングルコアの優位性を保ちつつ、マルチコアでもライバル機を上回っている点が注目されている。折りたたみ構造や薄型化という物理的な制約を抱えながらも、Pro Maxモデルと同等のピーク性能を維持している点について、実際の使用環境における持続性能を含めて今後の検証が待たれるところである。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/iphone18-607478",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/15/iPhone-Duo-vs-Z-Fold8-iPS.jpg",
+ "published": "2026-10-15T06:00:00+00:00"
+}
