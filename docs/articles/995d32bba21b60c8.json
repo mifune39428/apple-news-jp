@@ -1,0 +1,19 @@
+{
+ "id": "995d32bba21b60c8",
+ "title_ja": "古いiPodにBluetoothやWi-Fiを追加する基板",
+ "summary_ja": "往年のクリックホイール搭載iPod向けに、BluetoothやWi-Fi、USB-C端子、最大2TBのストレージ機能を追加できる交換用マザーボードが登場した。古いデバイスの近代化を可能にする。",
+ "points": [
+  "古いiPodを近代化する交換用基板Sproutが開発されている",
+  "BluetoothやWi-Fi、USB-C端子を追加できる",
+  "ハンダ付け不要で特定のiPodに組み込むことが可能"
+ ],
+ "body": "古いiPodのロジックボードを置き換えてBluetoothやWi-Fi、USB-C端子を追加できる新しい交換用基板Sproutの開発が進められていると報じられている。このオープンソースの基板はハンダ付けを必要とせず、対応するiPodにそのまま組み込める設計になっており、外観やクリックホイール、画面は当時のままの姿を維持できるのが特徴だという。内部にはBluetoothやWi-Fiのほか高音質なDACが搭載され、充電や音楽転送にはUSB-Cポートが使用されるほか、最大2TBのmicroSDカードを追加するオプションも用意されているとされる。\n\n基板上で動作するソフトウェアはオリジナルに似せてゼロから書かれており、カバーフローやポッドキャスト、検索などの機能が再現される予定だと伝えられている。SproutにはPicoとPiの2種類が用意されており、どちらもRaspberry Piのチップをベースにしており、対応モデルや機能が異なるとのこと。バッテリー駆動時間はプロトタイプでのテストに基づく目標値とされているが、将来的には長時間のBluetooth再生を見込んでいるという。また、SpotifyやApple Musicなどのストリーミング対応は実証実験の段階であり、正式発売時の仕様は変更される可能性があると報じられている。\n\n価格や発売日は現時点では明らかにされておらず、クラウドファンディングのページで事前登録の受付が案内されている。基板やファームウェアなどの設計情報はオープンソースとしてGitHubで公開される予定とされている。スマートフォンから離れて音楽に集中できる専用プレーヤーとしてのiPodの人気が再燃している中で、手頃に入手できる古いモデルを活用する選択肢として注目を集めていると伝えられている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/sprout-replacment-ipod-motherboard-bluetooth-wifi-old-ipods",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/Sprout-iPod.jpg.webp",
+ "published": "2026-10-15T13:30:34+00:00"
+}
