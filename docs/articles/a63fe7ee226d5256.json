@@ -1,0 +1,20 @@
+{
+ "id": "a63fe7ee226d5256",
+ "title_ja": "HomeViewはApple製動画アプリを非対応",
+ "summary_ja": "新製品のHomeViewはApple製オーディオ・ビジュアルエンタメアプリを標準サポートしていない。Apple TVなどのコンテンツを利用するには、iPhoneからのAirPlay経由で再生する必要がある。",
+ "points": [
+  "HomeViewはApple TVなどを単体で再生できないと報じられている",
+  "利用にはiPhoneを介したAirPlay接続が必要になるとされる",
+  "競合のスマートディスプレイと異なり主要な映像アプリに対応していない",
+  "本体にはA18チップが搭載されているがApp Storeは非搭載と伝えられている"
+ ],
+ "body": "Appleが発表したスマートホームハブ「HomeView」において、Apple TVやオーディオブックなどの主要なエンターテインメントサービスが、現時点では本体単体でのネイティブ再生に非対応であると報じられている。仕様によれば、Apple TVアプリやApple Booksのオーディオブック、Apple Music Classical、Apple News Plusなどを利用する際には、近くにあるiPhoneからAirPlayでストリーミングする必要があるとされている。本体のプロセッサにはiPhone 16と同じ「A18」チップが採用されておりハードウェアの性能的な制限ではないとみられているが、初期状態ではiPhoneとの連携を前提とした仕様になっている。\n\nAmazonのEcho ShowやGoogleのNest Hubといった他社のスマートディスプレイ製品では、プライム・ビデオやYouTubeなどの動画サービスをハブ単体で直接ストリーミング再生できる。これに対してHomeViewは、プロモーション画像などでApple TVの利用が示唆されているものの、実際にはiPhoneの接続が求められる仕組みとなっている。また、一般的なスマートホームハブと同様に専用のApp Storeも搭載されていないと伝えられており、外部アプリの利用についてはCarPlayに近い仕組みを採用していると報じられている。Appleはこの仕様に関する詳細や、将来的なアップデートの可能性について言及していないとされている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-14T15:10:12+00:00"
+}

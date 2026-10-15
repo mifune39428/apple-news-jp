@@ -1,0 +1,20 @@
+{
+ "id": "4335eb7b7964e72d",
+ "title_ja": "iPhone DuoのA20 Proチップベンチマーク判明 iPhone 18 Proと同等性能か",
+ "summary_ja": "発売前のiPhone DuoとみられるGeekbench 7のベンチマーク結果が公開された。2nmプロセスのA20 Proチップを搭載し、シングルコア3986、マルチコア11067を記録している。これはiPhone 18 Proシリーズと同等の性能を示しており、新端末の処理能力の高さが裏付けられた。",
+ "points": [
+  "Geekbench 7にiPhone Duoの初期ベンチマークが登場した",
+  "A20 Proチップを搭載しiPhone 18 Proと同等の性能を示している",
+  "メモリは12GBを搭載しCPUのベース周波数も共通している",
+  "iPhone Duoの予約は10月16日開始で発売は10月23日と伝えられている"
+ ],
+ "body": "Geekbench 7において、新型モデルとみられるiPhone Duoの初期ベンチマークスコアが確認されたと報じられている。このテスト結果によれば、同デバイスはiPhone 18 Proと同様のパフォーマンスを発揮することが示されているという。iPhone DuoおよびiPhone 18 Proはいずれも、6コアのCPUと7コアのGPUで構成された、Apple製の2ナノメートルプロセスによるA20 Proチップを搭載しているとされている。\n\nベンチマークに登場したiPhone DuoはiOS 27.1で動作しており、シングルコアのスコアが3986、マルチコアのスコアが11067を記録したと伝えられている。この数値は、これまでに収集されたiPhone 18 ProやiPhone 18 Pro Maxの複数のベンチマーク結果と一致する水準にある。また、搭載されているメモリは11.30GBと表示されており、実質12GBのRAMを備えていることが確認されているほか、4.93GHzのベース周波数を持つ6コアCPUの仕様も共通していると報じられている。\n\n両モデルは同じA20 Proチップを採用しているものの、2つの画面を搭載するiPhone Duoの構造や熱管理の違いなどから、実際の使用における性能には差異が生じる可能性もあるとされている。Appleによれば、A20 ProチップはA19 Proと比較してCPU性能が最大20パーセント、GPU性能が最大40パーセント向上しているとのことである。なお、今回のベンチマークではGPUの速度テストは実施されておらず、iPhone Duoについては10月16日に予約受付が開始され、10月23日に発売される予定であると伝えられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+ "published": "2026-10-15T00:20:32+00:00"
+}
