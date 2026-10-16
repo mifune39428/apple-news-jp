@@ -1,0 +1,19 @@
+{
+ "id": "c7cea461bd6d67da",
+ "title_ja": "MetaのAIモデル「Muse」がMacでの動作に対応",
+ "summary_ja": "Metaが新しい「Muse Spark」オープンAIモデルを発表した。最新のMLXフレームワークを活用し、Apple製チップを搭載したMacスタジオ環境での動作に対応している。",
+ "points": [
+  "Metaが新型AIモデル「Muse Spark Open」を発表した",
+  "同モデルは2台のM5 Ultra搭載Mac Studioで動作するとされる",
+  "両社のCEOがSNS上で協力関係や成果を公に称え合った"
+ ],
+ "body": "Metaが新たに発表したオープンウェイトのAIモデル「Muse Spark Open」が、Apple製ハードウェア上で効率的に動作するように最適化されていると報じられている。Meta側によると、このモデルはデスクトップ環境において、最新のMLXフレームワークを活用した2台のM5 Ultra搭載Mac Studio上で実行できるクラス初のモデルであるとされる。従来は競合関係にあるとされる両社だが、今回のローンチに向けて数か月にわたり協力体制を築いてきたことが伝えられている。\n\n発表を受けて、Metaの最高経営責任者は自身のSNSアカウント上で、Appleとの協力により新型Mac Studio上でAIモデルが非常に良好に動作すると投稿した。これに対し、Appleの経営陣も返信の形でチームの成果を祝福し、デスクトップ環境において同等規模のモデルをこれほど効率的に実行できることに言及している。また、Apple側も機械学習向けの独自フレームワークであるMLXや、今回のモデルに関する技術的な詳細を記した投稿を公開している。\n\n今回発表されたAIモデルは、数多くのパラメータを持つマルチモーダルモデルであり、長時間の処理を伴うタスクや複雑なソフトウェアエンジニアリング、多段階の推論を得意としていると説明されている。MetaとAppleのトップが公の場で互いの取り組みを支持し合う姿が見られたほか、オンデバイスAIの分野においてApple製デバイスが新たな可能性を切り開きつつあることが示されている。今回の協力に関する一連の動きは、両社の今後の関係性やAI開発の動向において注目を集めるものとなっている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 4,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-15T18:15:36+00:00"
+}

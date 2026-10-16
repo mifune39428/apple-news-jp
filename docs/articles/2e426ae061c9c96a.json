@@ -1,0 +1,20 @@
+{
+ "id": "2e426ae061c9c96a",
+ "title_ja": "有機EL搭載MacBook ProのM7チップ搭載は2027年後半以降に",
+ "summary_ja": "Bloombergの報道によると、有機ELディスプレイを搭載した新型MacBook Proは、M5世代のProおよびMaxチップを継続採用し、M7チップへの移行は2027年後半になる見通し。",
+ "points": [
+  "AppleはM6世代の上位向けチップをスキップする方針",
+  "M5世代から次世代のM7ラインナップへと直接移行",
+  "OLED搭載MacBook ProのM7モデルは2027年末に登場",
+  "M7チップはAI処理向けの新しい技術を搭載するとされる"
+ ],
+ "body": "AppleはM6チップの開発において、標準チップのみを展開し、Pro、Max、Ultraといった上位向けチップの展開を見送る方針であると報じられている。すでにMac miniなどでM6チップが登場しているほか、今後はM6を搭載したiMacやエントリー向けの14インチMacBook Proが計画されているものの、M6のProやMax、Ultraチップは製造されない見込みとなっている。これにより、AppleはM5世代のPro、Max、Ultraチップから、直接M7のラインナップへと移行することになると伝えられている。\n\n次世代のOLEDディスプレイを搭載したMacBook Proモデルについては、現行モデルと同じM5 ProおよびM5 Maxチップが採用されるとされており、2027年までチップのアップグレードは予定されていない。一方で、ハイエンド向けのタッチスクリーンを搭載したMacBook Proモデルには、2027年末にM7 ProおよびM7 Maxチップが搭載される見通しである。また、M7チップを搭載した低価格なMacBook Proの刷新モデルが来年に発売される予定であり、M7 Ultraチップは2028年の上半期に登場するとされている。\n\nAppleがM6の一部のラインナップをスキップし、リソースをM7チップの開発に集中させている背景には、人工知能のワークロードに対応する新しいテクノロジーの導入があると報じられている。こうした開発方針の変更により、次期ウルトラチップを搭載したMacStudioの登場は2028年になる見込みであり、2027年中には新しいMacStudioは発売されない可能性が高いとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/15/macbook-pro-m7-late-2027",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+ "published": "2026-10-15T22:10:46+00:00"
+}
