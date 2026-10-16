@@ -1,0 +1,19 @@
+{
+ "id": "ca942964418cf87e",
+ "title_ja": "ローカルAIアプリ「Locally AI」がM5や新モデルに対応",
+ "summary_ja": "iPhoneやiPadで動作するローカルAIクライアントアプリ「Locally AI」がアップデートされました。今回の更新により、Ternary Bonsai 2モデルやM5 Neural Acceleratorsへの対応が行われ、より高度なローカルAI処理が可能になります。",
+ "points": [
+  "iPhone/iPad用ローカルAIクライアントLocally AIがv1.66.0にアップデート",
+  "モデルサイズを圧縮したTernary Bonsai 2モデルを新たにサポート",
+  "M5シリーズなどのNeural Acceleratorsに対応し処理が高速化"
+ ],
+ "body": "元Appleエンジニアが設立したElement Labs, Inc.は、iPhoneおよびiPad向けローカルAIクライアントアプリ「Locally AI」の最新バージョンであるv1.66.0をリリースした。今回のアップデートでは、新たなAIモデルのサポートやハードウェアアクセラレーションへの対応が行われており、モバイル端末上でのローカルAIのパフォーマンス向上が図られている。\n\n具体的には、米Prism MLが公開した「Ternary Bonsai 2」モデルが新たに追加された。このモデルはニューラルネットワークの重みを三値で表現することでモデルサイズを大幅に軽量化しており、iPhone 18 Pro環境においては、メモリ使用量を抑えつつ高速なテキスト生成が可能になるとされている。\n\nさらに、iPhone 17およびProシリーズに搭載されているA19やA19 Proチップに加え、Apple M5シリーズ以降のプロセッサに組み込まれているNeural Acceleratorへの対応も含まれている。これにより、プロンプト処理速度が最大で4倍に高速化されると伝えられており、モバイルデバイス上でよりスムーズにAIモデルを利用できる環境が整えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261016-locally-ai-support-m5-neural-accelerators.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/11/Locally-AI-for-iPhone-support-Apple-Silicon-Mac-logo-icon.webp",
+ "published": "2026-10-16T07:26:18+00:00"
+}
