@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:05:21.150168+09:00",
+ "updated_at": "2026-10-17T18:52:42.205127+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,57 +29,114 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 268,
+ "detail_count": 277,
  "digest": {
-  "headline": "初の折りたたみiPhone発売やAppleの時価総額5兆ドル突破など",
+  "headline": "iPhone Duoの予約開始や10月28日のイベント開催など",
   "points": [
    {
-    "text": "Apple初の折りたたみiPhone「iPhone Duo」の予約が世界各地で開始され、価格は1,999ドル、発売は10月23日を予定している。",
+    "text": "初の折りたたみスマホiPhone Duoの予約が開始され、異例の需要で初期分が完売した。",
     "ids": [
      "3957f61b2271a70d",
-     "0d0672747ec16b7a",
-     "3d01e9b6f9e5e6c1"
-    ]
-   },
-   {
-    "text": "iPhone Duoは予約受付開始直後から注文が殺到し、初期出荷分が数分で完売するなど異例の非常に高い需要を記録している。",
-    "ids": [
      "83840fe415cbc061",
-     "03c9c0de2e2e801f",
-     "2e8b87f9a6c2c355"
+     "03c9c0de2e2e801f"
     ]
    },
    {
-    "text": "Appleの株価終値に基づく時価総額が初めて5兆ドルを突破し、史上2社目となる歴史的な大台に到達した。",
+    "text": "10月28日にメディア向けMacイベントが開催されることがわかり、招待状が発送された。",
+    "ids": [
+     "dafe1c1e4bc7cb81",
+     "0e7af828a30eafd2"
+    ]
+   },
+   {
+    "text": "スマートホーム家電シリーズやSiri AIを搭載したHomePod mini 2が発表された。",
+    "ids": [
+     "620915e6feea46de",
+     "41a1cca42f0a34e0"
+    ]
+   },
+   {
+    "text": "Appleの株価終値に基づく時価総額が、史上2社目となる5兆ドルを初めて突破した。",
     "ids": [
      "4659a4cd918f0f2a",
      "f3169b1809184ff9"
     ]
-   },
-   {
-    "text": "AppleはLG電子やシュナイダーエレクトリックと共同開発したスマートホーム製品群を投入し、スマートディスプレイのHomeViewも発表された。",
-    "ids": [
-     "620915e6feea46de",
-     "34c28f6edc7e7e23",
-     "c30ce6885e4a3609"
-    ]
-   },
-   {
-    "text": "Appleが10月28日にイベントを開催し、新型MacBookや刷新されたiMac、新型iPad miniなどが発表されると報じられている。",
-    "ids": [
-     "dafe1c1e4bc7cb81",
-     "de73ff39d6ed4d4f",
-     "0e7af828a30eafd2"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-14T11:07:43.191997+09:00",
-  "generated_at": "2026-10-17T11:07:44.940881+09:00",
+  "from": "2026-10-14T18:56:15.951181+09:00",
+  "generated_at": "2026-10-17T18:56:30.028910+09:00",
   "article_count": 24,
-  "sig": "0802a5ca0d1d"
+  "sig": "a039e193b74f"
  },
  "items": [
+  {
+   "id": "9a634261d2dd796b",
+   "url": "https://www.macworld.com/article/3262796/89-97-puts-word-excel-and-powerpoint-on-your-mac-permanently.html",
+   "title_original": "$89.97 puts Word, Excel, and PowerPoint on your Mac permanently",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3262796-0-64162900-1792224063-mso-2021-hb-mac-1.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-17T08:00:00+00:00",
+   "title_ja": "Mac向けOffice 2021永続ライセンスが89.97ドルでセール中",
+   "summary_ja": "Mac向け「Microsoft Office Home and Business 2021」の永続ライセンスが、通常219ドルのところ89.97ドルで販売されている。WordやExcel、PowerPointなどが含まれており、サブスクリプション更新料をかけずに利用したいユーザーに適した販売施策となっている。",
+   "category": "Mac",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "549465e2b97df9e2",
+   "url": "https://iphone-mania.jp/apple-607564",
+   "title_original": "AppleがAI生成の性的画像悪用対策を強化〜App Store規約改定",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/17/c7490cb69f4f713b19253ba1e383e547.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-17T05:56:52+00:00",
+   "title_ja": "Apple、App Store規約を改定し同意のないAIディープフェイク対策等を強化",
+   "summary_ja": "AppleはApp Store審査ガイドラインを改定し、AI生成を含む本人の同意のない性的画像への対策を強化することを公表した。あわせて、審査通過後に未申告の機能を追加するアプリに対する規制も強化している。不適切なコンテンツの抑制とアプリ審査の厳格化を狙う動きだ。",
+   "category": "サービス・アプリ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "107364c14c54ed90",
+   "url": "https://gori.me/sale/peripheral-sale/171283",
+   "title_original": "13インチiPad Pro 2TBが再び36％オフ。AppleCare+つき、16.5万円安い",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2024/05/Apple-iPad-Pro-silver-2-up-240507-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-17T02:51:24+00:00",
+   "title_ja": "Amazonで13インチiPad Pro 2TBのAppleCare+セットが36%オフ",
+   "summary_ja": "Amazonにて13インチiPad Pro（Wi-Fi + Cellular、2TB）とAppleCare+のセット品が割引価格で登場した。参考価格528,599円のところ36％オフとなる337,937円で販売されており、通常価格よりも16万5,000円安く購入できる状態となっている。",
+   "category": "iPad",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "ec03dc7040dc9ffe",
+   "url": "https://gori.me/sale/apple-refurbished/171280",
+   "title_original": "iPad mini（A17 Pro）が84,800円から。iPad整備済製品に10モデル追加、今が買いどき",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/iPad-Refurbished-model-2026-10-17-800x562.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-17T02:39:20+00:00",
+   "title_ja": "AppleのiPad整備済製品にA17 Pro搭載iPad miniなど10モデルが追加",
+   "summary_ja": "Apple公式サイトのiPad整備済製品ストアに新たに10モデルが追加され、合計50モデルが購入可能となった。注目となるA17 Pro搭載のiPad miniは84,800円からラインナップされている。認定整備済品をお得に購入したいユーザーにとって選択肢が広がる更新だ。",
+   "category": "iPad",
+   "importance": 3
+  },
   {
    "id": "f5f44af3cff1f7af",
    "url": "https://applech2.com/archives/20261017-amazon-prime-controller-sale.html",
@@ -197,6 +254,23 @@
    "summary_ja": "米通信キャリアのベライゾンが、iOS 27の新機能「iPhone Handoff」に対して月額10ドルの料金を課す方針を発表した。対応機種はiPhone DuoやiPhone 18 Proなどとなる。",
    "category": "サービス・アプリ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "596dd45e1e865a2e",
+   "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+   "title_original": "All the news about the iPhone Duo",
+   "source": "The Verge (Apple)",
+   "lang": "en",
+   "region": "global",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-16T23:36:26+00:00",
+   "title_ja": "Appleが折りたたみスマホ「iPhone Duo」を発表 内外画面とTouch IDを搭載",
+   "summary_ja": "Appleが噂されていた折りたたみスマートフォン「iPhone Duo」を正式発表しました。外側に5.4インチ、内側に7.6インチのディスプレイを備え、内面にはナノテクスチャ仕上げが施されています。生体認証にはFace IDではなく電源ボタン内蔵のTouch IDを採用し、デュアルカメラを搭載しています。",
+   "category": "iPhone",
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -819,7 +893,8 @@
    "title_ja": "MacBook向け持ち運び用ポータブルモニターおすすめ選",
    "summary_ja": "MacBookの画面を拡張するためのコンパクトで持ち運びに優れたポータブルディスプレイが紹介されている。外出先での作業効率を上げるための旅行向けモデルや移動用スクリーンがまとめられている。",
    "category": "Mac",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "4896ebf0b283e9bd",
@@ -835,7 +910,8 @@
    "title_ja": "既存のHomePodに無料のソフトウェアアップデート配信へ",
    "summary_ja": "Appleが新たに発表したホーム関連製品に加え、既存のHomePod第2世代に向けて無料のソフトウエアアップデートによる新機能の追加が予告された。複数の新機能が提供される予定となっている。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "4f63311500cd74ad",
@@ -851,7 +927,8 @@
    "title_ja": "Appleの法務文書で「HomeView」がHomePodと記載",
    "summary_ja": "Appleの法的文書のライセンス契約において、HomeViewが「HomePodDevice」と記載されていることが判明した。ドラフト版の名残とみられ、同製品がHomePodの系譜に属することを示唆している。",
    "category": "噂・リーク",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "175944f30125f370",
@@ -867,7 +944,8 @@
    "title_ja": "Apple HomeViewのアプリ対応に関する課題と展開",
    "summary_ja": "Appleのスマートホームデバイス「HomeView」について、アプリの運用面に関する懸念や疑問が浮き彫りとなっています。同端末は高い処理能力と常時給電環境を備えており、アプリ実行に最適なスペックを持ちますが、ソフトウェアエコシステムがどのように展開されるか注目されています。",
    "category": "その他",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "b53961159114cdcf",
@@ -1289,7 +1367,8 @@
    "title_ja": "Apple初の折りたたみiPhone Duo、予約開始数分で来年出荷に",
    "summary_ja": "Apple初の折りたたみiPhoneとされる「iPhone Duo」の予約受付が本日開始されました。予約開始からわずか数分で、出荷予定日が来年までずれ込む状況に。その人気の高さが伺えます。",
    "category": "iPhone",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "f3e6657974b27b7d",
@@ -1305,7 +1384,8 @@
    "title_ja": "iPhone Duoの予約、開始30分で出荷が来年1月25日へ",
    "summary_ja": "iPhone Duoの予約受付が米国などで開始されました。午前5時（太平洋時間）の予約開始直後の注文は10月23日の発売日出荷ですが、わずか30分後にはAppleオンラインストアの出荷予定日が全構成で来年1月25日と表示されています。",
    "category": "iPhone",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "ded5c2b9df7ef3df",
@@ -1321,7 +1401,8 @@
    "title_ja": "新型Apple TV 4KがAmazonで初の予約割引、9ドルオフ",
    "summary_ja": "Amazonで新型A19 Apple TV 4Kの初の予約割引が開始されました。通常価格299ドルから9ドル引きの289.99ドルで購入可能です。わずかな割引ですが、現時点では最安値であり、発売日である11月13日の配送が予定されています。",
    "category": "その他",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "72dbaee67a8564e0",
@@ -1369,7 +1450,8 @@
    "title_ja": "米キャリアによるiPhone Duoの割引キャンペーン情報",
    "summary_ja": "Appleによる新型iPhone Duoの予約開始に合わせて、アメリカの大手通信キャリアが提供するお得な割引や下取りプログラムが出揃った。各社は新規および既存の顧客に向けて魅力的な購入特典を展開している。",
    "category": "iPhone",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "3957f61b2271a70d",
@@ -1385,7 +1467,8 @@
    "title_ja": "初の折りたたみiPhone「iPhone Duo」の予約がスタート",
    "summary_ja": "Apple初の折りたたみ式スマートフォンとなるiPhone Duoの予約受付が開始された。価格は1,999ドルからとなっており、製品のデリバリーは10月23日より順次開始される予定。",
    "category": "iPhone",
-   "importance": 5
+   "importance": 5,
+   "has_detail": true
   },
   {
    "id": "9195aef9775dbfab",
@@ -6663,90 +6746,6 @@
    "summary_ja": "7インチ画面を搭載した299ドルのスマートホームディスプレイ「HomeView」が発表され、アクセサリ制御やFaceTime通話などが可能になる。",
    "category": "その他",
    "importance": 5
-  },
-  {
-   "id": "aeaf0b670b034c62",
-   "url": "https://www.macworld.com/article/3259702/hands-on-with-homeview-apples-adorable-new-smart-hub-oozes-personality.html",
-   "title_original": "HomeView first look: Apple’s adorable new smart hub oozes personality",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3259702-0-14340400-1791969675-Apple-HomeView_0940.jpeg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T16:24:31+00:00",
-   "title_ja": "Appleのスマートハブ「HomeView」ファーストインプレッション",
-   "summary_ja": "Appleの新デバイス「HomeView」は、家庭の中心となるよう設計されたパーソナルなスマートディスプレイだ。巨大なApple Watchのような外観を持ち、iPadのようなタッチ操作やiMac G4のような回転構造、スマートスピーカーとしての音声操作など、多彩な特徴を備えている。",
-   "category": "その他",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1b151e57e83fc454",
-   "url": "https://appleinsider.com/articles/26/10/13/save-600-on-apples-14-inch-macbook-pro-with-a-20-core-gpu",
-   "title_original": "Save $600 on Apple's 14-inch MacBook Pro with a 20-core GPU",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69354-146239-macbook-pro-14-inch-sale-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T16:20:01+00:00",
-   "title_ja": "米Amazonで14インチMacBook Proが600ドル引きのセール",
-   "summary_ja": "米Amazonにおいて、M5 Proチップを搭載した14インチMacBook Proの大幅な値引きが行われている。18コアCPUと20コアGPU、24GBメモリ、2TB SSDを備えたシルバーのモデルが対象で、600ドルオフの2,599.99ドルで購入可能だ。過去の改定後の価格としても最安値圏となる。",
-   "category": "Mac",
-   "importance": 2
-  },
-  {
-   "id": "251d1f12bc000833",
-   "url": "https://9to5mac.com/2026/10/13/new-apple-tv-4k-vs-previous-model-heres-everything-new",
-   "title_original": "New Apple TV 4K vs previous model: Here’s everything new",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-color-2.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T16:18:09+00:00",
-   "title_ja": "第4世代「Apple TV 4K」が登場、2022年モデルとの違いを比較",
-   "summary_ja": "Appleが第4世代となる新しい「Apple TV 4K」を発売した。本記事では、2022年に登場した第3世代モデルと比較し、どのような点が進化したのかや変更されたスペックの違いについて詳しくまとめている。",
-   "category": "その他",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "6530f26c160acd9d",
-   "url": "https://9to5google.com/2026/10/13/gemini-app-macos-antigravity",
-   "title_original": "Google Antigravity is now built into Gemini app for macOS",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Gemini-app-Mac-Antigravity-1.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T16:16:26+00:00",
-   "title_ja": "macOS版「Gemini」アプリに「Antigravity」機能が統合",
-   "summary_ja": "GoogleはGemini 4 Argonの展開に合わせて、macOS向けGeminiアプリの大型アップデートを実施した。今回のアップデートにより、新機能であるAntigravityが直接アプリ内に統合され利用可能になった。",
-   "category": "AI",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "596dc4bf78e70e48",
-   "url": "https://www.cultofmac.com/news/apple-homeview-features-catches-worth-knowing",
-   "title_original": "Apple HomeView: 7 features and catches worth knowing",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music.jpg.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T16:15:54+00:00",
-   "title_ja": "Apple HomeViewの知っておくべき7つの特徴",
-   "summary_ja": "Apple HomeViewは、家族のメンバー認識機能や最大9台のカメラ映像表示など、多くの便利な機能を備えている。スマートホーム体験を向上させる多彩な魅力や注意点について詳しく解説する。",
-   "category": "その他",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
