@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:04:37.470049+09:00",
+ "updated_at": "2026-10-19T04:50:37.926099+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,44 +29,189 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 291,
+ "detail_count": 292,
  "digest": {
-  "headline": "初の折りたたみiPhone「iPhone Duo」予約殺到とスマートホーム新製品",
+  "headline": "初の折りたたみiPhone「iPhone Duo」予約殺到",
   "points": [
    {
-    "text": "Apple初の折りたたみスマートフォン「iPhone Duo」が発表され、世界70か国以上で予約が開始された。価格は1999ドルからで、10月23日に発売予定だが、予約殺到により出荷遅延や品薄が報じられている。",
+    "text": "Apple初の折りたたみスマートフォン「iPhone Duo」の予約が全世界で開始され、価格は1,999ドルから、発売日は10月23日を予定している。",
     "ids": [
-     "596dd45e1e865a2e",
      "3957f61b2271a70d",
-     "0d0672747ec16b7a"
+     "0d0672747ec16b7a",
+     "85dde6da8075d708"
     ]
    },
    {
-    "text": "AppleはLG電子やシュナイダーエレクトリックと共同開発した、カメラやサーモスタットなどのスマートホーム家電シリーズを新たに投入した。",
+    "text": "iPhone Duoは予約が殺到して初期出荷分が完売し、出荷日が来年にずれ込むほどの異例の需要の高さとなっており、発売当日の店頭購入は困難と報じられている。",
+    "ids": [
+     "83840fe415cbc061",
+     "03c9c0de2e2e801f",
+     "ae9ea58c46e142d4"
+    ]
+   },
+   {
+    "text": "Appleは、LG電子やシュナイダーエレクトリックと共同開発したスマートホーム製品群などの独自スマートホーム家電シリーズを投入した。",
     "ids": [
      "620915e6feea46de"
     ]
    },
    {
-    "text": "AppleはApp Store審査ガイドラインを改定し、AIを使用して同意なしに不適切な画像を生成するディープフェイクアプリなどの取り締まりを強化した。",
+    "text": "AppleはApp Store審査ガイドラインを改定し、AIを使用して同意を得ずに不適切な画像を生成するディープフェイクアプリなどの対策を強化した。",
     "ids": [
-     "cb4458cafd2f99b5"
+     "a80e6cb70d987c0d",
+     "cb4458cafd2f99b5",
+     "02a8c68416311236"
     ]
    },
    {
-    "text": "Appleが10月28日にメディア向けイベントを開催すると報じられており、新型MacBookや刷新されたiMacなどの発表が期待されている。",
+    "text": "Appleが今後4週にわたり金曜日に新製品を連続して発売する可能性が報じられており、タッチパネルを搭載した新型MacBook Proなどの発表が予想されている。",
     "ids": [
-     "dafe1c1e4bc7cb81"
+     "5622791e617362cf",
+     "201d596b16a0df41"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-16T00:06:49.528069+09:00",
-  "generated_at": "2026-10-19T00:06:51.162055+09:00",
+  "from": "2026-10-16T04:51:23.389632+09:00",
+  "generated_at": "2026-10-19T04:51:27.058437+09:00",
   "article_count": 24,
-  "sig": "7c4ca5f91424"
+  "sig": "aa5184fdf4da"
  },
  "items": [
+  {
+   "id": "ae6215359d392960",
+   "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
+   "title_original": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "https://s3.amazonaws.com/micro.blog/opengraph/2026/10/17/6049033.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T19:34:45+00:00",
+   "title_ja": "壁掛け型スマートホーム端末が据え置き型と同価格の理由",
+   "summary_ja": "壁掛け型デバイスがサブウーファー付きと同価格なのは、設置の手間による購入後の不満を防ぐためという見解が示されている。価格差をなくすことで、本当に必要なユーザーだけに購入を限定する狙いがあるようだ。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5622791e617362cf",
+   "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays",
+   "title_original": "Apple Expected to Release New Products on Next Four Fridays",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T18:01:53+00:00",
+   "title_ja": "Appleが今後4週連続で新製品を発売する可能性",
+   "summary_ja": "Appleが今後4週にわたり金曜日に新製品を連続して発売すると報じられている。OLED搭載の新型MacBook ProやM6チップ搭載Macなど、複数の新モデルが発表されるスケジュールが予想されている。",
+   "category": "噂・リーク",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d3394252a2fe8bfe",
+   "url": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12",
+   "title_original": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T17:56:43+00:00",
+   "title_ja": "Apple Watch Series 12のレビューと惜しい点",
+   "summary_ja": "Apple Watch Series 12のテスト使用において、優れたアップグレードであると評価する一方で、他社製トラッカーにある特定のソフトウェア機能が不足している点が惜しまれると述べている。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bad9f0e076fc6e53",
+   "url": "https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off",
+   "title_original": "Grab Apple's 2026 Mac Studio for $2,299, now $200 off",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/69436-146387-mac-studio-2026-sale-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T17:13:01+00:00",
+   "title_ja": "2026年型Mac StudioがAmazonで200ドル引き",
+   "summary_ja": "M5 Maxチップを搭載した最新のMac Studioが、Amazonにて通常より200ドル安い2,299ドルで販売されている。9月の発売以来、オンラインでの最安値水準となる割引価格で購入可能となっている。",
+   "category": "Mac",
+   "importance": 3
+  },
+  {
+   "id": "285359fb848db3b4",
+   "url": "https://iphone-mania.jp/iphone18-607610",
+   "title_original": "iPhone Duo、発売日当日の予約なし購入は困難か〜Appleが従業員に指示",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/19/R119.jpeg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T15:17:47+00:00",
+   "title_ja": "10月23日発売のiPhone Duo、予約なしでの当日店頭購入は困難か",
+   "summary_ja": "10月23日に発売されるiPhone Duoについて、予約なしで発売当日にApple Storeで購入することは極めて困難な見通しです。Appleは一部の直営店従業員に対し、予約していない来店客には当日の入手が難しい旨を伝えるよう指示している模様です。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d3b9abc4b9e20082",
+   "url": "https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms",
+   "title_original": "Retail reset set for November 6 as OLED MacBook Pro looms",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/69434-146386-64228-133776-61074-126018-60212-123651-58596-119421-000-lead-OLED-MBP-xl-xl-xl-xl-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T15:12:52+00:00",
+   "title_ja": "Apple Storeが11月6日に店舗刷新、新型MacやiPadの登場を示唆か",
+   "summary_ja": "Apple Storeで11月6日に実施される予定の店舗レイアウト変更は、新型MacやiPadの発売に向けた準備である可能性が高まっています。新製品としては、OLEDを搭載したiPad miniやタッチ操作に対応するMacBook Proなどの登場が噂されています。",
+   "category": "噂・リーク",
+   "importance": 3
+  },
+  {
+   "id": "d114bae4c8c366ee",
+   "url": "https://applech2.com/archives/20261018-amazon-prime-60w-avs-usb-charger-sale.html",
+   "title_original": "Amazonプライム感謝祭で、iPhone 18 Proの高速充電に対応する60W以上＆AVS対応のUSB充電器やQi2 25Wワイヤレス充電器がタイムセール中。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/10/UGREEN-Air-65W-USB-C-AVS-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T15:08:00+00:00",
+   "title_ja": "Amazonプライム感謝祭でiPhone 18 Pro対応の高速充電器がセール中",
+   "summary_ja": "Amazonプライム感謝祭にて、iPhone 18 Proの高速充電規格に対応したアクセサリーがタイムセールで販売されています。対象には、60W出力以上でAVSに対応するUSB充電器や、Qi2規格による25Wワイヤレス充電器が含まれています。",
+   "category": "iPhone",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "bfa745867084fc04",
+   "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity",
+   "title_original": "Apple Reveals iPhone Duo's Battery Capacity",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-18T15:07:06+00:00",
+   "title_ja": "Apple、iPhone Duoのバッテリー容量が4,883mAhと公開",
+   "summary_ja": "Appleが公開したEUのエネルギーラベルにより、iPhone Duoのバッテリー容量が合計4,883 mAhであることが判明しました。内部は2,962 mAhと1,921 mAhの2つのセルで構成されています。また同機はeSIM専用端末であり、物理SIMスロットを備えたモデルは存在しません。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "93741da80164b9c4",
    "url": "https://iphone-mania.jp/homepod-607608",
@@ -2258,6 +2403,23 @@
    "summary_ja": "折りたたみ型iPhoneであるiPhone Duoの予約受付が各所で一斉にスタートした。Apple Storeおよび国内主要キャリアにおける販売価格や窓口の違い、発売日に入手するための要点がまとめられている。",
    "category": "iPhone",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a75eccc5238ffa25",
+   "url": "https://9to5mac.com/2026/10/16/iphone-duo-now-available-to-pre-order-prices-start-at-1999",
+   "title_original": "iPhone Duo now available to pre-order, prices start at $1,999",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-16T12:01:14+00:00",
+   "title_ja": "折りたたみiPhone「iPhone Duo」予約開始",
+   "summary_ja": "Apple初となる折りたたみ式iPhoneの予約受付が公式サイトやアプリで始まった。価格は1,999ドルからとなっており、最初の注文分は1週間後の10月23日に届けられる予定である。",
+   "category": "iPhone",
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -6607,156 +6769,6 @@
    "category": "その他",
    "importance": 5,
    "has_detail": true
-  },
-  {
-   "id": "bf1647ef142f943c",
-   "url": "https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court",
-   "title_original": "Apple will get some OpenAI documents, but not everything it asked for in court",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69364-146261-68454-144237-000-Apple-Park-OpenAI-xl-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T22:14:52+00:00",
-   "title_ja": "Apple対OpenAIの訴訟でAppleに一部文書の閲覧権限",
-   "summary_ja": "AppleがOpenAIを相手取った営業秘密侵害訴訟において、裁判所はAppleに対しOpenAI従業員の証言や一部関連文書へのアクセス権を認めました。Appleは元従業員2名が退職時に社外秘情報や知的所有権を盗み出し、OpenAI側に提供したと主張しています。",
-   "category": "ビジネス・業績",
-   "importance": 3
-  },
-  {
-   "id": "a4708e74a4477c84",
-   "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3",
-   "title_original": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T22:11:33+00:00",
-   "title_ja": "Apple、iOS 27.2などのパブリックベータ3を公開",
-   "summary_ja": "Appleは一般登録者向けにiOS 27.2やmacOS Golden Gate 27.2などのパブリックベータ第3弾をリリースした。新しくなった健康アプリや新機能が含まれており、設定アプリから導入できる。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d96808fd1be72e1d",
-   "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-   "title_original": "Apple’s HomeView ad is confusing to everyone except parents",
-   "source": "The Verge (Apple)",
-   "lang": "en",
-   "region": "global",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T22:10:00+00:00",
-   "title_ja": "Appleのスマートディスプレイ広告が話題に",
-   "summary_ja": "新製品のスマートディスプレイ「HomeView」を紹介するAppleの広告が、これまでの洗練されたイメージとは異なり、慌ただしい朝の家族の日常を描いたカオスな内容になっている。子育て世代からは共感の声が上がっている。",
-   "category": "その他",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "67fd9794a8e50f77",
-   "url": "https://gori.me/music-accessories/speakers/homepod/171218",
-   "title_original": "HomePod mini 2、正式発表。音楽で光る新機能と4台サラウンド、新色も",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/Apple-HomePod-mini-2-color-lineup-261013-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:45:42+00:00",
-   "title_ja": "HomePod mini 2発表、24,800円で10月30日発売",
-   "summary_ja": "Appleが「HomePod mini 2」を正式に発表した。価格は24,800円（税込）で、10月13日より予約受付を開始し、10月30日に発売される。音楽に合わせて光る新機能や、4台によるサラウンド再生に対応する。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "41ac954cb1214201",
-   "url": "https://gori.me/appletv/171213",
-   "title_original": "新Apple TV 4K発表、HomePod 4台でサラウンド。リモコンも探せるように",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/Apple-TV-4K-261013-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:40:40+00:00",
-   "title_ja": "第4世代Apple TV 4K発表、49,800円で11月発売",
-   "summary_ja": "Appleが新型の「Apple TV 4K」を発表した。価格は49,800円（税込）で、10月13日から予約が始まり、11月13日に発売される。HomePod 4台によるサラウンド機能に対応し、リモコンを探す機能も追加された。",
-   "category": "サービス・アプリ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "ea9e423bd5902492",
-   "url": "https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub",
-   "title_original": "Apple HomeView accessories will expand what is possible with the home hub",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69363-146260-HomeView-speaker-base-USB-C-port-back-Apple-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:38:03+00:00",
-   "title_ja": "Apple HomeView向けUSB-Cアクセサリの可能性",
-   "summary_ja": "Apple HomeViewは、USB-Cポートを採用することでサードパーティ製アクセサリによる拡張性が広がる。オーディオベースや壁掛けモデルにおいて、専用アクセサリが新たな機能や活用法をもたらす。",
-   "category": "噂・リーク",
-   "importance": 3
-  },
-  {
-   "id": "4d7aea6809ea659e",
-   "url": "https://gori.me/apple-home/171208",
-   "title_original": "7インチ家族端末「Apple HomeView」正式発表。日本対象外について考える",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/Apple-HomeView-lineup-261013-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:30:56+00:00",
-   "title_ja": "7インチの家庭向け端末「Apple HomeView」発表",
-   "summary_ja": "Appleが7インチの画面付きスピーカー「Apple HomeView」を発表した。家族共有の端末として、音楽再生やFaceTime通話、スマートホームの操作などをタッチや音声で利用できる。",
-   "category": "噂・リーク",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "cd9468e5c9b3a4d9",
-   "url": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter",
-   "title_original": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:29:20+00:00",
-   "title_ja": "壁掛け版HomeViewの電源アダプタ要件が公開",
-   "summary_ja": "壁掛け式のApple HomeViewには電源アダプタが同梱されない。Appleが公開したサポートドキュメントにより、対応する互換アダプタを購入する際の詳細な電力要件が明らかになっている。",
-   "category": "噂・リーク",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4c73561598d8a8e2",
-   "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker",
-   "title_original": "HomePod Mini 2 Works as Default Speaker With Select Macs",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/10/HomePod-mini-2-Mac.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-13T21:19:09+00:00",
-   "title_ja": "新型HomePod mini、一部Macの既定スピーカーに対応",
-   "summary_ja": "第2世代HomePod miniは、Wi-Fi 6E以降を搭載するMacの既定オーディオ出力として設定できるようになる。ステレオペアでの利用も可能であり、従来のAirPlay接続と異なり音声の遅延を抑えてMacの音声を再生できる。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 3
   }
  ]
 }

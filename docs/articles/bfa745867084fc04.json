@@ -1,0 +1,20 @@
+{
+ "id": "bfa745867084fc04",
+ "title_ja": "Apple、iPhone Duoのバッテリー容量が4,883mAhと公開",
+ "summary_ja": "Appleが公開したEUのエネルギーラベルにより、iPhone Duoのバッテリー容量が合計4,883 mAhであることが判明しました。内部は2,962 mAhと1,921 mAhの2つのセルで構成されています。また同機はeSIM専用端末であり、物理SIMスロットを備えたモデルは存在しません。",
+ "points": [
+  "AppleがEUのエネルギーラベルを公開",
+  "iPhone Duoのバッテリー容量が判明",
+  "合計容量は4,883 mAhとされる",
+  "物理SIMトレイのない世界共通モデル"
+ ],
+ "body": "AppleがEU向けに公開したエネルギーラベルから、iPhone Duoのバッテリー容量が合計4,883 mAhであることが明らかになった。この公開された文書によって、事前のリーク情報で伝えられていた2つのバッテリーセルの数値が裏付けられた形となっている。事前の情報では、2,962 mAhと1,921 mAhのセルが組み合わされていると伝えられていた。\n\niPhone Duoは物理SIMカードのトレイを持たないeSIM専用モデルとして展開されるため、内部の省スペース化によってわずかに容量が異なる別バージョンが存在しない。そのため、今回の4,883 mAhというバッテリー容量の数値は、地域を問わず世界共通で適用されるものとみられている。\n\n参考値として、分解調査で判明している他のeSIM専用モデルと比較すると、iPhone 18 Proのバッテリー容量は4,288 mAhであり、より大型のiPhone 18 Pro Maxでは5,567 mAhとなっている。今回の情報により、iPhone Duoの位置づけや電源周りの仕様の一端が具体的に示されたといえる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
+ "published": "2026-10-18T15:07:06+00:00"
+}
