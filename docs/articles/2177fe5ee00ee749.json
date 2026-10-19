@@ -1,0 +1,20 @@
+{
+ "id": "2177fe5ee00ee749",
+ "title_ja": "tvOS 17.2 RCがHomePodのサラウンド音声に対応",
+ "summary_ja": "新たに公開されたtvOS 17.2などのRC版により、新型Apple TV 4Kで最大4台のHomePodを活用したサラウンド音響の構築が可能になる。設定はApple TVやiPhoneから行う。",
+ "points": [
+  "tvOS 18.2のRC版で4基のHomePodによるサラウンド音声に対応",
+  "新型Apple TV 4KとHomePod mini 2などの組み合わせで利用可能",
+  "初代HomePodやHomePod mini、旧型Apple TVは非対応",
+  "各OSの正式版アップデートは来週配信される見込み"
+ ],
+ "body": "Appleが配信を開始した最新のベータ版ソフトウェアを通じて、新型Apple TV 4Kにおける4基のスピーカーを活用したサラウンド音響機能への対応が進められていることが明らかになった。HomePodを活用したホームシアターの設定はApple TV本体から直接行えるほか、iPhone上のApple TVリモートアプリからも手続きを開始できる仕組みが用意されている。この新機能を利用するためには、第4世代のApple TV 4Kが必要となり、スピーカー側は4基のHomePod mini 2、4基の第2世代HomePod、あるいは各ペアが一致する状態でのHomePodとHomePod mini 2の組み合わせに対応している。なお、初代のHomePodおよびHomePod mini、そして旧型のApple TVモデルではこのサラウンド機能を利用することはできない。\n\nApple TVとHomePodを組み合わせたホームシアター環境では、接続されたスピーカー群が個別のオーディオ機器ではなく単一のアクセサリとして扱われる。これにより、スピーカーが部屋の中での自身の位置を自動的に検出し、タイミングや音量を最適に調整することが可能になる。ハードウェアの展開スケジュールとしては、HomePod mini 2が10月30日に発売され、第4世代のApple TV 4Kは11月13日に市場へ投入される予定となっており、どちらの新しいデバイスもすでに事前注文の受付が始まっている。また、関連するOSのアップデート版については、来週中にも一般向けにリリースされることが予想されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/19/tvos-27-2-homepod-surround-sound",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/surround_mixed_16x9.jpg",
+ "published": "2026-10-19T19:09:15+00:00"
+}
