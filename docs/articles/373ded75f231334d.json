@@ -1,0 +1,20 @@
+{
+ "id": "373ded75f231334d",
+ "title_ja": "macOSの旧バージョン向け第3弾RC版が配信",
+ "summary_ja": "macOS Sequoia 15.8.2およびmacOS Tahoe 26.7.2の新しい開発者向けおよび公共向けRC版の提供が開始された。",
+ "points": [
+  "macOS Sequoia 15.8.2の第3弾RCが配信開始",
+  "macOS Tahoe 26.7.2の第3弾RCも同時に登場",
+  "両OSのビルド番号がそれぞれ明らかにされている",
+  "重要なセキュリティ修正が含まれ全ユーザーに推奨"
+ ],
+ "body": "Appleは、開発者および一般テスター向けに「macOS Sequoia 15.8.2」と「macOS Tahoe 26.7.2」の第3弾となるリリース候補版（RC）の提供を開始した。これらは公式リリースに向けた週ごとのRC配信の一環として進められており、先月にリリースされた前バージョンと同様に、正式版の公開前に複数のRCが重ねられている状況となっている。今回のテスト版におけるリリースノートによると、いずれのバージョンも重要なセキュリティ修正を含んでおり、すべてのユーザーに対して適用が推奨されている状態である。具体的な修正内容の詳細については、今後の正式版リリースに合わせて明らかにされる見通しとなっており、数週間以内に予定されている「macOS 27.2 Golden Gate」などの公開と同時期になる可能性が示されている。今回配信された第3弾RCのビルド番号を確認すると、「macOS Sequoia 15.8.2 RC 3」が24H230、「macOS Tahoe 26.7.2 RC 3」が25G330となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-19T17:30:24+00:00"
+}
