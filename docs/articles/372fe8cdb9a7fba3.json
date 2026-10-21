@@ -1,0 +1,20 @@
+{
+ "id": "372fe8cdb9a7fba3",
+ "title_ja": "ローカル動作対応の「Perplexity Mac」提供開始、推奨メモリ要件も変更",
+ "summary_ja": "Perplexity AIが、Mac上で完全にローカル動作するAIエージェントをサポートしたMac向けアプリの提供を開始した。これに伴い、推奨メモリ要件が24GBから32GBに変更されている。",
+ "points": [
+  "Mac上で完全にローカル動作するPerplexity Computerの提供が開始された",
+  "クラウドにデータを送信せずローカルファイルやアプリを操作可能になった",
+  "新機能にはQwenベースのモデルやPPLX Proが採用されている",
+  "利用の推奨システム要件が従来の24GBから32GBメモリに変更された"
+ ],
+ "body": "Perplexity AIは、Mac向けクライアントアプリ「Perplexity for Mac」において、AIエージェント機能「Perplexity Computer」が完全にローカル動作するようになったと発表している。これまで事前作業などでユーザーデータをクラウドに送信していた処理が改善され、AIモデルやタスクの実行をすべてデバイス上で行えるようになった。これにより、ユーザーの許可のもと、クラウドを介さずにローカルファイルやメモ、メールなどのMacアプリを横断して作業をこなすことが可能とされている。\n\n新しいローカル機能では、Alibaba GroupのQwenモデルをベースにした「Qwen 3.6 (35B-A38)」や、それをポストトレーニングしたPerplexity独自の「PPLX Pro (27B)」などが採用されている。対象となるユーザーは本日から順次ロールアウトが開始されており、ProやMax、Enterpriseの各サブスクリプション加入者が利用できると報じられている。複雑な処理を行う場合には、クラウドモデルとローカルモデルを使い分けて機密データを保護するハイブリッド方式も用意されている。\n\n今回の機能提供に伴い、Perplexity Computerを利用するための推奨システム要件が変更されている。従来の24GBユニファイドメモリから32GBユニファイドメモリを搭載したMacへと引き上げられたため、対象のMacを使用しているユーザーは注意が必要となる。なお、Perplexity for Macアプリ自体のシステム要件については、引き続きmacOS 15.0 Sequoia以降を搭載したIntelおよびApple Silicon Macに対応していると伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261021-perplexity-computer-fully-local-on-your-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/05/Perplexity-Personal-Computer-logo-icon.webp",
+ "published": "2026-10-20T21:36:18+00:00"
+}
