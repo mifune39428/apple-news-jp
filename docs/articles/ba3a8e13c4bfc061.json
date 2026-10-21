@@ -1,0 +1,19 @@
+{
+ "id": "ba3a8e13c4bfc061",
+ "title_ja": "Qi2とMagSafeの違いとは？iPhoneに最適なワイヤレス充電を解説",
+ "summary_ja": "iPhoneやAirPodsなどで利用されるワイヤレス充電規格について、Qi、MagSafe、Qi2、最新のQi2 25Wなどの特徴と違いを解説するガイド。手持ちのiPhoneモデルに合わせた最適な充電規格を選ぶことで、より効率的な充電環境を構築できる。",
+ "points": [
+  "iPhoneのワイヤレス充電規格であるQi、MagSafe、Qi2の違いを解説",
+  "対応するiPhoneや充電器の種類によって7.5Wから最大25Wの充電速度となる",
+  "Qi2や最新のQi 2.2により、他社製充電器でも高速かつ安価な選択肢が増加"
+ ],
+ "body": "iPhoneのワイヤレス充電には、従来から使われているQiやAppleが先導したMagSafe、そして近年普及が進むQi2など複数の規格が存在する。それぞれの仕組みや特徴を把握することで、手元のデバイスに最適な充電環境を効率よく構築できるようになる。充電速度や対応状況はモデルによって異なり、近年の上位モデルでは最大25Wの高速ワイヤレス充電に対応するケースが増えている。\n\nワイヤレス充電は電磁誘導を利用して電力を送る仕組みであり、充電パッドと端末内蔵のコイルによって磁界を電流へと変換する。Appleが導入したMagSafeは、磁力によって充電位置が正確に固定されるため、位置のズレによる効率低下を防ぎつつ高速化を実現した。このMagSafeの技術基盤はワイヤレスパワーコンソーシアム（WPC）に提供され、Androidなど他社も巻き込む形でQi2規格へと発展している。これにより、サードパーティー製の磁気ワイヤレス充電器も手頃な価格で高速化が進んでいる。\n\n従来のQi規格はiPhone 8以降の幅広いモデルでサポートされているものの、Apple端末での充電速度は制限される場合が多い。一方、iPhone 12以降のモデルではQi2が利用可能となり、MagSafeと同等の15W充電が手頃な価格の充電器でも実現可能になった。さらに最新の規格であるQi 2.2に対応した充電器と特定のiPhoneを組み合わせることで、最大25Wの急速ワイヤレス充電の恩恵を受けることができる。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/2128673/is-qi-2-2-wireless-charging-better-than-magsafe.html",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/2128673-0-68142900-1792578056-Wireless-Charging-Qi2-vs-MagSafe.jpg?quality=50&strip=all",
+ "published": "2026-10-21T10:01:00+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "837df482a20d469d",
+ "title_ja": "Apple Silicon Mac向け非公式インストーラーが登場",
+ "summary_ja": "長年Mac版の公式リリースがない人気RPG「スカイリム」を、Apple Silicon搭載Macでプレイしやすくする非公式プロジェクト「SkyrimMT」が登場した。",
+ "points": [
+  "ベセスダの名作スカイリムをMacで動かす非公式ツールが登場",
+  "専用アプリによりSteam版の導入や各種設定が簡単に",
+  "Nexus Modsなどを使った高度なMOD管理機能も搭載",
+  "AppleシリコンとmacOS Ventura以降の環境に対応"
+ ],
+ "body": "ベセスダ・ソフトワークスの人気ロールプレイングゲーム「The Elder Scrolls V: Skyrim」をAppleシリコン搭載のMacで簡単にプレイおよびMOD導入できる非公式プロジェクト「SkyrimMT」が公開された。これまではインテル搭載MacのBoot Campや、各種互換ソフトを利用してWindows版を動かす方法があったものの、Appleシリコン環境では専用のソリューションが必要とされていた。このツールは、Mac上で同作を遊ぶためのプロセスを一つのアプリに集約しているのが特徴となっている。\n\nSkyrimMTは、自動化されたセットアップによって必要な互換ソフトのインストールを行い、Steamへのサインインやゲーム本体の導入手順をユーザーに案内する。対応しているのはスカイリムのスペシャルエディションおよびアニバーサリーエディションで、内部ではWineを介してWindows版を実行し、DXMTによってDirect3D 11のグラフィックスをAppleのMetalへ変換する仕組みを採用している。これにより、Appleシリコン環境でもスムーズにゲームを動作させることが可能になっている。\n\nさらに、ゲーム本編の動作だけでなく、豊富なMOD管理機能が組み込まれている点も大きな特徴である。内蔵されたネイティブのMODマネージャーを使用することで、Nexus Modsの閲覧をはじめ、各種MODリストの導入や、外部のセットアップのインポートが行える。また、多くのプレイヤーに利用されているスクリプト拡張機能やUI変更ツールの導入にも対応しており、複数のMODプロファイルの管理や競合の確認、ロードオーダーの整理などをアプリ一つで行うことができる。\n\n利用にあたっては、Appleシリコンを搭載しmacOS Ventura 13以降が動作するMacと、約25GBの空き容量、そしてSteam版のゲーム本編が必要となる。オープンソースとして開発されているこのアプリは、GitHubのリリースページから入手可能となっている。長年にわたり公式でのMac版が存在しなかった名作RPGを、Appleシリコン環境で快適に遊ぶための新たな選択肢として注目を集めている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/skyrim.jpg",
+ "published": "2026-10-21T02:56:30+00:00"
+}
