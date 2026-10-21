@@ -1,0 +1,20 @@
+{
+ "id": "311d9a3d0e1d2e84",
+ "title_ja": "CarPlay版GoogleマップにGemini統合",
+ "summary_ja": "CarPlay向けのGoogleマップで、ナビゲーション中にGeminiを利用できるようになりました。対話形式の機能により、ドライブ中の操作がより便利になります。",
+ "points": [
+  "CarPlay版GoogleマップでGeminiが利用可能に",
+  "ナビ中に複数ステップの質問や指示が可能",
+  "音声による交通トラブルの報告にも対応",
+  "現在は米国で提供中で順次グローバル展開"
+ ],
+ "body": "CarPlay向けのGoogleマップにおいて、ナビゲーション利用時にGeminiにアクセスして対話型の運転体験が可能になると報じられている。ナビ使用中に画面の右端にあるGeminiアイコンをタップすることで、複数ステップにわたる質問やさまざまな指示を出すことが可能になる。\n\nGoogleマップがCarPlay上で音声アシスタント機能を提供するのは今回が初めてとなる。これまでは、GoogleアシスタントはiPhone上で直接Googleマップのナビ機能を使用する場合にのみ利用可能となっていた。\n\nまた、Geminiを使って音声で交通トラブルを報告することも可能であるとされる。この機能は、昨年AndroidおよびiOS向けのGoogleマップで導入されたナビ体験と同等のものであり、すでにAndroid Autoでは利用可能になっていた。\n\nAppleのCarPlayにおけるGoogleマップでのGeminiは、現在米国で提供が開始されており、今後はグローバルでの展開も進められていると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-21T15:01:12+00:00"
+}
