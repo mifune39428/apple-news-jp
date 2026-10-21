@@ -1,0 +1,20 @@
+{
+ "id": "b8a1690c60afa89d",
+ "title_ja": "AppleサポートアプリがiPhone Duoに対応",
+ "summary_ja": "Appleは「Apple Support」アプリをアップデートし、新型のiPhone DuoおよびiOS 27.1への対応を追加した。ワイドスクリーン表示やスプリットビューでの利用が適切に機能するようになり、レビューで指摘されていた未対応アプリの問題に対処している。",
+ "points": [
+  "AppleサポートアプリがiPhone Duoに対応",
+  "画面幅の拡張とSplit Viewが利用可能に",
+  "未対応アプリでは黒帯が生じる問題が指摘",
+  "今後数週間で他社製アプリの更新も期待"
+ ],
+ "body": "Appleは、サポートアプリのアップデートを実施し、新端末であるiPhone Duoおよび同端末に搭載されるiOS 27.1への対応を追加したと報じられている。これにより、同アプリはiPhone Duoのより広い画面で適切に表示されるようになり、Split Viewを用いた他のアプリとの同時使用も可能になったとされている。\n\n同端末のレビューが公開された当初、最適化されていないアプリでは左右に太い黒帯が表示されるという問題が複数のレビュアーから繰り返し指摘されていた。画面サイズの大幅な変更に伴うこうした初期の不具合について、Appleは自社アプリの適応を進めていくとみられ、今後数週間のうちに多くのサードパーティ製アプリでも対応が進むと予想されている。\n\niPhone Duo向けのアプリ互換性については、数ヶ月後には大部分が解消される見通しと伝えられている。なお、トラブルシューティングやサポート文書の確認に利用されるこのApple Supportアプリは、App Storeから無料でダウンロード可能である。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg",
+ "published": "2026-10-21T17:55:28+00:00"
+}
