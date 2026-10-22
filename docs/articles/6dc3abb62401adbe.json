@@ -1,0 +1,19 @@
+{
+ "id": "6dc3abb62401adbe",
+ "title_ja": "iPhone Duo、iOS27.2でApple Pencil対応か",
+ "summary_ja": "来週にも公開が見込まれるiOS27.2のRC版から、iPhone DuoのApple Pencil対応が確認された。年内と案内されていた機能がまもなく正式に実現する可能性が高い。",
+ "points": [
+  "iPhone Duoが来週にもApple Pencilに対応する見込み",
+  "iOS27.2 RC版でUSB-Cモデルの動作が確認された",
+  "対応するのはUSB-Cモデルのみで他の型番は非対応"
+ ],
+ "body": "Appleが年内の対応を案内していたiPhone DuoのApple Pencil対応について、来週にも公開される見込みのiOS27.2で実現する可能性が高まっています。情報筋が公開したiOS27.2のリリースキャンディデート（RC）をインストールしたiPhone Duoにおいて、Apple Pencil（USB-C）が実際に動作していることが確認されました。現時点で大きな不具合が発生して追加のRC版が必要にならなければ、iOS27.2の正式版は来週中にリリースされるとみられています。iPhone Duoの発売日は10月23日とされており、出荷時には古いバージョンのOSがインストールされている見込みですが、発売直後に公開される可能性のあるアップデートを適用することで、Apple Pencil（USB-C）が利用できるようになると考えられます。\n\n現時点でiPhone Duoへの対応が確認されているのはApple Pencil（USB-C）のみであり、Apple Pencil Proなど他のモデルには対応しないと報じられています。Apple Pencil（USB-C）は傾き検知に対応しているものの、圧力感知やバレルロールなどの機能は備えていません。かつては専用の短いApple Pencilが開発される案も検討されていたと伝えられていましたが、最終的には既存のUSB-Cモデルを対応させる方針に落ち着いたとされています。これにより、すでにApple Pencil（USB-C）を所有しているユーザーは、新たなアクセサリを追加購入することなく利用できるようになります。\n\niPhone Duoは7.6インチのインナーディスプレイを搭載しているため、Apple Pencilに対応することで手書きメモの作成や資料への書き込みなど、iPad miniのような使い方が広がると期待されています。今回の新機能は開発者向けのベータテスト段階で確認されたものであり、正式リリースの時期や仕様は変更される可能性もありますが、発売から間もない時期に実用的な機能追加が行われる見通しです。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/iphone18-607702",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/22/iphone-duo-pencil-AC.jpg",
+ "published": "2026-10-22T03:45:20+00:00"
+}
