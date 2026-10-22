@@ -1,0 +1,20 @@
+{
+ "id": "99e90450ca48926c",
+ "title_ja": "Apple、Creator StudioのAI機能を強化か",
+ "summary_ja": "Appleは今年、Final Cut ProやLogic Proなどを統合したサブスクリプションサービス「Creator Studio」を導入した。iWorkでのAI画像生成機能なども提供されているが、競合するGoogle Workspaceに対抗するため、さらなるAI機能の拡充が図られる見通し。",
+ "points": [
+  "AppleがCreator Studio向けにGoogle WorkspaceのGeminiに対抗する新AI機能を準備中と報じられている",
+  "Pagesのアップデート情報から「Intelligent Assistant」と呼ばれるベータ版の存在が一時的に判明した",
+  "新機能により文章作成ツールの文脈理解力向上や最新情報を使ったリサーチが可能になるとされる",
+  "現在は問題の修正のためか、米国App Storeで関連アプリの一時的な配信停止などの対応が取られた"
+ ],
+ "body": "Appleが提供するクリエイター向けサブスクリプションサービス「Creator Studio」において、Google WorkspaceのGeminiに対抗する新たなAI機能が追加されると報じられている。これまでのCreator Studioでは、Final Cut Proなどの主要アプリやiWorkでのAI機能が提供されていたものの、Google Workspaceの強力なAI統合と比較すると物足りなさが指摘されていた。しかし、App Storeに一時的に公開された「Pages」のアップデート情報から、この状況が大きく変わる可能性が浮上している。公開されたリリースノートによると、Creator Studioの加入者向けに「Intelligent Assistant」と呼ばれる新機能がまもなく導入されるとされている。このベータ機能はiOS 27を必要とし、既存の文章作成ツールよりもさらに深い文書の文脈理解力を備えるほか、最新情報を用いたリサーチなどをサポートすると伝えられている。Siri AIですでに同等の結果を得ることは可能であるものの、新しいアシスタントはPagesやNumbers、Keynoteに深く統合され、より直感的なアイデア出しや編集フローを実現するとみられている。このアップデート情報が含まれていたPagesのバージョン15.4.1は、公開直後にAppleによって速やかに削除された。そのため、現時点でサービスに加入していても新機能を利用することはできず、将来のアップデート用として誤って変更履歴が公開されたか、実装に何らかの不手際があったものとみられている。一連の混乱に伴い、米国App Storeでは関連するiWorkアプリが一時的にダウンロードできない状態となるなどの対応が取られたが、その後アプリ自体は機能非搭載の状態でストアに再掲載されたもようだ。正式な機能提供が数日後になるのか数ヶ月先になるのかは不明だが、AppleがCreator StudioのAI機能を次の段階へ引き上げようとしていることは確実視されている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/3267434-0-94000800-1792698663-Apple-pages-icon-creator-studio.jpg?quality=50&strip=all",
+ "published": "2026-10-22T19:07:08+00:00"
+}

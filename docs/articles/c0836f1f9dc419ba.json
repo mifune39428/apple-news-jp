@@ -1,0 +1,20 @@
+{
+ "id": "c0836f1f9dc419ba",
+ "title_ja": "TestFlightとGarageBandがiPhone Duoに対応",
+ "summary_ja": "AppleはTestFlightとGarageBandをアップデートし、iPhone Duoの内外ディスプレイに対応させた。GarageBandでは広いレイアウトを活用して音楽編集やタッチ楽器の操作が快適に行えるようになる。",
+ "points": [
+  "TestFlightとGarageBandがアップデートされた",
+  "iPhone Duoの内外両方のディスプレイに対応した",
+  "縦型ツールバーを備え、どの向きでも正しく表示される",
+  "GarageBandは広い画面で音楽編集がしやすくなった"
+ ],
+ "body": "Appleは、TestFlightとGarageBandの各アプリをアップデートし、iPhone Duoが持つ内側と外側の両方のディスプレイへの対応を果たしたと報じられている。今回のアップデートにより、両アプリともに縦型のツールバーが搭載され、端末をどのような向きにしても画面が適切に表示されるようになるという。\n\n機能面において、ベータ版テストアプリであるTestFlightについては大きな変更はなく、Duoディスプレイを活用した恩恵は少ないとされている。一方で、音楽制作アプリのGarageBandは、内側スクリーンの広大な表示領域を最大限に活かしたワイドなレイアウトに対応したと伝えられている。これにより、音楽の編集作業や、画面上のキーボードやギターといったタッチ楽器を使用する際のインターフェースがより大きくなり、作業効率の向上が期待できる。\n\nなお、今回対応が発表されたTestFlightおよびGarageBandはいずれも無料で提供されているApple公式のアプリであり、ユーザーは追加の費用負担なしで最新の表示形式を利用できるとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-garageband.jpg",
+ "published": "2026-10-22T17:31:41+00:00"
+}

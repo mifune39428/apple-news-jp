@@ -1,0 +1,20 @@
+{
+ "id": "69f13ac63a96fcfc",
+ "title_ja": "PagesやKeynoteなどiWorkがAI機能に対応",
+ "summary_ja": "AppleはPages、Keynote、NumbersのiWorkスイートにAI機能のアップデートを順次提供している。強力な新機能を持つ「インテリジェント・アシスタント」が新たに追加された。文書作成やプレゼン資料の作成効率を向上させる。",
+ "points": [
+  "Pages、Keynote、NumbersにAI機能が追加",
+  "Apple Creator Studio加入者向けに新アシスタント提供",
+  "アシスタントは米国英語のベータ版として利用可能",
+  "Keynoteで新しいオープンなファイル形式に対応"
+ ],
+ "body": "AppleのオフィススイートアプリであるPages、Keynote、Numbersの各アプリに対し、人工知能を中心としたアップデートが順次提供されている。今回のアップデートでは、アプリ内での様々な作業をサポートする「Intelligent Assistant」と呼ばれる新しいアシスタント機能が導入されることが明らかになった。この機能はApple Creator Studioの加入者向けに提供されるものであり、Siri AIとは別個のものとして動作するとみられている。\n\n新しいIntelligent Assistantは、現時点では米国英語のみのベータ版として提供されており、利用するにはiOS 27以降が必要となる。それぞれのアプリにおける具体的な機能の詳細はAppleのリリースノートに記載されているが、このAI機能のほかにも、すべてのユーザーを対象とした便利な機能追加が含まれている。特にKeynoteでは、新しく「Interchange Format」と呼ばれる拡張子が.keyxのファイル形式が導入され、プレゼンテーションのインポートやエクスポートが可能になる。\n\nこの新しいファイル形式はオープンな規格として設計されており、Keynoteのファイルを他の外部アプリでもよりスムーズに編集できるようになるとされている。AI機能や新形式の導入により、書類作成やプレゼンテーション制作の利便性がさらに向上することが期待されているが、機能の有効化にはサーバー側の有効化などが関係している可能性もあると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-22T17:44:43+00:00"
+}
