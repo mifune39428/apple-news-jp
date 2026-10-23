@@ -1,0 +1,20 @@
+{
+ "id": "ce2b3f6f3dbe75cd",
+ "title_ja": "Mac版サイバーパンク2077、Patch 2.5が無償配信開始",
+ "summary_ja": "Mac版「Cyberpunk 2077: Ultimate Edition」向けに無償アップデートのPatch 2.5配信が開始された。MetalFXノイズ除去や2丁拳銃の追加に加え、クロスプラットフォームのMODサポートに対応している。",
+ "points": [
+  "Mac版サイバーパンク2077がPatch 2.5へ無償アップデート",
+  "MetalFXノイズ除去やフレーム補間、アップスケーリングに対応",
+  "Mod.ioを介したクロスプラットフォームMOD利用が可能に",
+  "アニメコラボの新クエストや新戦闘スタイル2丁拳銃を実装"
+ ],
+ "body": "CD PROJEKT REDは、Apple Silicon搭載Mac向けに展開しているオープンワールド・アクションアドベンチャーRPG「Cyberpunk 2077: Ultimate Edition」に対し、大型アップデートとなる「Edgerunners 2 Update (Patch 2.5)」の配信を開始した。Mac App Store版ではバージョン1.0.4として公開されており、プレイヤーは無償で最新の機能やコンテンツを利用できるようになっている。今回のアップデートでは、グラフィック技術の刷新が行われ、従来のFSR3アップスケーラーに代わり、AppleのMetalFXを用いたノイズ除去、フレーム補間、アップスケーリングが新たに採用されているのが大きな特徴となっている。\n\nゲーム内には、アニメ作品「サイバーパンク: エッジランナーズ2」にインスパイアされた新コンテンツが多数追加されており、前日譚を描く新しいクエストやナイトシティ観光ツアーなどが体験できる。また、新たなプレイスタイルとして2丁拳銃と専用パークが実装されたほか、「グラムドク」を用いたサイバーウェアのカスタマイズ機能なども導入され、戦闘や育成の幅が大きく広がっている。さらに、Mod配信プラットフォームのMod.ioが公式サポートされたことにより、クロスプラットフォームでコミュニティ制作のMODを導入できるようになり、PC版と同様の環境でゲームを楽しめるようになった。複数の不具合修正も含まれており、Apple Silicon Macにおける体験がさらにブラッシュアップされている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261023-cyberpunk-2077-for-mac-edgerunners-2-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "その他",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/07/Cyberpunk-2077-Ultimate-for-Mac-logo-icon.webp",
+ "published": "2026-10-22T22:50:57+00:00"
+}
