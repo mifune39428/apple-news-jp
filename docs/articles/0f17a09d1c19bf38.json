@@ -1,0 +1,20 @@
+{
+ "id": "0f17a09d1c19bf38",
+ "title_ja": "1Password、AI用ログイン機能「1Password for Agents」を発表",
+ "summary_ja": "パスワード管理サービスの1Passwordは、AIエージェント時代に対応したログイン保護ツール「1Password for Agents」を発表しました。7月のClaude連携に続く取り組みで、自律型AIが安全にログイン情報を利用できる環境を提供します。AI活用が進む中でセキュリティを維持するための新しいソリューションです。",
+ "points": [
+  "1PasswordがAIエージェント向けの新しい安全な仕組みを発表",
+  "AIがパスワードを見ることなく認証情報や機密情報を保護する",
+  "初期段階ではMetaのMuseやGrok Botなどに対応する予定",
+  "利用には現在ウェイトリストへの登録が必要となっている"
+ ],
+ "body": "パスワード管理ツールの1Passwordが、AIエージェントの時代に対応する新しいプラットフォーム「1Password for Agents」を発表した。近年急速に普及が進むAIエージェントが自律的に作業を行う際、ユーザーの認証情報や機密情報を安全に扱いながら業務を遂行できるように設計されている。これにより、ユーザーは自分の個人用AIエージェントに直接接続させることが可能となり、エージェント自身にパスワードを見せることなく作業を任せることができる仕組みとなっている。\n\n初期の展開としては、MetaのMuseやSpaceXSIのGrok Botなどへの対応からスタートする。さらに今後は、OpenAIやAnthropicをはじめとする多数の企業との統合も予定されており、対応するAIエージェントやパートナー企業は順次拡大していく見込みである。現在はまだ正式な提供開始に向けた準備段階であり、利用を希望するユーザーに向けてウェイトリストの登録が受け付けられている状況となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-22T17:15:01+00:00"
+}
