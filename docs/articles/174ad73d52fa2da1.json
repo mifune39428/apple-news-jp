@@ -1,0 +1,20 @@
+{
+ "id": "174ad73d52fa2da1",
+ "title_ja": "iPhone Duoで使えるApple PencilはUSB-Cモデルのみ",
+ "summary_ja": "iPhone DuoはApple Pencilに対応しているが、利用できるのはUSB-Cモデルのみとなる。第1世代や第2世代、Apple Pencil Proは互換性がなく使用できないため、購入や手持ちのペンを使う際には注意が必要である。",
+ "points": [
+  "iPhone DuoはUSB-CモデルのApple Pencilに対応する",
+  "第1世代や第2世代、Proモデルは利用できない",
+  "ペアリングにはUSB-Cケーブルの接続が必要となる",
+  "画面の裏表両方で手書き入力やパームリジェクションが使える"
+ ],
+ "body": "海外メディアの検証によって、新型端末であるiPhone DuoとApple Pencilの組み合わせに関する詳細が明らかになっている。手持ちのiPadで一般的に使われているApple Pencilの第1世代、第2世代、そしてApple Pencil Proは対応しておらず、使用できるのはUSB-Cに対応したモデルのみとなっている。このUSB-Cモデルを利用するためには、ワイヤレスではなくUSB-Cケーブルを介して端末とペアリングを行う必要がある。現在ベータ版として提供されているiOS 27.2以降でこの機能が追加される見通しとなっている。\n\nペアリングが完了すれば、iPadと同様の感覚で文字の書き込みやイラストの作成が可能となり、パームリジェクション機能の設定も利用できるようになる。画面は内側と外側の両方で操作に対応しており、本体のヒンジ部分に磁気で取り付けて持ち運ぶことも可能だ。ただし、このヒンジ部分での充電機能は備わっていない。また、Apple Pencil Proに搭載されている筆圧感知、ダブルタップ、スクイーズといった高度な機能はUSB-Cモデルには搭載されていない点に注意が必要である。\n\n実際に画面へペンを走らせると跡が残ることがあるものの、専用のクロスなどで拭き取れば綺麗に消すことができる。万が一の画面保護層の損傷に備えて、AppleCare加入有無に応じた有償の交換オプションも用意されている。限られた画面サイズということもあり、iPadほど万能ではないものの、ちょっとしたメモ書きやスケッチを手軽に行いたい場合には、USB-CモデルのApple Pencilの導入を検討する価値がありそうだ。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/t/CqWTlArWjoVSE2x23DtfYCK5AOU=/1944x/article-new/2026/10/iPhone-Duo-Apple-Pencil-Useful-Thumb.jpg",
+ "published": "2026-10-23T20:49:47+00:00"
+}

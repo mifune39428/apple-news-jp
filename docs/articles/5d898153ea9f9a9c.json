@@ -1,0 +1,19 @@
+{
+ "id": "5d898153ea9f9a9c",
+ "title_ja": "仮想マシン操作アプリ「UTM Remote」がiPhone Duoに対応",
+ "summary_ja": "UTM Projectは、Mac上のWindowsやLinuxの仮想マシンをiPhoneからリモート操作できるアプリ「UTM Remote」をアップデートした。新たにiPhone Duoへの対応が行われ、マルチデバイス環境での利便性が向上している。",
+ "points": [
+  "仮想マシン操作アプリ「UTM Remote」がiPhone Duoに対応",
+  "Mac上の仮想マシンをiPhoneからリモート操作可能",
+  "折り畳み状態のLaptop Modeでキーボード操作もサポート"
+ ],
+ "body": "Mac上の仮想マシンを手元のデバイスから操作できるリモートデスクトップアプリ「UTM Remote」が、新たにiPhone Duoへの対応を果たしたと報じられている。UTMプロジェクトの発表によると、このアップデートにより、Mac側で稼働しているWindowsやLinuxといった仮想マシンの画面をiPhone上に映し出し、起動や終了といった基本操作を行えるようになる。本体の機能ではなくMac側のApple Siliconチップの処理能力を利用する仕組みとなっているため、最新のOS環境を手元の端末から快適に扱える点が特徴となっている。\n\n本アプリは仮想化機能そのものは持たないものの、Mac上のUTMと連携することで優れたリモート環境を実現している。システム要件としてはiOSやiPadOS 15以降を搭載したデバイスに対応しており、iPhone Duoのインナーおよびアウターディスプレイの双方で利用可能とされている。特筆すべき機能として、iPhone Duoを折り畳んだ状態のいわゆる「Laptop Mode」が挙げられており、このモードでは上の画面に仮想マシンのデスクトップを表示しつつ、下の画面をキーボードやタッチパッドとして活用することが可能になると伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261024-utm-remote-support-iphone-duo.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/UTM-Remote-logo-icon.webp",
+ "published": "2026-10-23T21:17:57+00:00"
+}
