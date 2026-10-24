@@ -1,0 +1,20 @@
+{
+ "id": "7c19034f061679d9",
+ "title_ja": "iPhone DuoはApple Watchを使ったロック解除に対応　指紋認証の手間を軽減",
+ "summary_ja": "iPhone Duoは電源ボタン内蔵のTouch IDを採用していますが、Apple Watchを装着していれば端末に触れずにロック解除が可能です。本機能を利用すれば、Face IDのようなスムーズな操作感を実現できます。利用にはSeries 9やUltra 2などの対応モデルが必要です。",
+ "points": [
+  "iPhone Duoのロック解除にApple Watchが利用可能",
+  "指紋認証の代わりにApple Watchでスムーズに解除",
+  "対応モデルはApple Watch Series 9以降など",
+  "設定変更でスワイプの手間も省くことが可能"
+ ],
+ "body": "iPhone Duoでは認証のためにサイドボタンに内蔵されたTouch IDセンサーを使用しますが、Apple Watchを装着している場合は、時計側を使ってロックを解除できると報じられています。これによってサイドボタンに触れる必要がなくなり、現時点でiPhone Duoにおいて最もスムーズなFace IDに近い体験ができるとされています。\n\nこの機能は「Apple Watchでロック解除」と呼ばれ、iPhoneですでに導入されている信頼性の高い仕組みです。利用するには、Apple Watch Series 9以降、Ultra 2以降、またはSE 3が必要になると伝えられています。設定を有効にすることで、指紋認証の手間をかけずにApple Watch側が認証処理を行うようになるとのことです。\n\nなお、ロック画面を通過するためには通常スワイプ操作が必要となりますが、設定を変更することでこの追加のステップも省略できると説明されています。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-in-hand-closed.jpg",
+ "published": "2026-10-24T18:28:00+00:00"
+}
