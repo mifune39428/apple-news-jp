@@ -1,0 +1,20 @@
+{
+ "id": "9051ccaec2ae6c17",
+ "title_ja": "macOSで廃止された「Dashboard」を再現するアプリがMac用に登場",
+ "summary_ja": "macOS 10.15 Catalinaで廃止されたデスクトップ機能「Dashboard」を再現したアプリ「Widgets」が、Mac App Storeでリリースされた。かつてのように各種ウィジェットを画面上に配置して素早くアクセスできる環境を再現している。",
+ "points": [
+  "macOS 10.15 Catalinaで廃止されたDashboardを再現するアプリが登場。",
+  "Justin Hunt氏がMac OS X Tiger時代のデザインをベースにゼロから開発。",
+  "天気やカレンダーなど7種類のウィジェットが利用可能。",
+  "Mac App Storeから無料でダウンロードでき、対応OSはmacOS 13.3以降。"
+ ],
+ "body": "かつてのMacの定番機能であったダッシュボードを現在のmacOS上でよみがえらせるサードパーティ製アプリケーション「Widgets」が、Mac App Storeにて新たに配信を開始したと報じられている。Appleは2019年にリリースしたmacOS 10.15 Catalinaにおいて、HTMLやCSS、JavaScriptをベースにしたウィジェットを表示できる「Dashboard」機能を廃止していたが、今回のアプリによってその懐かしい機能を手元のMacで再び体験できるようになるとのことである。\n\n本アプリを開発したJustin Hunt氏は、Mac OS X Tigerの時代に親しまれたダッシュボードをベースにしつつ、ウィジェットを一から再構築したとされている。ユーザー自身による新規ウィジェットの開発や、過去に存在した古いウィジェットファイルの読み込み機能は備わっていないものの、初期状態で天気予報、世界時計、連絡先、カレンダー、電卓、単位変換器、付箋といった実用的な機能が利用できる仕様となっている。\n\n利用にあたっては、macOS 13.3 Ventura以降がインストールされたインテル製プロセッサ搭載MacおよびApple Silicon搭載Macが必要となる。現在、Mac App Storeから無料で入手することが可能となっており、かつて親しんだクラシックなフルスクリーンオーバーレイの操作感やアニメーションを懐かしむユーザーにとって注目のリリースとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261026-widgets-dashboard-replacement.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/Widgets-Dashboard-Replacement-logo-icon.webp",
+ "published": "2026-10-25T21:58:01+00:00"
+}
