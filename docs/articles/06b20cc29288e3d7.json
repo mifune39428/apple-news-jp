@@ -1,0 +1,20 @@
+{
+ "id": "06b20cc29288e3d7",
+ "title_ja": "Mac画面を個別に操作できる「Sill」がiPhone Duoに対応",
+ "summary_ja": "ScreenCaptureKitを使用し、Macのデスクトップや個別アプリのウィンドウをiPhone上で表示・操作できるオープンソースアプリ「Sill」が、iPhone Duoに対応しました。Macの作業環境をiPhoneから手軽にコントロールできるリモートデスクトップツールです。",
+ "points": [
+  "Macの画面やウィンドウをiPhoneで操作できるアプリ",
+  "ScreenCaptureKitとHEVCで高画質かつ高フレームレートを実現",
+  "Apple SiliconのMacとiOS 17以降のデバイスに対応",
+  "iPhone Duoへの対応や各種入力デバイスのサポートを搭載"
+ ],
+ "body": "Macのデスクトップ全体だけでなく特定のアプリウィンドウを個別にiPhoneやiPadへ表示し、手元で操作できるオープンソースのリモートデスクトップアプリ「Sill」が新しくiPhone Duoに対応した。一般的なリモートデスクトップとは異なり、macOSに備わるScreenCaptureKitを活用している点が大きな特徴であり、デスクトップ全体だけでなくアプリごとのウィンドウをピンポイントで表示して操作することが可能となっている。操作にはタッチ入力のほか、仮想トラックパッドやキーボード、Apple Pencilなどもサポートされているため、手元のデバイスから柔軟にMacをコントロールできる。\n\n映像の転送にはAppleのVideoToolboxによるHEVCエンコードを採用しており、高速なネットワーク環境下であれば最大120fpsの高リフレッシュレートやRetina解像度での表示に対応する。接続方法はWi-Fiネットワークのほか、Direct接続やリモートアクセス接続をサポートしており、仮想デスクトップやクリップボード共有といった便利な機能も備えられている。利用にあたってはシステム要件として、macOS 14 Sonoma以降を搭載したApple Silicon Macと、iOSやiPadOS 17以降のiPhoneまたはiPadが必要となり、Intel Macは非対応となっている。\n\n本アプリは開発者によってオープンソースとしてGitHubで公開されているほか、App Storeからも無料で入手することができる。手元からMacを遠隔操作したいユーザーにとって、ウィンドウ単位での柔軟な表示や高い描画性能を持つ実用的な選択肢となり得るため、興味のある人は導入を検討してみるとよいだろう。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261026-sill-for-mac-and-iphone-remote-desktop.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/Sill-Mac-Streaming-App-logo-icon.webp",
+ "published": "2026-10-26T04:28:18+00:00"
+}
