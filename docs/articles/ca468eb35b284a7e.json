@@ -1,0 +1,21 @@
+{
+ "id": "ca468eb35b284a7e",
+ "title_ja": "Apple、iPad miniの最大規模のアップデートを発表",
+ "summary_ja": "Appleは、OLEDディスプレイを採用し薄型化した新しいiPad miniを発表した。A20 Proチップを搭載し、防塵防水性能も備えている。",
+ "points": [
+  "厚さ5.4mmの薄型軽量ボディにIP67の防水防塵性能を搭載",
+  "ベゼルを細くし前世代と同じサイズで8.5インチOLEDを採用",
+  "2nmプロセスのA20 Proチップと最大6コアCPUを搭載",
+  "N1チップとC2モデムによりWi-Fi 7や高速通信に対応",
+  "10月29日予約開始、11月6日発売で価格は未記載"
+ ],
+ "body": "Appleは、一段と薄型・軽量化され、美しいOLEDディスプレイや強力なA20 Proチップを搭載した新しいiPad miniを発表した。本体の厚さは5.4mmとなり、ミッドナイトとスターライトの2色が用意されている。また、IP67等級の耐水性能と防塵性能を備えており、様々な環境での利用に対応する。ベゼルが24パーセント細くなったことで、前世代と同じ本体サイズを維持しながら、より大きな8.5インチのSuper Retina XDRディスプレイを搭載し、ピーク輝度は2倍以上に向上した。さらに、明るい環境での映り込みを抑えるNano-textureディスプレイのオプションも選択可能となっている。\n\n搭載されているA20 Proチップは、最新の2ナノメートルプロセステクノロジーで作られており、グラフィックスやAIを駆使するタスクの処理速度が大幅に向上した。各GPUコアにNeural Acceleratorが組み込まれた7コアGPUにより、前世代と比較して最大4.5倍高速なAIパフォーマンスと、最大2.7倍のグラフィックス性能を実現している。オーディオ面では革新的なAcoustic Displayを採用し、長辺の縁には12MPセンターフレームフロントカメラが配置された。また、ワイヤレスネットワークチップのN1によってWi-Fi 7やBluetooth 6が利用できるほか、Wi-Fi + Cellularモデルには次世代モデムのC2が搭載されている。\n\n次世代のApple IntelligenceとSiri AIを備えたiPadOS 27を搭載し、ユーザーのパーソナルコンテクストを理解して必要な情報を見つける手助けをする。新しいiPad miniは、ミッドナイトとスターライトの2つの仕上げが用意され、10月29日より予約注文の受付を開始し、11月6日より販売が開始される予定となっている。持ち運びやすさとパフォーマンスを両立させたことで、クリエイターからビジネスパーソン、ゲーマーまで幅広いユーザーのニーズに応えるモデルに仕上がっている。",
+ "source": "Apple Newsroom 日本",
+ "url": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPad",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg",
+ "published": "2026-10-26T13:27:32.665000+00:00"
+}

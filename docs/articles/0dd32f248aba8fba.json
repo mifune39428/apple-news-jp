@@ -1,0 +1,19 @@
+{
+ "id": "0dd32f248aba8fba",
+ "title_ja": "マイクロソフト、iOS 18等のサポート終了",
+ "summary_ja": "マイクロソフトは、iPhoneおよびiPad向けOfficeアプリにおいて、iOS/iPadOS 18やwatchOS 11のサポートを終了した。これにより、対象OS環境でのアプリ利用に影響が出る可能性がある。",
+ "points": [
+  "MicrosoftがWord、Excel、PowerPointのiOS/iPadOS版を更新",
+  "iOS/iPadOS 18やwatchOS 11のサポートを終了",
+  "最新のシステム要件から外れ、セキュリティ更新の対象外に"
+ ],
+ "body": "Microsoftは現地時間2026年10月25日、iPhoneおよびiPad向けの「Microsoft 365（Word、Excel、PowerPoint）」をバージョン2.115.1へアップデートし、iOS/iPadOS 18やwatchOS 11などのサポートを終了したことが明らかになった。同社は2020年以降、モバイル版Officeのシステム要件を最新OSとその1つ前の世代までに限定する方針をとっており、新たなOSの登場に伴い要件が引き上げられた形となっている。\n\n今回のサポート終了に伴い、システム要件から外れたiOS/iPadOS 18や対応するwatchOS環境では、今後に提供されるMicrosoftからの重要なセキュリティアップデートを受け取ることができなくなるとされている。対象となるOSの環境でこれらのアプリを利用しているユーザーは、今後の安全性確保に向けて注意が必要となるため、利用環境を確認することが求められる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261026-microsoft-365-ends-ios-18-support.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Microsoft-Word-for-iOS-2025-logo-icon.webp",
+ "published": "2026-10-26T15:08:35+00:00"
+}
