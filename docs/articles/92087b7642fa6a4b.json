@@ -1,0 +1,20 @@
+{
+ "id": "92087b7642fa6a4b",
+ "title_ja": "Apple Intelligence生成画像に隠し透かし技術が導入",
+ "summary_ja": "iOS 27.2にて、Image Playground等で編集された画像にGoogleの透かし技術「SynthID」が追加されます。メタデータではなくピクセル単位で識別情報を埋め込むため画質に影響せず、画像のトリミング等にも耐えうる仕様です。",
+ "points": [
+  "Apple Intelligenceの画像生成・編集機能にSynthIDが導入",
+  "ピクセル単位の埋め込みで画質に影響せず編集にも耐える",
+  "iPhone単体での検出機能はなく専用サイトの利用が必要",
+  "Clean Up機能は修正の規模によって有無が分かれる"
+ ],
+ "body": "Apple Intelligenceを活用した画像生成や一部の編集機能において、新たに不可視の透かし技術であるSynthIDが導入されたと報じられている。この機能はGoogleが開発したもので、メタデータではなくピクセルレベルで画像や動画に識別情報を埋め込む仕組みとなっている。Googleによれば画質への影響はなく、画像のトリミングやフィルター処理、圧縮といった加工が行われても透かしが残り続ける特性を持っているという。この技術はAppleのほかにもGoogleやOpenAIなどで採用されている。\n\n現在のところiPhoneの端末内にSynthIDを検出する機能は用意されておらず、透かしの有無を確認するには専用のウェブサイトを利用する必要がある。実際の検証では、Image Playgroundで作成された画像にはすべてSynthIDの透かしが含まれていた。また、写真アプリの編集機能であるExtendやReframeを使って加工された画像でも透かしが確認されている。一方で、不要なオブジェクトを削除するClean Up機能については、修正の規模によって挙動が異なると伝えられている。軽微な修正にとどまる場合は透かしが追加されないものの、比較的大きな範囲を編集した場合にはSynthIDの透かしが含まれる結果となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/google-synthid.jpg",
+ "published": "2026-10-26T21:15:14+00:00"
+}

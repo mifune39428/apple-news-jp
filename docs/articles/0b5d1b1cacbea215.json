@@ -1,0 +1,20 @@
+{
+ "id": "0b5d1b1cacbea215",
+ "title_ja": "iOS 27.2、グループFaceTimeでデュアル撮影に対応",
+ "summary_ja": "最新のiOS 27.2アップデートにより、グループFaceTime通話でもデュアル撮影機能が利用可能になった。対応するiPhoneのカメラを切り替えることで、フロントカメラとリアカメラの映像を同時に配信できる。",
+ "points": [
+  "iOS 27.2でデュアルキャプチャがグループFaceTimeに対応",
+  "対応機種はiPhone 17シリーズやiPhone 18 Proシリーズなど",
+  "iPhone Duoは内外面カメラを使ったDuo FaceTimeをサポート",
+  "サードパーティの手話通訳やライブ字幕の追加オプションも導入"
+ ],
+ "body": "Appleが配信を開始したiOS 27.2のアップデートにより、FaceTimeのデュアルキャプチャ機能がグループFaceTime通話でも利用できるようになると報じられている。デュアルキャプチャは、前面カメラと背面カメラからの映像を同時に配信できる機能であり、対応デバイスで通話中にカメラを切り替えることで自動的に有効になる仕組みとされている。対応機種としては、iPhone 17、iPhone 17 Pro、iPhone 17 Pro Max、iPhone Air、iPhone 18 Pro、iPhone 18 Pro Max、そしてiPhone Duoが挙げられている。\n\nまた、iPhone Duo独自の機能として、インディスプレイカメラと外側ディスプレイのカメラを利用し、全員が1つのフレームに収まる必要なく2人目の参加者がグループ通話に参加できるDuo FaceTimeがサポートされていると伝えられている。今回のiOS 27.2ではカメラ機能の拡張に加えて、通話にサードパーティの手話通訳者やライブキャプショナーを追加するための新しいオプションも導入されたことが明らかにされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/26/ios-27-2-dual-capture-facetime",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-and-FaceTime-Feature.jpg",
+ "published": "2026-10-26T19:46:23+00:00"
+}

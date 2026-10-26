@@ -1,0 +1,20 @@
+{
+ "id": "a95cbb9d120c9642",
+ "title_ja": "iOS 27.2でiPhone DuoがApple Pencilに対応",
+ "summary_ja": "AppleはiOS 27.2の配信を開始し、iPhone DuoでのApple Pencilサポートを追加した。また、ビデオ通話時に顔を明るく照らす「エッジライト」機能も同端末向けに実装されている。",
+ "points": [
+  "iPhone DuoがiOS 27.2でApple Pencilに対応",
+  "FaceTimeのグループ通話でデュアルカメラ利用が可能に",
+  "Siri AIの対応言語拡充やメッセージでの機能連携を追加",
+  "Apple TVアプリへのユーザープロファイル導入など多数の更新"
+ ],
+ "body": "Appleは最新のソフトウェアアップデートとしてiOS 27.2の提供を開始し、折りたたみ端末のiPhone DuoにおけるApple Pencilサポートを実現した。これにより、7.6インチの内部ディスプレイや5.4インチの外側スクリーンを持つ同端末での操作性がさらに向上する。また、ビデオ通話時の顔を明るく照らす「エッジライト」機能も追加され、コミュニケーション機能が強化されている。グループFaceTime通話ではインカメラとバックカメラを同時に使用できるデュアルキャプチャ機能が利用可能になり、より臨場感のある通話ができるようになった。\n\nSiri AIの機能も拡張されており、メッセージアプリ内での提案されたアクションの実行に対応したほか、フランス語、日本語、韓国語、ポルトガル語、スペイン語といった多くの言語サポートが追加された。さらに、写真アプリやImage PlaygroundではGoogleのSynthID AIウォーターマークへの対応が進められている。そのほか、iPhone上のApple TVアプリにユーザープロファイル機能が導入され、Appleポッドキャストアプリでは「次に再生」キューが「新しいエピソード」のリストへと刷新されるなど、細かな使い勝手も改善された。\n\n今回のアップデートに合わせて、AppleはmacOS 27.2のゴールデンゲート版をはじめ、watchOS 27.2、visionOS 27.2、tvOS 27.2、HomePod 27.2といった各OSの最新バージョンも同時にリリースしている。iPhone Duoに関しては、NetflixやPrime Video、Microsoft Outlookといった主要なアプリがすでにデュアルスクリーンの領域を活用している一方で、一部のアプリではさらなる最適化が求められている状況となっている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-26T18:51:06+00:00"
+}

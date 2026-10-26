@@ -1,0 +1,19 @@
+{
+ "id": "891625ef0851b0d1",
+ "title_ja": "iOS/iPadOS 26.2がリリース、日本語Siri AIなどを搭載",
+ "summary_ja": "Appleは日本語に対応したSiri AIや、生成AI製画像を判別するSynthID対応の写真アプリなどを含む「iOS/iPadOS 26.2」を配信開始した。今回のアップデートにより、新機能の追加やシステムの改善が行われている。",
+ "points": [
+  "Appleが日本語対応のSiri AIを含むiOS/iPadOS 27.2をリリース",
+  "AI生成画像を判別するSynthID対応の写真アプリなどを搭載",
+  "iPhone 16以降およびiPhone 15 Proシリーズに対応"
+ ],
+ "body": "Appleは、日本語をはじめとする複数の言語に対応したSiri AIなどを搭載する「iOS/iPadOS 27.2」をリリースした。今回のアップデートにより、これまで英語のみだったApple Intelligenceの音声アシスタント機能であるSiri AIが、日本語やフランス語、韓国語、ポルトガル語、スペイン語でも利用できるようになっている。対象となるのはiPhone 16以降の全機種と、iPhone 15 ProおよびiPhone 15 Pro Maxとなっている。\n\n新機能としては、Siri AIの多言語対応のほかにもいくつかの機能追加や変更が行われている。写真アプリでは、画像が生成AIによって作られたものかを判断できるSynthID規格に対応した。また、メールやメッセージアプリでは提案された返信内容を使って素早くメッセージを送れる機能が追加されたほか、ポッドキャストアプリのデザインも新しくなっている。\n\n今回のアップデートには、各種の新機能に加えて、バグ修正やセキュリティアップデートも含まれている。リリースノートによれば、セキュリティコンテンツの詳細は現時点で公開されていないものの、証明書に関連する問題への対応なども含まれているとみられており、対象端末を持つユーザーには早めのアップデートが推奨されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261027-ios-and-ipados-27-2-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://applech2.com/wp-content/uploads/2026/06/Apple-OS-27-logo-icon.webp",
+ "published": "2026-10-26T20:06:17+00:00"
+}
