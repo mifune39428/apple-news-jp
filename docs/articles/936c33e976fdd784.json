@@ -1,0 +1,19 @@
+{
+ "id": "936c33e976fdd784",
+ "title_ja": "macOS 27.2で外部カメラ接続時にMacBook Neoが再起動する不具合が修正",
+ "summary_ja": "macOS 27.2 Golden Gateにおいて、外部カメラを使用する際にMacBook Neoが予期せず再起動してしまう不具合が修正されました。Appleは現地時間2026年10月26日に本不具合に対応する修正を反映しています。該当する環境のユーザーはアップデートにより問題が解消されます。",
+ "points": [
+  "macOS 27.2 Golden Gateがリリースされた",
+  "外部カメラ使用時に起きていた再起動の不具合が修正",
+  "Google Meet等のリモート会議で不安定になる問題に対処"
+ ],
+ "body": "Appleは現地時間2026年10月26日、日本語対応のSiri AIや多数の脆弱性修正を含む「macOS 27.2 Golden Gate（26B123）」をリリースした。エンタープライズ向けに公開されたリリースノートによると、この最新バージョンでは特定のハードウェア環境における動作の不安定さが解消されていると報じられている。\n\n具体的には、MacBook Neoに外部カメラを接続した状態でGoogle Meetなどのリモート会議を利用すると、システムが予期せず再起動してしまうという不具合が修正されたとのこと。この問題はこれまでRedditなどのコミュニティサイトにおいてユーザーから報告されていたものであり、今回のアップデート適用によって同様のトラブルが改善される見込みとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261027-apple-fixes-macbook-neo-web-camera-crash-macos-27-2.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/03/MacBook-Neo-yellow-logo-icon.webp",
+ "published": "2026-10-27T08:37:55+00:00"
+}

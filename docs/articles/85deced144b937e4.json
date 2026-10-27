@@ -1,0 +1,19 @@
+{
+ "id": "85deced144b937e4",
+ "title_ja": "iPhone Duo、開閉でショートカット自動実行デモ",
+ "summary_ja": "ShortcutsアプリでiPhone Duoの開閉をトリガーに自動化が可能になるデモが公開された。たとえば、折りたたむと自動でロックする設定などが実現できる。この機能はユーザーが折りたたみ操作だけでデバイスの状態を管理できる点が注目されている。",
+ "points": [
+  "iPhone Duoの開閉をトリガーにしたショートカットが判明",
+  "本体を開く・閉じる、またはその両方の動作に対応",
+  "折りたたんだ際に自動でロックする設定などが可能"
+ ],
+ "body": "海外メディアの9to5Macにて、iPhone Duoの開閉動作をトリガーとしてショートカットアプリの自動化を実行できるデモ動画が公開されたと報じられている。この機能は先月に開発者のpdfu氏によってコードから発見されていたが、実際に動作している様子が動画で確認されるのは今回が初めてとなる。\n\n利用可能なトリガーには本体を開いたとき、閉じたとき、あるいはその両方が含まれており、公開されたデモ動画ではYouTuberのStephen Robles氏が本体を開く動作をトリガーにして生産性向上アプリを自動起動させる様子が披露されている。また、本体を閉じた際に自動でロックがかかるように設定することも可能であると確認されている。\n\n詳細な仕様や活用方法についてさらに注目が集まっており、開閉に合わせて特定のサウンドを鳴らすといったユニークなアイデアも寄せられている。今後の続報や実際の使用感についての情報が待たれるところである。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/26/watch-the-iphone-duo-run-a-shortcuts-automation-when-it-is-opened-or-closed-video",
+ "lang": "en",
+ "region": "global",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-allows-Shortcuts-automations-based-on-opening-or-closing-it.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-26T12:01:32+00:00"
+}
