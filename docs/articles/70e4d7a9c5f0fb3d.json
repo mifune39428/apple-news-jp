@@ -1,0 +1,20 @@
+{
+ "id": "70e4d7a9c5f0fb3d",
+ "title_ja": "14インチのM6搭載新型MacBook Pro発表",
+ "summary_ja": "AppleはM6チップを搭載した14インチの新型MacBook Proを発表した。12コアCPUやGPUの強化により処理性能が向上し、優れたオンデバイスAI機能や高速な接続性を提供する。",
+ "points": [
+  "M6チップを搭載した14インチMacBook Proが発表された",
+  "12コアCPUやGPUにより処理性能とAI処理能力が大幅に向上",
+  "最大24時間のバッテリー駆動やWi-Fi 7に対応している",
+  "スペースブラックとシルバーの2色展開で10月28日予約開始"
+ ],
+ "body": "Appleは、新型のM6チップを搭載した14インチMacBook Proを発表した。学生やビジネスユーザー、クリエイターなど幅広い層に向けて、優れたパフォーマンスやAI処理能力、高速な接続性を提供するとしている。新モデルに採用されたM6チップは、12コアCPUや12コアGPU、デュアル16コアNeural Engineを搭載しており、M5チップと比較してグラフィックス性能が最大30パーセント、AIワークロードの処理が最大25パーセント向上している。さらに、M1チップからの買い替えであれば、グラフィックス性能は最大11倍、AI性能は最大13倍に達するとされている。\n\nM6チップに統合された Neural Accelerators やデュアルNeural Engineにより、デバイス上での高度なAI処理や大規模言語モデルのローカル実行がプライバシーを保護しながら可能になっている。また、Wi-Fi 7やBluetooth 6に対応したほか、最大24時間というMac史上最長クラスのバッテリー駆動時間を実現しており、電源の有無に関わらず一貫したパフォーマンスを発揮する。ディスプレイにはLiquid Retina XDRを採用し、ナノテククスチャーガラスのオプションも用意されているほか、12メガピクセルのCenter Stageカメラや6スピーカーサウンドシステムなどを備えている。\n\n本体カラーはスペースブラックとシルバーの2色展開となる。予約受付は10月28日より開始され、11月6日より販売が開始される予定となっている。標準のユニファイドメモリは16GBで、最大32GBまでの構成が可能となっており、優れた電力効率と高い処理能力を兼ね備えたプロ向けのコンパクトなラップトップとして展開される。",
+ "source": "Daring Fireball",
+ "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831",
+ "published": "2026-10-27T16:00:46+00:00"
+}
