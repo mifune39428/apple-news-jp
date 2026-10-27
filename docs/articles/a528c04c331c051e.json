@@ -1,0 +1,19 @@
+{
+ "id": "a528c04c331c051e",
+ "title_ja": "Apple、AI性能を強化したM6搭載14インチMacBook Proを発表",
+ "summary_ja": "Appleは、高いパフォーマンスやパワフルなオンデバイスAI機能、高速な接続性を備えたM6搭載の新しい14インチMacBook Proを発表した。日常の作業から高度な処理まで、より効率的でスムーズな動作を提供する。",
+ "points": [
+  "12コアCPUとGPUを搭載した新しいM6チップを採用",
+  "バッテリー駆動時間は最大24時間に向上しWi-Fi 7に対応",
+  "10月29日予約開始、11月6日より販売を開始"
+ ],
+ "body": "Appleは、先進的なパフォーマンスとパワフルなオンデバイスAI機能を備えた新しい14インチMacBook Proを発表した。このモデルには、12コアCPUと各コアにNeural Acceleratorを備えた12コアGPU、さらにデュアル16コアNeural Engineを搭載した新しいM6チップが採用されている。M5と比較してグラフィックス性能が最大30パーセント、AIワークロードが最大25パーセント高速化され、M1からのアップグレードではグラフィックスが最大11倍、AIパフォーマンスが最大13倍向上するとされている。また、デュアルNeural EngineによってApple IntelligenceやLLMのローカル実行が強力にサポートされる。\n\nハードウェア面では、Wi-Fi 7とBluetooth 6への対応により接続性が強化されたほか、Mac史上最長となる最大24時間のバッテリー駆動時間を実現している。ディスプレイには最大1,600ニトのピーク輝度を持つLiquid Retina XDRが採用され、反射を抑えるNano-textureガラスのオプションも用意される。豊富なポート類や12MPセンターフレームカメラ、6スピーカーサウンドシステムなど、従来の優れた機能も引き継がれている。\n\nカラーはスペースブラックとシルバーの2色が用意され、標準で16GBのユニファイドメモリを搭載する。スペースブラックにはより指紋の付きにくい酸化皮膜シールが採用された。新しい14インチMacBook Proは、10月29日より予約注文の受付が開始され、11月6日より販売が開始される予定となっている。",
+ "source": "Apple Newsroom 日本",
+ "url": "https://www.apple.com/jp/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg",
+ "published": "2026-10-27T13:19:37.372000+00:00"
+}
