@@ -1,0 +1,20 @@
+{
+ "id": "7b28ace90d81a204",
+ "title_ja": "AppleがiOS27.2とiPadOS27.2をリリース、その他のOSも更新",
+ "summary_ja": "AppleがiOS27.2およびiPadOS27.2を公開した。あわせてwatchOS27.2やmacOS Golden Gate 27.2といった各種OSの最新バージョンもリリースされている。公開されたリリースノートにて変更点や修正内容の確認が可能となっている。",
+ "points": [
+  "AppleがiOS/iPadOS27.2などのOSアップデートを配信",
+  "iOS27.2ではiPhone DuoでApple Pencilが利用可能に",
+  "対応機種においてApple IntelligenceやSiriに関する記載あり",
+  "watchOSやmacOSなどの各OSも同時にリリースされた"
+ ],
+ "body": "Appleは2026年10月27日、iOS27.2およびiPadOS27.2を正式にリリースした。今回のアップデートでは、新機能の追加やさまざまな改善が実施されている一方で、ソフトウェアの更新に伴いパフォーマンスやバッテリー駆動時間に影響が出る場合があると言及されている。また、一部の Apple IntelligenceやSiriの機能に関しては、対象機種において使用制限が適用される場合があるとされている。\n\n今回の配信では、iOS27.2やiPadOS27.2のほかにも、watchOSやmacOS Golden Gate 27.2など多数のOSアップデートが同時に公開された。具体的には、iOS 27.2やiOS 26.7.2、iOS 18.7.11、iPadOS 27.2、iPadOS 26.7.2、iPadOS 18.7.11、macOS 27.2、macOS 26.7.2などがそれぞれのビルド番号とともに提供されている。\n\n新しいバージョンへのアップデートにより、iPhone DuoにおいてUSB-CのApple Pencilが利用可能になるなどの変更が含まれている。Apple製品のソフトウェア更新は不具合の修正や機能向上をもたらす重要なものとなっているが、利用環境やデバイスによって適用される機能や動作が異なる場合があるため、自身の使用している機種の対応状況を確認することが推奨される。",
+ "source": "iPhone Mania",
+ "url": "https://iphone-mania.jp/ios-608002",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/27/IMG_1859.jpeg",
+ "published": "2026-10-27T01:13:18+00:00"
+}

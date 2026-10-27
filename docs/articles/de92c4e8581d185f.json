@@ -1,0 +1,19 @@
+{
+ "id": "de92c4e8581d185f",
+ "title_ja": "Apple Watch向けwatchOS 27.2が配信開始",
+ "summary_ja": "Apple Watch向けに「watchOS 27.2」の配信が開始された。Siri AIがついに日本語に対応し、会話の記憶機能や応答の高速化が追加されている。対応モデルはSeries 9以降やUltra 2以降など。",
+ "points": [
+  "watchOS 27.2などの配信が始まり、Siri AIが日本語に対応した",
+  "Apple Watchで利用するには、対応するiPhoneとのペアリングが必要",
+  "Siri AIは引き続きベータ版として提供されており、一部制限がある"
+ ],
+ "body": "Apple Watch向けの最新ソフトウェア「watchOS 27.2」の配信が開始され、刷新されたSiriである「Siri AI」が日本語で利用できるようになったと報じられている。同時にiOS 27.2やiPadOS 27.2なども公開されており、日本語のほかフランス語、韓国語、ポルトガル語、スペイン語にも対応範囲が広がった。Apple Intelligenceを基盤とするSiri AIは、持ち主の状況を踏まえた回答や画面上の認識、アプリ内での操作などをより自然な会話で行えるように設計されている。メッセージやメールなどから必要な情報を見つけ出したり、アプリ内の作業を任せたりすることが可能で、iCloudを介してApple製品間で会話を同期することもできる。\n\n利用にあたってはいくつかの条件があり、Apple Watch側はwatchOS 27.2に対応するモデルであれば条件を満たすものの、ペアリングしているiPhone側がApple Intelligenceに対応した特定のモデルである必要があるとされている。また、デバイスとSiriの言語設定を日本語に揃えておくことも求められる。今回のアップデートでは言語の追加だけでなく、応答速度の向上なども含まれており、手首での操作性が改善されていると伝えられている。なお、Siri AIは正式版となった後もベータ版の位置づけのままであり、EUや中国本土では利用できないほか、一部の機能には使用回数の制限が設けられていると報じられている。",
+ "source": "gori.me",
+ "url": "https://gori.me/watchos/watchos-news/171778",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 4,
+ "image": "https://gori.me/uploads/2026/10/ios27_2-official-release-1-800x500.jpg",
+ "published": "2026-10-26T22:05:20+00:00"
+}
