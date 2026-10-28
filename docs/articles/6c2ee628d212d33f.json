@@ -1,0 +1,20 @@
+{
+ "id": "6c2ee628d212d33f",
+ "title_ja": "macOS 27のアセット画像からMacBook ProへのDynamic Island導入が浮上",
+ "summary_ja": "macOS 27のシステムアセットから、iPhoneのDynamic Islandに似た情報表示用の要素が見つかった。これにより、将来のMacBook Proでは従来のノッチが廃止され、FaceTimeカメラ周辺にピル型の表示領域が採用される可能性が示唆されている。",
+ "points": [
+  "macOS 27からDynamic Islandを示唆するアセットが見つかった",
+  "次期MacBook Proは従来のノッチからピル型カメラへ移行する見込み",
+  "AirPods接続や低バッテリーなどのコンパクトな表示用データが含まれる",
+  "新メニューバー構成要素がタッチスクリーンMacと島の導入を整えている"
+ ],
+ "body": "新型のタッチスクリーン搭載MacBook Proの発表を控える中、macOS 27のシステム内からiPhoneのDynamic Islandに酷似した5つのアセットが発見されたと報じられている。これらの新しいMacBook ProにはFaceTimeカメラ用のピル型カットアウトが採用される見通しであり、2021年以来デザインの主流であったノッチが廃止されるとされている。\n\nコード解析者によって発見されSNS上で共有されたアセット群は、AirPodsの接続状況やノイズキャンセリング、集中モードの有効化、低バッテリー警告、自動オーディオ切り替えなどの機能に関連している。これらはMenuBarAgentと呼ばれる新しいメニューバーのコンポーネントに紐づいており、タッチスクリーンを備えたMacや同様のデザイン要素の導入に向けた土台になると伝えられている。\n\nさらに、将来的にSiriのAI機能が、しずくのようなデザインを持つ新たなシステム表示領域に組み込まれるという見方も示されている。これらの画面表示に関するシステム側の挙動は、タッチスクリーン対応Macの登場を前に指摘されてきた関連情報とも合致する内容となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/28/pill-shaped-macos-27-dynamic-island-macbook-pro",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/dynamic-island-views-macos-27@2x-scaled.jpg",
+ "published": "2026-10-28T11:28:41+00:00"
+}

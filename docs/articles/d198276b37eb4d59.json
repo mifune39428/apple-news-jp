@@ -1,0 +1,20 @@
+{
+ "id": "d198276b37eb4d59",
+ "title_ja": "Mac向け「Windows 11 Pro」ライセンスが期間限定で9.97ドルに値下げ",
+ "summary_ja": "Mac上でWindowsアプリを動かすための「Windows 11 Pro」生涯ライセンスが、11月1日までの期間限定で9.97ドルで販売されています。Parallels Desktop等を利用してmacOS上で再起動なしに動作可能です。Hyper-VやBitLockerなどのPro版限定機能も利用できます。",
+ "points": [
+  "Windows 11 Proの永続ライセンスが9.97ドルでセール中",
+  "Parallels Desktopを使いMac上で再起動なしに動作",
+  "Hyper-VやBitLockerなどのPro向け機能を含む",
+  "購入後のコードは30日以内に引き換える必要がある"
+ ],
+ "body": "Mac用でありながらWindows専用のアプリケーションをどうしても利用したい場合、仮想環境などを活用してWindowsを導入するという方法が選ばれる。Microsoftから直接購入すると通常は約200ドルほどかかるWindows 11 Proのライセンスだが、11月1日までの期間限定で、永続ライセンスが9.97ドルという大幅な割引価格で販売されている。手持ちのMacにParallels Desktopなどの仮想化ソフトを導入していれば、MacBookやMacデスクトップの環境を切り替えることなく、macOSのすぐ隣でWindowsアプリを動かすことが可能になる。\n\n今回セール対象となっているPro版には、家庭向けのHome版には含まれていない高度な機能が多数搭載されている。仮想環境を構築できるHyper-Vをはじめ、安全にアプリをテストできるWindows Sandbox、ドライブを暗号化するBitLocker、ビジネスネットワークへのサインインを可能にするAzure ADサポートなどが利用できる。また、ウィンドウを整理するスナップレイアウトや、ゲーム向けのDirectX 12 Ultimate、タスクバーから操作できるCopilotなども標準で含まれており、AIによる質問への回答やページの要約機能なども活用できるようになっている。\n\n今回の特別価格で提供されるライセンスは1台のデバイス専用のものであり、別のマシンへ転送することはできない仕様となっている。また、ライセンスの適用にはMicrosoft Officeが含まれていないため、Officeが必要な場合は別途用意する必要がある。購入を検討する際は、TPM 2.0への対応を含め、Windows 11のシステム要件を満たしているかを事前に確認しておくことが重要となる。決済完了後にはアクティベーションコードがメールで届く仕組みになっており、購入後30日以内にコードを有効化する必要がある。別のパソコンを追加で買いそろえることなく、Mac上で必要なWindows環境を手軽に構築したいユーザーにとって、今回の特価セールは見逃せない選択肢となりそうだ。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3270990/run-windows-11-pro-on-your-mac-for-9-97.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/3270990-0-07496400-1793174460-Windows-11-Pro-2.jpg?quality=50&strip=all",
+ "published": "2026-10-28T08:00:00+00:00"
+}
