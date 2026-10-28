@@ -1,0 +1,21 @@
+{
+ "id": "b06da86fe6daf9d9",
+ "title_ja": "リモートデスクトップアプリ「Astropad Workbench v1.4」がリリース",
+ "summary_ja": "リモートデスクトップアプリ「Astropad Workbench」のバージョン1.4が公開された。今回のアップデートではiPhone Duoに対応したほか、デスクトップ画面とターミナルビューを簡単に切り替えられる新機能が追加されている。",
+ "points": [
+  "「Astropad Workbench v1.4」がリリースされた。",
+  "Appleの折りたたみ端末「iPhone Duo」に対応。",
+  "独立ウィンドウで使えるリモートターミナルを新搭載。",
+  "セッション同期や音声入力、低速回線向け最適化を実施。",
+  "ドラッグ＆ドロップによるMac間のファイル転送に対応。"
+ ],
+ "body": "元AppleのQuickTimeエンジニアであり、iPadを液晶タブレット化するツール「Astropad」などを展開するAstro HQのMatt Ronge氏が手掛けるリモートデスクトップアプリ「Astropad Workbench」の最新版となるバージョン1.4がリリースされた。本アプリは、Mac miniやMac StudioなどのMacにインストールしたAIエージェントを、iPhoneなどの手元のデバイスからリモート環境で操作するための機能を備えたアプリケーションである。\n\n新たに公開されたv1.4では、Apple初とされる折りたたみ式スマートフォン「iPhone Duo」への対応が完了した。加えて、通常のデスクトップ表示とは切り離してターミナルを画面上に表示できる「リモートターミナルビュー」機能が新実装されている。これにより、独立したウィンドウとしてターミナルを開き、コマンド操作を行えるようになった。このターミナルビューは、iPhoneやiPadなど複数のデバイス間で進行中のセッションをスムーズに引き継ぐことができるほか、音声によるコマンド入力機能も備えている。さらに、回線速度が低速なネットワーク環境下でも効率的に利用できるよう開発されている点が大きな強みとなっている。\n\nまた、Mac版のAstropad Workbenchにおいては、接続先のリモートMacからドラッグ＆ドロップの簡単な操作のみでファイルを転送できる新たな機能が盛り込まれた。この追加により、リモート接続中のファイル移動が手軽に行えるようになり、作業の利便性が一段と高まっている。Astropad Workbench v1.4には毎日20分間アクセスして利用できるトライアルモードが提供されているため、気になるユーザーは導入前にその操作感や各種新機能を実機で試すことができる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261028-astropad-workbench-support-iphone-duo-and-terminal.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/03/Astropad-Workstation-for-Mac-and-iPhone-logo-icon.webp",
+ "published": "2026-10-28T00:03:44+00:00"
+}

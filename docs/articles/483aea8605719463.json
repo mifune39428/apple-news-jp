@@ -1,0 +1,19 @@
+{
+ "id": "483aea8605719463",
+ "title_ja": "Macサブディスプレイ化アプリ「OpenDisplay」がiPhone Duoに対応",
+ "summary_ja": "iPhoneやiPadをMacのサブディスプレイとして活用できるアプリ「OpenDisplay」が、新たにiPhone Duoに対応しました。ドイツの個人開発者が手がける本ツールは、今後のアップデートによりLinuxやAndroidといった他のOS環境への対応も予定されています。",
+ "points": [
+  "iPhoneやiPadをMacのディスプレイにするアプリが更新",
+  "最新バージョンでiPhone DuoとSplit Viewに対応",
+  "今後はLinuxやAndroidへの展開も予定されている"
+ ],
+ "body": "iPhoneやiPadをMacのセカンドディスプレイとして活用できるようにするオープンソースのアプリ「OpenDisplay」がアップデートされ、最新バージョンとなるv1.30.0がリリースされた。今回のアップデートにより、新たにiPhone DuoとSplit Viewがサポートされ、デバイスの画面にMacの映像を表示させながら、同時にSafariや各種アプリを利用することが可能となっている。\n\nこのアプリは、デバイス同士の紐づけや有料のサブスクリプション登録を必要とせず、手軽にマルチモニター環境を構築できるツールとして開発されている。AppleのSidecarやLuna Display、Duet Displayといった既存のディスプレイ拡張機能やツールと同様の目的で利用できるのが特徴となっている。\n\nさらに今回のバージョンでは、Linux版のアプリがベータ版として新たに公開されたほか、AndroidのスマートフォンやタブレットをMacのセカンドディスプレイ化するアプリの開発も進められていると報じられている。Android版については公開に向けたテスト段階にあり、今後のマルチプラットフォーム展開に向けた準備が進められているようだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261028-opendisplay-support-iphone-duo.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/07/OpenDisplay-for-mac-free-open-source-Sidecar-logo-icon.webp",
+ "published": "2026-10-28T01:39:21+00:00"
+}

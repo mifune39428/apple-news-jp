@@ -1,0 +1,19 @@
+{
+ "id": "7b6645bf9da9489b",
+ "title_ja": "ChatGPTでiCloudメールとカレンダーが利用可能に",
+ "summary_ja": "OpenAIはChatGPTにiCloudメールとカレンダーのプラグイン機能を追加した。これにより、他の外部サービスと同様にAppleのメールやカレンダーサービスと連携できるようになる。",
+ "points": [
+  "ChatGPTがiCloudメールとカレンダーのプラグインに対応した",
+  "ウェブ版、デスクトップ版、iOS版のすべてのプランで利用できる",
+  "利用にはiCloudのアプリケーション用パスワードの入力が必要となる"
+ ],
+ "body": "OpenAIは、対話型AI「ChatGPT」において、iCloudメールとカレンダーのプラグインサポートが新たに開始されたことを発表した。これにより、これまでGmailなどの他社サービスと同様に、AppleのメールやカレンダーサービスをChatGPTに直接接続できるようになる。ユーザーはメールの検索や受信トレイの確認、予定の確認やカレンダーイベントの更新などをChatGPTに依頼することが可能となる。\n\n今回の対応は、ウェブ版、デスクトップ版、iOS版のすべてのChatGPTプランを対象として提供されている。利用にあたっては、サードパーティ製のメールやカレンダーアプリと同様に、iCloudのアプリケーション用パスワードを使用してサインインを行う仕様となっている。また、このプラグインの導入により、ChatGPTの機能である「Dots」などの互換性も初めて有効になり、設定のサポートなども行えるようになることが確認されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-27T18:20:35+00:00"
+}

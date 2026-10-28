@@ -1,0 +1,20 @@
+{
+ "id": "12805a2270b1b919",
+ "title_ja": "Apple Creator Studioが最新アップデートでAI機能を大幅強化",
+ "summary_ja": "Appleのクリエイター向けアプリ群に、AIを活用した新機能が追加されることが発表された。10のアプリすべてが対象となり、11月から既存のサブスクリプション加入者向けに無料で提供される。映像制作やグラフィックのツールがさらに進化する。",
+ "points": [
+  "Apple Creator Studioの全10アプリに大型アップデートが発表された",
+  "買収したMotionVFXのツールがFinal Cut Proなどに統合される",
+  "Pixelmator ProやLogic ProにAI機能が追加される",
+  "11月に現在の登録者向けへ無料で提供が開始される予定"
+ ],
+ "body": "Appleは、Mac、iPhone、iPad向けプロフェッショナル向けクリエイティブアプリ群「Apple Creator Studio」の全10アプリに対する大規模なアップデートを発表した。これらの新機能は11月に、現在のサブスクリプション登録者に向けて無料で提供される予定となっている。今年買収したプラグイン開発元MotionVFXの技術がFinal Cut ProやMotionに統合され、カラーグレーディングやモーショングラフィックスなどのツールが追加料金なしで利用できるようになる。また、Final Cut ProはPixelmator Proとの連携機能が強化され、タイムラインから直接画像を編集してプロジェクトへ保存することが可能になった。\n\n音声編集のLogic Proでは、OpenAIと共同開発した新しいインテリジェントアシスタントが搭載され、ワークフローのナビゲーションやプロジェクトの洗練に活用できる。さらに、Stem Splitter機能の向上や、iPhoneでの録音ノイズを軽減する機能なども追加された。生産性アプリの分野でも進化が見られ、Keynote、Pages、Numbersにはドキュメントの文脈を理解するインテリジェントアシスタントが導入され、スライドのデザインやデータの可視化などをサポートする。これらの機能は、先週誤って早期公開された情報ですでに一部が明らかになっていた。\n\nContent HubにはAppleが選定したストック動画素材が追加され、新しいテンプレートやテーマも利用可能になる。Freeformではテキストスタイルの追加に加え、12月にPixelmator Proを通じた画像直接編集機能などが実装される予定である。Apple Creator Studioは月額または年額のサブスクリプションとして提供され、ファミリー共有を通じて最大6人までの家族と共有できる。なお、各アプリの個別購入版や無料アプリについても引き続き提供される形となっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3270683/apple-creator-studio-gets-a-major-ai-boost-with-latest-update.html",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/3270683-0-33533400-1793119045-creator-studio-.jpg?quality=50&strip=all",
+ "published": "2026-10-27T16:35:29+00:00"
+}
