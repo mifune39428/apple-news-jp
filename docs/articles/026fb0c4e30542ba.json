@@ -1,0 +1,19 @@
+{
+ "id": "026fb0c4e30542ba",
+ "title_ja": "新しいMacBook Pro向けタッチ操作対応の解説動画が公開",
+ "summary_ja": "Appleが新しいMacBook Proのタッチ操作やマルチタッチに対応するためのアプリ設計手法を解説する3本の動画を公開した。開発者向けにmacOSでのタッチ操作やLive Activitiesの実装方法などを詳しく紹介している。",
+ "points": [
+  "新型MacBook Proのタッチ操作対応を解説する動画が公開された",
+  "macOS向けアプリのデザイン手法や移植方法が紹介されている",
+  "メニューバー表示がDynamic Islandに統合される仕様も示された"
+ ],
+ "body": "Appleが新型MacBook Proにおけるタッチ操作のサポート方法を解説する3本の動画を公開したと報じられている。これらの動画は、開発者がmacOS向けアプリにタッチ操作を組み込むためのアプローチやデザインの手法について詳しく説明している内容となっている。\n\nCas Lemmensによる解説ではmacOSでのタッチ向けデザインについて触れられており、Raleigh Ledetは既存のMacアプリへタッチ機能を導入する手順を詳細に紹介している。さらに、Jonathan Tilleyの動画ではライブアクティビティのインターフェイスに焦点を当てており、他のMacではメニューバーに表示される要素が、新型MacBook ProではDynamic Islandに表示される仕様であることが示されている。\n\nこれらの動画から、macOSへのタッチ機能の追加によってインターフェイス自体が根底から覆るわけではないものの、タッチ体験をより優れたものにするための細かい調整や工夫がAppleによって加えられていることが確認できると伝えられている。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/link/2026/10/designing-mac-apps-for-touch-and-multitouch",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1",
+ "published": "2026-10-28T19:56:49+00:00"
+}

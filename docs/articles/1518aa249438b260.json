@@ -1,0 +1,20 @@
+{
+ "id": "1518aa249438b260",
+ "title_ja": "新PROLED搭載MacBook Pro発表、タッチ対応",
+ "summary_ja": "Appleが14インチと16インチのPROLED XDR Display搭載MacBook Proを発表した。Mac初のタッチスクリーンを採用し、ハイエンド向けの上位モデルとして展開される。従来モデルより高価格化し、プロユーザー向けの機能が強化されている。",
+ "points": [
+  "PROLED XDRディスプレイ搭載の新MacBook Proが発表",
+  "Mac初のタッチスクリーン操作とタンデムOLEDを採用",
+  "ノッチに代わりDynamic Islandを新たに搭載",
+  "M5 ProまたはM5 Maxチップを搭載して発売"
+ ],
+ "body": "Appleは、PROLED XDRディスプレイを搭載した新しいMacBook Proを発表した。14インチと16インチのモデルが用意され、従来の非OLEDモデルと比較してそれぞれ400ドル高い価格設定となっている。本モデルはプロフェッショナルや要求の厳しいユーザー向けに設計されており、Macの歴史において初めてタッチスクリーン操作に対応したことが大きな特徴となっている。キーボードやトラックパッドに加えて画面を直接タップすることが可能で、ピンチ操作やスクロールといった馴染みのあるジェスチャーを低遅延で利用できる。ソフトウェア側でも macOS 27 Golden Gateを通じてタッチ操作に最適化されており、専用のAPIを通じてサードパーティ製アプリの対応も進められている。\n\nディスプレイにはiPad Proに続いてタンデムOLED技術が採用され、AppleはこれをUltra Retina XDRディスプレイと称している。2枚のOLEDパネルを重ね合わせることで、より深い黒や優れたコントラスト、色彩表現を実現しており、ポータブルリファレンスモニターとして色彩の正確さを求めるプロのニーズに応える仕様となっている。また、従来のノッチデザインに代わって、iPhoneでおなじみのDynamic IslandがMacBook Proに初めて採用された。これにより、通知やライブアクティビティの表示だけでなく、SpotlightやSiri AIの入力ウィンドウがピル型のエリアの真下に展開されるようになる。\n\n本体デザインにおいても改良が加えられており、従来の同サイズモデルと比較して軽量化が図られているほか、1999年のPowerBook G3以降親しまれてきた光るAppleロゴが復活を果たした。内部にはM5 ProまたはM5 Maxチップが搭載されており、M5 Maxはこれまでの最速ノートブック向けチップを上回る性能を発揮する。なお、従来の非OLEDモデルのMacBook Proもラインナップに残り続け、本製品はハイエンド向けの新たな高級選択肢として展開される。すでに予約受付が開始されており、出荷は11月6日から順次行われる予定となっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3271736/top-features-new-apple-macbook-pro-with-proled-xdr-display.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/10/3271736-0-31660500-1793218511-Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028_big.jpg.large_2x.jpg?quality=50&strip=all",
+ "published": "2026-10-28T18:57:19+00:00"
+}
