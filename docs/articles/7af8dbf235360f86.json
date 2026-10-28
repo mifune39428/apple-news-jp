@@ -1,0 +1,20 @@
+{
+ "id": "7af8dbf235360f86",
+ "title_ja": "Appleが「Pro and Tell」イベントを開催、新製品を発表",
+ "summary_ja": "Appleは「Pro and Tell」イベントを開催し、長年噂されていたタッチスクリーン搭載の新しいMacBook Proなどを発表しました。週を通して行われた製品発表の締めくくりとして、注目の新モデルが公開されています。",
+ "points": [
+  "Appleがタッチスクリーンを搭載した新型MacBook Proを発表",
+  "OLEDディスプレイやA20 Proを搭載した新しいiPad Miniが登場",
+  "M6チップとN1無線チップを搭載したMacBook ProとiMacが発表",
+  "KeynoteなどのiWorkアプリにAIチャットボット機能が追加"
+ ],
+ "body": "Appleは今週、新製品に関する一連の発表を行い、その締めくくりとして「Pro and Tell」イベントを開催した。今回の発表における最大の注目点として、同社初となるタッチスクリーンを搭載したMacBook Proが明らかにされた。このモデルはディスプレイパネルに直接タッチセンサーを内蔵することで遅延を軽減しており、タンデムOLEDディスプレイや120Hzのリフレッシュレート、最大2,000ニトの輝度を備えている。また、本体の軽量化に加え、天板には発光するAppleロゴが復活し、Dynamic Islandも初めて搭載された。M5 ProまたはM5 Maxチップを搭載し、14インチモデルは2,899ドルから、16インチモデルは3,399ドルから提供され、すでに予約受付が開始されており11月6日に発売される予定となっている。\n\nさらに、iPad Miniも刷新され、より大型化した8.5インチのOLEDディスプレイを搭載した。厚さ5.4mmの薄型ボディに、従来よりもスリムなベゼルを採用し、ディスプレイを通して低音と音量を向上させる新しい「Acoustic Display」を備えている。内部にはA20 Proチップを搭載し、横向きに配置された12メガピクセルカメラやIP67等級の防塵防水性能も備え、Wi-Fi専用の128GBモデルが699ドルから販売される。同時に、最新のM6チップと独自のN1ネットワーキングチップを搭載した14インチのMacBook ProおよびiMacも発表された。これらはWi-Fi 7やBluetooth 6をサポートし、M6搭載のMacBook Proは1,999ドルから、M6搭載のiMacは1,499ドルからそれぞれ提供され、予約受付を開始しており11月6日からの出荷が予定されている。\n\nハードウェアの更新に加えて、ソフトウェア分野でもAI関連のアップデートが行われた。Keynote、Numbers、Pagesには、ドキュメントの文脈を理解できるAIチャットボットが導入され、AppleとOpenAIのモデルを活用してスライドのデザインや下書きの作成、データの計算などを支援する機能が提供される。さらに、Pixelmator ProへのAIによるフィル機能の追加や、Logic Proでの新しいAIアシスタントの導入、Final Cut ProにおけるMotionVFXへの直接アクセスなども合わせて発表されている。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-28T17:27:38+00:00"
+}

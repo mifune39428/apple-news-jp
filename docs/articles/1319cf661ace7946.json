@@ -1,0 +1,20 @@
+{
+ "id": "1319cf661ace7946",
+ "title_ja": "PerplexityのMacアプリ、音声モードを刷新",
+ "summary_ja": "PerplexityはMac向けアプリの音声モードをアップデートし、OpenAIの音声モデルを採用した。これにより、会話しながら音声モデルがユーザーの言葉に耳を傾ける機能などが新たに利用可能となっている。",
+ "points": [
+  "PerplexityのMac用アプリがアップデート",
+  "OpenAIの音声モデル「gpt-live-1」を採用",
+  "ProおよびMaxの加入者が利用可能",
+  "オフライン対応のAI機能も最近追加された"
+ ],
+ "body": "Perplexityは、Mac向けアプリの音声モードをアップデートし、OpenAIが開発した最新の音声モデル「gpt-live-1」を導入した。この新しい音声モデルの採用により、ユーザーが話している最中でもAIが聞き取ることが可能になり、デスクトップアプリにおける音声体験が大幅に向上している。今回の機能強化は、Macアプリおよびウェブ版のProおよびMaxプランの加入者を対象に提供が開始されており、複数のセッションでの作業や新しいタスクの開始、プロジェクトの管理などを1つの音声セッション内でシームレスに行うことができる。\n\nまた、Perplexityはこれとは別に、クラウドモデルに依存せずMac上で直接AIを実行できる機能も最近発表している。これにより、インターネット接続がない環境でも利用できるオフラインモードや、プライバシーを重視したAIワークフローの構築が可能となっており、デスクトップ環境における利便性や選択肢がさらに広がっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+ "published": "2026-10-28T16:28:15+00:00"
+}

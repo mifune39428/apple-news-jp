@@ -1,0 +1,19 @@
+{
+ "id": "c34d9265db14b7a8",
+ "title_ja": "タッチ対応MacBook Proが発表、2,899ドルから",
+ "summary_ja": "Appleはイベント「Pro and tell」にて、OLEDのタッチスクリーンを搭載した新型MacBook Proを発表しました。14インチと16.1インチモデルが用意され、本日より予約受付が開始されています。",
+ "points": [
+  "Appleが同社初となるタッチスクリーン搭載のMacBook Proを発表",
+  "画面にはタンデムOLEDを採用しDynamic Islandを新たに搭載",
+  "14インチと16インチの2サイズ展開で11月6日に発売予定"
+ ],
+ "body": "Appleは、同社初となるタッチスクリーンを搭載した新型MacBook Proを発表した。14インチモデルは2899ドルから、16インチモデルは3399ドルからとなっており、すでに予約受付が開始されており、11月6日に発売される予定となっている。これまで長年にわたりノートPCへのタッチスクリーン搭載に否定的な姿勢をとってきた同社だが、今回ついに方針を転換した形となる。\n\n新型モデルには「PROLED XDR」と呼ばれるタンデムOLEDディスプレイが採用されており、ピークSDR輝度は最大2000ニト、リフレッシュレートは最大120Hz、コントラスト比は1000万対1を誇る。内部にはM5 ProまたはM5 Maxチップが搭載され、画面上部にはiPhoneでおなじみのDynamic Islandが備わっている。タッチセンサーはディスプレイパネルに直接組み込まれており、レイテンシーの軽減が図られている。ウェブページのスクロールや写真のズームだけでなく、iOSやiPadOSアプリのテストなどでの活用が想定されており、標準アプリの最適化や開発者向けの新しいAPIも用意される。\n\n本体はベゼルが狭められたことで画面サイズがわずかに拡大し、従来よりも薄型化が図られている。バッテリー駆動時間は最大24時間で、MagSafe 3ポート、ヘッドフォンジャック、SDカードリーダー、HDMIポート、3つのThunderbolt 5ポートを備える。また、音質が向上した6スピーカーサウンドシステムや、安定性を高める新設計のヒンジなども搭載されている。過去には故スティーブ・ジョブズ氏やティム・クック氏がノートPCへのタッチ操作導入に否定的な見解を示していた歴史があるだけに、今回の発表は大きな転換点として注目を集めそうだ。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-28T17:05:56+00:00"
+}

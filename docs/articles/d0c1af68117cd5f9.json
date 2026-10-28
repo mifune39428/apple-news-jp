@@ -1,0 +1,20 @@
+{
+ "id": "d0c1af68117cd5f9",
+ "title_ja": "Macに初の「Dynamic Island」登場、新型MacBook Proに搭載",
+ "summary_ja": "Appleは、新しい14インチおよび16インチMacBook Proに、Macとしては初めて「Dynamic Island」を導入しました。ライブアクティビティやSpotlight、Siri AIをディスプレイ上のインタラクティブなエリアに統合し、作業中も様々な情報を素早く確認できます。",
+ "points": [
+  "新しいMacBook Proにダイナミックアイランドが初搭載",
+  "ライブアクティビティやSiriなどを表示・操作可能",
+  "Face IDは非搭載でTouch IDと12MPカメラを継続",
+  "14インチと16インチがあり米国価格は2,899ドルから"
+ ],
+ "body": "Appleは、新しく発表された14インチおよび16インチのMacBook Proモデルにおいて、Macとしては初めてダイナミックアイランドを導入した。これにより、ライブアクティビティ、Spotlight、Siriといった機能がディスプレイ上のインタラクティブなエリアに集約され、ユーザーは作業を中断することなく様々な情報を確認したり操作したりできるようになる。ダイナミックアイランドは元々2022年9月にiPhone 14 Proシリーズで初めて採用されたもので、従来のノッチに代わってアラートや進行中のアクティビティに応じて形状が変化する仕組みとして登場した。\n\nMac版でもそのコンセプトは引き継がれており、他のアプリで作業をしている最中でも、電話への応答、音楽再生のコントロール、AirDropリクエストの承認などがこのインターフェースを通じて行えるようになっている。さらに、新しいMacBook Proのタッチスクリーンを活用することで、音楽の一時停止といった操作を画面のタップだけで簡単に実行できるのも特徴である。iPhone版では顔認証のTrueDepthカメラシステムが組み込まれていたが、今回の新しいMacBook Proでは生体認証として引き続きTouch IDが採用されており、12メガクセルのセンターステージカメラが搭載されているため、ダイナミックアイランドの導入によってMacにFace IDが搭載されるわけではない。\n\n新型のMacBook Proモデルの予約注文は10月28日に開始され、11月6日に発売される予定となっている。米国における販売価格は、14インチモデルが2,899ドルから、16インチモデルが3,399ドルから設定されている。ディスプレイ上の新しい操作領域の追加により、Macでの作業効率やメディアコントロールの利便性がどのように向上するのか、今後の展開に注目が集まるところである。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-Dynamic-Island-Apple-Music-scaled.jpg",
+ "published": "2026-10-28T17:28:03+00:00"
+}
