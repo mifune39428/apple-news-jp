@@ -1,0 +1,20 @@
+{
+ "id": "58eb3e785135fee8",
+ "title_ja": "新型MacBook ProのPROLED XDR技術をディスプレイ専門家が評価",
+ "summary_ja": "新型MacBook ProにはOLEDディスプレイやタッチ機能に加え、優れた色精度を実現するPROLED XDR Display技術が導入されています。ディスプレイの専門家は、正確な色再現性を求める画像や映像のプロフェッショナルにとって特に魅力的な進化であると高く評価しています。",
+ "points": [
+  "新型のMacBook ProがApple CMF 2026カラーモードに対応",
+  "人間の色の知覚の個人差を補正し正確な色表示を実現する",
+  "P3とAdobe RGBの2つのCMF参照モードが搭載されている",
+  "従来のCIE 1931ベースの参照モードも選択可能となっている"
+ ],
+ "body": "新型のMacBook ProにはOLEDディスプレイやタッチスクリーン機能のほか、色の正確性を重視するプロフェッショナル向けの高度な技術が搭載されている。特に注目すべき点として、Apple CMF 2026カラーモードに対応したことが挙げられる。カラーマッチング関数を表す従来の標準規格であるCIE 1931は長年利用されてきたが、近年のOLEDや量子ドットといったディスプレイ技術では、人間の目の個人差による見え方の違いを十分に処理できないという課題があった。Apple CMF 2026はこの課題に対処し、使用されるディスプレイ技術や見る人に関わらず一貫した色表示を可能にするもので、この技術がポータブルなノートブックに搭載されることは移動の多いプロフェッショナルにとって大きなメリットとなる。\n\nこのモデルには、P3カラープライマリー用と、P3およびAdobe RGBの両方を含む柔軟性の高いものの、2つのApple CMF 2026参照モードが用意されている。HDRおよびSDRコンテンツのピーク輝度は2000ニトに達し、True Tone設定によって周囲の照明に応じた色温度や明るさの自動調整が行われる。一方で、長年標準とされてきたCIE 1931の色空間を利用するモードも医療用画像のDICOMを含めて14種類搭載されており、用途に応じた切り替えが可能である。さらに、Apple Pro Display Calibratorを用いたキャリブレーション機能もサポートされており、測定機器や視覚的な調整による微調整にも対応している。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-29T17:48:09+00:00"
+}

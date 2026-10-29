@@ -1,0 +1,19 @@
+{
+ "id": "6772779c11757747",
+ "title_ja": "HomePodをMacのデフォルトスピーカーに設定する方法",
+ "summary_ja": "HomePodをMacの標準スピーカーとして設定することが可能になった。対応要件を確認した上で、簡単な手順に従うだけで利用を開始できる。",
+ "points": [
+  "MacのデフォルトスピーカーにHomePodを設定可能に",
+  "システム音や動画通話の音声も常時接続で再生できる",
+  "最新のOSアップデートと対応ハードウェアが必要"
+ ],
+ "body": "アップルは、Macのオーディオ出力先としてHomePodをデフォルトのスピーカーに常時設定できる待望の新機能を追加した。これまでもAirPlayを使ってMacからHomePodへ音声を飛ばすことは可能だったが、接続は一時的なものにとどまっていた。今回のアップデートにより、システム音やビデオ通話を含むあらゆるMacの音声を、接続を切り直す手間なくHomePodから直接再生できるようになる。\n\nこの機能を利用するには、ソフトウェアのアップデートが必須となる。HomePod側はHomePodソフトウェア27.2以降、Mac側は最新のmacOS 27.2にそれぞれアップデートされている必要がある。さらにハードウェア側の要件も存在し、第2世代のHomePodまたは新しいHomePod mini 2と、Wi-Fi 6E以降をサポートする比較的新しいMacの組み合わせでのみ機能する。そのため、最新のOSに対応している古いMacの一部では利用できない場合がある。\n\nセットアップを完了させれば、豊かな低音やクリアなボーカルを備えたHomePodの高音質で、音楽や映画、ポッドキャストなどをより快適に楽しめるようになる。ステレオペアを組んでいれば、さらに没入感のあるリスニング体験も可能だ。これまでAirPlayの接続が維持されないことにどかしさを感じていたユーザーにとって、日々のMacでの作業やメディア鑑賞の利便性を大きく高める機能となっている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/how-to/homepod-mac-default-speaker-how-to",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/HomePod-Mac-default-speaker-how-to_01.jpg.webp",
+ "published": "2026-10-29T13:53:20+00:00"
+}

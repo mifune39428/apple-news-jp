@@ -1,0 +1,19 @@
+{
+ "id": "0a919d0bd9871534",
+ "title_ja": "台湾のApp Store、アプリ手数料を26%に引き下げへ",
+ "summary_ja": "Appleは公正取引委員会との協議を受け、台湾のApp Storeにおける標準の手数料率を現在の30%から26%へと引き下げる。この変更はiOSおよびiPadOS向けに2026年10月31日より適用される予定となっている。",
+ "points": [
+  "台湾の公正取引委員会との協議によりApp Storeの料率を変更",
+  "2026年10月31日より台湾での標準的な手数料を30%から26%に引き下げ",
+  "規約改定に伴いApple Developer Programの契約が更新された"
+ ],
+ "body": "Appleは台湾の公正取引委員会との協議を経て、台湾向けApp Storeにおける手数料の引き下げを実施すると報じられている。iOSおよびiPadOS向けの台湾ストアにおいて、標準的なアプリ内購入や有料アプリの取引にかかる手数料率が、従来の30パーセントから26パーセントに変更される見通しである。この新しい料率は2026年10月31日からの適用とされている。\n\n今回の変更に伴い、特典を受けるために10月31日までに更新された規約への署名が必須ではないことも伝えられている。すでにポリシーの更新を反映した形でApple Developer Programのライセンス契約が改定されており、開発者はアカウントにサインインすることで最新の規約に同意できるようになっている。また、更新された契約の翻訳版については、約1ヶ月以内にApple Developerのウェブサイト上で公開される予定であるとされる。",
+ "source": "Daring Fireball",
+ "url": "https://developer.apple.com/news/?id=w9mxlhek",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 4,
+ "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
+ "published": "2026-10-29T21:03:42+00:00"
+}
