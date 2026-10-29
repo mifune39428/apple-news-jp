@@ -1,0 +1,19 @@
+{
+ "id": "0da5b8ad5ca9a05e",
+ "title_ja": "Apple、MacBook Pro PROLED XDR向けベゼルテンプレートを公開",
+ "summary_ja": "Appleが開発者やデザイナー向けに、新しいMacBook Pro PROLED XDR Displayのベゼルテンプレートを公開しました。データはPhotoshop形式およびPNG形式で提供されています。アプリやグラフィックのデザイン作業において、画面表示の正確なレイアウト調整に活用できます。",
+ "points": [
+  "MacBook Pro新モデルのベゼルテンプレートが公開",
+  "PSDとPNG形式でデザインツールに対応",
+  "タッチ操作やDynamic Island開発を支援"
+ ],
+ "body": "Appleは、新しく発表されたMacBook Pro向けのベゼルテンプレートを開発者やデザイナーに向けて公開した。このテンプレートはApple Design Resourcesを通じて提供されており、マーケティング資料などの作成に活用できるものとなっている。\n\n提供されているテンプレートにはAdobeのPhotoshopで利用可能なPSD形式のほか、AppleのPagesやKeynoteなどのアプリでも扱いやすいPNG形式が用意されている。これにより、幅広いデザイン環境や用途に合わせてスムーズに素材を利用することが可能だ。\n\n今回の新型MacBook Proでは、Macとして初めてタッチ操作に対応したほか、新しいPROLED XDRディスプレイやDynamic Islandが搭載されている。そのため、アプリ開発者やデザイナーは、これらの新しいインターフェースや機能に対応したコンテンツの制作や検証を行う際に、今回のベゼルテンプレートが役立つツールとなる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261029-macbook-pro-proled-xdr-display-bezel.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/MacBook-Pro-with-PROLED-XDR-Display-logo-icon.webp",
+ "published": "2026-10-28T23:31:18+00:00"
+}

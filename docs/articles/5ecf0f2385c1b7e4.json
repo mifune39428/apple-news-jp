@@ -1,0 +1,19 @@
+{
+ "id": "5ecf0f2385c1b7e4",
+ "title_ja": "Apple、MacBook Proのタッチ操作・Dynamic Island対応設計動画を公開",
+ "summary_ja": "Appleは開発者に向けて、PROLED XDRディスプレイを搭載したMacBook Proにおけるタッチ操作やDynamic Island対応アプリの設計・開発方法を解説するTech Talks動画とドキュメントを公開しました。新機能を生かしたUIやUXを構築するための実践的なガイドラインがまとめられています。",
+ "points": [
+  "Appleが開発者向けにTech Talks動画と資料を公開",
+  "PROLED XDR搭載MacBook Proでのタッチ操作対応を解説",
+  "Dynamic IslandやLive Activitiesの実装方法を紹介"
+ ],
+ "body": "Appleは、新たなPROLED XDRディスプレイを搭載しMacとして初めてタッチ操作に対応した14インチおよび16インチのMacBook Proの発売に合わせ、開発者やデザイナー向けに複数のTech Talks動画やドキュメントを公開した。これらはAppleのDeveloperサイトやYouTubeを通じて配信されており、macOSアプリを新しい操作性やハードウェア機能に合わせて設計および開発するための重要な指針が示されている。\n\n公開されたコンテンツでは、macOSアプリをタッチ操作に最適化するための具体的なアプローチが解説されている。具体的には、マウスやキーボードを使った従来の操作性と、新たに追加されたタッチ操作との違いや、システムジェスチャーの仕組みについて触れられている。また、ポインタ操作との両立を保ちながら適切なコントロールサイズやタッチターゲットを設定する方法、ホバーインタラクションの適応方法など、UI設計に関する重要な検討事項が網羅されている。\n\nさらに、MacBook Proに新しく搭載されるDynamic Islandに対して、アプリの動作状況やリアルタイム情報をLive Activitiesとして表示する方法も紹介されている。すでにiPhoneアプリ向けに採用されているLive Activitiesの機能をmacOS環境へスムーズに移植するための手法も解説されており、開発者が自身のアプリを新しいハードウェア機能に対応させるための実践的な内容となっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261029-apple-tech-talks-design-for-touch-on-mac.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/MacBook-Pro-with-PROLED-XDR-Display-logo-icon.webp",
+ "published": "2026-10-28T23:14:12+00:00"
+}

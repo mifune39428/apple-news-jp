@@ -1,0 +1,19 @@
+{
+ "id": "f8d575e15a9cdf99",
+ "title_ja": "Mac Studioの512GBメモリ版価格が明らかに",
+ "summary_ja": "Appleは、M5 MaxおよびM5 Ultraを搭載したMac Studioについて、10月に発売予定である512GBメモリ構成の価格を公式に発表した。これまで詳細が未定だった最高峰のメモリ容量を選択した際の価格が明らかになった。",
+ "points": [
+  "Mac Studioの512GBメモリ搭載モデルの価格が判明",
+  "512GBは最高峰のM5 Ultraチップ選択時のみ利用可能",
+  "ベースモデルからのアップグレード費用は1万5500ドル"
+ ],
+ "body": "Appleは、Mac Studioにおける512GBメモリ搭載構成の価格を正式に明らかにしました。この512GBのメモリ大容量オプションは、8月に新たなM5 MaxおよびM5 Ultra構成が発表された際、10月に提供予定と予告されていたものであり、公式サイトのカスタマイズ画面から選択可能になっています。\n\n事前の発表通り、512GBのメモリを選択できるのは、36コアCPUと80コアGPUを備えた最上位のM5 Ultraチップを搭載したモデルに限られます。96GBのユニファイドメモリを標準搭載するベース構成から512GBへアップグレードする場合の価格は1万5500ドルとなります。\n\n最上位のM5 Ultraチップ、512GBのユニファイドメモリ、1TBのストレージを組み合わせた場合の合計価格は2万2299ドルです。さらにストレージを最大となる16TBまでカスタマイズした場合には、総額で2万9799ドルに達します。なお、512GBのメモリを注文した場合の届け出時期は11月下旬から12月上旬になるとされています。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-studio-displays-fi.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-28T17:40:07+00:00"
+}

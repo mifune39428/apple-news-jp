@@ -1,0 +1,20 @@
+{
+ "id": "ab708fc6fe629870",
+ "title_ja": "初 タッチ画面搭載の新型MacBook Pro発表",
+ "summary_ja": "AppleがPROLED XDRディスプレイとタッチスクリーンを初めて搭載した新型MacBook Proを正式発表しました。新CEOのJohn Ternus氏が予告していたハイエンドノートPCの詳細が明らかになっています。",
+ "points": [
+  "Apple初のタッチスクリーン搭載MacBook Proを発表",
+  "ディスプレイにはタンデムOLEDとPROLED XDRを採用",
+  "M5 ProおよびM5 Maxチップを搭載し、価格は14インチが2899ドルから",
+  "従来のノッチに代わりDynamic Islandを採用し、光るAppleロゴが復活"
+ ],
+ "body": "Appleは、同社初となるタッチスクリーンディスプレイを搭載した全く新しいMacBook Proを正式に発表した。今回の新モデルでは、従来のMini-LEDに代わり、タンデムOLED技術を用いたPROLED XDRディスプレイが採用されている。これにより、HDRコンテンツのピーク輝度は従来の1600ニトから2000ニトへと向上し、さらにタッチ操作に対応したことで、画面上のコンテンツを直接タップやスワイプして操作できるようになっている。タッチセンサーはディスプレイパネルに直接組み込まれており、専用の新しいヒンジ技術によってタッチ操作時の安定性も高められている。\n\n内部プロセッサにはM5 ProおよびM5 Maxチップが搭載されており、最大128GBのユニファイドメモリと16TBのSSDストレージ構成を選択可能となっている。また、デザイン面では従来のノッチが廃止されてDynamic IslandがMacに初めて導入され、SpotlightやLive Activities、Siriの機能が集約されている。さらに、かつてのノートブックで親しまれていた光るAppleロゴが復活したほか、従来モデルと比較してより薄型化・軽量化が図られているのも大きな特徴となっている。\n\n本体カラーはシルバーとスペースブラックの2色が用意され、標準ガラスのほかにナノテクステクスチャーガラスの構成も選択できる。価格は14インチモデルが2899ドルから、16インチモデルが3399ドルからとなっており、すでに予約受付が開始され、11月6日より配送が開始される予定である。なお、生体認証は引き続きTouch IDを採用し、Face IDやセルラー通信機能の搭載は見送られているが、タッチ操作に対応しない従来のM5 Pro/Max搭載MacBook Proモデルも併売されることになっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 5,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600",
+ "published": "2026-10-28T17:06:48+00:00"
+}
