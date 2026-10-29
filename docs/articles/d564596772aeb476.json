@@ -1,0 +1,20 @@
+{
+ "id": "d564596772aeb476",
+ "title_ja": "Apple Watch Series 12/Ultra 4に年内2つの新機能が追加へ",
+ "summary_ja": "Apple Watch Series 12およびApple Watch Ultra 4に向けて、年内に2つの新機能が追加される予定です。新たに登場するのは「Siri Recap」と「Live Rewind」で、両モデルの機能性をさらに強化します。今後の詳細発表が期待されます。",
+ "points": [
+  "Apple Watch Series 12とUltra 4に新機能が追加予定",
+  "会話を自動で要約する「Siri Recap」が導入される",
+  "直前の音声をテキスト化する「Live Rewind」が搭載される",
+  "これらの新機能はwatchOS 27.3で提供される見込み"
+ ],
+ "body": "Apple Watch Series 12およびApple Watch Ultra 4に向けて、今年後半に2つの新しい機能が追加されると報じられている。watchOS 27の一部として展開されるこれらの機能は、音声やAIを活用した高度なデータ処理を特徴としており、ユーザーの利便性をさらに高めるものとされている。詳細についてはAppleからホワイトペーパーなども公開されており、プライバシーへの配慮についても言及されている。\n\n追加される機能の1つである「Siri Recap」は、日々の会話内容を周囲の環境から自動的に記録し、Apple Intelligenceによって高レベルな要約を作成する機能とされている。この機能により、会話に集中しながらも後から記憶を呼び起こすことが可能になるといい、保存を選択しない限り要約は7日後に自動削除される仕組みになっている。もう1つの機能である「Live Rewind」は、オーディオインテリジェンスを活用したもので、デジタルクラウンをダブルプレスすると直近15秒間の音声をテキストスニペットとして表示し、聞き逃した内容を直接確認できるようになると報じられている。\n\nこれらの新機能は、間もなくベータ版の配信が開始される見通しのwatchOS 27.3を通じて導入されることが期待されている。現時点では詳細な実装時期や実際の使い心地について注目が集まっており、今後の正式なベータリリースやアップデートの展開が待たれている状況である。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-28T14:08:34+00:00"
+}

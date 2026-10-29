@@ -1,0 +1,20 @@
+{
+ "id": "ead09d107298c120",
+ "title_ja": "新型MacBook ProのPROLED XDR搭載モデルと従来機を徹底比較",
+ "summary_ja": "AppleはPROLED XDRディスプレイを新たに採用したMacBook Proを発表した。同じM5 ProやM5 Maxチップを搭載する既存モデルとのスペック比較により、主な違いが明確になっている。ディスプレイ仕様の刷新に伴い、両モデルの選択肢が整理された。",
+ "points": [
+  "PROLED XDR搭載の新型MacBook Proが登場",
+  "2021年以来となる新デザインで軽量化を実現",
+  "タンデムOLEDディスプレイやタッチ操作に対応",
+  "Dynamic Islandを搭載し価格は2,899ドルから"
+ ],
+ "body": "Appleは、M5 ProおよびM5 Maxチップを搭載した既存のMacBook Proのラインナップに加え、新たにPROLED XDRディスプレイを搭載したモデルを発表した。2021年以来初となる大幅なデザイン刷新が行われており、従来モデルよりもわずかにスリムで大幅な軽量化が図られているほか、往年の光るAppleロゴが復活し、安定性を高めた新設計のヒンジが採用された。サイズは14.2インチモデルと、わずかに拡大された16.3インチモデルが用意されている。\n\n最大の特徴であるディスプレイには、世界最高峰とされるタンデムOLED技術が採用され、黒の表現力向上や色彩の再現性に加え、ピーク輝度が2,000ニトへと引き上げられた。さらに、MacBook Proとして初めてタッチ操作に対応し、macOS 27によるタッチ入力向けの最適化が施されているほか、従来のノッチに代わってDynamic Islandが搭載された。内部のM5 ProおよびM5 Maxチップやメモリ、バッテリー駆動時間、各種ポート類などの基本仕様は標準モデルと同等となっている。\n\nストレージ構成では、M5 Max選択時に最大16TBのオプションが追加された点が従来との違いとなっている。カメラ機能では、タッチ操作時の揺れを防ぐ高度なビデオ手ブレ補正が追加され、スピーカーシステムも低音や高音の改良によって音質が向上した。価格は14インチモデルが2,899ドルから、16インチモデルが3,399ドルからとなっており、標準モデルと比較して400ドルのプレミアム価格が設定されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/macbook-pro-with-proled-xdr-vs-macbook-pro-heres-every-difference",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-vs-comparison-standard.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-28T18:06:03+00:00"
+}
