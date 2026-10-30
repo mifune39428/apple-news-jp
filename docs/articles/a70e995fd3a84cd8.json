@@ -1,0 +1,19 @@
+{
+ "id": "a70e995fd3a84cd8",
+ "title_ja": "iPhoneでMacアプリを操作するリモートデスクトップ登場",
+ "summary_ja": "MacアプリをiPhoneで快適に利用できるように設計されたリモートデスクトップアプリ「Casement」がリリースされた。手元のiPhoneからスムーズな操作が可能になる。",
+ "points": [
+  "Macアプリを手元のiPhoneなどで操作できる「Casement」がリリース",
+  "デスクトップ全体ではなく特定のアプリウィンドウを手元に表示可能",
+  "Apple Silicon搭載のMacや各種Apple製デバイスに対応する買い切り型アプリ"
+ ],
+ "body": "MacのアプリをiPhoneなどのデバイスで快適に操作できるように開発されたリモートデスクトップアプリ「Casement」が新たにリリースされている。近年、Appleの折りたたみ式スマートフォンなどの登場を背景にして、大画面デバイスから自宅のMacを操作するリモートデスクトップ関連のツールが再び注目を集める中、それらとは少しアプローチの異なるアプリとして登場した。\n\n従来のデスクトップ全体を表示する方式とは異なり、Casementはコンピュータで開いている特定のアプリケーションウィンドウを手元のデバイスに映し出す仕組みを採用している。表計算ソフトやAIエージェントなどのウィンドウをそのままiPhoneやiPad、Apple Vision Proの画面サイズに合わせて操作できるのが特徴で、Dockやメニューバーの表示機能、ソフトウェアキーボードやトラックパッドなども備えられている。\n\n開発を手掛けたのはShinnosuke Iwaki氏で、自身の日常的な利用の中でブラッシュアップを重ねてきた自信作となっている。利用にはMac側にコンパニオンアプリの導入が必要となり、システム要件として対応OSを搭載したApple Silicon MacやiPhone、iPad、Vision Proなどが求められる。価格は2,000円の買い切り型で、導入検討者向けに7日間の無料トライアル期間も用意されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261030-casement-mac-app-on-your-iphone.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/Casement-mac-app-on-your-iPhone-logo-icon.webp",
+ "published": "2026-10-30T08:20:25+00:00"
+}
