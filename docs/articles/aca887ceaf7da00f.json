@@ -1,0 +1,20 @@
+{
+ "id": "aca887ceaf7da00f",
+ "title_ja": "iOS 27.3ベータが来週配信へ、中国版AI機能を追加",
+ "summary_ja": "Appleは、中国向けにApple Intelligence機能の一部を有効にする「iOS 27.3」の開発者向けベータ版を来週水曜日に配信すると発表した。一般向けリリースは12月に予定されている。対象はiPhone 15 Pro以降のモデルとなる。",
+ "points": [
+  "iOS 27.3の開発者向けベータ版が来週水曜日に配信予定",
+  "中国国内で一部のApple Intelligence機能が利用可能に",
+  "一般向けリリースは12月中に実施される見通し",
+  "SiriのAI機能などは今回の対象外となる"
+ ],
+ "body": "Appleは、中国市場向けに「Apple Intelligence」の一部機能に対応する「iOS 27.3」の開発者向けベータ版を、来週水曜日にリリースすると発表した。中国のApple Newsroomで公開されたプレスリリースによると、現地の時差の関係から、米国時間では火曜日頃の配信になるとみられている。また、一般向けの正式リリースは12月中を予定していることが明らかにされているが、具体的な日付については現時点で言及されていない。\n\n今回のアップデートにより、中国国内の対応デバイスにおいて、文章校正ツール、Genmoji、写真のクリーンアップ機能、通知の要約、優先通知、AirPodsによるライブ翻訳といった初期のApple Intelligence機能が利用可能になる。対象となるのはiPhone 15 Pro以降のモデルとされており、利用する際にはiPhoneとSiriの言語設定を英語および簡体字中国語の両方に設定する必要がある。\n\n一方で、WWDC 2026で発表されたSiriの高度なAI機能や、その他の比較的新しいApple Intelligenceの機能については、今回のiOS 27.3の段階では中国国内では提供されない見込みであると報じられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
+ "published": "2026-10-30T21:45:20+00:00"
+}
