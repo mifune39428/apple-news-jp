@@ -1,0 +1,20 @@
+{
+ "id": "8b61f21fcb847406",
+ "title_ja": "Apple Creator Studioに多数のAI機能が追加",
+ "summary_ja": "AppleはCreator Studioの大型アップデートを発表し、MacやiPadなどのクリエイティブアプリを刷新した。Final Cut Proへのビジュアルエフェクト統合や、Keynoteの新しいJSONファイル形式などが含まれる。",
+ "points": [
+  "Apple Creator Studioに多彩な新機能とAI機能が追加",
+  "Final Cut ProがMotionVFXやPixelmator Proと連携",
+  "Logic Proや各iWorkアプリにAIアシスタントを導入",
+  "既存の登録者向けに11月からApp Storeで無料で配信"
+ ],
+ "body": "Appleは、Mac、iPad、iPhone向けクリエイティブアプリ群であるApple Creator Studioの大規模なアップデートを発表した。動画編集アプリのFinal Cut Proでは、エフェクトやトランジションなどを提供するMotionVFXが統合され、厳選された動画素材を利用できるコンテンツハブも追加されている。また、タイムライン上の画像をPixelmator Proで直接開いて編集できるようになり、ワークフローの連携が強化された。キーフレームの調整機能の拡充や、書き起こし言語の追加なども行われている。\n\n音楽制作アプリのLogic Proでは、ベータ版のインテリジェントアシスタントや、ドラムの分離に対応したステムスプリッター、Spliceライブラリを含む再設計されたブラウザが導入された。画像編集のPixelmator Proには、自然言語で指定した範囲を変化させられる「Generate Fill」が新たに追加されている。Keynote、Pages、Numbersの各アプリでも、文書の文脈を理解するAIアシスタントのベータ版や、ワークフローの自動化を支えるModel Context Protocol（MCP）のサポートが開始された。\n\n今回のアップデートでは、コンテンツハブへのストック動画の追加や、プレミアムなテーマ・テンプレートの導入も含まれている。Apple Creator Studioの新しい機能は、既存の登録者向けに11月からApp Storeを通じて無料のアップデートとして提供される予定となっている。プロフェッショナルから初心者まで幅広いクリエイターに向けて、より高度で効率的な制作環境を提供する内容に刷新されている。",
+ "source": "Daring Fireball",
+ "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 5,
+ "image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610291907",
+ "published": "2026-10-27T22:00:04+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "1bed58b2785a7027",
+ "title_ja": "Xcode 27.2から新型iPad miniやApple TV 4Kのメモリ容量が判明",
+ "summary_ja": "Appleが公開したXcode 27.2の記述から未発表端末のメモリ容量が判明した。A19チップ搭載の第4世代Apple TV 4Kは8GB、OLEDディスプレイを採用した新型iPad miniおよびiPhone Duoは12GBのメモリを搭載している。公式スペックには記載がない情報となっている。",
+ "points": [
+  "Xcode 27.2から新製品のRAM容量が判明した",
+  "新Apple TV 4Kは8GBのRAMを搭載している",
+  "新しいOLED版iPad miniは12GBのRAMを搭載する",
+  "メモリ不足により多くの製品で価格が引き上げられている"
+ ],
+ "body": "AppleがリリースしたXcode 27.2のコードから、最新のApple TV 4KおよびOLEDディスプレイを搭載した新しいiPad miniのRAM容量が明らかになったと報じられている。Appleは通常、公式の技術仕様書でRAM容量を明記していないため、今回の開発者向けツールを通じた確認は注目を集めている。伝えられるところによると、A19チップを搭載する新しいApple TV 4Kには8GBのRAMが備わっており、A20 Proチップを搭載する新しいiPad miniには12GBのRAMが搭載されているという。また、同時に言及されているiPhone Duoについても、12GBのRAMを搭載していることが確認されている。\n\nこれらのRAM容量自体には事前の予想から大きな驚きはないものの、公式スペックに記載されない詳細が裏付けられた形となる。業界全体で発生しているメモリチップの不足はRAMやストレージの価格高騰を招いており、その影響によってAppleは今年、iPhoneやiPad、Mac、HomePods、Apple TV 4Kなど多くの製品群で価格を引き上げる事態となっている。部品供給のひ迫とコスト上昇が続く中での製品展開において、今回のRAM容量の判明は各デバイスのスペックを正確に把握する上で貴重な情報となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+ "published": "2026-10-30T00:50:44+00:00"
+}

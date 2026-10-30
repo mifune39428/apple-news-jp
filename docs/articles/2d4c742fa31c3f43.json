@@ -1,0 +1,20 @@
+{
+ "id": "2d4c742fa31c3f43",
+ "title_ja": "macOS 27からDynamic Islandの痕跡を発見か",
+ "summary_ja": "次期MacBook Proの発表を控える中、macOS 27のコードからDynamic Island関連の要素が見つかった。ノッチに代わる新しいディスプレイ形状や、SiriのAI機能に関連するデザインが導入される見込みだ。",
+ "points": [
+  "タッチスクリーン対応MacとOLED搭載MacBook Proの発表が間近に迫っている",
+  "macOS 27のベータ版からダイナミックアイランドを示す素材が発見された",
+  "Siri AIがダイナミックアイランドから展開するデザインになると報じられている",
+  "新型モデルの価格は現行機より400ドルの値上げになると予想されている"
+ ],
+ "body": "新型のMacBook Proの発表を目前に控え、Mac向けOSの次期バージョンとみられるmacOS 27の中から、ダイナミックアイランドに関連する要素が見つかったと報じられている。タスク管理などを担当するMenuBarAgentというコンポーネント内から視覚的なアセットが発見され、これまで噂されてきた画面上部のデザイン変更を裏付ける形となっている。このデザインはiPhoneと同様に、通知やシステムの状態表示などに活用されるとみられている。\n\nまた、画面上部の新システムアパーチャと呼ばれる部分からは、Siri AIがドロップレット状のデザインで拡張する機能が用意されると伝えられている。タッチスクリーンやOLEDディスプレイの搭載とあわせて、Macの操作体系が大きく進化する見通しである。これらの一連の新機能や変更点は、次世代のMacBook Pro向けに準備が進められているとされている。\n\n価格面に関しては、Bloombergの報道によると、新型モデルは既存モデルと比較して400ドルの価格上乗せになると予想されている。これは、以前に一部で予測されていた500ドルから700ドルの値上げ幅よりも低い金額に収まる見込みである。発表イベントの開催が数時間後に迫る中、これらの予測や新機能の全貌が間もなく正式に明らかにされることになるとみられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-28T12:03:53+00:00"
+}

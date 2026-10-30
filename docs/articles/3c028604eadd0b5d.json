@@ -1,0 +1,20 @@
+{
+ "id": "3c028604eadd0b5d",
+ "title_ja": "Parallels Desktop for Mac v27.1.0が不具合修正で公開",
+ "summary_ja": "Parallelsが「Parallels Desktop for Mac v27.1.0」をリリースした。Windows仮想マシンでOpenGLを使用するCADや3Dアプリ、ゲームで発生していた問題のほか、LinuxやmacOS仮想マシンに関する不具合など20件以上が修正されている。",
+ "points": [
+  "Parallels Desktop 27の最新版v27.1.0がリリースされた",
+  "Windows環境でのCADや3Dアプリの不具合など22件を修正",
+  "AirPods Pro 2の音声出力やiCloudアクセス問題も解消",
+  "LinuxやmacOS仮想マシンの安定性も向上している"
+ ],
+ "body": "仮想化ソフトウェアを手掛けるParallels Internationalは、Mac向け仮想化ソフトの最新アップデートとなる「Parallels Desktop for Mac v27.1.0」をリリースした。今年8月に登場したバージョン27を対象にしたもので、全体的な安定性の向上に加え、合計22件に及ぶ多様な不具合の修正が行われているのが大きな特徴となっている。\n\n今回のアップデートでは、Windows仮想マシン環境における様々なトラブルが集中的に解消された。具体的には、OpenGLを利用するCADや3Dモデリングソフト、ゲーム、Avaloniaベースのアプリケーションなどで発生していた問題が修正されている。さらに、AirPods Pro 2の音声出力が利用できなかったり、iCloudフォルダへアクセスできなかったりした不具合も解決された。\n\n加えて、Windows以外のゲストOS環境における問題も多数改善されている。Linux仮想マシンにおけるParallels Toolsのインストール失敗や画像のコピペ障害、Apple M4およびM5チップ環境でのネスト化された仮想マシンのフリーズ、暗号化されたmacOS仮想マシンが黒い画面のまま起動しなくなる現象などが修正された。このほか、ハードディスク設定に関する不具合や、アップグレード後にTRIMオプションが無効化される問題も対処されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261030-parallels-desktop-for-mac-27-1-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-10-30T01:46:05+00:00"
+}
