@@ -1,0 +1,20 @@
+{
+ "id": "011fdc062b2b84be",
+ "title_ja": "中国向け「Apple Intelligence」がiOS 27.3で登場予定",
+ "summary_ja": "Appleは中国向けの公式ニュースルームにて、iOS 27.3を通じて中国でApple Intelligenceの提供を開始すると発表した。11月4日に配信予定のベータ版で先行提供された後、12月に正式リリースされる見込みだ。現地ユーザーもまもなく高度なAI機能を利用できるようになる。",
+ "points": [
+  "iOS 27.3のベータ版が来週に中国市場向けに配信開始",
+  "通知の要約や翻訳など一部のAI機能が中国で利用可能に",
+  "新SiriやChatGPTの統合は見送られAlibabaのQwenに対応",
+  "正式版のiOS 27.3は12月にリリースされる予定"
+ ],
+ "body": "Appleは、中国市場向けに初期のApple Intelligence機能を提供する「iOS 27.3」のベータ版を来週から配信すると報じられている。中国のニュースルームサイトでの発表によると、まずは11月4日にベータ版が提供され、12月には正式版のリリースが予定されているという。これによって、これまで利用できなかったAI機能の一部が中国のユーザーにも開放されることになる。\n\n今回の展開では、新たなSiriのAI機能は含まれておらず、通知の要約、リアルタイム翻訳、文章の書き換えや校正ツール、ビジュアルインテリジェンス、写真からのオブジェクト削除といった初期の機能が中心となる。また、一部の機能においてAlibabaのチャットボット「Qwen」のサポートが追加されており、これは他地域におけるOpenAIのChatGPTとの統合に似た仕組みであると伝えられている。\n\nApple Intelligenceを巡っては、今年7月に中国国内での承認が下りており、8月には中国専用に独自の大規模言語モデル（LLM）を訓練したことが報じられていた。規制が厳しい中国市場において、現地企業との提携を交えながら段階的なAI機能の導入が進められている状況と言える。",
+ "source": "The Verge (Apple)",
+ "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+ "published": "2026-10-30T22:32:53+00:00"
+}

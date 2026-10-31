@@ -1,0 +1,19 @@
+{
+ "id": "8bdca989930c0227",
+ "title_ja": "最新OS各種、キヤノンやニコンの新カメラRAWに対応",
+ "summary_ja": "Appleは最新のmacOSやiOS、iPadOS、visionOSなどのベータ版において、キヤノンやニコンのフルサイズミラーレスカメラのRAWフォーマットをネイティブサポートする。多様なプロ向け撮影機材との連携が強化される。",
+ "points": [
+  "Appleが最新OSで新たなデジタルカメラのRAWフォーマットに対応",
+  "キヤノンやニコンの最新フルサイズミラーレスカメラなどが追加",
+  "Creator Studioやシステム全体でRAW画像のネイティブ利用が可能に"
+ ],
+ "body": "Appleは現地時間の2026年10月30日、最新のmacOS 27.2 Golden GateやiOS/iPadOS 27.2、visionOS 27.2のリリースに合わせて、デジタルカメラのRAWフォーマットのネイティブサポートを拡大したと発表した。今回のアップデートにより、Appleの各種OSやCreator Studioアプリにおいて、複数モデルのカメラで撮影されたRAW画像のシームレスな処理や閲覧が可能になる。サポート対象となった機種には、2026年10月に発売されたキヤノンのフルサイズミラーレスカメラであるCanon EOS R8 Mark IIや、ニコンのフルサイズミラーレスカメラであるNikon Z5IICといった最新モデルが含まれている。さらに、近年の最新機だけでなく、2001年に発売されたキヤノンのコンパクトデジタルカメラであるPowerShot S30およびS40、2013年発売のFUJIFILM FinePix F900EXR、2020年発売のLeica M10 Monochromといった往年の名機や特定モデルのRAWフォーマットも新たに追加されている。これらのカメラを所有するユーザーは、Appleの最新環境下でRAWデータを直接扱えるようになるため、写真の編集作業や管理がより快適に行える環境が整えられた形となっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261031-appleos-27-support-canon-eos-r8-mark-ii-and-nikon-z5iic.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/05/iOS-Camera-app-logo-icon.webp",
+ "published": "2026-10-31T02:48:29+00:00"
+}

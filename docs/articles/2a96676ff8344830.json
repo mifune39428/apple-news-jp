@@ -1,0 +1,20 @@
+{
+ "id": "2a96676ff8344830",
+ "title_ja": "中国のiOS 27.3でApple Intelligenceが利用可能に",
+ "summary_ja": "中国のApple公式サイトにて、次期アップデートとなるiOS 27.3で作文ツールやGenmojiなどのApple Intelligence機能が提供されることが明らかになった。対応機種はiPhone 15 Pro以降であり、Siri AIやImage Playgroundなどは対象外となる。",
+ "points": [
+  "iOS 27.3で中国国内向けのApple Intelligenceが有効化される見込み",
+  "文章ツールやGenmoji、視覚知能などの機能が利用可能になる",
+  "SiriのAI機能やImage Playgroundなどは対象外となる",
+  "対応機種は当面iPhone 15 Pro以降のモデルに限定される"
+ ],
+ "body": "Appleの中国向けウェブサイトによると、今後配信される予定のiOS 27.3において、同国でのApple Intelligenceの一部機能が有効になると報じられている。対象となる機能には、文章作成ツール、Genmoji、写真の不要物を消去するクリーンアップ、通知の要約、優先通知、ビジュアルインテリジェンス、そしてAirPodsによるライブ翻訳が含まれるとされている。一方で、SiriのAI機能やImage Playgroundといった一部の機能については、利用できない除外対象になると伝えられている。\n\nこれらのAI機能の提供は、AppleがiPadやMacなどの他のデバイス向けに中国国内での展開承認を取得するまでの間、iPhone 15 Proおよびそれ以降の対応モデルに限定される見通しである。今後のスケジュールとしては、来週にも最初のiOS 27.3ベータ版が提供される予定であり、正式なソフトウェアアップデート自体のリリースは12月に予定されていると報じられている。中国市場におけるAppleのAIサービス展開に向けた具体的な動きとして、今後の動向に注目が集まっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/10/Apple-Intelligence-China.jpg",
+ "published": "2026-10-30T21:46:00+00:00"
+}

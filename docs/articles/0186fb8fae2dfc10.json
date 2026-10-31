@@ -1,0 +1,20 @@
+{
+ "id": "0186fb8fae2dfc10",
+ "title_ja": "システムモニタアプリ「NeoHtop v1.3」が公開",
+ "summary_ja": "macOSやWindows、Linuxに対応するシステムモニタアプリ「NeoHtop v1.3」がリリースされた。UIの刷新やメニューバー常駐型ウィンドウの追加、プロセスツリーやGPU監視機能の強化が行われている。",
+ "points": [
+  "システムモニタアプリ「NeoHtop v1.3」がリリース",
+  "Shadcn-svelteの採用でUIや操作性が刷新された",
+  "メニューバー常駐型コンパニオンウィンドウなどを追加",
+  "macOSやWindows、Linuxに対応する無料のオープンソース"
+ ],
+ "body": "オープンソースで開発されているクロスプラットフォーム対応のシステムモニタアプリ「NeoHtop v1.3」が新たに公開された。RustとSvelteを組み合わせて実装されているのが特徴で、一般的なシステムモニタアプリと比較してCPUやメモリの消費量を抑えられる軽快な動作が魅力となっている。今回のアップデートでは、Shadcn-svelteベースの共通UIコンポーネントが取り入れられ、macOS、Windows、Linuxの各OS環境におけるデザインや操作性がしっかりと統一された。これまでのバージョンと同様に24種類のテーマも引き続き利用可能で、好みに合わせたカスタマイズを楽しむことができる。\n\n機能面においても多くの強化が図られており、新たにメニューバーへ常駐するコンパニオンウィンドウが追加されたほか、システムの詳細な状態を把握するためのプロセスツリー表示や、ポート検索機能などが実装されている。また、対応するLinuxのDRMドライバー環境においてはプロセス単位でのGPU使用率表示も可能になった。なお、macOS環境においてはIORegistryを通じた監視機能が用意されており、詳細なハードウェアの稼働状況を確認できる。\n\n動作に必要なシステム要件は、macOS 10.15 Catalina以降のIntelおよびApple Siliconを搭載したMacをはじめ、Windows 10以降のPC、DebianやUbuntu、Fedoraといった各種Linuxディストリビューションとなっている。提供されているMac向けのアプリは開発者署名およびAppleによる公証を取得済みのファイル形式で公開されているため、安全に導入を進めることが可能だ。軽量かつ多機能なシステムモニタを探しているユーザーにとって注目のアップデートとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261031-neohtop-shadcn-svelte-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/10/NeoHtop-Shadcn-svelte-logo-icon.webp",
+ "published": "2026-10-31T01:47:02+00:00"
+}

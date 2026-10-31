@@ -1,0 +1,19 @@
+{
+ "id": "df56a26ce091061c",
+ "title_ja": "Strava、Google Gemini統合でワークアウト分析を強化",
+ "summary_ja": "フィットネスアプリのStravaがGoogle GeminiとのAI統合を拡大しました。サブスクリプション登録者は、自身のワークアウト履歴に基づいたパーソナライズされた分析結果を受け取れるようになります。",
+ "points": [
+  "StravaがGoogle Geminiとの連携機能を追加",
+  "過去のワークアウト履歴に基づいた個別アドバイスを提供",
+  "有料プランの加入者を対象に米国で先行提供を開始"
+ ],
+ "body": "フィットネス追跡プラットフォームのStravaが、AI機能の拡張としてGoogle Geminiとの連携を今週発表した。これにより、同サービスの有料プランに加入しているユーザーは、自身のワークアウト履歴に基づいた文脈的かつ個別最適化された回答をGeminiから得られるようになる。この連携機能の利用は任意となっており、アクセス権限は読み取り専用に制限されていることが明らかにされている。\n\nStravaでは数ヶ月前にもAnthropicのAIアシスタントであるClaudeとの連携を導入しており、自然言語による会話を通じてトレーニング成績の分析を可能にしていた。今回のGeminiとの統合も同様の狙いを持つもので、ユーザーは過去の活動履歴に関する詳細な質問をAIに投げかけることができるようになる。機能の利用には、StravaのアカウントをGeminiに直接接続する必要がある。\n\n今回の機能展開はまず米国市場に限定して実施され、Geminiのプランの種類を問わずStravaの有料会員であれば利用できる仕様となっている。なお、米国以外の国や地域への展開時期については、現時点で同社からの正式な発表はおこなわれていない。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-10-29T21:06:35+00:00"
+}
