@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T01:30:01.309974+09:00",
+ "updated_at": "2026-11-01T05:46:19.005161+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,46 +29,108 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 294,
+ "detail_count": 298,
  "digest": {
-  "headline": "MacBook Proや新型iPad miniなど多数の新製品が登場",
+  "headline": "Apple、タッチ対応MacBook Proや新製品を多数発表",
   "points": [
    {
-    "text": "Appleは、Mac初となるタッチ操作対応や有機ELディスプレイ、M5 ProおよびM5 Maxチップを搭載した新型MacBook Proを発表し、予約受付を開始した。",
-    "ids": [
-     "ad13ceb493db6c7c",
-     "735af760f75ebd93",
-     "931401874bd59710"
-    ]
-   },
-   {
-    "text": "直近の2ヶ月間で新型Macや周辺機器など25を超える新しいデバイスやアクセサリーが発表・発売され、OLED搭載のiPad miniなども登場している。",
+    "text": "Appleは、有機ELディスプレイとMac初となるタッチ操作を搭載した新型MacBook Proや、512GBメモリのMac Studioなどを発表した。",
     "ids": [
      "330d6c404f0d1a33",
-     "a243c0175da9701d",
-     "da8d1ba5283a16ac"
+     "12975375e5923670",
+     "ad13ceb493db6c7c"
     ]
    },
    {
-    "text": "Appleが512GBのユニファイドメモリを選択可能な「Mac Studio (M5 Ultra)」の販売を開始した。",
+    "text": "Appleがデータ基盤系AIスタートアップのAscend.ioを買収したことが、EUへの提出書類から判明した。",
     "ids": [
-     "12975375e5923670"
+     "dde5830f9ded17ba",
+     "de6015ae64476152",
+     "7f250a88a4de534d"
     ]
    },
    {
-    "text": "Appleがデータエンジニアリング分野を手がけるAIスタートアップ「Ascend.io」を買収したことが判明した。",
+    "text": "中国のiPhoneユーザー向けに、Apple Intelligenceのオープンベータ版が11月4日から提供されると報じられている。",
     "ids": [
-     "dde5830f9ded17ba"
+     "0405d08a3c737ddb",
+     "2a96676ff8344830",
+     "aca887ceaf7da00f"
+    ]
+   },
+   {
+    "text": "Siriの機能強化などを盛り込んだiOS 27.2が配信開始されたほか、中国向け機能を含むiOS 27.3ベータが来週配信予定である。",
+    "ids": [
+     "2a96676ff8344830",
+     "aca887ceaf7da00f",
+     "5b1c699c7fce26a6"
+    ]
+   },
+   {
+    "text": "音質が向上しS10チップを搭載したHomePod mini 2の販売が開始された。",
+    "ids": [
+     "40f3d559a2c0e1c5",
+     "55dde6374d4da6e5"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T01:32:09.557632+09:00",
-  "generated_at": "2026-11-01T01:32:10.928696+09:00",
+  "from": "2026-10-29T05:47:34.679700+09:00",
+  "generated_at": "2026-11-01T05:47:36.269641+09:00",
   "article_count": 24,
-  "sig": "30f74f77426a"
+  "sig": "9c010ff10c30"
  },
  "items": [
+  {
+   "id": "af451803864af309",
+   "url": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar",
+   "title_original": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T19:30:00+00:00",
+   "title_ja": "Macの表示モードを切り替える無料メニューバーアプリ「Pumpkin Lights」",
+   "summary_ja": "Mac向けの無料メニューバーアプリ「Pumpkin Lights」が紹介されている。画面上部からドロップダウンするジャック・オー・ランタンの演出を楽しみながら、ライトモードとダークモードを素早く切り替えられる。手軽に利用できるユニークなインディーアプリだ。",
+   "category": "サービス・アプリ",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "ac770648dca1da65",
+   "url": "https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits",
+   "title_original": "PSA: Today’s the last day to purchase discounted cushion kits for Beats 360",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Beats-360-cushions.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T17:53:56+00:00",
+   "title_ja": "Beats 360の交換用クッション割引販売が本日で終了",
+   "summary_ja": "Appleが発売したヘッドホン「Beats 360」向け交換用クッションキットの特別割引が本日で終了する。通常50ドルのアイテムが発売記念として10ドルで提供されており、お得に購入できる最後の機会となっている。予備のクッションを求めているユーザーは確認が必要だ。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a4f72866a4b371d2",
+   "url": "https://www.cultofmac.com/news/is-the-new-touchscreen-macbook-pro-a-touch-too-much-cult-of-mac-podcast-39",
+   "title_original": "Is the new touchscreen MacBook Pro a touch too much? [Cult of Mac podcast 39]",
+   "source": "Cult of Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/Cult-of-Mac-podcast-39-touchscreen-MacBook-Pro-with-PROLED-display.jpg.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T17:47:56+00:00",
+   "title_ja": "タッチスクリーン搭載MacBook Proの登場とAppleの姿勢を議論",
+   "summary_ja": "史上初となるタッチスクリーン搭載MacBook Proの登場を受け、Cult of Macのポッドキャストで議論が行われた。画期的な新機能が追加された一方で、Appleがタッチ機能を控えめに訴求している点など、製品の展開方針について独自の分析が示されている。",
+   "category": "Mac",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "cef7b964e05d77fa",
    "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
@@ -185,6 +247,23 @@
    "summary_ja": "AppleがiTunes 6でのビデオダウンロード機能提供開始後、音楽ビデオの販売数が早くも100万本を突破したと発表した。当時のiTunesビデオ配信が大きなヒットを記録した歴史的な出来事である。",
    "category": "サービス・アプリ",
    "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "ed3f27de629cedb1",
+   "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain",
+   "title_original": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T15:19:00+00:00",
+   "title_ja": "企業のIT管理においてMacのコストパフォーマンスが再注目",
+   "summary_ja": "法人のデバイス管理において、増大するトークン費用と比較すると、Macは比較的割安な選択肢になりつつあるという指摘がなされている。ビジネス環境でのApple製端末の導入と管理手法について解説している。",
+   "category": "ビジネス・業績",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -491,6 +570,23 @@
    "importance": 2
   },
   {
+   "id": "9c2c2ac119f739dc",
+   "url": "https://applech2.com/archives/20261031-anker-soundcore-2-burgundy.html",
+   "title_original": "Anker、2017年から販売が続いているロングセラーのコンパクトスピーカー「SoundCore 2」のバーガンディモデルを発売。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/10/Anker-SoundCore-2-Burgundy-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T03:33:23+00:00",
+   "title_ja": "Ankerの定番スピーカーに新色バーガンディが登場",
+   "summary_ja": "AnkerのロングセラーであるコンパクトBluetoothスピーカー「SoundCore 2」に、新色のバーガンディモデルが追加された。2017年の発売以来、長く支持されている定番モデルの新色となる。",
+   "category": "その他",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "dfdf8d8f463fd95d",
    "url": "https://iphone-mania.jp/app-608159",
    "title_original": "映画監督ライアン・ジョンソンのiPhoneカメラアプリが日本でも1位に",
@@ -590,6 +686,23 @@
    "summary_ja": "Ankerは、室内の窓ガラスに貼り付けて屋外を監視できるセキュリティカメラ「Eufy Security 2.5K Window Cam E10」を新たに発売した。自宅の窓から手軽に屋外の様子を確認できるようになる。",
    "category": "その他",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "480714b4f3c2965a",
+   "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage",
+   "title_original": "WhatsApp announces four new features to make group chats easier to manage",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T23:36:34+00:00",
+   "title_ja": "WhatsApp、グループチャット管理を効率化する4つの新機能",
+   "summary_ja": "WhatsAppはグループチャットの管理をスムーズにし、会話の状況を把握しやすくする4つの新機能を順次提供開始すると発表した。今回のアップデートにより、ユーザーは煩雑になりがちなグループ内のやり取りをより簡単に整理できるようになる。",
+   "category": "サービス・アプリ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -1167,6 +1280,23 @@
    "importance": 3
   },
   {
+   "id": "7489a6357cebaae4",
+   "url": "https://www.macworld.com/article/230863/apple-tv-originals-shows-series-movies-release-dates-news-actors-directors.html",
+   "title_original": "Apple TV this week: ‘Nocturne’ is now streaming",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/10/230863-0-11724100-1793376744-apple-tv-plus-series.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T16:07:54+00:00",
+   "title_ja": "Apple TV、犯罪ドラマ「ノクターン」の配信を開始",
+   "summary_ja": "Apple TVにて、新たな犯罪ドラマ作品「ノクターン」の配信がスタートした。Appleの動画配信サービスでは、現在配信中のコンテンツに加え、今後登場する新作映画やドラマのラインナップも随時更新されている。",
+   "category": "サービス・アプリ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "ca7eda91bc1d9342",
    "url": "https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed",
    "title_original": "Hands-on time with the iPhone Duo still leaves me wowed",
@@ -1631,7 +1761,8 @@
    "title_ja": "映画監督のライアン・ジョンソン氏手掛けるiPhone用カメラアプリが話題",
    "summary_ja": "映画監督のライアン・ジョンソン氏らが開発したiPhone向け写真撮影アプリが、App Storeの有料チャートで上位にランクインした。映画制作の手法を取り入れた画像処理技術が特徴となっている。",
    "category": "サービス・アプリ",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "7f3046166b4da075",
@@ -1764,6 +1895,22 @@
    "category": "Mac",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "b47bb063dd6cc52a",
+   "url": "https://appleinsider.com/articles/26/10/30/apple-cuts-its-take-of-app-sales-in-taiwan-just-a-bit",
+   "title_original": "Apple cuts its take of app sales in Taiwan just a bit",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T10:49:49+00:00",
+   "title_ja": "台湾のApp Store、手数料を30%から26%に引き下げ",
+   "summary_ja": "Appleは台湾の公正取引委員会からの圧力に対応し、台湾向けApp Storeの標準的な手数料を従来の30%から26%へ引き下げることを発表した。この新しい料率は10月31日から適用される予定となっている。",
+   "category": "ビジネス・業績",
+   "importance": 4
   },
   {
    "id": "dff4c9945ff8b16b",
@@ -6628,138 +6775,6 @@
    "title_ja": "AirPods Pro 3などがセールで20%オフに",
    "summary_ja": "AmazonにてAirPods Pro 3が20%オフで販売されているほか、USB-C対応のApple PencilやM5搭載MacBook Airなどが値引きされています。AirTag 2をはじめとした各種Apple関連アクセサリーもお得になっています。",
    "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ad54023f6e7c800d",
-   "url": "https://www.macrumors.com/guide/m4-vs-m6-imac",
-   "title_original": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/10/M6-iMac-Feature-2.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:30:15+00:00",
-   "title_ja": "M4とM6のiMac比較：今すぐ買い換えるべき？",
-   "summary_ja": "最新のiMacはM5を飛ばしてM6チップを搭載し、処理性能や接続性が向上しました。M4モデルからの買い替えを検討しているユーザーに向けて、価格差や性能アップの内容を踏まえた判断材料を分かりやすく解説しています。",
-   "category": "Mac",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b14535c4313c258f",
-   "url": "https://appleinsider.com/inside/24-inch-imac/vs/m6-24-inch-imac-vs-m4-24-inch-imac-apples-all-in-ones-compared",
-   "title_original": "M6 24-inch iMac vs M4 24-inch iMac: Apple's all-in-ones compared",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69528-146585-m6m4imacheader-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:29:39+00:00",
-   "title_ja": "新型M6搭載24インチiMacとM4モデルを比較",
-   "summary_ja": "24インチiMacがM6チップを搭載して新しく登場しました。2年前に発売されたM4モデルからの主な変更点をチェックし、スペックアップした部分と従来から据え置きとなった部分を整理して違いを比較しています。",
-   "category": "Mac",
-   "importance": 4
-  },
-  {
-   "id": "c7deca40705c3515",
-   "url": "https://www.macstories.net/news/apple-creator-studio-to-add-motionvfx-ai-assistants-and-mcp-support-in-november",
-   "title_original": "Apple Creator Studio to Add MotionVFX, AI Assistants, and MCP Support in November",
-   "source": "MacStories",
-   "lang": "en",
-   "region": "global",
-   "image": "https://cdn.macstories.net/images/uploads/2026/10/27/apple-creator-studio-hero-261027-1793110737172-80b12a6d4d.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:23:39+00:00",
-   "title_ja": "Apple Creator Studio、11月に大型アップデートへ",
-   "summary_ja": "Apple Creator Studioに11月、リリース以来最大のアップデートが配信される。Final Cut ProなどにMotionVFXの統合やAIアシスタント機能が追加される予定。",
-   "category": "ソフトウェア・OS",
-   "importance": 4
-  },
-  {
-   "id": "f475ccf1652bdb62",
-   "url": "https://appleinsider.com/articles/26/10/27/apples-11-inch-ipad-drops-to-399-during-amazons-month-end-sale",
-   "title_original": "Apple's 11-inch iPad drops to $399 during Amazon's month-end sale",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69556-146597-ipad-11-399-deal-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:22:17+00:00",
-   "title_ja": "Amazonセールで11インチiPadが399ドルに値下げ",
-   "summary_ja": "Amazonの月末セールにおいて、11インチiPadが399ドルの特価で販売されている。現行のApple製タブレットのラインナップ中最安値で購入できる。",
-   "category": "iPad",
-   "importance": 3
-  },
-  {
-   "id": "0be63b0d1d22e65b",
-   "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie",
-   "title_original": "iOS 27.2 introduces new age verification feature using selfie",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:21:41+00:00",
-   "title_ja": "iOS 27.2、自撮りを使った年齢確認機能を追加",
-   "summary_ja": "配信が開始されたiOS 27.2にて、新しい年齢確認機能が導入された。ユーザーが撮影した自撮り写真を使用して年齢を検証する仕組みになっている。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e630f8b3920cca14",
-   "url": "https://sixcolors.com/feed-only/2026/10/filmlog-for-the-love-of-movies-now-on-the-mac",
-   "title_original": "(Sponsor) Filmlog: For the love of movies, now on the Mac",
-   "source": "Six Colors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/20261027-Filmlog-for-Mac.png?resize=680%2C425&ssl=1",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:04:30+00:00",
-   "title_ja": "映画ファン向けアプリ「Filmlog」がMacに対応",
-   "summary_ja": "個人開発による映画愛好家向けのアプリ「Filmlog」が、新たにMac版の提供を開始した。すでに展開されているiPhoneやiPad、Apple TV版に続く形となる。",
-   "category": "サービス・アプリ",
-   "importance": 2
-  },
-  {
-   "id": "836631e967c07a8a",
-   "url": "https://www.cultofmac.com/deals/microsoft-office-for-mac-lifetime",
-   "title_original": "Get Microsoft Office 2024 for Mac or PC at up to 23% off",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2024/10/xhXfS0Z-e1783950869144.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T14:57:38+00:00",
-   "title_ja": "Mac向けMicrosoft Office 2024が割引に",
-   "summary_ja": "買い切り型のMicrosoft Office 2024が、割引価格で販売されている。毎月のサブスクリプション費用を避けたいMacユーザー向けの選択肢となる。",
-   "category": "Mac",
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "7b434aff49626e2e",
-   "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-messages-feature-thats-already-a-favorite",
-   "title_original": "iOS 27.2 adds new Messages feature that’s already a favorite",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T14:55:29+00:00",
-   "title_ja": "iOS 27.2が配信開始、メッセージに新機能を追加",
-   "summary_ja": "今週リリースされたiOS 27.2には、iPhoneユーザー向けの多彩な新機能が含まれている。当初iOS 27での実装が予定されながら延期となっていたメッセージアプリの提案機能が、ついに追加された。",
-   "category": "ソフトウェア・OS",
    "importance": 3,
    "has_detail": true
   }
