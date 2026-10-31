@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T12:13:39.729605+09:00",
+ "updated_at": "2026-10-31T20:24:31.206680+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,7 +29,7 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 285,
+ "detail_count": 291,
  "digest": {
   "headline": "Appleが初のタッチ対応有機EL搭載MacBook Proなどを発表",
   "points": [
@@ -68,6 +68,107 @@
   "sig": "e8490c082a0f"
  },
  "items": [
+  {
+   "id": "046c04b092c723c9",
+   "url": "https://applech2.com/archives/20261031-lidtap-turns-macbook-touch-screen.html",
+   "title_original": "MacBook Air/Proに搭載されているヒンジ角度やモーションセンサーを利用し非タッチスクリーンのMacBookでタッチ操作を可能にするアプリ「LidTap」がリリース。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/10/LidTap-MacBook-Touch-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T10:01:17+00:00",
+   "title_ja": "MacBookのセンサーでタッチ操作を可能にするアプリ「LidTap」が登場",
+   "summary_ja": "非タッチスクリーンであるMacBook AirおよびPro向けに、ヒンジ角度やモーションセンサーを活用してタッチ操作を可能にするアプリ「LidTap」が公開されました。画面を直接タッチして操作できるユニークな機能を備えており、Macでの新しい入力方法として注目を集めています。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3b0022c161911eb3",
+   "url": "https://iphone-mania.jp/ios-608174",
+   "title_original": "iPhoneが奪われた瞬間にロック？iOSで開発中の盗難対策を読む",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/31/ed76ff7179ee1b80fb2f81700a5df3ee.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T08:22:16+00:00",
+   "title_ja": "iOSのコードから判明、強奪時にiPhoneを自動ロックする盗難対策機能が開発中",
+   "summary_ja": "海外メディアの報道によると、開発中のiOSベータ版のコードから新たな盗難対策機能が見つかりました。歩行中などにiPhoneがひったくられた際、端末が奪われたことを自動で検知して画面をロックする仕組みとみられています。不正利用を防ぐセキュリティ強化として期待されます。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a998dc4278d0f007",
+   "url": "https://www.macworld.com/article/3272602/this-pdf-editor-lasts-for-life-and-its-on-sale-for-79-99.html",
+   "title_original": "This PDF editor lasts for life, and it’s on sale for $79.99",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272602-0-72814100-1793433669-PDF-Expert-1.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T08:00:00+00:00",
+   "title_ja": "Mac向け定番PDF編集アプリ「PDF Expert」永久ライセンスが割安セール中",
+   "summary_ja": "Mac向けの高機能PDF編集アプリ「PDF Expert」の永久ライセンスが、通常139.99ドルのところ79.99ドルで販売されています。Mac標準機能では難しいタイポの修正や全文の編集、画像の変更などを手軽に行えるのが特徴です。買い切り版を安く入手できる機会となっています。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3631baef9561cd2a",
+   "url": "https://iphone-mania.jp/iphone18-608172",
+   "title_original": "iPhone18 Proの日本販売が27%減〜中国は29%増で世界をけん引",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/31/iphone-18-pro-sales-china-japan.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T07:42:33+00:00",
+   "title_ja": "iPhone18 Proの世界販売は3.1%増、中国が成長牽引も日本は27%減",
+   "summary_ja": "Counterpoint Researchの調査によると、iPhone18 Proシリーズの発売後3週間の世界販売台数は前年同期比で3.1%増加しました。中国市場が29%増と好調で世界全体を牽引した一方で、日本の販売数は27%減少したことが明らかになっています。",
+   "category": "ビジネス・業績",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c63c065d7f1470f2",
+   "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china",
+   "title_original": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T05:55:35+00:00",
+   "title_ja": "iPhone 18 Proの中国販売が29％増加、日米の減少を補い世界全体で増加",
+   "summary_ja": "Counterpointの調査によると、iPhone 18 ProとPro Maxの発売3週間の世界販売数は前年同期比で3.1%増加しました。米国の4%減や日本の27%減に対し、中国では供給改善や競合機高騰により29%増を記録して全体を牽引しています。米国では機能変化の少なさが影響したと分析されています。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b9851071915561a1",
+   "url": "https://iphone-mania.jp/sale-608166",
+   "title_original": "Apple Pencil Proなど在庫復活〜iPad整備済製品【10/31】",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/31/ipad-refurb-1031.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T05:36:44+00:00",
+   "title_ja": "AppleオンラインストアでApple Pencil Pro等のiPad整備済製品が在庫復活",
+   "summary_ja": "Appleオンラインストアにて、iPad関連の認定整備済製品の在庫が復活しました。今回のラインナップにはApple Pencil Proをはじめ、iPad mini（A17 Pro）や11インチおよび13インチのiPad Air、iPad Proなどが含まれており、各種製品が再び購入可能となっています。",
+   "category": "iPad",
+   "importance": 2
+  },
   {
    "id": "dfdf8d8f463fd95d",
    "url": "https://iphone-mania.jp/app-608159",
@@ -1075,7 +1176,8 @@
    "title_ja": "Mac向けローカルAIアシスタント「Local Code」が登場",
    "summary_ja": "Draw Thingsの開発元が、Mac上でAIモデルを直接実行できるオープンソースのアシスタント「Local Code」を公開した。クラウドを使わずデバイス内で処理するため、プライバシーに配慮して資料作成や画像生成などを行える。",
    "category": "AI",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "0bb55c31398f920e",
@@ -1107,7 +1209,8 @@
    "title_ja": "「iPadOS 27.2」が配信開始、新機能を追加",
    "summary_ja": "最新のソフトウェアアップデートとなるiPadOS 27.2が今週リリースされた。今回のアップデートには、iPadの利便性を向上させる2つの新しい機能が含まれており、ユーザーの作業環境をより快適にする。",
    "category": "iPad",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "de6015ae64476152",
@@ -1123,7 +1226,8 @@
    "title_ja": "Apple、データ自動化のAscend.ioを買収",
    "summary_ja": "Appleが企業のデータ収集や分析を自動化する技術を持つ米国の企業Ascend.ioを買収していたことが判明した。欧州委員会のウェブサイト上の通知によって明らかになったもので、同社はAIエージェントなどを開発していた。",
    "category": "ビジネス・業績",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "5c26a512908dcd2f",
@@ -1139,7 +1243,8 @@
    "title_ja": "高画質な小型Webカメラ「Obsbot Tiny 3」レビュー",
    "summary_ja": "ビデオ通話を非常に高画質にする小型Webカメラ「Obsbot Tiny 3」のレビュー記事。優れた画質や性能を備える一方で、Mac用アプリの操作性がやや複雑である点が指摘されている。",
    "category": "その他",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "e63ffff865c69ced",
@@ -1171,7 +1276,8 @@
    "title_ja": "HomePod mini 2が本日発売、S10チップなどを搭載",
    "summary_ja": "新型のHomePod mini 2が発売され、店頭販売や予約分の配送が開始された。S10チップを搭載し、本体カラーは複数の新色が用意されている。SiriのAI対応は将来のソフトウェアアップデートで提供予定。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 4
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "7215d78cbbfe1266",
@@ -1187,7 +1293,8 @@
    "title_ja": "AirTag 2の4個パックがセールで過去最安値に",
    "summary_ja": "AmazonやBest Buyにて、AirTag 2の4個パックが通常より安く販売されている。今回はこれまでで最も安価な価格が設定されており、1個パックについても割引価格で購入できる。",
    "category": "その他",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "7c650fd28df71eb1",
@@ -4676,6 +4783,23 @@
    "importance": 3
   },
   {
+   "id": "6acd71fbd4d347e9",
+   "url": "https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show",
+   "title_original": "Amazon announced five new Alexa devices, including 16-inch Echo Show",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Amazon-announced-five-new-Alexa-devices-including-16-inch-Echo-Show.jpeg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-28T12:48:35+00:00",
+   "title_ja": "Amazonが16インチ画面搭載のEcho Showなど新Alexa端末を発表",
+   "summary_ja": "AppleがHomePod miniやスマートディスプレイを発表したのに続き、Amazonも5つの新Alexaデバイスを発表した。視覚的インテリジェンス機能を備えたEchoスピーカーのほか、16インチの大型ディスプレイとナノマット加工のオプションを選択できるEcho Showなどが含まれる。",
+   "category": "その他",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "a9530a12b831d674",
    "url": "https://appleinsider.com/articles/26/10/28/the-global-memory-crisis-will-annoy-everyone-until-2030-at-least",
    "title_original": "The global memory crisis will annoy everyone until 2030 at least",
@@ -6634,124 +6758,6 @@
    "category": "iPhone",
    "importance": 1,
    "has_detail": true
-  },
-  {
-   "id": "eb391064d6a69f61",
-   "url": "https://applech2.com/archives/20261027-emudhra-certificate-issue-unfixed-macos-27-2.html",
-   "title_original": "macOS 27.2 Golden Gateアップデートでも引き続きcurlなどにeMudhraの証明書検証問題が残っているので管理者や開発者は注意を。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T05:25:06+00:00",
-   "title_ja": "macOS 27.2でもeMudhra証明書検証の問題が残留、開発者らは注意が必要",
-   "summary_ja": "Appleが公開したmacOS 27.2 Golden Gateにおいても、curlなどでeMudhraの電子証明書検証に関する問題が引き続き残っていることが判明しました。アップデート後も影響が懸念されるため、システム管理者や開発者は運用の際に注意を払う必要があります。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a0858a5aa4ac6fc9",
-   "url": "https://applech2.com/archives/20261027-belkin-ultracharge-75w-gan-zsp-blue.html",
-   "title_original": "Belkin、USB-C PD 3.2 PPS/AVSに対応しiPhone 18 ProやMacBook Airの高速充電も可能なUSB充電器「UltraCharge 75W GaN 充電器 ZSP」のブルーモデルを発売。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2026/10/Belkin-Ultracharge-75W-gan-zsp-blue-logo-icon.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T04:11:07+00:00",
-   "title_ja": "Belkin、iPhone 18 Pro等に対応する75W GaN充電器の新色ブルーを発売",
-   "summary_ja": "BelkinがUSB-C PD 3.2 PPS/AVSに対応した「UltraCharge 75W GaN 充電器 ZSP」のブルーモデルを発売しました。本製品はiPhone 18 ProやMacBook Airなどの高速充電が可能となっており、デザイン性と高出力な充電性能を両立しています。",
-   "category": "その他",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "ae5b44c1abe9abe0",
-   "url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show",
-   "title_original": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/super-bowl-jay-z.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T03:30:59+00:00",
-   "title_ja": "2027年のApple Musicハーフタイムショー、JAY-Zの出演が決定",
-   "summary_ja": "NFLとApple Musicは、2027年2月14日に開催される「Super Bowl LXI Halftime Show」のヘッドライナーにJAY-Zが決定したと発表した。Apple Musicが主催に関わる大型イベントであり、世界中の音楽ファンやフットボールファンの注目が集まる。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "08bfed17b8003881",
-   "url": "https://applech2.com/archives/20261027-ios-18-7-11-iphone-xs-xr-security-update.html",
-   "title_original": "Apple、iPhone XS/XRやiPad(第7世代)向けに1件のゼロデイ脆弱性と機密データの漏洩、カメラへの不正アクセスにつながる合計3件の脆弱性を修正した「iOS/iPadOS 18.7.11」をリリース。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2024/09/iPadOS-18-logo-icon.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T03:28:07+00:00",
-   "title_ja": "Apple、旧機種向けに脆弱性を修正した「iOS/iPadOS 18.7.11」を配信",
-   "summary_ja": "AppleはiPhone XSやXR、iPad第7世代などの旧型端末向けに「iOS/iPadOS 18.7.11」をリリースした。本バージョンでは、ゼロデイ脆弱性を含む合計3件のセキュリティ問題が修正されており、機密データの漏洩やカメラへの不正アクセスといったリスクに対処している。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "db5243ca949de5b1",
-   "url": "https://www.macworld.com/article/3269763/the-new-airtag-has-never-been-this-cheap.html",
-   "title_original": "The new AirTag has never been this cheap",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3269763-0-50309500-1793069740-Apple-Airtag-2.-Generation.png",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T02:55:32+00:00",
-   "title_ja": "米Amazonで第2世代AirTagが過去最安値の23ドルに値下げ",
-   "summary_ja": "米国のAmazonにて、第2世代のAirTagがこれまでで最も安い23ドルに値下げして販売されている。鍵やバッグなどの貴重品に装着してiPhoneと連携させることで、アプリから音を鳴らして持ち物の場所を容易に特定できる。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "d6f82779f8d38efc",
-   "url": "https://gori.me/sale/peripheral-sale/171796",
-   "title_original": "【爆安の再来】13インチiPad Pro 2TBが36％オフ。11インチ最上位より5万円安い",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2024/05/Apple-iPad-Pro-hero-240507-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T02:52:23+00:00",
-   "title_ja": "Amazonで13インチiPad Proの2TBモデルセットが36%オフ",
-   "summary_ja": "Amazonにて、13インチiPad Pro（M5）Wi-Fi + Cellular 2TBモデルとAppleCare+のセットが参考価格から36％オフの33万7,937円で登場した。11インチの同等構成のセール品よりも安く、大容量モデルを安く購入できる機会となっている。",
-   "category": "iPad",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "9910d5156d4c247b",
-   "url": "https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show",
-   "title_original": "JAY-Z steps onto the Super Bowl stage after years behind the show",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69547-146577-jz-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T02:45:07+00:00",
-   "title_ja": "JAY-Z、2027年のApple Musicスーパーボウルハーフタイムショーに出演へ",
-   "summary_ja": "Apple MusicとNFL、Roc Nationは、2027年2月14日にロサンゼルスのSoFiスタジアムで開催される第61回スーパーボウルのハーフタイムショーにJAY-Zが出演すると発表した。長年プロデュースに携わってきた彼自身が出演し、Apple Musicでは独占コンテンツも提供される。",
-   "category": "サービス・アプリ",
-   "importance": 3
   }
  ]
 }
