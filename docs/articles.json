@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T12:10:54.727982+09:00",
+ "updated_at": "2026-11-01T21:17:41.268163+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,28 +29,28 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 299,
+ "detail_count": 301,
  "digest": {
-  "headline": "タッチ対応MacBook Proや新製品の登場とAI関連の動き",
+  "headline": "Apple、初のタッチ対応MacBook Proや新製品を多数発表",
   "points": [
    {
-    "text": "タッチ操作やPROLED XDRディスプレイを搭載した新型MacBook Proが発表され、新製品ラッシュが続いている。",
+    "text": "Appleが初となるタッチ操作対応のディスプレイやPROLED XDRを搭載した新型MacBook Proを発表した。",
     "ids": [
+     "81909cc7aae2d0f4",
      "898c5560f4a9d8d3",
-     "997b2e5b86897873",
-     "048456e2d6e2396b"
+     "997b2e5b86897873"
     ]
    },
    {
-    "text": "中国のiPhoneユーザー向けにApple Intelligenceの提供が予定されており、ベータ版や対応OSの配信が明らかにされている。",
+    "text": "Appleは直近の2ヶ月間で新型Macや周辺機器など25を超える新しいデバイスやアクセサリーを次々と投入している。",
     "ids": [
-     "0405d08a3c737ddb",
-     "2a96676ff8344830",
-     "aca887ceaf7da00f"
+     "330d6c404f0d1a33",
+     "a243c0175da9701d",
+     "751c716298595d90"
     ]
    },
    {
-    "text": "Appleがデータエンジニアリング分野のAIスタートアップであるAscend.ioを買収したことが判明した。",
+    "text": "Appleがデータエンジニアリング分野を手がけるAIスタートアップのAscend.ioを買収したことが判明した。",
     "ids": [
      "dde5830f9ded17ba",
      "de6015ae64476152",
@@ -58,26 +58,164 @@
     ]
    },
    {
-    "text": "S10チップを搭載したHomePod mini 2が発売され、音質の向上や新色が追加された。",
+    "text": "中国のiPhoneユーザー向けにApple Intelligenceのオープンベータ版が提供されると報じられている。",
+    "ids": [
+     "0405d08a3c737ddb",
+     "2a96676ff8344830",
+     "aca887ceaf7da00f"
+    ]
+   },
+   {
+    "text": "S10チップを搭載した新型のHomePod mini 2が発売され、店頭販売や配送が開始された。",
     "ids": [
      "40f3d559a2c0e1c5",
      "55dde6374d4da6e5"
     ]
-   },
-   {
-    "text": "Siriの機能強化などを含むiOS 27.2が配信開始された。",
-    "ids": [
-     "5b1c699c7fce26a6"
-    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T12:11:47.529185+09:00",
-  "generated_at": "2026-11-01T12:11:49.251284+09:00",
+  "from": "2026-10-29T21:20:11.520676+09:00",
+  "generated_at": "2026-11-01T21:20:13.237216+09:00",
   "article_count": 24,
-  "sig": "6cec71499c60"
+  "sig": "b65fa9ffc475"
  },
  "items": [
+  {
+   "id": "b1a728f8005eec19",
+   "url": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug",
+   "title_original": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T11:34:49+00:00",
+   "title_ja": "Apple Watchのサマータイム不具合、Appleが回避策を公開",
+   "summary_ja": "Apple Watchで夏時間の切り替え後に時刻が1時間ズレる不具合が発生し、Appleが対処法を公開しました。この現象は常時表示の待機中のみ発生し、画面をアクティブにすると解決します。文字盤を切り替えるか、本体を再起動することで対処可能です。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3c1f758427278491",
+   "url": "https://applech2.com/archives/20261101-firmware-host-mac-require-60gb-storage-space.html",
+   "title_original": "Apple、Macのファームウェアを復活/復元するためのホストMacで必要なストレージの空き容量を60GBへ変更。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/11/Macintosh-HDD-2026-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T10:27:27+00:00",
+   "title_ja": "Apple、Mac復元時に母艦側で必要な空き容量を60GBへ変更",
+   "summary_ja": "Appleは、Macのファームウェアを復活・復元する際に母艦として使うMacの必要空き容量を変更しました。従来必要だった32GBから60GBへと引き上げられています。T2チップやApple Siliconを搭載したモデルの復元作業を行う際は、十分な空き容量が必要です。",
+   "category": "Mac",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "81909cc7aae2d0f4",
+   "url": "https://iphone-mania.jp/mac-608203",
+   "title_original": "Appleがついに方針転換！Macのタッチ対応が意味するもの",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/01/Screenshot-from-2026-11-01-10-45-58.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T09:50:41+00:00",
+   "title_ja": "Appleがタッチ操作対応のMacBook Proを発表",
+   "summary_ja": "Appleが10月28日、初となるタッチ操作に対応したMacBook Proを発表しました。これまでAppleはタッチ操作対応のiPadと非対応のMacを明確に区別してきましたが、今回の大幅な方針転換によりMacの操作体験が新段階に入ります。",
+   "category": "Mac",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "b0df1c1c93941784",
+   "url": "https://www.macworld.com/article/3272660/own-word-excel-and-powerpoint-on-your-mac-for-114-97-with-office-2024-home.html",
+   "title_original": "Own Word, Excel, and PowerPoint on your Mac for $114.97 with Office 2024 Home",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3272660-0-59937300-1793520070-mso-2024-x-win-11-pro-2.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T08:00:00+00:00",
+   "title_ja": "Mac向け「Office 2024 Home」が114.97ドルでセール中",
+   "summary_ja": "Microsoft 365の年間課金を避けたいMacユーザー向けに、一括払い型の「Microsoft Office 2024 Home」がセール価格で販売されている。通常149.99ドルのところ114.97ドルとなっており、WordやExcel、PowerPointのデスクトップ版を追加費用なしで利用可能だ。セールは11月1日まで実施されている。",
+   "category": "ソフトウェア・OS",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "de2f3436dc9e0420",
+   "url": "https://gori.me/sale/peripheral-sale/171988",
+   "title_original": "13インチiPad Proの12.5万円引き破格セール、ふたたび。AppleCare+込みで狙い目",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2024/05/Apple-iPad-Pro-silver-2-up-240507-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T06:50:12+00:00",
+   "title_ja": "Amazonで13インチiPad ProとAppleCare+のセットが12.5万円引き",
+   "summary_ja": "Amazonにて、13インチiPad Pro（M5）のWi-Fi+Cellular・1TB・標準ガラスモデルとAppleCare+のセット商品が28％オフで登場した。割引額は125,310円となっており、セール価格は317,428円である。保証付きで長く安心して使いたい人にとって魅力的なセールとなっている。",
+   "category": "iPad",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d5debdf3aa69f175",
+   "url": "https://iphone-mania.jp/ipadmini-608199",
+   "title_original": "iPad mini（A20 Pro）のバッテリー容量判明〜約2.7％減で駆動時間同じ",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/01/ipad-mini-battery-AH.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T05:33:08+00:00",
+   "title_ja": "iPad mini（A20 Pro）のバッテリー容量が判明　前モデルから微減",
+   "summary_ja": "欧州委員会のエネルギーラベル申請資料から、iPad mini（A20 Pro）のバッテリー容量が明らかになった。前モデルのiPad mini（A17 Pro）と比較してバッテリー容量は約2.7％減少しているものの、公表されているバッテリー駆動時間自体は前モデルと同じ水準を維持している。",
+   "category": "iPad",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6ff471b6944ba411",
+   "url": "https://applech2.com/archives/20261101-duo-trackpad-lets-you-use-your-iphone-duo-as-a-mac-trackpad.html",
+   "title_original": "Magic Trackpadとほぼ同じサイズのiPhone DuoのタッチスクリーンをMacのトラックパッドとして使うことができるアプリ「Duo Trackpad」がリリース。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/11/Duo-Trackpad-iPhone-Mac-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T05:05:36+00:00",
+   "title_ja": "iPhoneをMacのトラックパッド化するアプリ「Duo Trackpad」登場",
+   "summary_ja": "iPhoneのタッチスクリーンをMac用のトラックパッドとして利用できるアプリ「Duo Trackpad」がリリースされた。Magic Trackpadとほぼ同じ画面サイズを持つiPhone Duoのディスプレイをフルに活かし、手軽にMacの操作デバイスとして活用できるツールとなっている。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "4119d5adca880620",
+   "url": "https://gori.me/sale/171972",
+   "title_original": "Apple Watch Ultra 3、今なら2.3万円オフ。これは……買うべきか？",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2024/09/Apple-Watch-Ultra-2-in-New-Satin-Black-Color-09-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T03:48:52+00:00",
+   "title_ja": "Apple Watch Ultra 3がAmazonで約2.3万円引きのセール中",
+   "summary_ja": "AmazonにてApple Watch Ultra 3が参考価格から17パーセントオフの119,192円で販売されている。2025年9月に発売された同モデルはバッテリー持ちや機能性に優れており、23,608円引きで購入可能だ。買い替えや購入を検討していた人にとって魅力的なセールとなっている。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "76dfacd2b0870fd3",
    "url": "https://applech2.com/archives/20261101-apple-gift-card-monetary-campaign.html",
@@ -449,6 +587,22 @@
    "category": "iPhone",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "d46ce21bcd0598cc",
+   "url": "https://www.macstories.net/club/monthly-log-october-2026",
+   "title_original": "Monthly Log: October 2026",
+   "source": "MacStories",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macstories.net/wp-content/themes/macstories4/images/ms-opengraph.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T13:03:19+00:00",
+   "title_ja": "MacStoriesが会員向け月刊ログ「October 2026」を公開",
+   "summary_ja": "Apple系メディアのMacStoriesが、クラブ会員向けに10月の月刊ログを公開しました。今号ではMacの将来に関する記事などが掲載されています。有料会員向けに限定コンテンツや毎週のニュースレター、広告非表示版といった各種特典が提供されています。",
+   "category": "その他",
+   "importance": 1
   },
   {
    "id": "330d6c404f0d1a33",
@@ -1764,6 +1918,23 @@
    "has_detail": true
   },
   {
+   "id": "3afeb66b9b987504",
+   "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+   "title_original": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+   "source": "The Verge (Apple)",
+   "lang": "en",
+   "region": "global",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T13:00:00+00:00",
+   "title_ja": "スマートディスプレイの進化と家庭用デバイスとしての期待",
+   "summary_ja": "タッチスクリーン付きスマートスピーカーという製品カテゴリは、これまで処理能力不足などの課題により伸び悩んでいた。かつての課題を振り返りつつ、新しく登場するデバイスが家族共有のコンピュータとして期待に応えられるかについて考察している。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "e63ffff865c69ced",
    "url": "https://appleinsider.com/articles/26/10/30/iphone-duo-ipad-mini-and-macbook-pro-on-the-appleinsider-podcast",
    "title_original": "iPhone Duo, iPad mini, and MacBook Pro on the AppleInsider Podcast",
@@ -2519,6 +2690,23 @@
    "summary_ja": "まもなく発売を迎えるHomePod mini 2について、新しく採用されたツートンカラーのデザインが分かるハンズオン動画が公開された。ピンクやブルー、グリーンなどのモデルにおいて、外側のメッシュ生地と内側のファブリックの色合いが異なる凝った仕様になっている。",
    "category": "Apple Watch・ウェアラブル",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "efddadad9dd209c6",
+   "url": "https://furbo.org/2026/10/28/a-health-update",
+   "title_original": "A Health Update From Craig Hockenberry",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "https://furbo.org/wp-content/uploads/2026/10/Health-Hero-2.jpeg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-29T19:57:21+00:00",
+   "title_ja": "Iconfactory開発者のクレイグ・ホッケンベリー氏が体調回復を報告",
+   "summary_ja": "有名なApple関連アプリ開発企業Iconfactoryのクレイグ・ホッケンベリー氏が自身の健康状態に関する最新情報を投稿した。先週は体調を崩していたためサイトに不具合が生じていたが、現在は無事に回復して執筆活動を再開している。",
+   "category": "その他",
+   "importance": 1,
    "has_detail": true
   },
   {
@@ -6592,190 +6780,6 @@
    "summary_ja": "大ヒットとなった初代に続き、第2世代のMacBook Neoが2027年上半期にも発売されるとの予測が報じられている。具体的な発売時期の詳細は不明だが、次期モデルの登場に向けた計画が進められている。",
    "category": "噂・リーク",
    "importance": 4
-  },
-  {
-   "id": "134c508944e7df2f",
-   "url": "https://sixcolors.com/post/2026/10/sorry-new-developers-its-vibecodetown",
-   "title_original": "Sorry, new developers, it’s vibecodetown",
-   "source": "Six Colors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/app-dev-email-1380.png?ssl=1",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T17:00:00+00:00",
-   "title_ja": "アプリ開発者の増加とトレンドに関する話題",
-   "summary_ja": "新しいiPhoneやiPad、Mac向けのアプリに関するプロモーションメールが日々大量に届く現状について述べている。開発者コミュニティやアプリ市場の変化を軽妙なトーンで振り返る内容となっている。",
-   "category": "サービス・アプリ",
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "75946b2cac4d125c",
-   "url": "https://sixcolors.com/post/2026/10/apple-clears-the-decks-ahead-of-its-biggest-announcement",
-   "title_original": "Apple clears the decks ahead of its biggest announcement",
-   "source": "Six Colors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/apple-macbook-pro-14-in-with-m6-6c.jpeg?ssl=1",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:52:04+00:00",
-   "title_ja": "Appleが大型発表の前に進める製品ラッシュ",
-   "summary_ja": "新型iPad miniの発表に続き、小規模な新製品の発表が相次いでいる。水曜日に予定されているOLEDタッチスクリーン搭載MacBook Proの発表に向けて、事前の製品整理が進められている。",
-   "category": "Mac",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f83ebb0382e84554",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
-   "title_original": "Apple Also Announces iMac With M6",
-   "source": "Daring Fireball",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271832",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:44:10+00:00",
-   "title_ja": "Apple、M6チップ搭載の新型iMacを発表。各種構成と価格が判明",
-   "summary_ja": "AppleはM6チップを搭載した新しいiMacを発表した。基本性能の向上を図ったモデルで、2ポートモデルは1500ドルから、4ポートモデルは1700ドルから提供される。32GBメモリ搭載モデルなど、ストレージやメモリに応じたオプションも用意されている。",
-   "category": "Mac",
-   "importance": 5
-  },
-  {
-   "id": "771dd66df7f515aa",
-   "url": "https://appleinsider.com/articles/26/10/27/with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts",
-   "title_original": "With the new iMac and MacBook Pro, Apple is targeting stubborn Intel holdouts",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69555-146598-000-lead-Intel-iMac-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:38:49+00:00",
-   "title_ja": "新型MacでIntel搭載機からの移行を促進",
-   "summary_ja": "Appleシリコンの登場から約6年が経過したが、Appleは依然としてIntel製Macを使い続けるユーザーからの買い替えを強く促している。新型iMacやMacBook Proの投入により、その移行をさらに加速させる狙いがある。",
-   "category": "Mac",
-   "importance": 4
-  },
-  {
-   "id": "12805a2270b1b919",
-   "url": "https://www.macworld.com/article/3270683/apple-creator-studio-gets-a-major-ai-boost-with-latest-update.html",
-   "title_original": "Apple Creator Studio gets a major AI boost with latest update",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3270683-0-33533400-1793119045-creator-studio-.jpg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:35:29+00:00",
-   "title_ja": "Apple Creator Studioが最新アップデートでAI機能を大幅強化",
-   "summary_ja": "Appleのクリエイター向けアプリ群に、AIを活用した新機能が追加されることが発表された。10のアプリすべてが対象となり、11月から既存のサブスクリプション加入者向けに無料で提供される。映像制作やグラフィックのツールがさらに進化する。",
-   "category": "ソフトウェア・OS",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c0b16e31125c6e85",
-   "url": "https://9to5mac.com/2026/10/27/twelve-south-launches-new-airfly-view-dongle-with-built-in-screen",
-   "title_original": "Twelve South launches new Airfly View dongle with built-in screen",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Twelve-South-Airfly-View-2026-reveal-01.webp?w=1500",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:34:43+00:00",
-   "title_ja": "Twelve South、画面付きワイヤレス音声ドングル「AirFly View」発売",
-   "summary_ja": "人気アクセサリメーカーのTwelve Southが、内蔵ディスプレイを備えた新型オーディオドングル「AirFly View」を発売した。Amazonなどで注文を受付中。従来のAirFlyシリーズに新たな画面表示機能が追加された。",
-   "category": "その他",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "b78da895f53accda",
-   "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report",
-   "title_original": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:34:34+00:00",
-   "title_ja": "Apple、第2世代「MacBook Neo」を2027年上半期に発売か",
-   "summary_ja": "Bloombergのマーク・ガーマン記者によると、Appleは2027年前半に第2世代のMacBook Neoを発売する計画という。次期モデルにはA19 Proチップや12GB RAMが搭載される見通し。カラーバリエーションの刷新も予定されている。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2794192b1ef54d06",
-   "url": "https://appleinsider.com/articles/26/10/27/formula-1s-ceo-sees-a-very-long-term-future-with-apple-tv",
-   "title_original": "Formula 1's CEO sees a very long-term future with Apple TV",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69557-146601-0E27C25D-0C96-4EB1-ABA1-D31B164282AA-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:27:42+00:00",
-   "title_ja": "F1最高経営責任者、Apple TVとの中継パートナーシップ継続に意欲",
-   "summary_ja": "F1の最高経営責任者であるデレック・チャン氏が、Apple TVとの米国放映権パートナーシップを2030年以降も継続したい意向を示した。Appleの配信実績は事前の期待を上回る成果を出しており、長期的な関係構築を視野に入れている。",
-   "category": "サービス・アプリ",
-   "importance": 3
-  },
-  {
-   "id": "0a5b1495d1477cfb",
-   "url": "https://iphone-mania.jp/mac-608037",
-   "title_original": "OLED XDR タッチ MacBook Proの追加情報〜10月28日の発表濃厚",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/28/OLED-MacBook-Pro-V.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:25:17+00:00",
-   "title_ja": "OLEDとタッチ対応の新型MacBook Pro、10月28日発表が濃厚",
-   "summary_ja": "有機ELディスプレイとタッチスクリーンを搭載する新型MacBook Proについて、Bloombergのマーク・ガーマン記者が詳細な情報を報じた。今晩の10月28日夜にも正式発表される可能性が非常に高まっている。",
-   "category": "Mac",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "60402734c1ce528b",
-   "url": "https://www.macworld.com/article/3218834/new-imac-guide-release-date-launch-specs-price-color.html",
-   "title_original": "Apple’s M6 iMac is here: What’s new and which model to buy",
-   "source": "Macworld",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.macworld.com/wp-content/uploads/2026/10/3218834-0-63316900-1793118141-m6-iMac.jpg?quality=50&strip=all",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:14:33+00:00",
-   "title_ja": "M6チップ搭載iMacが登場、AI処理やグラフィックスが強化",
-   "summary_ja": "AppleはM6チップを搭載した新型iMacを発表した。CPUとGPUの性能向上に加え、AI処理能力やストレージ、ワイヤレス機能が強化されている。M5世代をスキップしての投入となり、Wi-Fi 7やBluetooth 6にも対応した。",
-   "category": "Mac",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "e59ca9826f53ada0",
-   "url": "https://www.cultofmac.com/apple-history/dell-pcs-overtake-macs-education",
-   "title_original": "Today in Apple history: Dell PCs overtake Macs in education market",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2025/10/Dell-OptiPlex-GX1.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:02:50+00:00",
-   "title_ja": "デルのPCが教育市場でMacのシェアを抜いた日",
-   "summary_ja": "1999年10月27日、安価なPCを展開するデル・コンピュータが、教育市場においてAppleのシェアを上回ったことがデータで示された。歴史的なApple関連の出来事として振り返られている。",
-   "category": "その他",
-   "importance": 1,
-   "has_detail": true
   }
  ]
 }
