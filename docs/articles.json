@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T05:46:19.005161+09:00",
+ "updated_at": "2026-11-01T12:10:54.727982+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,28 +29,20 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 298,
+ "detail_count": 299,
  "digest": {
-  "headline": "Apple、タッチ対応MacBook Proや新製品を多数発表",
+  "headline": "タッチ対応MacBook Proや新製品の登場とAI関連の動き",
   "points": [
    {
-    "text": "Appleは、有機ELディスプレイとMac初となるタッチ操作を搭載した新型MacBook Proや、512GBメモリのMac Studioなどを発表した。",
+    "text": "タッチ操作やPROLED XDRディスプレイを搭載した新型MacBook Proが発表され、新製品ラッシュが続いている。",
     "ids": [
-     "330d6c404f0d1a33",
-     "12975375e5923670",
-     "ad13ceb493db6c7c"
+     "898c5560f4a9d8d3",
+     "997b2e5b86897873",
+     "048456e2d6e2396b"
     ]
    },
    {
-    "text": "Appleがデータ基盤系AIスタートアップのAscend.ioを買収したことが、EUへの提出書類から判明した。",
-    "ids": [
-     "dde5830f9ded17ba",
-     "de6015ae64476152",
-     "7f250a88a4de534d"
-    ]
-   },
-   {
-    "text": "中国のiPhoneユーザー向けに、Apple Intelligenceのオープンベータ版が11月4日から提供されると報じられている。",
+    "text": "中国のiPhoneユーザー向けにApple Intelligenceの提供が予定されており、ベータ版や対応OSの配信が明らかにされている。",
     "ids": [
      "0405d08a3c737ddb",
      "2a96676ff8344830",
@@ -58,28 +50,68 @@
     ]
    },
    {
-    "text": "Siriの機能強化などを盛り込んだiOS 27.2が配信開始されたほか、中国向け機能を含むiOS 27.3ベータが来週配信予定である。",
+    "text": "Appleがデータエンジニアリング分野のAIスタートアップであるAscend.ioを買収したことが判明した。",
     "ids": [
-     "2a96676ff8344830",
-     "aca887ceaf7da00f",
-     "5b1c699c7fce26a6"
+     "dde5830f9ded17ba",
+     "de6015ae64476152",
+     "7f250a88a4de534d"
     ]
    },
    {
-    "text": "音質が向上しS10チップを搭載したHomePod mini 2の販売が開始された。",
+    "text": "S10チップを搭載したHomePod mini 2が発売され、音質の向上や新色が追加された。",
     "ids": [
      "40f3d559a2c0e1c5",
      "55dde6374d4da6e5"
     ]
+   },
+   {
+    "text": "Siriの機能強化などを含むiOS 27.2が配信開始された。",
+    "ids": [
+     "5b1c699c7fce26a6"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-29T05:47:34.679700+09:00",
-  "generated_at": "2026-11-01T05:47:36.269641+09:00",
+  "from": "2026-10-29T12:11:47.529185+09:00",
+  "generated_at": "2026-11-01T12:11:49.251284+09:00",
   "article_count": 24,
-  "sig": "9c010ff10c30"
+  "sig": "6cec71499c60"
  },
  "items": [
+  {
+   "id": "76dfacd2b0870fd3",
+   "url": "https://applech2.com/archives/20261101-apple-gift-card-monetary-campaign.html",
+   "title_original": "コンビニ各社でApple AccountへチャージやApple Gift Card購入で10%分のApple Gift Cardコードがもらえるキャンペーンが本日2026年11月1日まで開催中。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2025/05/Apple-Account-Gift-Card-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T02:05:08+00:00",
+   "title_ja": "コンビニでApple Gift Cardチャージ時に10%還元されるキャンペーンが開催",
+   "summary_ja": "コンビニ各社にて、Apple AccountへのチャージやApple Gift Cardの購入で10%分のコードが還元されるキャンペーンが実施されている。本キャンペーンの開催期間は2026年11月1日までだ。アカウントへのチャージを検討している人はチェックしておきたい。",
+   "category": "サービス・アプリ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "898c5560f4a9d8d3",
+   "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
+   "title_original": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T19:49:44+00:00",
+   "title_ja": "タッチ操作に対応した新型MacBook ProとmacOS 27の最適化機能が発表",
+   "summary_ja": "Appleが初となるタッチディスプレイおよびPROLED XDRを搭載した新型MacBook Proを発表した。macOS 27 Golden Gateにおいても、タッチ操作に向けた新たな最適化機能が盛り込まれている。",
+   "category": "Mac",
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "af451803864af309",
    "url": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar",
@@ -128,6 +160,23 @@
    "title_ja": "タッチスクリーン搭載MacBook Proの登場とAppleの姿勢を議論",
    "summary_ja": "史上初となるタッチスクリーン搭載MacBook Proの登場を受け、Cult of Macのポッドキャストで議論が行われた。画期的な新機能が追加された一方で、Appleがタッチ機能を控えめに訴求している点など、製品の展開方針について独自の分析が示されている。",
    "category": "Mac",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "f3f864a8320b7af6",
+   "url": "https://iphone-mania.jp/iphone18-608198",
+   "title_original": "Samsung、iPhone Duoの画面割れを広告で揶揄〜同社も故障で発売延期の過去",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/31/Samsung-Galaxy-Fold-Ad-2.heic.jpeg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T17:04:57+00:00",
+   "title_ja": "SamsungがiPhone Duoの画面破損を揶揄する競合広告を公開",
+   "summary_ja": "Samsungは報告されているiPhone Duoの画面割れ問題を揶揄する広告を新たに公開した。折りたたみスマートフォンで8世代にわたる開発経験がある実績を強調しながら、ユーザーに対してGalaxyへの乗り換えを呼びかけている。",
+   "category": "iPhone",
    "importance": 2,
    "has_detail": true
   },
@@ -1078,6 +1127,23 @@
    "importance": 2
   },
   {
+   "id": "9a5a80430bd8d971",
+   "url": "https://sixcolors.com/sponsor/2026/10/filmlog-for-the-love-of-movies-now-on-the-mac-2",
+   "title_original": "(Sponsor) Filmlog: For the love of movies, now on the Mac",
+   "source": "Six Colors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T18:00:00+00:00",
+   "title_ja": "映画管理アプリ「Filmlog」がMacに対応",
+   "summary_ja": "映画ファン向けの個人向けアプリ「Filmlog」が、新たにMacのネイティブアプリとして登場した。すでに提供されているiPhoneやiPad版、Apple TV版に加わる形となる。オフライン対応で広告なしの設計が特徴。",
+   "category": "サービス・アプリ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "c31b8c374ad78318",
    "url": "https://9to5mac.com/2026/10/30/switchbot-k11-pro",
    "title_original": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
@@ -1745,6 +1811,23 @@
    "summary_ja": "AmazonやBest Buyにて、AirTag 2の4個パックが通常より安く販売されている。今回はこれまでで最も安価な価格が設定されており、1個パックについても割引価格で購入できる。",
    "category": "その他",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5bdaacbfd176af81",
+   "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+   "title_original": "The Apple Pencil turned the Duo into my new favorite notebook",
+   "source": "The Verge (Apple)",
+   "lang": "en",
+   "region": "global",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-30T12:30:00+00:00",
+   "title_ja": "Apple Pencilで広がる折りたたみ端末の活用法",
+   "summary_ja": "高価な折りたたみ端末とApple Pencilの組み合わせが、ノートの代わりとして非常に優れていると評価している。いつでもどこでもアイデアを書き留めるためのデジタルツールとしての魅力を紹介。",
+   "category": "iPad",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -6692,90 +6775,6 @@
    "summary_ja": "1999年10月27日、安価なPCを展開するデル・コンピュータが、教育市場においてAppleのシェアを上回ったことがデータで示された。歴史的なApple関連の出来事として振り返られている。",
    "category": "その他",
    "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "70e4d7a9c5f0fb3d",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
-   "title_original": "Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only",
-   "source": "Daring Fireball",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T16:00:46+00:00",
-   "title_ja": "14インチのM6搭載新型MacBook Pro発表",
-   "summary_ja": "AppleはM6チップを搭載した14インチの新型MacBook Proを発表した。12コアCPUやGPUの強化により処理性能が向上し、優れたオンデバイスAI機能や高速な接続性を提供する。",
-   "category": "Mac",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "20523d7d5f61c072",
-   "url": "https://iphone-mania.jp/iphone18-608035",
-   "title_original": "iPhone Duoの在庫情報【10/28】〜公式・キャリア・家電量販店の最新状況",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/28/iphone-duo-inv_1028.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:49:15+00:00",
-   "title_ja": "iPhone Duoの最新在庫と納期状況",
-   "summary_ja": "Appleオンラインストアやキャリア、家電量販店におけるiPhone Duoの最新在庫と納期状況をまとめた。購入を検討する際は各販売チャネルの状況を確認しておきたい。",
-   "category": "iPhone",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "2c1faa1df4acd4f3",
-   "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro",
-   "title_original": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-scaled.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:42:54+00:00",
-   "title_ja": "M5とM6の14インチMacBook Pro比較と選び方",
-   "summary_ja": "Appleはエントリー向けの14インチMacBook ProをM6モデルへ刷新した。デザインや基本仕様を継承しつつ、プロセッサの性能や無線通信機能が強化されている。新モデルの導入により、旧世代との違いや購入時の選択肢が注目されている。",
-   "category": "Mac",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "ce6e1623bd6bb919",
-   "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet",
-   "title_original": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/10/iMac-Ethernet-Port-Power-Adapter.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:34:55+00:00",
-   "title_ja": "新型iMac、電源アダプタに2.5GbEポート搭載",
-   "summary_ja": "新しいM6チップ搭載のiMacでは、電源アダプタに2.5ギガビットEthernetポートを内蔵できるようになりました。下位モデルでは追加料金で選択可能で、上位モデルには標準で付属します。前モデルの1ギガビットから通信速度が向上しています。",
-   "category": "Mac",
-   "importance": 4
-  },
-  {
-   "id": "47bb10dccd1bdaa5",
-   "url": "https://9to5mac.com/2026/10/27/deals-airpods-apple-pencil-usb-c-macbook-air-airtag-2",
-   "title_original": "Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-Pencil-Apple-TV-4K-AirPods-Macbook.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T15:30:46+00:00",
-   "title_ja": "AirPods Pro 3などがセールで20%オフに",
-   "summary_ja": "AmazonにてAirPods Pro 3が20%オフで販売されているほか、USB-C対応のApple PencilやM5搭載MacBook Airなどが値引きされています。AirTag 2をはじめとした各種Apple関連アクセサリーもお得になっています。",
-   "category": "サービス・アプリ",
-   "importance": 3,
    "has_detail": true
   }
  ]
