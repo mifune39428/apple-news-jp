@@ -1,0 +1,19 @@
+{
+ "id": "b8e592600ae1dfff",
+ "title_ja": "macOS 27.2で仮想デスクトップが切替不能になる不具合が修正",
+ "summary_ja": "リリースされたmacOS 27.2 Golden Gateにおいて、機能の不具合修正が行われた。Mission Control利用時に仮想デスクトップが正常に切り替えられなくなっていた問題が解消されている。Macの操作における利便性が向上した。",
+ "points": [
+  "macOS 27.2 Golden Gateが10月26日にリリースされた",
+  "Mission Controlで仮想デスクトップが切り替えられない不具合が修正",
+  "外部カメラ利用時のMacBook Neo予期せぬ再起動などの問題も解消"
+ ],
+ "body": "Appleが提供するMac向けOSの最新版となるmacOS 27.2 Golden Gateが、10月26日にリリースされました。今回のアップデートでは、これまでのバージョンで確認されていた複数の不具合が修正され、システムの安定性が向上しています。具体的には、2026年9月にリリースされたmacOS 27.0 Golden Gate以降で発生していたトラブルへの対処が含まれています。\n\n主な修正点として、フルスクリーンアプリ使用時にMission Controlを介して仮想デスクトップを移動できない問題や、画面上部のSpacesが空白になる不具合が解消されました。これにより、Mission Controlを利用した仮想デスクトップの切り替えが再び正常に行えるようになっています。また、Spaces関連の機能不全に悩まされていたユーザーにとって、今回の更新は大きな改善となります。\n\nさらに、仮想デスクトップの切り替え機能の修復に加えて、いくつかのハードウェアおよびソフトウェアに関する不具合も修正されています。外部カメラを使用した際にMacBook Neoが予期せず再起動してしまう問題や、リモートデスクトップアプリケーション上でターゲットMacのウィンドウが移動できない不具合も同時に解決されています。これらのトラブルに遭遇していたユーザーは、アップデートの適用を検討すると良いでしょう。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261102-macos-27-2-fixed-mission-control-spaces-issue.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
+ "published": "2026-11-01T23:35:07+00:00"
+}

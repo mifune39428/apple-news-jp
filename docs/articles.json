@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:28:41.731425+09:00",
+ "updated_at": "2026-11-02T12:21:01.112700+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -31,55 +31,184 @@
  "count": 400,
  "detail_count": 299,
  "digest": {
-  "headline": "タッチ対応MacBook Pro発表やAIスタートアップ買収など新製品ラッシュ",
+  "headline": "タッチ操作対応MacBook Proの発表やAppleの買収・決算の動き",
   "points": [
    {
-    "text": "Appleは初となるタッチ操作対応およびPROLED XDRディスプレイ搭載の新型MacBook Proを発表した。",
+    "text": "Appleが初のタッチ操作とPROLED XDRディスプレイを搭載した新型MacBook Proを発表したほか、過去2ヶ月間で多数の新製品が投入されている。",
     "ids": [
      "81909cc7aae2d0f4",
      "898c5560f4a9d8d3",
-     "25120b9a5d1e1954"
+     "a243c0175da9701d"
     ]
    },
    {
-    "text": "直近2ヶ月間で25製品以上の新デバイスが投入され、MacBook ProやHomePod mini 2などが発表・発売されている。",
-    "ids": [
-     "330d6c404f0d1a33",
-     "a243c0175da9701d",
-     "55dde6374d4da6e5"
-    ]
-   },
-   {
-    "text": "Appleがデータ基盤系AIスタートアップのAscend.ioを買収したことが判明した。",
+    "text": "Appleがデータ基盤系AIスタートアップのAscend.ioを買収したことが、EUへの提出書類から判明した。",
     "ids": [
      "dde5830f9ded17ba",
-     "de6015ae64476152",
-     "7f250a88a4de534d"
+     "de6015ae64476152"
     ]
    },
    {
-    "text": "中国のiPhone向けにApple Intelligenceのベータ版が11月4日から提供されるなど、関連アップデートが予定されていると報じられている。",
+    "text": "中国のiPhoneユーザー向けに、Apple Intelligenceのオープンベータ版が11月4日から提供されることが分かった。",
     "ids": [
-     "0405d08a3c737ddb",
-     "2a96676ff8344830",
-     "aca887ceaf7da00f"
+     "0405d08a3c737ddb"
     ]
    },
    {
-    "text": "iPhone需要を背景にAppleが世界時価総額首位に返り咲いた一方、AI需要によるメモリ調達の逼迫が懸念されている。",
+    "text": "Appleは11月2日に第4四半期決算を発表予定で、今回はジョン・ターナスCEO体制で初の発表となる。",
     "ids": [
-     "762fc9c2a78c8abd",
-     "ba421a38929d5add"
+     "84c2e4ae51c50f90"
+    ]
+   },
+   {
+    "text": "次世代のタッチスクリーンを搭載したMacBook ProにはM7世代が採用されるという噂が出ている。",
+    "ids": [
+     "5cf5c241e646e8bf"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-10-30T06:29:46.850272+09:00",
-  "generated_at": "2026-11-02T06:29:48.495939+09:00",
+  "from": "2026-10-30T12:21:52.901201+09:00",
+  "generated_at": "2026-11-02T12:21:54.252005+09:00",
   "article_count": 24,
-  "sig": "ab5a0269fc33"
+  "sig": "e80d31bafd8a"
  },
  "items": [
+  {
+   "id": "10593eebae2e3929",
+   "url": "https://appleinsider.com/articles/26/11/02/sunday-reboot-sam-altman-needs-to-read-the-ram-room",
+   "title_original": "Sunday Reboot: Sam Altman needs to read the RAM room",
+   "source": "AppleInsider",
+   "lang": "en",
+   "region": "global",
+   "image": "https://media.appleinsider.com/gallery/69621-146795-68224-143841-openaialtman-xl-xl.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-02T02:46:56+00:00",
+   "title_ja": "サム・アルトマン氏が語るMacのメモリ容量についてのコラム",
+   "summary_ja": "OpenAIのサム・アルトマンCEOが、ユーザーがMacに多くのメモリを載せるのは無駄だと考えているという話題がコラムで紹介された。外部からアクセスできないRAMが存在することへの意見も含め、Apple関連の軽めなニュースを振り返る記事の中で取り上げられている。",
+   "category": "その他",
+   "importance": 1
+  },
+  {
+   "id": "44be8e7b87d9cf90",
+   "url": "https://iphone-mania.jp/mac-608209",
+   "title_original": "M7搭載14インチMacBook Proが2027年に新デザイン採用へ？",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/02/M7-MacBook-Pro-AC.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-02T02:45:11+00:00",
+   "title_ja": "M7搭載14インチMacBook Proは薄型・軽量化され登場か",
+   "summary_ja": "AppleがM7プロセッサを搭載した14インチMacBook Proを計画中であると報じられた。Bloombergのマーク・ガーマン記者によれば、この新モデルでは本体の薄型化および軽量化が実施される見込みである。将来的なデザイン刷新に期待が高まる。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "af5d1dd1ecd6892c",
+   "url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming",
+   "title_original": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-02T02:12:39+00:00",
+   "title_ja": "Appleが来年前半にiPad AirやProなど3モデルを発売か",
+   "summary_ja": "Appleが来年前半に複数の新しいiPadを発売する見通しであることがわかった。Bloombergのマーク・ガーマン記者によると、新型のiPad Air、ベースモデルのiPad、そしてiPad Proの3機種が計画されている。ラインナップの更新が順次進められる模様だ。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c3480fbd1ee197b8",
+   "url": "https://applech2.com/archives/20261102-apple-watch-shows-incorrect-time-after-daylight-saving-time.html",
+   "title_original": "Apple、サマータイムの切り替え後にApple Watchに1時間ずれた誤った時間が表示される不具合があるとして対処法を公開。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2025/12/Apple-Watch-Series-11-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-02T00:53:05+00:00",
+   "title_ja": "Apple Watchで夏時間移行時に時刻がずれる問題と対処法",
+   "summary_ja": "サマータイムの切り替えに伴い、Apple Watchで時刻が1時間ずれて表示される不具合が確認された。これに対しAppleは公式に対処法を公開した。該当する現象が発生しているユーザーに向けて、適切な設定手順などを案内している。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b8e592600ae1dfff",
+   "url": "https://applech2.com/archives/20261102-macos-27-2-fixed-mission-control-spaces-issue.html",
+   "title_original": "macOS 27.2 Golden Gateでは、Mission Controlで仮想デスクトップが切り替えられない不具合が修正。",
+   "source": "AAPL Ch.",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T23:35:07+00:00",
+   "title_ja": "macOS 27.2で仮想デスクトップが切替不能になる不具合が修正",
+   "summary_ja": "リリースされたmacOS 27.2 Golden Gateにおいて、機能の不具合修正が行われた。Mission Control利用時に仮想デスクトップが正常に切り替えられなくなっていた問題が解消されている。Macの操作における利便性が向上した。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e42f51ea2c91cbe3",
+   "url": "https://gori.me/sale/peripheral-sale/171995",
+   "title_original": "デスクの充電器をこれ1台に。Anker Prime Charger 250Wが7,000円オフ",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2024/09/Anker-250w-prime-charger-6ports-800x500.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T22:34:42+00:00",
+   "title_ja": "Ankerの6ポート充電器がAmazonセールに登場",
+   "summary_ja": "Ankerの最大250W出力に対応した6ポート充電器がAmazonのタイムセール対象に選ばれました。単ポートで最大140Wを出力できるため、16インチMacBook Proも急速充電可能です。",
+   "category": "Mac",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5cf5c241e646e8bf",
+   "url": "https://gori.me/macbookpro/171991",
+   "title_original": "タッチ対応新デザインMacBook Pro、来年にはM7 Pro/Maxモデル登場の噂",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/1793393973038-Apple-MacBook-Pro-with-PROLED-XDR-Display-Pixelmator-Pro-261028-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T21:50:53+00:00",
+   "title_ja": "タッチ対応MacBook Pro、来年M7搭載の噂",
+   "summary_ja": "次世代のタッチスクリーンを搭載したMacBook ProにはM7 ProやM7 Maxが採用されるという噂が出ています。M6世代はスキップされ、新しいAIハードウェアやエントリー向け14インチモデルも計画されている見通しです。",
+   "category": "Mac",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2a8875b4dc8d3c75",
+   "url": "https://gori.me/ipad/ipadair/171990",
+   "title_original": "次はiPad Airも有機EL化か（なお価格……）。次期iPad Pro、ベイパーチェンバー搭載との噂",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/10/daniel-romero-S8Y4GCoVU1E-unsplash-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T21:30:29+00:00",
+   "title_ja": "次期iPad ProとAirに関する噂が浮上",
+   "summary_ja": "2027年前半に登場すると噂される次期iPad Proにはベイパーチェンバー冷却が搭載される見込みです。また、iPad Airには有機ELディスプレイが採用されるとみられていますが、価格への影響も懸念されています。",
+   "category": "iPad",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "2d86838426029778",
    "url": "https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera",
@@ -110,6 +239,23 @@
    "title_ja": "AmazonでM5 MacBook Airが200ドル引きに",
    "summary_ja": "Amazonにて、M5を搭載したMacBook Airのほぼ全モデルが200ドル引きで販売されている。13インチおよび15インチの512GBモデルなどが対象となっており、在庫やカラーバリエーションも豊富に揃っている。",
    "category": "Mac",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "08a98f93893b580a",
+   "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+   "title_original": "Apple’s HomeView could add security camera features",
+   "source": "The Verge (Apple)",
+   "lang": "en",
+   "region": "global",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0,0,100,100",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-01T17:16:07+00:00",
+   "title_ja": "HomeViewのコードに防犯カメラ機能のヒント",
+   "summary_ja": "HomeViewのコード内から、スマートホームハブ向けのセキュリティカメラ機能に関する記述が見つかりました。動体検知やライブストリーミング、録画、プライバシー保護に関連する設定項目の存在が確認されています。",
+   "category": "ソフトウェア・OS",
    "importance": 3,
    "has_detail": true
   },
@@ -1003,6 +1149,22 @@
    "category": "ビジネス・業績",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "588a87d943c18851",
+   "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today",
+   "title_original": "'Pluribus' Season 2 Reportedly Starts Production Today",
+   "source": "MacRumors",
+   "lang": "en",
+   "region": "global",
+   "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-10-31T06:41:45+00:00",
+   "title_ja": "Apple TV「プルリブス」シーズン2が撮影開始",
+   "summary_ja": "Apple TVの人気SFドラマ「プルリブス」のシーズン2が、ニューメキシコ州アルバカーキで撮影を開始したと報じられている。リア・シーホーン主演の注目作だが、現時点で配信時期については発表されていない。",
+   "category": "サービス・アプリ",
+   "importance": 3
   },
   {
    "id": "c63c065d7f1470f2",
@@ -6608,174 +6770,6 @@
    "title_ja": "Amazonで第2世代AirTagの4個入りが11%オフで販売中",
    "summary_ja": "Amazonにて第2世代のAirTag 4個入りセットが11%オフの16,430円で販売されている。1個あたり4,107円で購入でき、発売時の価格より安くなっている。第2世代では探索範囲やスピーカー音量が向上しており、旅行や日常の紛失対策として役立つ製品だ。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "0f0ddb94689e7971",
-   "url": "https://gori.me/apps/ipad-app-news/171826",
-   "title_original": "Apple Creator Studio、ガツンと進化。FCPにMotionVFX内蔵、他アプリも各種AI追加",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/10/Apple-Creator-Studio-hero-261027-1-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T21:20:58+00:00",
-   "title_ja": "Apple Creator Studioに新機能、FCPにMotionVFX標準搭載",
-   "summary_ja": "Appleはクリエイティブ向けサブスクリプションの更新を発表した。Final Cut ProにMotionVFXが標準搭載され、各種アプリにAIアシスタント機能が追加される。提供開始は2026年11月を予定している。",
-   "category": "サービス・アプリ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "8656926768d88d86",
-   "url": "https://applech2.com/archives/20261028-macbook-pro-14inch-m6.html",
-   "title_original": "Apple、12コアCPU/GPUのM6チップとN1ワイヤレスネットワークチ﻿ッ﻿プを搭載した「14インチ MacBook Pro (M6)」を発表。価格は339,800円から。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2023/11/MacBook-Pro-14-inch-M3-2023-logo-icon.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T21:18:30+00:00",
-   "title_ja": "AppleがM6チップ搭載のMacBook ProとiMacを発表",
-   "summary_ja": "Appleが現地時間2026年10月27日、M6チップを搭載した新型Macを発表した。14インチMacBook Pro（M6）は339,800円から提供され、最大12コアCPUやN1ワイヤレスチップを備える。さらに2.5GbEや4.5Kディスプレイに対応するiMac（M6）も発表された。",
-   "category": "Mac",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "d6d3e6662271ceca",
-   "url": "https://appleinsider.com/articles/26/10/27/way-of-the-warrior-kid-lands-on-apple-tv-ahead-of-thanksgiving",
-   "title_original": "'Way of the Warrior Kid' lands on Apple TV ahead of Thanksgiving",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69563-146620-wayofthe-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T21:03:18+00:00",
-   "title_ja": "Apple TV映画『Way of the Warrior Kid』の予告編が公開",
-   "summary_ja": "Apple Original Filmsが、クリス・プラットら主演の映画『Way of the Warrior Kid』の予告編を公開した。イジメや学校生活に悩む中学生が、怪我で滞在することになった元ネイビーシールズの叔父とともに成長していくストーリーだ。2026年11月25日にApple TVで配信される。",
-   "category": "サービス・アプリ",
-   "importance": 3
-  },
-  {
-   "id": "3ceaccbebb8574e2",
-   "url": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026",
-   "title_original": "Apple’s European government affairs chief to speak at Web Summit 2026",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T21:03:16+00:00",
-   "title_ja": "Appleの欧州政府問題担当ディレクターがWeb Summit 2026に登壇へ",
-   "summary_ja": "Appleで欧州政府問題を統括するセバスチャン・グロ氏が、ポルトガルのリスボンで開催されるWeb Summit 2026に登壇することが決定した。同イベントは11月9日から12日にかけて開催される予定である。政策関連の議論が行われると見られる。",
-   "category": "ビジネス・業績",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "28a9bfbdf1fda566",
-   "url": "https://appleinsider.com/articles/26/10/27/chatgpt-can-now-manage-your-icloud-calendar-and-icloud-emails",
-   "title_original": "ChatGPT can now manage your iCloud Calendar and iCloud emails",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69562-146619-69222-146010-66485-139414-IMG_5547-xl-xl-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:58:59+00:00",
-   "title_ja": "ChatGPTがiCloudメールやカレンダーに対応、専用プラグインが登場",
-   "summary_ja": "OpenAIはChatGPT向けに新たなiCloudプラグインを発表した。これによりユーザーの許可を得た上で、iCloudメールの確認や送信、カレンダーのイベント管理や更新がChatGPT上で行えるようになった。Appleのメールやカレンダーアプリとの連携が大幅に強化されている。",
-   "category": "AI",
-   "importance": 3
-  },
-  {
-   "id": "c8fcf2754e839df2",
-   "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates",
-   "title_original": "iOS 27.2 adds new app icon for Apple Music, more design updates",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:57:05+00:00",
-   "title_ja": "iOS 27.2で「Apple Music」のアイコン刷新とデザイン変更を実施",
-   "summary_ja": "今週配信が開始されたiOS 27.2において、Apple Musicアプリの新しいアイコンが導入された。今回のアップデートではアイコンの刷新だけでなく、Musicアプリ全体でいくつかの細かいデザイン変更や調整が行われている。",
-   "category": "ソフトウェア・OS",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "52bbdcbace3091fb",
-   "url": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date",
-   "title_original": "iOS 27.2 now available: Here’s everything new for iPhone",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:45:46+00:00",
-   "title_ja": "Appleが「iOS 27.2」を正式リリース、一般ユーザー向けに配信開始",
-   "summary_ja": "6週間に及ぶベータテスト期間を経て、iPhone向けの「iOS 27.2」が一般公開された。月曜日にリリースされたこの最新アップデートには、iPhoneの使い勝手を向上させる複数の新機能が含まれている。",
-   "category": "ソフトウェア・OS",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b8e48677acffc26b",
-   "url": "https://www.macrumors.com/2026/10/27/imac-m6-color-options",
-   "title_original": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:36:30+00:00",
-   "title_ja": "新型M6搭載iMacはカラー変更なし、従来通り7色展開を維持",
-   "summary_ja": "新登場のM6搭載iMacでは、新色の追加が噂されていたものの、2024年モデルと同じ全7色のカラーラインナップが据え置きとなった。グリーン、イエロー、オレンジ、ピンク、パープル、ブルー、シルバーの7色展開であり、2021年の初代モデルから色合いのマイナーチェンジを経つつ引き継がれている。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "53bb6f7150cd957e",
-   "url": "https://www.cultofmac.com/news/airfly-view-wireless-audio-adapter-airpods",
-   "title_original": "AirFly View makes connecting AirPods to any audio source even easier",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/AirFly-View_01.jpg.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:30:33+00:00",
-   "title_ja": "AirPods用アダプター「AirFly View」登場、画面付きで最大16時間駆動",
-   "summary_ja": "AirPodsなどを様々な機器に接続できるオーディオアダプターに、新モデル「AirFly View」が登場しました。新たにディスプレイを内蔵し、最大16時間のバッテリー駆動や2台のヘッドホンへの同時出力に対応しています。機内などの音声をワイヤレスで共有するのに最適です。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "6e36c7f34af1a5c5",
-   "url": "https://9to5mac.com/2026/10/27/apple-tv-releases-trailer-for-upcoming-original-film-starring-chris-pratt",
-   "title_original": "Apple TV releases trailer for upcoming original film starring Chris Pratt",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-10-27T20:30:12+00:00",
-   "title_ja": "Apple TV、クリス・プラット主演の新作映画予告編を公開",
-   "summary_ja": "Apple TVが、クリス・プラット主演の新作オリジナル映画『Way of the Warrior Kid』の予告編を公開しました。本作は11月25日に世界同時で配信が開始される予定です。公開に向けて作品の詳細や映像が明かされています。",
-   "category": "サービス・アプリ",
    "importance": 2,
    "has_detail": true
   }
