@@ -1,0 +1,19 @@
+{
+ "id": "3261cff773f3df24",
+ "title_ja": "ニコン、macOS 27 Golden GateでのMac用ソフトウェア対応状況を公開",
+ "summary_ja": "ニコンがMac向けソフトウェアにおける最新OS「macOS 27 Golden Gate」への対応状況を公開した。同社は2026年10月27日にこの情報を案内しており、Appleが09月にリリースした新OS上での動作互換性に関する詳細をユーザー向けに報告している。",
+ "points": [
+  "ニコンがmacOS 27 Golden Gateへの対応状況を公開",
+  "NX TetherやNX Studioなどの動作確認情報を更新",
+  "初回起動時にアクセス確認が出る以外は全てApple Siliconネイティブで動作"
+ ],
+ "body": "ニコンは、Mac版ソフトウェアとmacOS 27 Golden Gateとの互換性情報を更新し、対応状況を公開した。日本時間の2026年10月27日に発表されたもので、NX TetherやNX Studioなどの主要なMac用ソフトウェアにおける動作確認情報が明らかにされている。今回の発表によれば、macOS 27 Golden Gate環境において、ニコン製ソフトウェアの初回起動時にファイルおよびフォルダーへのアクセス確認メッセージが表示される点を除き、案内されているバージョンであれば問題なく動作することが確認されている。\n\n現時点での動作確認においては、対象となるニコン製ソフトウェアのすべてがApple Siliconネイティブで動作することが確認されていると伝えられている。ユーザーは特定のバージョンを利用する際、初回起動時のアクセス許可に関するポップアップに注意する以外は、これまでと同様にネイティブ環境でのパフォーマンスを期待できる状況となっている。ニコンは引き続き自社製ソフトウェアと最新のmacOS環境における検証を進め、必要に応じて最新情報を案内していくものとみられる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261102-nikon-apps-compatibility-with-macos-27-golden-gate.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2021/03/Nikon-NX-Studio-v1-for-Mac-logo-icon.jpg",
+ "published": "2026-11-02T07:24:15+00:00"
+}

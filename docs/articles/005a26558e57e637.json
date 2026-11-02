@@ -1,0 +1,19 @@
+{
+ "id": "005a26558e57e637",
+ "title_ja": "人気デザインツール「Affinity」のiPad版が提供開始 個人は無料で利用可能",
+ "summary_ja": "Macで高い人気を誇るデザインアプリ「Affinity」のiPad版が正式に登場しました。Mac版と同等の強力な描画・写真編集・レイアウト機能を備えており、1つのアプリでシームレスに作業が完結する仕様で、個人向けには無料で配信されています。",
+ "points": [
+  "iPad版「Affinity」オールインワンアプリがリリース",
+  "個人利用は無料でデスクトップ版と同等のプロ向け機能を提供",
+  "Apple Pencil Proの全機能やAI機能に対応"
+ ],
+ "body": "デザインアプリ「Affinity」の待望となるiPad版が新たにリリースされたと報じられている。これによって、Mac版と同様にベクター、写真、レイアウトなどのツールがひとつのアプリに統合されることになり、タッチ操作やApple Pencilの特性を活かしてスケッチから印刷用ファイルの作成までをシームレスに行えるようになるとしている。従来の「Affinity Photo」「Affinity Publisher」「Affinity Designer」といった個別アプリに代わり、単一のファイルとアプリ内で全ての作業を完結させられる点が大きな特徴に挙げられている。\n\niPad版はApple Pencil Proの高度な機能である筆圧、傾き、バレルロール、スクイーズ、ホバーなどに完全対応しており、AIを活用した機能としてジェネレイティブ・エクスパンド、解像度アップスケール、モーションブラーの追加なども搭載されていると伝えられている。また、平坦な画像を編集可能なレイヤーへと分割する「Decompose Layer」機能も備わっている。\n\nデスクトップ版と同様に個人利用は無料で提供され、App Storeからダウンロードできるとされている。プロジェクトの初期段階におけるラフなスケッチ作成から、精密なベクター描画、リアルタイムでの写真レタッチ、そしてマルチページのレイアウト編集まで、プロフェッショナル向けの強力な機能をポータブルな環境で利用できるようになると報じられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/02/affinity-for-ipad-all-in-one-design-app-now-available-free-for-individuals",
+ "lang": "en",
+ "region": "global",
+ "category": "iPad",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Affinity-for-iPad-all-in-one-design-app-launches-today-free-for-individuals.jpeg?quality=82&strip=all&w=1600",
+ "published": "2026-11-02T14:00:00+00:00"
+}

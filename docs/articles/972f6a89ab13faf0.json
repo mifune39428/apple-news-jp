@@ -1,0 +1,19 @@
+{
+ "id": "972f6a89ab13faf0",
+ "title_ja": "HomeViewがHomeKitセキュリティカメラ機能に対応か",
+ "summary_ja": "Appleのコード内から、HomeViewがHomeKitのセキュリティカメラとして機能する兆候が見つかりました。プライバシー保護を重視した複数のセキュリティカメラ向けオプションが用意されている模様です。",
+ "points": [
+  "HomeViewがHomeKitのセキュリティカメラとして機能する可能性がコードから判明",
+  "内蔵カメラを使ったライブ配信や録画の設定項目がソフトウェア27.2で見つかった",
+  "作動時にはインジケーターランプの点灯や音声、通知でプライバシーに配慮する仕様"
+ ],
+ "body": "Apple関連のコード解析から、未発表のデバイスとみられるHomeViewがHomeKitのセキュリティカメラとしても機能する可能性があると報じられている。発見されたソフトウェアのバージョン27.2の設定項目には、内蔵カメラを使用したストリーミング配信や録画機能が含まれており、在宅時や外出時、就寝時といった状況に応じてそれぞれ作動するように設定できることが示されている。\n\nプライバシー保護の観点からも重要な機能が盛り込まれており、機能が使用されている最中にはディスプレイ上のインジケーターランプが点灯し、ストリーミングや録画の開始を告げる音が鳴る仕組みになっている。さらに、同じ家の中に居住者がいる場合には、遠隔からの有効化ができずHomeView本体からのみ操作可能になるとされており、こうした配慮によってプライバシーの安全性が高められていると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-02T11:54:42+00:00"
+}
