@@ -1,0 +1,20 @@
+{
+ "id": "47ff085eb97c29ca",
+ "title_ja": "iOS 27.3などの最新ベータ版が一斉に配信開始",
+ "summary_ja": "Appleは日本時間11月4日にiOS 27.3など主要OSのベータ版の配信を開始した。各OSには新機能やデザインの変更が含まれており、watchOS 27.3では特定モデル向けの機能も追加されている。",
+ "points": [
+  "iOS 27.3などの最初の開発者向けベータが一斉配信開始",
+  "折りたたみ型とみられるiPhone Duoなどに新機能を追加",
+  "watchOS 27.3で賛否のあるAI文字起こし機能を初搭載",
+  "中国本土向けApple Intelligenceの展開がベータ版で始動"
+ ],
+ "body": "Appleは、日本時間11月4日にiOS 27.3やiPadOS 27.3、macOS Golden Gate 27.3、watchOS 27.3、tvOS 27.3、visionOS 27.3の最初の開発者向けベータ版を一斉に配信開始した。前回のアップデート公開からちょうど1週間後のタイミングとなり、今回のベータではこれまで実装が見送られていた複数の機能が新たに登場している。\n\n折りたたみ型とみられる新型iPhoneとされる「iPhone Duo」には、外側の画面端を短くスワイプすることで表示内容を左右にシフトできるreachability機能が追加され、アクセシビリティ設定から切り替えが可能になった。また、Apple Intelligenceを活用した健康サマリーや体調チェック機能を備えるヘルスケアアプリの再設計版も復活し、対応言語が広がっていると報じられている。\n\n一方、watchOS 27.3では、Apple Watch Series 12とApple Watch Ultra 4向けに、発表時より物議を醸している新機能のLive RewindとSiri Recapが初めて搭載された。これらは英語のみの対応で、iPhone 16以降とのペアリングが必要とされている。さらに、中国本土のユーザーを対象としたApple Intelligenceの展開も今回のベータから始まっており、正式な提供は2026年12月が予定されているとされる。",
+ "source": "gori.me",
+ "url": "https://gori.me/ios/ios-news/172026",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://gori.me/uploads/2026/11/1793744094945-ios27_3-updates-800x500.jpg",
+ "published": "2026-11-03T22:25:03+00:00"
+}
