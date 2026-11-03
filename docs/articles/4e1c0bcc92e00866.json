@@ -1,0 +1,20 @@
+{
+ "id": "4e1c0bcc92e00866",
+ "title_ja": "Parallels Desktopのセール開催",
+ "summary_ja": "Parallelsがブラックフライデーセールを実施し、「Parallels Desktop for Mac」のサブスクリプションを割引価格で提供しています。本バージョンは特定のmacOSビルドをサポートしています。",
+ "points": [
+  "Parallels Desktop 27 for Macのセールを開催",
+  "StandardおよびProのサブスクリプションが50%OFF",
+  "セール期間は現地時間11月2日から23日まで",
+  "最新バージョンでは性能向上や不具合修正を実施"
+ ],
+ "body": "Parallels International GmbH.は、Mac向けの仮想化ソフトウェア「Parallels Desktop 27 for Mac」を対象としたブラックフライデーセールを開催すると発表した。今回のセールでは、同ソフトウェアのStandardエディションおよびProエディションのサブスクリプションが50%OFFの割引価格で提供される。セール期間は現地時間2026年11月2日から11月23日までとなっている。\n\nParallels Desktop 27 for Macは、macOS 27 Golden Gateをサポートしているほか、Apple M4チップ以降を搭載したMacにおいて行列演算を高速化するSME命令セットやOpenGL v4.3に対応している。これにより、ローカル環境でのAI推論パフォーマンスが向上し、グラフィックス性能が最大で2.6倍に引き上げられているのが特徴だ。\n\nさらに、直近にリリースされたバージョン27.1では20件以上の不具合が修正され、全体の安定性も向上している。仮想環境で最新のmacOSを利用したいユーザーや、ライセンスの新規導入・更新を検討している人にとって、今回の50%OFFセールは購入の好機となりそうだ。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261103-parallels-desktop-v27-for-mac-black-friday-sale.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-11-03T04:40:57+00:00"
+}

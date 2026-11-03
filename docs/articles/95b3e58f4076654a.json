@@ -1,0 +1,19 @@
+{
+ "id": "95b3e58f4076654a",
+ "title_ja": "Mac版Microsoft Copilotアプリ終了へ",
+ "summary_ja": "Microsoftが、Mac App Storeで配信している「Microsoft Copilot」アプリのサポートおよび提供を近く終了する予定であることが明らかになった。詳細なスケジュールなどは今後発表される見込み。",
+ "points": [
+  "Mac App Store版Copilotが近く終了へ",
+  "公式サイト版への移行と継続利用を案内",
+  "終了の明確な理由は発表されていない"
+ ],
+ "body": "マイクロソフトが提供するMac App Store版の「Microsoft Copilot」アプリについて、近くサポートと配信が終了する予定であると報じられている。このバージョンはまもなくApp Storeからダウンロードできなくなり、利用者は公式サイトから最新バージョンを入手する必要があるとされている。終了の理由については特に公式な発表はなされていないものの、同社が進める今後のサービス展開や機能統合に関連しているのではないかと推測されている。\n\n現在、Mac App Store版の最新アプリを起動するとサポート終了の通知が表示され、公式サイト版のインストールが促される仕様になっている。公式サイトからダウンロードした場合でも、同じアカウントでサインインすればこれまでのチャット履歴やデータの続きからそのまま利用できる仕組みとなっている。App Store版を利用しているユーザーは、今後の機能やサポートを継続して受けるために、公式サイトからの移行が推奨されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261103-microsoft-copilot-mac-app-store-discontinued.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/03/Microsoft-Copilot-for-macOS-logo-icon.webp",
+ "published": "2026-11-03T02:59:12+00:00"
+}
