@@ -1,0 +1,20 @@
+{
+ "id": "edb4a83e47bdf45d",
+ "title_ja": "iOS 27.3パブリックベータが公開、新デザインのヘルスケアなど追加",
+ "summary_ja": "AppleがiPhone向けにiOS 27.3の最初のパブリックベータをリリースした。刷新されたヘルスアプリが再登場し、Safariの垂直タブやSiriの機能強化、iPhone Duoの片手操作改善などが含まれている。",
+ "points": [
+  "iOS 27.3の最初のパブリックベータ版が公開された",
+  "再設計されたヘルスケアアプリが改めて搭載された",
+  "Safariに縦型タブが追加されSiriの機能も強化された",
+  "対応機種ではApple Intelligence機能を利用できる"
+ ],
+ "body": "Appleは、iPhone向けに「iOS 27.3」の最初のパブリックベータ版をリリースした。今回のアップデートでは、以前の開発者向けベータ版でも話題となった、再設計された新しいヘルスケアアプリが改めて登場している。このヘルスケアアプリには、Apple Intelligenceに対応したiPhoneにおいて、睡眠やアクティビティなどのトレンドを集約する新しいインサイトタブが含まれており、日々の健康管理をより視覚的に把握できるようになっている。さらに、Apple Watchのデータを用いて同年代の一般的な健康指標と比較できる「ヘルス・エイジ」機能を備えた長寿タブも用意されている。健康管理機能の刷新以外にも、今回のベータ版ではいくつかの新機能や改善が加えられている。Safariには縦型タブが導入されたほか、Appleの各アプリにおけるSiriのAI機能がさらに強化された。また、iPhone Duoを片手でもより操作しやすくなるような改良も行われており、全体的な使い勝手の向上が図られている。パブリックベータ版の導入手順としては、事前にiPhoneのバックアップを作成した上で、無料のApple Beta Software Programに登録する必要がある。その後、設定アプリのソフトウェアアップデートからベータアップデートへと進み、iOS 27のパブリックベータを選択することで、アップデートファイルをダウンロードしてインストールすることが可能となる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-05T19:01:35+00:00"
+}

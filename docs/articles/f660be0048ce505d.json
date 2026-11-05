@@ -1,0 +1,19 @@
+{
+ "id": "f660be0048ce505d",
+ "title_ja": "ターミナルでAI操作可能なmacOS仮想マシンを作成する「Terminal-Mac」が登場",
+ "summary_ja": "Appleの仮想化フレームワーク（AVF）を活用し、ターミナル内でAIエージェントが操作できるmacOS仮想マシンを作成するアプリ「Terminal-Mac」がリリースされた。AIエージェントに安全にタスクを実行させる環境を構築できるツールとなっている。",
+ "points": [
+  "Apple Silicon搭載Mac向けの仮想マシンツールTerminal-Macが公開",
+  "AppleのVirtualizationフレームワークを利用しターミナル内で動作",
+  "MCP ServerやCLI機能を備えAIエージェントによる操作が可能"
+ ],
+ "body": "AIエージェントにホストマシンのフルアクセス権限を与えずに作業を任せるための仮想マシン作成ツールとして、新たにTerminal-Macがオープンソースでリリースされている。開発者はAmazonの機械学習エンジニアを務める人物で、AppleのVirtualizationフレームワークを活用することで、ターミナル内に独立したmacOS仮想環境構築を実現している。システム要件としては、Apple Siliconを搭載したMacとmacOS 14 Sonoma以降が必要となり、アーキテクチャの制限からIntel Macは非対応となっている。\n\n基本的な利用手順として、GitHubのリポジトリに掲載されているコマンドを用いて仮想マシンのインストールを行い、初期設定を完了させた上で、指定のディレクトリ内にあるヘルパーアプリを起動して画面収録やアクセシビリティの権限付与とログイン項目への登録を行う。その後、インライン画面表示に対応するターミナルアプリ上で指定のコマンドを実行すれば、ターミナル内に仮想マシンの画面を表示させることが可能となる。さらに、MCP Serverやスキルプラグインを導入することで、Claude CodeなどのAIエージェントが画面のスクリーンショット取得やマウス操作、キーボード入力などを実行できるようになる仕組みとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Terminal-macOS-26-Tahoe-logo-icon.webp",
+ "published": "2026-11-05T21:24:30+00:00"
+}

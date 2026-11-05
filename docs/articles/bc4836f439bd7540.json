@@ -1,0 +1,20 @@
+{
+ "id": "bc4836f439bd7540",
+ "title_ja": "CleanMyMac、Gmailの整理やChromeタブ管理に対応",
+ "summary_ja": "MacPawは「CleanMyMac」の機能を拡張し、従来のMac向けメンテナンスツールに加えてGmailの整理やGoogle Chromeのタブ管理機能を追加すると発表しました。",
+ "points": [
+  "CleanMyMacにGmailとChrome向けの機能が追加された",
+  "Email Cleanupで不要メールの整理や容量確保ができる",
+  "Browser CareでChromeタブのメモリ消費を管理できる",
+  "既存の有効なサブスクリプションユーザー向けに提供される"
+ ],
+ "body": "Mac向けメンテナンスアプリとして知られるCleanMyMacに、新たにGoogleのサービスに特化した2つの機能が追加された。日常のデジタル上の散らかりを解消するために設計されたもので、メールの整理とブラウザタブの管理に対応している。新機能はいずれも同アプリの有効なサブスクリプションを所有するユーザーに向けて順次提供が開始されている。\n\nメールの整理を行う「Email Cleanup」機能では、不要なメッセージの一括削除やメーリングリストからの配信停止が可能となっている。さらに、送信者やカテゴリー、年、添付ファイルのサイズごとにメールを確認できるほか、GmailやGoogleドライブ、Googleフォトで共有されているストレージを圧迫しているメールを特定し、完全に削除することで容量を空けることができる。操作の実行前には必ず確認画面が表示される仕組みになっている。\n\n一方の「Browser Care」機能は、Google Chrome専用のブラウザ拡張機能を通じて動作し、CleanMyMacと直接連携する仕様となっている。リソースを多く消費しているタブや長時間開いたままになっているページ、重複しているタブをリアルタイムに近い状態で特定し、Macのメモリ負担や動作の遅延を軽減させる。タブの閉鎖や一時停止はユーザー自身が選択して行うことができ、ページの内容やタイトル、閲覧履歴などのプライバシー情報はMac上にローカル保存される。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-05T21:48:20+00:00"
+}
