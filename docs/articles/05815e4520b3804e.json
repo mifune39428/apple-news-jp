@@ -1,0 +1,19 @@
+{
+ "id": "05815e4520b3804e",
+ "title_ja": "Apple TVでSwitchゲームを動かすオープンソースプロジェクトが登場",
+ "summary_ja": "RedditユーザーがApple TV上でNintendo Switchなどのゲームをネイティブ実行可能にするオープンソースプロジェクトを公開した。現時点で一部の主要タイトルが動作しており、他作品への対応も進められている。",
+ "points": [
+  "RedditユーザーがNintendo Switch等のゲームをApple TVでネイティブ動作させるオープンソースプロジェクトを公開した",
+  "開発にはClaude Codeが活用され、スーパーマリオオデッセイやあつまれ どうぶつの森などが動作している",
+  "一部のゲームではRAM容量などの要件があり、さらなる最適化やMetalFXアップスケールの導入が進められている"
+ ],
+ "body": "Redditにおいて、Nintendo Switchおよびその後継機のゲームをApple TV上でネイティブ動作させるオープンソースのプロジェクトが公開されたと報じられている。このプロジェクトは「TVport」と呼ばれ、AIアシスタントのClaude Codeを活用してゲームの再コンパイルを行う仕組みとなっている。これまでにいくつかのタイトルがApple TV向けに移植されており、実際の動作確認が進められている段階にある。\n\n移植されたタイトルの動作状況については、スーパーマリオオデッセイが60FPSで動作し、ごくわずかなカクつきや特定のオーディオの不具合が確認されているとされる。また、あつまれ どうぶつの森は30FPSで問題なく動作しているほか、ゼルダの伝説 ティアーズ オブ ザ キングダムについても開発が進められており、30FPSでの動作や熱対策として解像度の調整やMetalFXアップスケールの実装作業が行われている。\n\n動作環境としては、ゲームによっては十分なメモリ容量を確保するために第4世代のApple TVが必要になる場合があるとされている。その一方で、別のユーザーによるNintendo 64のゲームをApple TVに移植するプロジェクトの動きもあるなど、さまざまな試みが報告されている。ただし、こうしたプロジェクトが今後どのように存続していくのかについては不透明であるとも伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nintendo-Switch-games-running-natively-on-Apple-TV-using-Claude-Code-port-.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-05T13:07:49+00:00"
+}

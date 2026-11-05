@@ -1,0 +1,20 @@
+{
+ "id": "8f40738766ccd743",
+ "title_ja": "DaVinci Resolve v21.2がリリース、MacBook Proでのタッチ操作に対応",
+ "summary_ja": "Blackmagic Designが映像編集ソフトの最新版「DaVinci Resolve v21.2」を公開した。今回のアップデートにより、MacBook ProのPROLED XDRディスプレイ上でのタッチ操作に対応する。Mac環境における動画編集の操作性向上が期待される。",
+ "points": [
+  "MacBook Proのタッチ操作に対応したDaVinci Resolve v21.2がリリース",
+  "M5 ProおよびM5 Max搭載Macでのエフェクトレンダリング速度が最大5倍に向上",
+  "Blackmagic Design Gen 6 LUTのサポートを追加",
+  "システム要件はmacOS 15 Sequoia以降のIntelおよびApple Silicon Mac"
+ ],
+ "body": "Blackmagic Designは、動画編集アプリ「DaVinci Resolve」の最新バージョンとなるv21.2をリリースした。今回のアップデートにおける最大のトピックは、MacBook ProのPROLED XDRディスプレイにおけるタッチ操作への対応であり、直感的な動画編集作業が可能になるとしている。ディスプレイに触れながらタイムラインや各種ツリーを操作できるようになり、作業効率の向上が期待される。\n\nさらに、Apple SiliconのM5 ProおよびM5 Maxチップを搭載したMac環境において、エフェクトのレンダリング速度が従来と比較して最大5倍にまで高速化された。これにより、高負荷な処理を伴う映像制作でもスムーズなワークフローを実現している。加えて、新たにBlackmagic Design Gen 6 LUTのサポートも追加され、カラーグレーディングの選択肢や精度が広がっている。\n\n本バージョンのシステム要件はmacOS 15 Sequoia以降となっており、Intel搭載MacおよびApple Silicon搭載Macの双方をサポートしている。アプリケーションは無料で提供されているため、対象のハードウェア環境を所有しているユーザーであれば、すぐにアップデートして新しい機能やパフォーマンスの向上を体験することができる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261105-davinci-resolve-support-macbook-pro-touch-screen.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/DaVinci-Resolve-logo-icon.webp",
+ "published": "2026-11-05T05:17:47+00:00"
+}
