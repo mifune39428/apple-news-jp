@@ -1,0 +1,20 @@
+{
+ "id": "895dfa4e6fe2eea9",
+ "title_ja": "Apple Creator Studioに新AI機能",
+ "summary_ja": "Apple Creator Studio向けに、Apple IntelligenceとOpenAIのモデルを組み合わせた新しいAI機能の提供が開始された。予告されていた11月中の配信スケジュールに沿って順次展開されている。",
+ "points": [
+  "Apple Creator Studioが新AI機能の提供を開始",
+  "Final Cut ProなどにMotionVFXを統合",
+  "Logic ProやiWorkアプリにもAI機能を追加",
+  "Apple独自モデルとOpenAIモデルを組み合わせる"
+ ],
+ "body": "Apple Creator Studioに向けて、Apple IntelligenceとOpenAIのモデルを組み合わせた強力な新しいAI機能の提供が開始されたと報じられている。このアップデートは、先月に新型iMacやM6チップを搭載した14インチMacBook Proなどとともに発表されていたもので、既存の登録者向けに展開されている。\n\nMac版のFinal Cut Proでは、ビジュアルエフェクトやプラグインなどを提供するMotionVFXが組み込まれ、Pixelmator Proとのシームレスな編集も可能になった。さらに、厳選されたビデオ素材を利用できるコンテンツハブも追加されている。一方、Mac版のLogic Proにはベータ版のインテリジェントアシスタントが導入され、ドラムの分離機能が強化されたほか、サウンドやSpliceライブラリを統合したブラウザが再設計された。また、Pixelmator Proには自然言語で画像の一部を変換できる生成塗りつぶし機能が導入されている。\n\nKeynote、Pages、Numbersの各アプリでもベータ版の新AI機能が利用可能になっており、文書の文脈を理解するアシスタントや、ワークフロー自動化のためのModel Context Protocolのサポートが追加された。これらのアプリでは、Apple製モデルとOpenAIを組み合わせたアシスタントが、スライドのデザイン、文書の作成、データの整理などをサポートする。外部のAIエージェントやツールが直接編集や自動化を行える機能も備わっており、クリエイターの作業効率を大きく高める内容となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-05T15:03:24+00:00"
+}
