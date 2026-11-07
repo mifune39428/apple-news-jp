@@ -1,0 +1,19 @@
+{
+ "id": "e86c586a140f31ab",
+ "title_ja": "新型MacBook ProのPROLED XDRとTrackpadの操作比較",
+ "summary_ja": "PROLED XDRディスプレイを搭載した新型MacBook Proと、Magic Trackpadにおけるタッチ操作の比較検証が公開された。ディスプレイの操作感やジェスチャー挙動がまとめられており、従来型の操作環境との違いや活用方法を確認できる。",
+ "points": [
+  "2026年11月6日にタッチ対応PROLED XDR搭載MacBook Proが発売された。",
+  "タッチ操作とトラックパッドで基本機能の多くは共通して利用できる。",
+  "システム操作はiOSやiPadOSに近く、直感的なスワイプ操作に対応する。"
+ ],
+ "body": "Appleは新しいPROLED XDRディスプレイを搭載し、Macとして初めてタッチ操作に対応した14インチおよび16インチのMacBook Proの販売を開始したと報じられている。これに伴い公開された公式のサポートサイトを基に、従来のトラックパッドやMagic Trackpadによるマルチタッチジェスチャーと、新しいタッチディスプレイでの操作方法の比較が伝えられている。\n\n結論として、ファイルやフォルダの選択、アプリ内コンテンツの表示やスクロールといった基本的な操作の多くは、タッチディスプレイとMagic Trackpadの両方でサポートされている。写真アプリにおけるオブジェクトの操作なども、タッチ操作とMagic Mouseによる操作で大きな違いはないとされている。また、トラックパッドを用いたマルチタッチジェスチャーでは、従来のMacと同様に3本や4本の指を使ったスワイプ操作でMission ControlやApp Exposéによるウィンドウ管理が行える。\n\n一方で、macOSのシステム操作に関しては、iPhoneやiPadの操作に慣れた世代にとってより直感的でiOSやiPadOSに近い仕様になっていると報じられている。コントロールセンターの表示はディスプレイの右上を下にスワイプし、SpotlightやSiri AIの呼び出しはDynamic Islandの上のディスプレイ端から1本指で下にスワイプする仕組みとされている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261107-macbook-pro-proled-xdr-display-vs-magic-trackpad.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/04/Apple-Magic-trackpad-usb-c-logo-icon.webp",
+ "published": "2026-11-07T02:41:34+00:00"
+}
