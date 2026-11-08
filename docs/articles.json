@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T06:12:54.920068+09:00",
+ "updated_at": "2026-11-08T12:18:13.079488+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,54 +29,56 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 258,
+ "detail_count": 267,
  "digest": {
-  "headline": "新世代MacBook ProやOLED搭載iPad miniが発売開始",
+  "headline": "新世代MacBook ProやiPad miniが発売開始",
   "points": [
    {
-    "text": "初のタッチスクリーンとOLEDを採用した新型MacBook Proや、A20 Pro搭載のiPad mini、M6 iMacなどの新製品が発売され、ユーザーの元へ届き始めている。",
+    "text": "初のタッチスクリーンとOLEDを採用した新型MacBook Proや、A20 Proチップ搭載のiPad miniなどが11月6日より発売され、ユーザーの元へ届き始めています。",
     "ids": [
-     "a51286f4dfd804a8",
      "4884e4daa4f99f60",
+     "c18d0ced5e118c57",
      "e598c88be65d40f9"
     ]
    },
    {
-    "text": "折りたたみ式モデルのiPhone Duo向け最適化アプリが10万本を突破した一方で、主要な外部製アプリの一部ではまだ対応が完了していない。",
+    "text": "折りたたみ式スマートフォンのiPhone Duo向け最適化アプリが10万件を突破し、開発者による対応が急速に拡大しています。",
     "ids": [
      "543a3aa67dd5fb3d",
      "55ace48c2cd2d672",
-     "f60763d4c8bc37b0"
+     "a557d847aa6f6a90"
     ]
    },
    {
-    "text": "Appleは11月13日にスマートホームハブのHomeViewと第4世代Apple TV 4Kを発売する予定であると報じられている。",
+    "text": "Appleは11月13日にスマートホームハブのHomeViewと第4世代Apple TV 4Kを発売する予定と報じられています。",
     "ids": [
      "19ff29bdb2743ce4"
-    ]
-   },
-   {
-    "text": "iOS 27においてSiri AIのウェイトリストが廃止され、対象となるiPhoneのユーザーはすぐに利用できるようになった。",
-    "ids": [
-     "73809e608adce082"
-    ]
-   },
-   {
-    "text": "iOS 27.3やmacOS 27.3などのパブリックベータ第1版が一般テスター向けにリリースされた。",
-    "ids": [
-     "01eca661d6299c59",
-     "fc0cee8a90c9de57",
-     "edb4a83e47bdf45d"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-05T06:14:15.705768+09:00",
-  "generated_at": "2026-11-08T06:15:02.429845+09:00",
+  "from": "2026-11-05T12:19:33.322640+09:00",
+  "generated_at": "2026-11-08T12:19:34.640670+09:00",
   "article_count": 24,
-  "sig": "45a72cb0ab62"
+  "sig": "dd5a3c0f13b6"
  },
  "items": [
+  {
+   "id": "e001fe66bca9b4b1",
+   "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+   "title_original": "Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-07T21:14:09+00:00",
+   "title_ja": "新型MacBook Proを語るポッドキャスト番組にJohn Gruberが出演",
+   "summary_ja": "Daring FireballのJohn Gruber氏がポッドキャスト番組に出演しました。番組内では新しいMacBook Proの魅力について熱く語られたほか、リコーのコンパクトデジカメ「GR」シリーズに関する思い出話なども展開されています。Macファン注目のエピソードです。",
+   "category": "Mac",
+   "importance": 2
+  },
   {
    "id": "d04bd9b13a0f004e",
    "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo",
@@ -92,6 +94,57 @@
    "summary_ja": "新型MacBook Proの光るAppleロゴを調整できるアプリ「Backglow」が登場した。ディスプレイとは独立した輝度調整や消灯、旧MacBookの呼吸ランプを再現するモードを備えている。",
    "category": "Mac",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8ab11f335da8ba2b",
+   "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music",
+   "title_original": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-07T20:30:00+00:00",
+   "title_ja": "演奏に合わせて自動で楽譜のページをめくるアプリ「CueFlip」が登場",
+   "summary_ja": "インディーアプリを紹介する連載にて、楽譜のページめくりを自動化するアプリ「CueFlip」が取り上げられました。演奏中の音を読み取り、事前に学習させたタイミングに合わせて自動で楽譜をめくってくれます。楽器演奏時に手を止める必要がなくなる便利なツールです。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "d4b2285604c78582",
+   "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone",
+   "title_original": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
+   "source": "9to5Mac",
+   "lang": "en",
+   "region": "global",
+   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&strip=all&w=1600",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-07T19:11:00+00:00",
+   "title_ja": "Anker、25W MagSafe急速充電対応の10,000mAhバッテリーを発表",
+   "summary_ja": "Ankerから25WのMagSafe急速充電に対応したモバイルバッテリー「MagGo 2 Pro」が登場しました。10,000mAhの大容量に加え、アクティブ冷却機能やスマートディスプレイ、キックスタンドを搭載しています。ワイヤレス充電の速度と冷却性能を両立した最新モデルです。",
+   "category": "iPhone",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2e20b4a2c75a8ca3",
+   "url": "https://www.macworld.com/article/3279422/sennheiser-momentum-5-wireless.html",
+   "title_original": "Sennheiser Momentum 5 Wireless review: Great sound, outstanding battery life",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3279422-0-56439900-1794075367-Sennheiser-Momentum-5-overear-headphones.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-07T18:07:32+00:00",
+   "title_ja": "ゼンハイザー「Momentum 5 Wireless」レビュー、AirPods Maxより手頃な競合機",
+   "summary_ja": "ゼンハイザーのワイヤレスヘッドホン「Momentum 5 Wireless」のレビューです。優れた音質や力強い重低音、向上したノイズキャンセリング機能と長いバッテリー持ちが魅力です。高音域の遮音性ではAirPods Maxに軍配が上がるものの、より手頃な価格で購入できる優れた代替選択肢となります。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -1151,7 +1204,25 @@
    "title_ja": "Apple TVの今週の新作配信情報を紹介",
    "summary_ja": "Apple TVで新たに配信が始まったスポーツコメディシリーズのシーズン2や、料理リアリティ番組などの新作情報を紹介している。サービスの詳細や今後のラインナップも確認できる。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a557d847aa6f6a90",
+   "url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+   "title_original": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+   "source": "The Verge (Apple)",
+   "lang": "en",
+   "region": "global",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-06T17:24:36+00:00",
+   "title_ja": "iPhone Duo最適化アプリが10万件を突破、発売2週間で大幅拡大",
+   "summary_ja": "Appleの折りたたみスマートフォン「iPhone Duo」の発売から2週間が経過し、App Storeの対応アプリが10万件を超えた。同社の担当役員は開発者の迅速な対応とイノベーションへの感謝を表明した。端末の構造に対応したアプリエコシステムが急速な広がりを見せている。",
+   "category": "iPhone",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "cf436dce136846e6",
@@ -1167,7 +1238,8 @@
    "title_ja": "Apple Cardの迅速な申込と利用を訴求する新CM",
    "summary_ja": "Appleは、数分で申し込んですぐに買い物が可能になるApple Cardの新広告を公開した。物理カードを待たずにiPhoneから手軽に手続きできる利便性をアピールしている。",
    "category": "サービス・アプリ",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "830f4e23db241f06",
@@ -1200,7 +1272,8 @@
    "title_ja": "Macをスリープ状態にさせないための3つの方法",
    "summary_ja": "Macの電源を入れ続けたままスリープさせないようにするための便利な設定方法を解説する。作業を中断させたくない場合などに役立つ、いくつかの効果的な手順を紹介している。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "96b096b82f56cd09",
@@ -1232,7 +1305,8 @@
    "title_ja": "ブラックフライデー早期セールでApple製品が割引",
    "summary_ja": "ブラックフライデーの早期セールがスタートし、Apple Watch Ultraをはじめ、Mac miniやMac Studioなどの製品が割引価格で販売されている。",
    "category": "Apple Watch・ウェアラブル",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "895e6c12c65c2c82",
@@ -1248,7 +1322,8 @@
    "title_ja": "ポッドキャスト番組で次期iOSアップデートを特集",
    "summary_ja": "拡張されたSiriのAI機能やデザインが刷新されたヘルスケアアプリ、新しいフィットネス機能などが含まれる最新ベータ版のアップデート内容について詳しく解説している。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "64c2871a2e360ed1",
@@ -1264,7 +1339,8 @@
    "title_ja": "M5 MacBook Airなどが大幅割引で販売中",
    "summary_ja": "M5搭載のMacBook AirやApple Watch Ultra、AirPodsシリーズなどがセール価格で登場している。各製品がこれまでと同様にお得な割引価格で購入可能となっている。",
    "category": "Mac",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "ea831f6fa814138b",
@@ -1280,7 +1356,8 @@
    "title_ja": "iPhone・iPad・Macで3年分のピアノレッスンが60ドルで",
    "summary_ja": "音楽学習アプリFlowkeyが、iPhone・iPad・Macで受けられるインタラクティブなピアノレッスンを3年間で60ドルで提供開始。リアルタイムで演奏を評価し、曲中心の学習が特徴だ。",
    "category": "サービス・アプリ",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "dbca110b677f189c",
@@ -6652,88 +6729,6 @@
    "category": "Mac",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "caf065ac41f6023d",
-   "url": "https://applech2.com/archives/20261103-robodust-robot-vacuum-for-your-mac-desktop.html",
-   "title_original": "Macのデスクトップ上に散らかったファイルやフォルダをロボット掃除機が整理/削除してくれるアプリ「RoboDust」がリリース。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2026/11/RoboDust-robot-vacuum-for-your-Mac-Desktop-logo-icon.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-03T04:01:31+00:00",
-   "title_ja": "Macのデスクトップを掃除する「RoboDust」登場",
-   "summary_ja": "Macのデスクトップ画面に散らかったファイルやフォルダを、ロボット掃除機に見立てて自動で片付けや整理ができるユーティリティアプリがリリースされた。作業スペースを綺麗に保ちたいユーザー向けのユニークなツールとなっている。",
-   "category": "ソフトウェア・OS",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "417ba06bbb699f6e",
-   "url": "https://iphone-mania.jp/apple-608251",
-   "title_original": "Apple、四半期売上初の1,500億ドル超へ〜利益率は低下予想",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/03/AppleMarunouchi-iPhoneMania.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-03T03:59:02+00:00",
-   "title_ja": "Apple、10〜12月期は初の売上高1,500億ドル超えか",
-   "summary_ja": "Appleは、2026年10〜12月期の売上高が前年同期比で増加し、四半期として過去最高を更新するとの見通しを示した。過去最高の売上高を記録する一方で、利益率は低下することが予想されている。",
-   "category": "ビジネス・業績",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "cd6618c4815d3329",
-   "url": "https://appleinsider.com/inside/apple-tv-plus/tips/when-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv",
-   "title_original": "When to watch \"A Charlie Brown Thanksgiving\" for free on Apple TV",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://photos5.appleinsider.com/gallery/65290-136520-000-lead-Snoopy-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-03T03:57:59+00:00",
-   "title_ja": "Apple TV、「チャーリー・ブラウンの感謝祭」無料配信",
-   "summary_ja": "ホリデーシーズンの定番アニメ「チャーリー・ブラウンの感謝祭」が、Apple TVにおいて期間限定で無料配信される。特定の日程に限り、契約者以外でも誰でも視聴可能になる。",
-   "category": "サービス・アプリ",
-   "importance": 2
-  },
-  {
-   "id": "8ff9fc11ce556d60",
-   "url": "https://appleinsider.com/articles/26/11/03/supreme-court-wont-hear-apple-epics-case-until-january-2027",
-   "title_original": "Supreme Court won't hear Apple & Epic's case until January 2027",
-   "source": "AppleInsider",
-   "lang": "en",
-   "region": "global",
-   "image": "https://media.appleinsider.com/gallery/69661-146878-Apple-vs-Epic-xl.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-03T03:35:57+00:00",
-   "title_ja": "AppleとEpicの訴訟、最高裁の審理は2027年1月に",
-   "summary_ja": "長年続くAppleとEpic Gamesの法廷闘争において、最高裁判所が審理のスケジュールを2027年1月に設定した。下級審での争いが継続する中、最高裁での弁論や最終的な判断の時期が先送りされることになった。",
-   "category": "ビジネス・業績",
-   "importance": 3
-  },
-  {
-   "id": "dc201cffbc6f184d",
-   "url": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case",
-   "title_original": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-03T03:00:42+00:00",
-   "title_ja": "米最高裁、Apple対Epic訴訟の弁論期日を正式決定",
-   "summary_ja": "アメリカの最高裁判所が、AppleとEpic Gamesによる長期的な法的闘争をめぐる上訴について、口頭弁論のスケジュールを正式に決定した。両者の間で続く独占禁止法関連の法廷闘争は、引き続き最高裁で審理される。",
-   "category": "ビジネス・業績",
-   "importance": 3
   }
  ]
 }
