@@ -1,0 +1,19 @@
+{
+ "id": "b768cd951d27f828",
+ "title_ja": "Mac向けシステムモニタ「Mac Performance Monitor」が登場",
+ "summary_ja": "Macのパフォーマンス履歴の確認や、AIを活用したパフォーマンス低下の原因調査が可能なオープンソースアプリ「Mac Performance Monitor」が公開されました。CLIやMCPにも対応しており、Macの動作状態を詳細に分析して管理できます。",
+ "points": [
+  "Macのパフォーマンス履歴を記録できるオープンソースアプリ",
+  "Apple Intelligenceを活用したAIによる原因診断機能に対応",
+  "CLIやMCPサーバーを備え外部AIエージェントとも連携可能"
+ ],
+ "body": "Macのパフォーマンス低下の原因を履歴から調査できるオープンソースのシステムモニタアプリ「Mac Performance Monitor」が公開されている。標準のアクティビティモニターはリアルタイムの負荷状況を確認するのに適しているものの、過去に発生した問題の原因を探ることは難しい。このアプリではCPUやGPU、ネットワーク、ディスクの使用状況や履歴に加えて、どのプロセスに電力が消費されているかを詳細に確認することが可能となっている。開発は元Microsoftのエンジニアによって進められており、macOSネイティブのアプリとして設計されている。\n\n最大の特徴はAIを活用した原因診断機能にあるとされる。対応するOS環境では、アプリが記録したパフォーマンス履歴とApple Intelligenceを組み合わせることで、「Macが遅い理由」や「バッテリーの消費が早い原因」をオンデバイスAIに尋ねて特定することができる。さらに、コマンドラインツールやMCPサーバーも実装されており、Apple Intelligence以外の外部AIエージェントを用いてパフォーマンス低下の原因を解析することも可能となっている。アプリは公式やGitHubからダウンロードできるほか、Homebrew経由でのインストールにも対応している。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261109-mac-performance-monitor.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Mac-Performance-Monitor-logo-icon.webp",
+ "published": "2026-11-09T02:29:45+00:00"
+}
