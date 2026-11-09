@@ -1,0 +1,20 @@
+{
+ "id": "013e2bc6020b037a",
+ "title_ja": "DEVONがMacのQuick Look機能を拡張する「XRay」を無料公開",
+ "summary_ja": "DEVONtechnologiesが、MacのQuick Look機能を拡張する無料プラグイン「XRay v1.0」をリリースしました。本ツールを追加することで、通常のプレビュー機能では確認しづらいフォルダ内部やZIP/TAR圧縮ファイル、Markdownファイルの内容を素早く確認できます。",
+ "points": [
+  "DEVONが無料のQuick Look拡張「XRay v1.0」を公開。",
+  "フォルダや圧縮ファイル、Markdownの中身をプレビュー可能。",
+  "MarkdownプレビューはカスタムCSSの設定に対応する。",
+  "macOS 14 Sonoma以降のIntel/Apple Siliconに対応。"
+ ],
+ "body": "Mac向けの文献や論文の管理アプリ「DEVONthink」シリーズなどを手がけるドイツのDEVONtechnologiesが、現地時間2026年11月5日に新たな無料のQuick Look機能拡張「XRay v1.0」を公開した。MacのFinder上でファイルやフォルダを選択してスペースキーを押すだけで中身を確認できる標準のプレビュー機能「Quick Look」を拡張し、通常ではファイルサイズなどの簡易的な情報しか表示されないフォルダや特定のデータフォーマットにおいて、直接その内部を素早く参照できるようにするユーティリティである。\n\nXRayを利用することでプレビュー可能になる対象は、通常のフォルダに加えてZIP、GZIP、TARといった各種圧縮ファイル、さらにはMarkdownファイルまで多岐にわたる。フォルダや圧縮ファイルの中身を確認する際は、ファイルリスト形式での表示やアイコン表示の切り替えに対応しているほか、一覧のソート機能、隠しファイルの表示切り替え、フォルダーパスの表示など、ファイル管理を補助する多彩な機能を備えている。加えて、Markdownファイルのプレビュー機能には同社の論文管理アプリDEVONthinkで採用されている精度の高いMarkdownエンジンが組み込まれており、ユーザー側でカスタムCSSを設定して見栄えを調整するカスタマイズにも対応している。\n\n動作環境としてはmacOS 14 Sonoma以降が動作するIntelプロセッサ搭載MacおよびApple Silicon搭載Macをサポートしている。配信されているアプリケーションはDEVONtechnologiesの開発者署名とAppleによる公証を取得済みであり、セキュリティ面でも安心して導入できる仕様となっている。XRayは開発元のDEVONtechnologies公式サイトにて無料で一般公開されているため、圧縮ファイルやMarkdownファイルの内容をFinderから素早く確認したいユーザーにとって役立つツールとなる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261109-devon-xray-finder-archives-quick-look-extension.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/DEVON-XRay-Quick-Look-logo-icon.webp",
+ "published": "2026-11-09T10:49:33+00:00"
+}

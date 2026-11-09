@@ -1,0 +1,19 @@
+{
+ "id": "be416fe0c17a4438",
+ "title_ja": "Firefox for iOS v160.0、iPhone Duoの不具合を修正",
+ "summary_ja": "MozillaはiPhone Duoで報告されていた複数の不具合を修正したFirefox for iOS v160.0を配信した。アップデートによりクラッシュや表示の問題が改善され、ユーザーはApp Storeから更新できる。",
+ "points": [
+  "MozillaがiOS版Firefoxの最新バージョン160.0をリリース",
+  "iPhone Duoにおける複数の不具合や表示上の問題が修正された",
+  "Split Viewのウィンドウ重複や外部ディスプレイ対応などが含まれる"
+ ],
+ "body": "Mozilla Foundationは現地時間2026年11月8日、iOSおよびiPadOS向けブラウザアプリの最新版となる「Firefox for iOS v160.0」をリリースした。今回のアップデートでは、主にiPhone Duoに関連する複数の不具合の修正と改善が行われていることが発表されている。\n\nApp Storeの公式リリースノートには「iPhone Duoのサポート改善」というシンプルな記載にとどまっているものの、開発リポジトリによると、バージョン160では多岐にわたる調整が実施されている。具体的には、Split View利用時におけるウィンドウのUUID重複問題のほか、セーフエリアに重なってしまっていたツールバーやステータスバーの位置調整、アウターディスプレイへの対応などが含まれている。\n\nデスクトップ版からモバイル版までクロスプラットフォームで展開されているFirefoxだが、今回のアップデートは特にiPhone Duoユーザーの利便性向上や表示トラブルの解消に焦点を当てた内容となっている。普段から標準ブラウザのSafariではなくFirefoxをメインに利用しているユーザーは、App Storeから最新バージョンへのアップデートを行ってみるとよいだろう。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261109-mozilla-firefox-support-iphone-duo.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Firefox-iOS-logo-icon.webp",
+ "published": "2026-11-09T08:16:27+00:00"
+}
