@@ -1,0 +1,20 @@
+{
+ "id": "3580f27471445fcb",
+ "title_ja": "Metaがテキスト記述から画像を生成するAIエフェクトツールを発表",
+ "summary_ja": "Metaは、テキストプロンプトの入力によりStories向けの画像を生成できるAI機能「Instagram Effect Builder」を発表した。同社はiPhoneやMac向けに編集アプリを提供しており、今回のAIツール追加によりユーザーのクリエイティブ制作をさらに支援する形となる。",
+ "points": [
+  "MetaがAIでInstagram向け画像を作れるツールを発表",
+  "テキストの指示だけで誰でもエフェクト作成が可能",
+  "作成したエフェクトは全ユーザーが利用できプロフィールに紐づく",
+  "現在の提供対象は米国の成人ユーザーに限定されている"
+ ],
+ "body": "Metaは、AIプロンプトを用いてInstagramのストーリーズ向け画像を作成できる「Instagram Effect Builder」を発表した。このツールは、事前に動画編集アプリとして展開されている「Instagram Edits」の機能拡張として位置づけられており、Webベースの独立したツールとして提供される。デザインやコーディングの専門知識がなくても、作りたい見た目をテキストで説明するだけで、簡単にエフェクトを作成できる仕組みになっている。\n\n利用者は自分の写真を使ってエフェクトを事前にプレビューし、そのまま公開することが可能だ。作成したエフェクトは世界中のすべてのInstagramユーザーが利用できるようになり、他のユーザーがそのエフェクトを使用する際には作成者のプロフィールへのリンクが表示される仕様となっている。これにより、自身のクリエイティブな作品を広くアピールしやすい環境が整えられている。\n\nなお、このWebアプリケーションは現在、米国に住む成人のInstagramユーザーを対象に提供されており、利用できる地域やユーザー層には制限が設けられている。Metaが提供する動画編集アプリの「Instagram Edits」はiPhoneやMacに対応しているが、今回のAIエフェクト作成機能の追加によって、より手軽に視覚的なコンテンツを制作・共有できるようになる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Instagram-Effect-Builder-lets-you-create-images-with-an-AI-prompt.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-10T11:56:53+00:00"
+}

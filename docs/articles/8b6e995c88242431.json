@@ -1,0 +1,20 @@
+{
+ "id": "8b6e995c88242431",
+ "title_ja": "新機能多数の「macOS 27」が登場、Intel Macのサポートは終了",
+ "summary_ja": "9月14日に配信されたmacOS 27 Golden Gateでは、新設計のSiriや主要アプリの大幅アップデートが実施された。Apple Intelligenceを活用した機能強化が図られている。なお、本バージョンはAppleシリコン搭載モデルのみに対応し、Intelプロセッサ搭載Macのサポートは終了した。",
+ "points": [
+  "macOS 27 Golden Gateが9月14日にリリースされた",
+  "Appleシリコン搭載Mac専用となりIntel Macは対象外",
+  "AIアシスタントの刷新や各アプリの大型アップデートを実施",
+  "ベータ版ではフルディスクアクセスの仕様変更や新機能がテスト中"
+ ],
+ "body": "AppleのMac向けOSの最新版となるmacOS 27 Golden Gateが9月14日にリリースされた。今作では新しいAIアシスタントとしてのSiriをはじめ、Safariや写真、メッセージ、メール、カレンダーなどの主要アプリの大幅なアップデートが行われているほか、児童の安全機能の拡充やデザインの洗練、パフォーマンスの向上が図られている。また、対応機種はAppleシリコンを搭載したMacのみとなり、Intelベースのモデルはサポート対象外となった。Intel Macについては今後も一定期間セキュリティアップデートが提供される見込みとなっている。その後のマイナーアップデートとして、10月にはバグ修正を含むバージョン27.2が、11月にはセキュリティ修正を盛り込んだバージョン27.2.1がそれぞれ公開された。さらに、次期アップデートに向けたベータテストも進められており、フルディスクアクセスの許可設定の厳格化や、Safariの新機能、iCloudの共有リンクに対する有害コンテンツチェックなどがテストされている。メニューバーに進行中のアクティビティを表示する機能なども追加されており、今後の正式リリースに向けた検証が続けられている。今回の大型アップデートの最大の焦点はApple Intelligenceを活用した新しいSiriであり、単なる音声アシスタントから対話型の生成AIへと大きく進化している。文脈を理解した柔軟な受け答えや、画面上の情報を活用したアクション、アプリ間をまたいだ操作が可能となっており、ユーザーの日常的なタスクをより迅速にサポートするように設計されている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/11/3139330-0-84057500-1794311928-macos-golden-gate-image-playground-freeform-notes-weather.jpg?quality=50&strip=all",
+ "published": "2026-11-10T11:58:38+00:00"
+}

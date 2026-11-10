@@ -1,0 +1,19 @@
+{
+ "id": "63731596b96392d9",
+ "title_ja": "Appleが旧型iPhoneやApple Watch向けに脆弱性修正のOSアプデを提供",
+ "summary_ja": "AppleはiPhone XS/XRやApple Watch Series 6といった旧型モデルを対象に、iOS/iPadOS 18.7.12や26.7.3、watchOS 26.6.1などを公開した。古いデバイスを安全に使い続けられるよう、複数のセキュリティ脆弱性が修正されている。",
+ "points": [
+  "Appleが古いデバイス向けに複数のアップデートを配信",
+  "iOS 18.7.12やiOS 26.7.3、watchOS 26.6.1が登場",
+  "BluetoothやAirPlayの脆弱性などが修正された"
+ ],
+ "body": "Appleは現地時間2026年11月9日、最新OSのリリースと同時に、古いデバイス向けにも複数の不具合と脆弱性を修正したアップデートを公開しました。対象となったのは、iPhone XSやXRシリーズ、iPad第7世代向けの「iOS/iPadOS 18.7.12」や、何らかの理由で最新OSにアップデートしていないiPhone 11やiPad第8世代以降向けの「iOS/iPadOS 26.7.3」などとなっています。\n\n公開されたセキュリティコンテンツによると、iOS/iPadOS 18.7.12では6件、iOS/iPadOS 26.7.3では8件の脆弱性がそれぞれ修正されています。これらの中には、最新のiOS/iPadOS 27.2.1と同様に、悪意のある攻撃者がBluetoothのペアリング試行回数をバイパスしてデバイスへ接続できてしまう問題や、AirPlayのペアリングコード試行回数がバイパスされてしまう問題などが含まれています。\n\nさらに、古いApple Watch Series 6などに向けても「watchOS 26.6.1」が同時にリリースされています。デバイスの安全性を保つため、対象となる製品を利用しているユーザーは、時間を見つけて速やかにアップデートを適用することが推奨されています。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261110-ios-18-7-12-and-26-7-3-security-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2024/09/iPadOS-18-logo-icon.jpg",
+ "published": "2026-11-10T03:08:16+00:00"
+}

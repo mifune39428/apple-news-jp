@@ -1,0 +1,20 @@
+{
+ "id": "e5593266ed3f43b5",
+ "title_ja": "企業向けAIをクラウドではなくMac上で実行",
+ "summary_ja": "Apple関連のポッドキャスト番組にて、企業のAIをクラウド上ではなくMac上で実行することを目指すOsaurusの取り組みについて議論されている。ビジネス環境でのApple製デバイスの活用や管理に関する話題が取り上げられている。",
+ "points": [
+  "企業向けAIのMacローカル実行についてポッドキャストで解説",
+  "Osaurusの共同創業者兼CEOがゲストとして番組に出演",
+  "クラウドではなくMac上で直接AIを動かす利点を議論",
+  "OsaurusはMac向けの無料の独自AIハーネスとして提供"
+ ],
+ "body": "海外のApple関連ポッドキャスト番組において、企業における人工知能の活用方法とMacの役割について議論が行われた。番組には、Mac上でAIをローカル稼働させるための無料ツールを提供するOsaurusの共同創業者兼CEOが出演し、詳細を語っている。\n\n通常のクラウド環境へデータを送信して処理を行うのではなく、手元のMac上で直接人工知能を動作させることの重要性やメリットについて解説された。クラウドに依存しない運用を行うことで、企業におけるセキュリティや効率性の面でどのような影響があるのかが話題の中心となっている。\n\n近年、ビジネスシーンや教育現場におけるApple製デバイスの管理や活用方法への関心が高まっており、こうしたAI技術のローカル実行は今後の重要なテーマの一つとして注目を集めている。今回の番組では、企業のIT環境においてMacがどのように先端技術を支える存在になり得るのかが多角的に議論された。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/10/apple-work-podcast-osaurus-wants-your-companys-ai-to-run-on-the-mac-not-in-the-cloud",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-10T11:32:28+00:00"
+}
