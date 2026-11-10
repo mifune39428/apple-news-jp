@@ -1,0 +1,20 @@
+{
+ "id": "a63baebe3f5da1cb",
+ "title_ja": "ビデオ会議アプリ「Webex」、iPhone Duoに対応",
+ "summary_ja": "会議アプリのWebexがアップデートされ、AppleのiPhone Duoサポートが追加された。マルチタスク機能やカメラ共有など、デバイスの特性を活かした柔軟なミーティングが可能になる。",
+ "points": [
+  "Webexが最新アップデートでiPhone Duoに対応した",
+  "開いた状態では参加者表示やホワイトボードが利用できる",
+  "ノートテイカー機能で対面会話の文字起こしや要約が可能",
+  "App Storeから無料でダウンロードして利用できる"
+ ],
+ "body": "ビデオ会議アプリのWebexがアップデートされ、AppleのiPhone Duoへの対応を果たした。今回の対応により、デバイスを開いた状態や閉じた状態のほか、縦向きや横向き、さらにノートパソコンスタイルやテントモードなど、さまざまな形で利用できるようになっている。\n\nデバイスを開いた状態では、より多くの会議参加者を画面に表示できるほか、共有コンテンツの常時表示やホワイトボードへのアクセスが可能になる。また、マルチタスク機能のSplit Viewに対応しており、別のアプリケーションと同時に画面上で並べて使用することもできる。さらに、ノートパソコンスタイルで開いた際には、iPhoneのカメラ映像を会議中にストリーミング配信できるWebex Mobile Camera Share機能が利用可能となり、参加者がライブ映像の確認や注釈の追加を行える。\n\niPhone Duoへの対応に加えて、シスコはWebexアプリにノートテイカー機能を追加した。これにより、対面で行われた会話の文字起こしや要約の作成、アクションアイテムの抽出などが行えるようになる。WebexはApp Storeから無料でダウンロードして入手することができる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
+ "published": "2026-11-09T22:31:20+00:00"
+}

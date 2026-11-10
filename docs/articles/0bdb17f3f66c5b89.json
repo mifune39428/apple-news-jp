@@ -1,0 +1,20 @@
+{
+ "id": "0bdb17f3f66c5b89",
+ "title_ja": "Anker、Apple Home対応の自動追尾ライト付き防犯カメラ",
+ "summary_ja": "Ankerは、侵入者を自動追尾するライトを備えた屋外用セキュリティカメラ「Eufy TrackLight Cam S1」を発表した。HomeBaseを経由することでApple Homeに対応し、他のスマート家電と連携できる。",
+ "points": [
+  "Ankerが自動追尾ライト付き屋外カメラを発表",
+  "Anker HomeBase経由でApple Homeに対応",
+  "4K録画や15,000mAhバッテリーなどを搭載",
+  "価格は単体が300ドルで販売中"
+ ],
+ "body": "Ankerは、侵入者を威嚇するための自動追尾ライトを搭載した屋外用セキュリティカメラ「Eufy TrackLight Cam S1」を新たに発売した。この製品は、別売りのAnker HomeBaseを介することでApple Homeに対応し、HomeKit環境の他のスマートホームデバイスと連携させることが可能となっている。不審者を検知した際には、最大12メートル離れた場所からライトで対象を捉えて追尾し、距離に応じて照射範囲が自動で調整される仕組みを持つ。\n\nカメラ本体は水平方向に355度回転し、毎秒最大87度の速度で動きを追うことができる。また、ライトの点灯と同時に105デシベルのサイレンを鳴らす追尾威嚇モードや、赤と青の点滅ライトモードも備わっている。撮影性能としては、4K解像度や10倍のデジタルズーム、暗所でも人物を捉えるナイトビジョンに対応しており、15,000mAhのバッテリーと5.5ワットのソーラーパネルによって継続的な稼働を実現している。\n\n本体にはIP65の防塵防水性能が備わっており、保存用としてmicroSDカードの挿入またはHomeBaseへの接続が必要となるが、月額サブスクリプションは不要となっている。価格は単体で300ドルとなっており、Ankerの公式チャンネルやAmazon.comなどで購入できる。同時に、窓越しに設置して庭や敷地を監視できる「Window Camera E10」も80ドルで発売されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 2,
+ "image": "https://images.macrumors.com/article-new/2025/09/eufycam.jpg",
+ "published": "2026-11-09T21:47:39+00:00"
+}

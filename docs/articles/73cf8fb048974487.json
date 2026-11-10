@@ -1,0 +1,19 @@
+{
+ "id": "73cf8fb048974487",
+ "title_ja": "中国でのApple Intelligence、iPad等の規制登録が完了",
+ "summary_ja": "Appleは、中国における「Apple Intelligence」の提供に向けて重要となる規制当局への登録手続きを完了した。今年12月のサービス開始に向けた準備が進められている。",
+ "points": [
+  "中国におけるApple Intelligenceの規制登録が完了",
+  "対象はiPadとMacなどのタブレットやノートPC",
+  "今年12月のサービス開始に向けた重要なハードルをクリア"
+ ],
+ "body": "Appleが中国国内において、Apple Intelligenceの提供に向けた重要な規制上の手続きを完了したと報じられている。現地当局の発表によると、タブレットおよびノートPCでの利用に向けた登録が上海のサイバー空間規制当局によって受理されたという。中国では生成AIサービスを一般向けに展開する前に、こうした規制登録を完了させる必要があるとされている。\n\n中国におけるApple Intelligenceをめぐっては、今年10月下旬に公式ニュースルームを通じて12月のリリース予定が明らかにされていた。その初期展開については、当初iPhoneのみが対象となると説明されていたが、これは他プラットフォームの規制承認がまだ降りていなかったためである。iPhone向けにはすでに7月の時点で承認が下りていたものの、今回の登録完了により、iPadやMacにおいても展開に向けた大きな障害が取り除かれた形となる。\n\nなお、中国版のApple Intelligenceでは、一部のAI機能の基盤としてアリババの「Qwen」モデルが活用される仕組みとなっている。今回の規制登録によってiPadやMacでの利用に向けた道筋は整ったものの、Apple自身はこれらのデバイスでの対応時期が12月に含まれるかどうかについて、現時点で公式な言及をしていないと伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-09T22:54:52+00:00"
+}

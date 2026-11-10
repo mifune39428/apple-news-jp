@@ -1,0 +1,19 @@
+{
+ "id": "ea7199ac8c8f824b",
+ "title_ja": "Apple、macOS 27.2.1 Golden Gateをリリース",
+ "summary_ja": "AppleがMac向けに不具合修正とセキュリティアップデートを含んだ「macOS 27.2.1 Golden Gate」をリリースした。システムの安定性や安全性を高めるための更新が行われている。",
+ "points": [
+  "AppleがMac向けに「macOS 27.2.1 Golden Gate」をリリース",
+  "BluetoothやiMessageに関する脆弱性など合計8件の不具合を修正",
+  "watchOSやiOS 18など他のOS向けにもセキュリティアップデートが公開"
+ ],
+ "body": "Appleは日本時間2026年11月9日、Mac向けに不具合修正とセキュリティアップデートを含んだ「macOS 27.2.1 Golden Gate（ビルド26B131）」をリリースした。同社は先月26日にmacOS 27.1をスキップする形で最初のマイナーアップデートとなるmacOS 27.2を配信していたが、今回はそのホットフィックスという位置づけで新たなバージョンが提供されることとなった。\n\n公開されたセキュリティ情報によると、今回のアップデートでは合計8件の脆弱性が修正されている。具体例としては、Bluetoothの通信範囲内にいる攻撃者がペアリングコードの試行回数制限を回避してデバイスへ接続できてしまう問題や、iMessageのグループチャットにおいて本来参加していない状態でありながらメッセージの送信や閲覧が可能になってしまう問題などが含まれている。\n\nなお、今回のタイミングではmacOSのほかにもiOS、iPadOS、visionOS、watchOSといった複数のプラットフォームに向けて同時にセキュリティ修正が配信されている。Appleはユーザーに対して、安全性を維持するために時間を見つけて速やかにアップデートを適用することを推奨している。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261110-macos-27-2-1-golden-gate-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/09/macOS-27-Golden-Gate-logo-icon.webp",
+ "published": "2026-11-09T20:40:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "db70663d9ad70dea",
+ "title_ja": "Mac向けにセキュリティアップデートをリリース",
+ "summary_ja": "AppleがIntelおよびApple Silicon搭載Macに向けて、セキュリティアップデートを含む「macOS Tahoe 26.7.3」などをリリースした。対象のユーザーに向けて速やかな適用が呼びかけられている。",
+ "points": [
+  "Appleが複数のMac向けに新たなアップデートをリリース",
+  "BluetoothやiMessageに関する8件の脆弱性を修正",
+  "ユーザーに時間を見つけてのアップデートを推奨"
+ ],
+ "body": "Appleは、IntelおよびApple Siliconを搭載したMac向けに、セキュリティアップデートを含む「macOS Tahoe 26.7.3」および「macOS Sequoia 15.8.3」をリリースしたと報じられている。同社は先月下旬にもセキュリティアップデートを提供していたが、今回は新たなホットフィックスとして追加の公開が行われた形となる。\n\n公開されたセキュリティ情報によると、今回のアップデートでは合計8件の脆弱性が修正されていると伝えられている。主な修正内容として、Bluetoothの通信範囲内にいる攻撃者がペアリングコードの試行回数制限を回避してデバイスと接続してしまう問題や、iMessageのグループチャットにおいて不正に参加やメッセージの送受信、閲覧が可能になってしまう問題などが含まれている。\n\n今回のリリース対象には最新のOSだけでなく、幅広いバージョンのシステムが含まれているとされている。セキュリティリスクを避けるためにも、該当するデバイスを利用しているユーザーは早めにアップデートを適用することが強く推奨されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261110-macos-26-7-3-tahoe-and-15-8-3-sequoia-security-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/06/macos-26-Tahoe-logo-icon.webp",
+ "published": "2026-11-09T20:55:54+00:00"
+}

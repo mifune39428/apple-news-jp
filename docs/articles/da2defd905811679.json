@@ -1,0 +1,19 @@
+{
+ "id": "da2defd905811679",
+ "title_ja": "Apple、AI機能の有料化をLogic Proで開始",
+ "summary_ja": "AppleのCreator Suiteにおける新機能として、AI機能の有料化が正式にスタートした。Logic Proのアップデートを通じて導入されており、今後はさらに他の機能への展開も予定されている。",
+ "points": [
+  "AppleがAI機能の有料化を正式に開始したと報じられている",
+  "Logic Proの最新アップデートで利用枠の追加購入が可能になった",
+  "一般向けAIはiCloud+統合、プロ向けは別課金になる可能性がある"
+ ],
+ "body": "AppleがAI機能に対する課金を正式に開始したと報じられている。9to5 Macのライアン・クリストッフェル氏が発見したもので、プロ向け音楽制作ソフトのLogic Proの最新アップデートを通じて、初めてAI機能の有料化が導入された。今後のさらなる展開も予定されているとされている。\n\nLogic Proの最新版では、メニューバーから「Intelligence Features」「Show Usage」と進むことで、利用枠を追加購入するためのオプションが確認できる。このことから、一般的な消費者向けのAI利用についてはiCloud+のプランに組み込む形で提供しつつ、プロフェッショナル向けの製品群では別枠での課金アプローチを採用する計画ではないかとみられている。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/link/2026/11/apple-starts-to-charge-for-heavy-ai-usage",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1",
+ "published": "2026-11-09T23:41:45+00:00"
+}

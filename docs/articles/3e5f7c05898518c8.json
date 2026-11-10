@@ -1,0 +1,19 @@
+{
+ "id": "3e5f7c05898518c8",
+ "title_ja": "MetaのAIエージェント「Muse」がApple Watchに対応",
+ "summary_ja": "MetaはiOS向け「Muse」アプリをアップデートし、Apple Watchへの対応を追加した。テキスト入力や音声による指示、コンプリケーションを通じたAIエージェントへの迅速なアクセスが可能になった。",
+ "points": [
+  "MetaがiOS向けMuseアプリをアップデートしApple Watchに対応",
+  "文字入力や音声入力、音声通話でMuseのAIエージェントにアクセス可能",
+  "文字盤用コンプリケーションを追加しワンタップですばやく起動できる"
+ ],
+ "body": "MetaはiOS向けの「Muse」アプリをアップデートし、新たにApple Watchへの対応を開始したと報じられている。これにより、ユーザーは手元のスマートウォッチから直接、同社のプロアクティブなAIエージェント機能を利用できるようになるとされている。Apple Watch版のアプリでは、イエティをモチーフにした親しみやすいMuseのキャラクターが登場し、テキストの入力だけでなく音声のディクテーションや通話を通じてAIとやり取りすることが可能となっている。さらに、すばやくアプリを起動するためのコンプリケーションも用意されている。\n\nMuseはMetaが提供するパーソナルAIエージェントであり、ユーザーのさまざまなタスクをこなす機能を持っている。単体アプリとしてだけでなく、InstagramやFacebookといった同社の主要なアプリ内にも組み込まれて提供されている。Apple Watch版のデザインは、9月にMetaが発表したコンパニオンデバイスである「Muse Charm」によく似たものに仕上げられていると伝えられている。今回の対応により、ユーザーは日常のさまざまな場面でより手軽にAIエージェントへアクセスできるようになるとみられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
+ "published": "2026-11-09T21:55:26+00:00"
+}

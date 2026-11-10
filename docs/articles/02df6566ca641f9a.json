@@ -1,0 +1,20 @@
+{
+ "id": "02df6566ca641f9a",
+ "title_ja": "iOS/iPadOS 27.2.1がリリース、不具合を修正",
+ "summary_ja": "AppleはiPhoneおよびiPad向けに、不具合修正とセキュリティアップデートを含むiOS/iPadOS 27.2.1をリリースした。",
+ "points": [
+  "AppleがiPhoneやiPad向けにiOS/iPadOS 27.2.1をリリース",
+  "CVEベースで9件の脆弱性修正や不具合の対応が含まれる",
+  "機密情報へのアクセスやペアリング制限回避の脆弱性を解消",
+  "最新OS以外にもwatchOSや旧iOSなど幅広い環境で更新を提供"
+ ],
+ "body": "Appleは現地時間2026年11月9日、iPhoneおよびiPad向けに「iOS/iPadOS 27.2.1」をリリースした。先月にSiri AIの機能強化などを伴うiOS/iPadOS 27.2が配信されたばかりだったが、今回はその不具合修正とセキュリティアップデートを目的としたHotfixとして提供されている。\n\n公式のリリースノートには不具合とセキュリティの修正を行う旨が簡潔に記載されているのみだが、同時に公開されたセキュリティコンテンツによれば、今アップデートではCVEベースで合計9件の脆弱性が修正されている。具体的には、ユーザーの機密情報へ不正にアクセスされてしまう問題や、AirPlayおよびBluetoothのペアリングコード試行制限が回避される可能性があった問題などが含まれており、デバイスを安全に利用する上で重要な修正が行われている。\n\n今回のセキュリティアップデートは最新のiOSやiPadOS、macOS、visionOSだけでなく、watchOS 26や過去のiOS/iPadOS 18といった幅広いシステムに対しても同様に修正が適用されている。そのため、対象となるデバイスを使用しているユーザーは、それぞれの環境に合わせて早めにアップデートを適用することが強く推奨される。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261110-apple-ios-27-2-1-security-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 4,
+ "image": "https://applech2.com/wp-content/uploads/2026/06/Apple-OS-27-logo-icon.webp",
+ "published": "2026-11-09T20:19:08+00:00"
+}
