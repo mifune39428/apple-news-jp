@@ -1,0 +1,20 @@
+{
+ "id": "ae0f3c3706f0c83f",
+ "title_ja": "Apple、2027年のSwift Student Challengeを発表　全プラットフォーム対応へ",
+ "summary_ja": "Appleは、学生向けアプリ開発コンテスト「Swift Student Challenge」の2027年開催を発表した。受付期間は2027年2月8日から28日までで、XcodeまたはSwift Playgroundsで制作した3分以内の作品が対象となる。今年からは従来のiOS限定から変更され、全てのプラットフォームのアプリで応募可能だ。",
+ "points": [
+  "Appleが2027年のSwift Student Challengeを発表",
+  "応募期間は2027年2月8日から2月28日まで",
+  "今年はすべてのプラットフォーム向けアプリの応募が可能",
+  "優秀な受賞者はクパチーノのApple Parkへ招待予定"
+ ],
+ "body": "Appleは、世界中の若い開発者を対象とした恒例のプログラミングコンテスト「Swift Student Challenge」の2027年開催を発表した。応募受付は2027年2月8日から2月28日まで実施される予定となっている。このコンテストは、学生たちが自身の創造性やアプリ開発のスキルを競い合う場であり、参加者はXcodeまたはSwift Playgroundを使用して構築し、3分間で体験できるアプリを提出することが求められる。今年からの大きな変更点として、学生たちは任意のプラットフォーム向けのアプリを提出できるようになり、これまでのiOSデバイス向けという制限が撤廃された。\n\nコンテストの開催に先立ち、Appleは参加者に向けて様々なサポートやリソースを提供している。コーディングの知能に関する新機能の学習やプロジェクトのインスピレーションを得るためのオンラインセッション「Meet with Apple」が開催されるほか、SwiftUI、AI、機械学習、空間コンピューティングをカバーする「Develop in Swift」のチュートリアルも利用可能となる。審査では、革新性、創造性、社会的影響、インクルーシブの観点で優れた作品が選出される。\n\n受賞者のうち特に優れた数名の「Distinguished Winners」には、カリフォルニア州クパチーノにあるApple Parkへ招待され、WWDC 2027のイベントに参加できる権利が与えられる。なお、現時点でWWDC 2027の具体的な開催日程は発表されていないものの、例年通りであれば6月の開催が見込まれている。2027年には、iOS 28やiPadOS 28、macOS 28などの新たなソフトウェアアップデートが発表される予定となっている。参加資格や詳細なルールについては、公式のSwift Student Challengeのウェブサイトで確認することができる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/11/apple-swift-student-challenge-2027.jpeg",
+ "published": "2026-11-10T17:28:19+00:00"
+}
