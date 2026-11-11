@@ -1,0 +1,19 @@
+{
+ "id": "f341cd546ae343b6",
+ "title_ja": "Apple CarPlay向け「Gemini」アプリが順次公開開始",
+ "summary_ja": "Googleは、Apple CarPlay向けの専用Geminiアプリをグローバルで配信開始した。車のダッシュボードからAIアシスタントと対話でき、iPhoneでの会話履歴も自動同期される。Gmailやカレンダーと連携した毎日の要約受信などに活用可能だ。",
+ "points": [
+  "GoogleがApple CarPlay向けGeminiアプリの提供を開始",
+  "iPhoneとの会話同期やGmail等の情報連携が可能",
+  "最新アプリへのアップデートとCarPlayでの操作で利用可能"
+ ],
+ "body": "Googleは、Apple CarPlay向けの専用Geminiアプリを、世界各国で複数の言語を対象に順次提供開始すると発表した。これにより、車のダッシュボードから直接GoogleのAIアシスタントと会話できるようになる。iPhone上のGeminiでの会話はCarPlayと自動的に同期される仕組みとなっており、過去の会話の続きを行ったり、新しい会話を始めたりすることが可能となっている。\n\n具体的な利用シーンとしては、GmailやGoogleカレンダーなどの情報に基づいたパーソナライズされた今日の予定の概要を聞いたり、移動中に立ち寄りやすいレストランを探したりすることが挙げられる。利用を開始するには、iPhone上のGeminiアプリを最新バージョンにアップデートした上で、CarPlayの画面上でGeminiのアイコンをタップして会話を始める手順となる。\n\nなお、CarPlayにおける音声ベースの会話型AIアプリのサポートはすでに展開されており、これまでにもOpenAIのChatGPTをはじめとする複数のAIアシスタントが対応してきた。また、Gemini自体はこれまでもCarPlay上のGoogle Mapsアプリ内で利用可能だったが、今回の展開によって専用アプリとして独立して利用できるようになる。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg",
+ "published": "2026-11-11T19:50:14+00:00"
+}

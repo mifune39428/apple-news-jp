@@ -1,0 +1,20 @@
+{
+ "id": "060db2f85751729e",
+ "title_ja": "iOS 27のiCloud+大容量プランに新機能",
+ "summary_ja": "iOS 27のiCloud+大容量プランにおいて、HomeKitカメラ向けのAI機能が新たな特典として追加されることが明らかになった。ストレージ提供にとどまらず、サービスの付加価値向上が進められている。",
+ "points": [
+  "iOS 27のiCloud+に高容量プラン向けの新しい特典が追加",
+  "HomeKitカメラの映像をAIが自動説明し自然言語で検索可能",
+  "利用には対応カメラやホームハブ、対応iPhoneが必要",
+  "Private Cloud Computeの仕様により上位の料金プラン限定"
+ ],
+ "body": "海外メディアの9to5Macにて、iOS 27におけるiCloud+の新しい特典について報じられている。大容量のストレージプランを契約しているユーザーを対象に、HomeKit対応カメラでApple Intelligence機能が利用できるようになると伝えられている。ホームアプリ内で対応カメラの録画クリップに対する動画説明が自動生成されるほか、自然言語を使った録画の検索が可能になるとされている。\n\nこれにより、自宅で何が起きているのかを簡単に要約で把握したり、重要なクリップを一目で確認したり、カメラの最近の録画履歴から目的の映像を探し出したりすることが容易になると報じられている。これらの機能を利用するにはHomeKitセキュアビデオに対応したカメラが必要となるほか、Private Cloud Computeの仕組みに依存していることから、Appleが提供する特定の高額なiCloud+プランの契約が条件に含まれているとされる。\n\nさらに、これらのAI機能を利用するためには追加の要件が存在すると伝えられている。HomeViewやApple TV 4K、HomePodといったホームハブが必要になるだけでなく、使用するiPhone自体もApple Intelligenceに対応している必要があると報じられている。月額料金の発生する上位プランをすでに大容量ストレージ目的で利用しているユーザーにとっては、追加費用なしで便利なカメラ用AI機能が利用できる特典になるとされている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-11T19:32:54+00:00"
+}

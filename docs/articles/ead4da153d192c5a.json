@@ -1,0 +1,20 @@
+{
+ "id": "ead4da153d192c5a",
+ "title_ja": "「Parallels Desktop 1.27」Mac App Store版が登場 Intel非対応に",
+ "summary_ja": "Parallelsは「Parallels Desktop 1.27 for Mac」のMac App Store版をリリースしました。macOS 27 Golden Gateをサポートする一方、Intel搭載Macのサポートは終了となっています。最新OSへの対応が進む一方で旧環境の切り離しも実施されました。",
+ "points": [
+  "macOS 27 Golden Gate対応のMac App Store版がリリース",
+  "Apple M4以降のSMEサポートでAI推論パフォーマンスが向上",
+  "MetalベースのOpenGLドライバー刷新でグラフィックスが強化",
+  "Intel MacおよびmacOS 13 Venturaのサポートが終了"
+ ],
+ "body": "Parallels International GmbH.は、macOS 27 Golden Gateをサポートする「Parallels Desktop v1.27 for Mac (Mac App Store Edition)」をMac App Storeでリリースしたと報じられている。この新しいメジャーバージョンでは、全体的な安定性の向上やセキュリティ上の問題修正が行われており、最新のOS環境下での快適な利用が図られている。\n\n機能面では、Apple M4チップ以降に搭載されたArmプロセッサの命令セットであるScalable Matrix Extensionがサポートされ、WindowsやLinuxの仮想マシンにおけるローカルAI推論などのパフォーマンスが向上したとされる。また、Windows仮想マシンにおいては、AppleのMetal APIをベースとした新しいOpenGLドライバーの導入により、サポートがバージョン4.1から4.3へ引き上げられ、Apple M3チップ以降の環境では最大2.6倍のグラフィックスパフォーマンスを発揮すると伝えられている。\n\n一方で、今回のバージョンでは大きな変更点として、Intel MacおよびmacOS 13 Venturaのサポートが終了していると報じられている。対象となる環境ではインストールやアップデートが行えなくなるとされているため、該当するユーザーは利用環境の確認が必要となる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261112-parallels-desktop-1-27-mac-app-store-edition.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Parallels-Desktop-2025-logo-icon.webp",
+ "published": "2026-11-11T23:36:25+00:00"
+}
