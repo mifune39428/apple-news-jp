@@ -1,0 +1,19 @@
+{
+ "id": "9aa55557fc5711c4",
+ "title_ja": "Mac版Microsoft 365等で過去最多となる140件の脆弱性が修正",
+ "summary_ja": "Microsoftが公開したMac版の「Microsoft 365」および「Office for Mac」向けセキュリティアップデートにおいて、過去最多となる140件の脆弱性が修正されました。ExcelやWordなどで複数のリモートコード実行の脆弱性が対処されているため、速やかな更新が推奨されます。",
+ "points": [
+  "Mac向けMicrosoft 365/Officeの11月版が公開",
+  "CVEベースで過去最多となる140件の脆弱性を修正",
+  "Excelなどで深刻なリモートコード実行の修正が含まれる"
+ ],
+ "body": "マイクロソフトは、Mac向けのMicrosoft 365およびOfficeにおいて、2026年11月10日にバージョン16.115のアップデートをリリースしたと報じられている。今回のアップデートでは、WordやExcel、PowerPoint、Outlookなどを対象として、CVEベースで合計140件もの脆弱性が修正されているとされる。公開されている過去のリリースノートと比較すると、単月の修正件数としては過去最多の規模に達していることが確認されている。\n\n今回の修正には、特に注意すべき深刻な問題も含まれていると伝えられている。Excel for Macにおいては、マイクロソフトが危機度を高く評価したリモートコード実行に関する脆弱性が4件修正されているほか、WordやOffice Suiteにおいても同様の脆弱性が複数修正されているとのこと。これらの中には悪用されるリスクのあるものが含まれているため、MacでOffice製品を利用しているユーザーに対しては、早急に最新バージョンへアップデートを適用することが強く推奨されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261111-microsoft-365-office-for-mac-security-update.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Microsoft-365-for-Mac-logo-icon.webp",
+ "published": "2026-11-11T06:06:11+00:00"
+}

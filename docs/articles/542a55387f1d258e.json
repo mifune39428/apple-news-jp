@@ -1,0 +1,19 @@
+{
+ "id": "542a55387f1d258e",
+ "title_ja": "Microsoft、プロセス管理ツールをAI活用でMacへ移植し公開",
+ "summary_ja": "Microsoftは「ZoomIt」に続き、プロセス管理モニター「Sysinternals Process Explorer」をMac向けに移植して公開しました。AIを活用して開発されたWindows用の定番ユーティリティであり、Mac上でもプロセス監視が可能になります。",
+ "points": [
+  "MicrosoftがMac向けにProcess Explorerを公開",
+  "AIを活用した開発でZoomItに続き移植が実現",
+  "Windows版の中核機能を引き継ぎmacOS 14以降に対応"
+ ],
+ "body": "MicrosoftにおいてWindows用ユーティリティSysinternalsの開発を手掛け現在はMicrosoft AzureのCTOを務める人物が、新たにプロセス管理モニター「Sysinternals Process Explorer」のMac版を公開したと報じられている。同氏は2026年8月にプレゼンテーション補助アプリ「Sysinternals ZoomIt」をAIを活用してMacへ移植していたが、今回はWindowsのプロセス監視ツールとして知られるProcess ExplorerについてもMac版の提供を開始したとされる。\n\n今回公開されたMac版は、Windowsユーザーが使い慣れたプロセスツリーの確認といった中核機能を利用できるように移植されたバージョンとなっている。システム要件としてはmacOS 14 Sonoma以降に対応しており、Intel製プロセッサを搭載したMacとApple Siliconを搭載したMacの双方で動作すると伝えられている。\n\n開発にあたってはSwiftやSwiftUI、AppKitをはじめ、libprocやsysctl、統計情報、Security.framework、IOKit、MetalといったAppleの各種公式APIが利用されている。完成したアプリにはMicrosoftの開発者署名とAppleによる公証が取得されており、GitHubのリポジトリを通じて一般に公開されていると伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261111-microsoft-process-explorer-for-macos.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Sysinternals-Process-Explorer-for-macOS-logo-icon.webp",
+ "published": "2026-11-11T12:45:32+00:00"
+}

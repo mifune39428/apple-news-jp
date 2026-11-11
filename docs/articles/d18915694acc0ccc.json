@@ -1,0 +1,20 @@
+{
+ "id": "d18915694acc0ccc",
+ "title_ja": "Appleの供給元TSMC、OpenAIとAnthropicに最大10億ドル投資へ",
+ "summary_ja": "Appleのチップ製造を担うTSMCが、AI企業のOpenAIとAnthropicに対し最大10億ドルの投資を行う方針を承認した。最先端の製造能力を巡りAppleと競合するAI分野の重要企業と、関係をさらに深める狙いがある。",
+ "points": [
+  "TSMCがOpenAIとAnthropicへの出資を承認",
+  "両社への投資額はそれぞれ最大5億ドル規模",
+  "半導体関連に投資する新会社設立も承認",
+  "Appleのチップ製造元が競合との結びつきを強化"
+ ],
+ "body": "Appleのカスタムチップを製造するTSMCの取締役会が、AI開発を手がけるOpenAIとAnthropicに対して、総額最大10億ドルの投資を行うことを承認したと報じられている。今回の決定により、TSMCは両社の株式をそれぞれ最大5億ドル分まで取得することが可能になる。さらに、取締役会は半導体産業や関連分野へ投資を行うための新会社を設立するため、最大5億ドルの資金を割り当てることもあわせて承認した。\n\nOpenAIとAnthropicは独自のプロセッサ開発を進めているほか、OpenAIについてはAppleと直接競合するハードウェアの開発に取り組んでいるとの噂も浮上している。今回の大型投資は、TSMCにとってAppleのカスタムチップ製造を支える一方で、AI分野や最先端の製造ラインをめぐってAppleと競合する企業との結びつきをより深める動きとして注目されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment",
+ "lang": "en",
+ "region": "global",
+ "category": "ビジネス・業績",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+ "published": "2026-11-11T11:44:03+00:00"
+}
