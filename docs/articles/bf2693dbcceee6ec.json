@@ -1,0 +1,20 @@
+{
+ "id": "bf2693dbcceee6ec",
+ "title_ja": "Google、CarPlay向けに「Gemini」を提供開始",
+ "summary_ja": "GoogleのAIチャットボットアプリ「Gemini」がAppleのCarPlayに対応する。本日から、音声会話機能である「Gemini Live」のフル機能が利用可能になる。",
+ "points": [
+  "GoogleのGeminiアプリがCarPlayに対応へ",
+  "Gemini Liveによる本格的な会話機能を利用可能に",
+  "主要なAIチャットボットが出揃う形となる",
+  "本日から全世界のiOSユーザー向けに順次展開"
+ ],
+ "body": "GoogleのAIチャットボットアプリであるGeminiが、Appleの車載システムであるCarPlayに対応することが明らかになった。同社によれば、本格的な対話機能であるGemini Liveの体験がCarPlay上で利用できるようになり、本日から全世界の対応言語を使用しているiOSのGeminiユーザーに向けて順次展開が開始されると報じられている。\n\nこれまでもCarPlayは、ChatGPTやPerplexity、Claude、Copilot、Meta AI、Grokといった主要なAIチャットボットアプリや会話型アプリをすでにサポートしていた。GoogleもこれまでGoogle Mapsを介した一部の機能提供は行っていたものの、専用のチャットボットアプリを通じたGemini Liveの機能は利用できない状態が続いており、今回の対応によって主要なAIアシスタントが出揃う形となる。\n\n利用を始めるためには、iPhone上のGeminiアプリを最新バージョンにアップデートし、マイクのアクセス許可を有効にした上で、事前にスマートフォン上でGemini Liveを一度以上使用しておく必要がある。準備が完了した状態でiPhoneを自動車に接続し、CarPlayの画面に表示されるGeminiのアイコンをタップすることで、新しい会話の開始や最近の会話の続きを行うことができるようになる。\n\nアプリのアップデートは本日から順次配信される予定となっており、手元の環境ですぐに反映されない場合でも、今日中には利用可能になると見られている。車内での音声対話機能の選択肢がさらに広がり、運転中の利便性が一段と向上することになりそうだ。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-11T17:29:13+00:00"
+}
