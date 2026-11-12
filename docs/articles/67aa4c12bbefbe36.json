@@ -1,0 +1,20 @@
+{
+ "id": "67aa4c12bbefbe36",
+ "title_ja": "GoogleがiOS対応のAndroid XRオーディオグラス発表、MFi認証を取得",
+ "summary_ja": "Googleは新開発のAndroid XRオーディオグラス「Intelligent Eyewear」を発表した。本製品はAndroidだけでなくiOSにも対応しており、Appleの「Made for iPhone」認証を取得している。iPhoneユーザーも利用可能なサードパーティ製ウェアラブル機器として注目を集めている。",
+ "points": [
+  "Googleが新型Android XRグラス「Intelligent Eyewear」を発表",
+  "Made for iPhone認証を取得しiOSデバイスとも連携可能",
+  "撮影時はLEDが点灯するプライバシー配慮やGemini連携を搭載",
+  "価格は395ドルからで本日から予約受付、12月10日発売"
+ ],
+ "body": "Googleが発表した新しいAndroid XRオーディオグラス「Intelligent Eyewear」は、Made for iPhone認証を取得しており、iOSデバイスとの連携をサポートしていることが大きな特徴となっている。この製品はサムスンが製造を手がけ、Gentle MonsterやWarby Parkerといったブランドによるフレームデザインを採用しており、合計30種類のユニークなデザインが用意されている。フレームの重量は40から44グラムで、12メガピクセルの超広角カメラが搭載されている。iOS向けの専用アプリがHDR処理などの演算処理を担当し、撮影した写真や最長90秒の動画はApple Photosに保存される仕組みだ。Made for iPhone認証は高速なメディア転送を可能にするWi-Fi Aware接続で活用されている。プライバシー面への配慮として、ライブラリに保存される写真や動画の撮影時には白いインジケーターランプが点滅し、ライトが覆われたり無効化されたりすると録画が停止するハードウェアチェックが充電時に実行される。Geminiを活用した視覚検索や翻訳などのコマンドでは、画像や動画がどこにも保存されないためランプは点灯せず、クラウドに送信される前に顔のモザイク処理や周囲の音声のフィルタリングが行われる。このメディアがAIモデルのトレーニングや広告ターゲティングに使用されることはないとされている。その他の主な仕様として、4マイク、2基のオープンイヤー型スピーカー、タッチパッド、物理的な電源スイッチを備えている。音声コマンドのほか、iOS環境ではGeminiによる通話、iMessageを含む1対1のメッセージ送信、通知の受信が可能となっている。バッテリー駆動時間は1回の充電で9時間となっており、7回分の充電が可能なケースが付属する。Googleマップの経路案内、リアルタイム翻訳、Apple MusicやSpotifyなどのストリーミングサービスにも対応している。利用にはiPhone 13 Pro以降が必要となる。価格はWarby Parkerモデルが395ドルから、Gentle Monsterモデルが449ドルからとなっており、アメリカなどで本日から予約受付が開始され、12月10日に発売される予定となっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5google.com/2026/11/12/google-glasses-iphone-support",
+ "lang": "en",
+ "region": "global",
+ "category": "Apple Watch・ウェアラブル",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/android-xr-intelligent-eyewear-warby-parker-34.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-12T14:05:46+00:00"
+}
