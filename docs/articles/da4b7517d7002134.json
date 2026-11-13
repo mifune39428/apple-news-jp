@@ -1,0 +1,19 @@
+{
+ "id": "da4b7517d7002134",
+ "title_ja": "Apple Intelligenceのカメラ機能には上位iCloud+が必要",
+ "summary_ja": "Apple IntelligenceによるAIを活用した動画説明などのカメラ機能を利用するには、高価格帯のiCloud+プランへの加入が必要となる。対応カメラでの機能活用に条件が設けられた。",
+ "points": [
+  "iOSのホームカメラ向けApple Intelligence機能に条件",
+  "利用には月額制のiCloud+（2TB以上）の加入が必須",
+  "対応カメラ数や機能利用にはホームハブと対応端末が必要"
+ ],
+ "body": "iOSのスマートホーム機能におけるホームカメラ向けのApple Intelligence機能を利用するには、条件として月額制のiCloud+プランへの加入が必要であると報じられている。AIによるビデオの説明文生成や自然言語での映像検索といった機能を使うためには、少なくとも2TB以上のストレージ容量を持つプランを選択しなければならないとされている。\n\n利用できるカメラの台数についても、iCloud+のプラン内容によって制限が設けられていると伝えられている。2TBプランでは1台のみ、6TBプランでは最大2台、12TBプランであれば最大5台までのカメラがサポートされる仕組みとなっており、利用するプランに応じた月額費用が発生することになる。従来のHomeKitセキュアビデオの録画機能と比べると、今回のAI機能におけるカメラ数の上限は厳しく設定されている。\n\nこれらの機能を利用するためには、プランへの加入に加えて、最新ソフトウェアを搭載したHomePodやApple TVなどのホームハブが必要になるとされている。さらに、機能に対応したiPhoneを用意し、ホームアプリの設定から機能を有効化する必要があると報じられている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/apple-intelligence-home-camera-features-icloud-plus-ios-27",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Apple-camera.jpg.webp",
+ "published": "2026-11-12T15:49:14+00:00"
+}

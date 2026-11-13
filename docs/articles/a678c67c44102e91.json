@@ -1,0 +1,20 @@
+{
+ "id": "a678c67c44102e91",
+ "title_ja": "未発表のM6搭載MacなどのGeekbenchスコアが掲載",
+ "summary_ja": "Primate Labsが、Apple M6チップを搭載したiMacやMacBook Pro、ならびにM5 ProやM5 Maxチップを搭載したMacBook ProのGeekbenchスコアの掲載をスタートしました。次世代モデルと見られる各端末の性能データが確認できるようになっています。",
+ "points": [
+  "Primate Labsが新モデルのGeekbenchスコアを公開",
+  "M6チップ搭載のiMacやMacBook Proなどが対象",
+  "PROLED XDR搭載のM5 Pro/Maxモデルも掲載",
+  "既存モデルとCPU性能に大きな差はないとみられる"
+ ],
+ "body": "Primate Labsは、ベンチマークアプリGeekbenchの集計スコアをまとめたMac Benchmarksにおいて、2026年11月から販売が始まった新型Macのスコア掲載を開始したと発表している。今回追加されたのは、M6チップを搭載した24インチiMacおよび14インチMacBook Pro、そしてタッチ操作をサポートするPROLED XDRディスプレイを備えたM5 ProおよびM5 Maxチップ搭載のMacBook Proモデルとなっている。掲載されているデータは、Geekbench Browserにアップロードされたユーザーのテスト結果を基に算出されており、各Macの平均的なパフォーマンスを正確に反映させるため、少なくとも5件以上のユニークな結果が集まったモデルのみがチャートに含まれている。今回新たに登場したモデルに搭載されているAppleシリコンのスコアは、すでに展開されている同等チップを搭載したMac製品と比較してほぼ同等の数値を示していると伝えられている。これにより、今年3月に発売されたモデルと新しいPROLED XDRディスプレイを搭載したモデルの間でCPU性能自体の差はほとんど見られないとされており、本体価格に生じている差は、タッチ操作に対応したOLEDディスプレイやダイナミックアイランド、新しいスピーカーユニットといったハードウェアの仕様変更によるものとみられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261113-geekbench-new-imac-macbook-pro-proled-xdr.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "噂・リーク",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/07/Geekbench-v7-for-Mac-logo-icon.webp",
+ "published": "2026-11-13T01:00:25+00:00"
+}
