@@ -1,0 +1,20 @@
+{
+ "id": "5cdec775fb428a99",
+ "title_ja": "お手持ちのMacで最新OSが使えるか確認できる互換性リスト",
+ "summary_ja": "Macで利用できるmacOSのバージョンや互換性を確認できるチェックツールが公開された。最新の機能やセキュリティ保護を利用するために、どのモデルがどのOSに対応しているかを一覧で把握できる。自身のMacの対応状況を事前に確認しておくと安心だ。",
+ "points": [
+  "macOS 27 Golden GateはIntel Macに非対応。",
+  "M1やA18 Pro搭載モデルを含むApple Silicon Macに対応。",
+  "一部の高度なSiri機能にはM3以上と12GB以上のメモリが必要。",
+  "macOS TahoeやSequoia向けにはセキュリティ更新が継続配信中。"
+ ],
+ "body": "2026年9月14日にリリースされたmacOS 27 Golden Gateは、Intelプロセッサを搭載したMacのサポートを完全に終了した。一方で、M1チップ搭載モデルからA18 Proを搭載したMacBook Neoに至るまで、すべてのApple Silicon搭載Macに対応している。ただし、対応モデルであっても一部のAI機能にはハードウェア上の制限が存在する。表現力豊かな音声や高度な音声入力といったSiriの最新機能を利用するには、M3以上のチップと12GB以上のメモリが必須となる。また、Apple Intelligence機能自体はすべてのApple Silicon Macでサポートされているが、Intel Macでは利用できない。\n\nアップグレードにあたってはソフトウェアや周辺機器の互換性にも注意が必要である。古いプリンター用ソフトウェアなど、一部のプログラムは依然としてIntel向けのコンポーネントに依存しており、macOS 27上で動作させるためにRosettaが必要となる場合がある。手持ちのMacが対応機種であっても、事前に周辺機器やアプリケーションの更新状況を確認することが推奨される。なお、Intel MacがmacOS 27に対応していないからといって、すぐに買い替える必要はない。前世代のmacOS TahoeやmacOS Sequoiaに対しては、2026年11月時点でもセキュリティアップデートが提供されており、安全に使い続けるための環境が維持されている。特にmacOS Tahoeは、Intel Macをサポートした最後のOSとなっている。\n\n使用中のMacのモデル名や製造年、搭載チップ、メモリ容量を確認するには、画面左上のAppleロゴから「このMacについて」を選択する。さらに詳しい仕様を確認したい場合は、「詳細情報...」ボタンをクリックするか、「システム設定」の「一般」から「情報」を開くことで把握できる。なお、過去のmacOSにおいては、macOS VenturaやMontereyに対するセキュリティアップデートの提供が終了している。一方で、macOS Big SurおよびCatalinaについては、FaceTimeやメッセージ機能における証明書の問題に対応するため、2026年2月に更新が実施された。Mシリーズチップを搭載したMacではCatalina以前のOSを動作させることはできないため、古いシステム環境を維持する際は注意が必要である。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/673697/what-version-of-macos-can-my-mac-run.html",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 3,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/11/673697-0-21636400-1794568410-Which-MacOS-runs-on-which-Mac.jpg?quality=50&strip=all",
+ "published": "2026-11-13T11:13:21+00:00"
+}
