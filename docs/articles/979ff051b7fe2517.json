@@ -1,0 +1,20 @@
+{
+ "id": "979ff051b7fe2517",
+ "title_ja": "HomePod 27.2.1配信開始もHomePod mini 2のSiri AI対応は見送り",
+ "summary_ja": "AppleがHomePodソフトウェア27.2.1を公開したものの、HomePod mini 2でのSiri AI機能は有効化されませんでした。本機能の利用には対応iPhone等のペアリングが必要となります。なお、同時に公開されたtvOS 27.2.1では、Apple TV 4Kの第2・第3世代でSiri AIに対応しました。",
+ "points": [
+  "HomePodソフトウェアの最新アップデートが配信開始",
+  "HomePod mini 2ではSiri AIが未有効のまま",
+  "Siri AIの利用には対応iPhone等との連携が必要",
+  "tvOSの最新版ではApple TV 4KでSiri AIが利用可能に"
+ ],
+ "body": "Appleは最新のソフトウェアアップデートをリリースしたが、HomePod mini 2においてSiri AI機能は有効化されなかったと報じられている。公式ウェブサイトでは将来のソフトウェアアップデートで対応予定と案内されているものの、具体的な提供時期については明らかにされていない。HomePod mini 2に搭載されているRAMの容量は2GBであり、専用のSiri AIに必要な最小要件である8GBを大きく下回っているため、パーソナルコンテキストのリクエストを行うには、Siri AIを有効にした対応iPhoneやiPadとのペアリングが必要になるとされる。\n\n一方で、同時にリリースされたtvOSの最新アップデートでは、第2世代および第3世代のApple TV 4KにおいてSiri AIが利用できるようになったと伝えられている。Apple TVにおけるSiri AI機能はオプトイン方式を採用しており、アップデートを適用した後に設定アプリから手動で有効化の操作を行う必要があるという。設定を行うことでサポート機能のダウンロードが開始される仕組みとなっている。なお、アップデート後に特別な操作を行わなかった場合、従来型のSiriがデフォルトのまま維持される仕様となっている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+ "published": "2026-11-13T20:18:36+00:00"
+}

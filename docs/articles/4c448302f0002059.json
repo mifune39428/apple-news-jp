@@ -1,0 +1,19 @@
+{
+ "id": "4c448302f0002059",
+ "title_ja": "Perplexity、AIエージェント機能「Teammates」をMac版に導入",
+ "summary_ja": "Perplexityは、新しい能動型AIエージェント機能「Teammates」をMac向けに展開を開始した。これまでiOSとウェブ版に限定されていた機能がMacでも利用可能になる。",
+ "points": [
+  "PerplexityがAIエージェント機能「Teammates」をMac向けに提供開始",
+  "タスクを自律的に継続処理し、必要に応じて複数のエージェントが連携",
+  "利用には有料のPerplexity Maxプランの契約が必要"
+ ],
+ "body": "Perplexityは、Mac向けに新しいプロアクティブ型AIエージェント機能「Teammates」の提供を開始したと報じられている。この機能はこれまでiOSとWeb版に限定されていたが、今回のアップデートによりMacの専用アプリでも利用可能になったとされる。\n\nTeammatesは、ユーザーからの細かい指示を都度出さなくても、バックグラウンドで自律的にタスクを遂行するタスク指向型のAIエージェント機能である。成長キャンペーンの管理、バグ報告のトリアージ、指標の追跡、市場調査などの責任ある役割をエージェントに任せることができ、作業量が増えた際には追加のエージェントを投入しながら、人間がレビューできる状態になるまで継続的に処理を行う仕組みとなっている。\n\n複数のAIインスタンスをサポートし、単一のチャットモデルとは異なりチームとして連携しながら品質管理やカスタマーサービスなどの業務をこなすことができる。なお、現時点でこの機能を利用するためには、有料のPerplexity Maxサブスクリプションに加入している必要があると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+ "published": "2026-11-13T19:31:05+00:00"
+}
