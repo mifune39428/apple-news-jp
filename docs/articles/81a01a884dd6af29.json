@@ -1,0 +1,20 @@
+{
+ "id": "81a01a884dd6af29",
+ "title_ja": "旧型Apple TV 4KにもSiri AI提供へ",
+ "summary_ja": "新型Apple TV 4Kの発売に合わせて、従来の旧型モデルにも「tvOS 27.2.1」アップデートを通じてSiri AI機能が提供される予定となっている。これにより古い端末でも新機能が利用可能になる。",
+ "points": [
+  "tvOS 27.2.1がまもなく配信開始される見込み",
+  "古いApple TV 4KでもSiri AIが利用可能に",
+  "対応機種は第2世代以降のApple TV 4Kとされる",
+  "利用にはSiri AI対応デバイスの近接ペアリングが必要"
+ ],
+ "body": "新型のApple TV 4Kが発売され、Siri AIが主要な目玉機能として登場した。これに伴い、従来の古いApple TV 4Kモデルでも、近く配信される予定のtvOS 27.2.1ソフトウェアアップデートを通じて、Siri AIが利用できるようになると報じられている。今週初めには、iOSやmacOS、watchOSなどの各OSで同番号のアップデートがリリースされていたが、tvOSだけは含まれていなかった。\n\nしかし、Appleが公開した最新のサポート文書によって、その理由が明らかになっている。サポート文書によれば、tvOS 27.2.1は第2世代以降のApple TV 4Kを対象にSiri AIのサポートを追加するものとされる。Appleは具体的な配信開始時期について明言していないものの、間もなくリリースされる可能性があると伝えられている。\n\n新型モデルの発売と同時に古いモデルへ機能を提供することを避けた形とみられており、機能を利用するためには第2世代以降のApple TV 4K本体に加え、Siri AIに対応した別のデバイスが近くでペアリングされている必要がある。具体的な配信の正確なタイミングについては引き続き注目が集まっている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-13T14:15:56+00:00"
+}
