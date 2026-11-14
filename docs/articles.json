@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T13:00:10.244876+09:00",
+ "updated_at": "2026-11-14T21:41:52.780676+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,46 +29,204 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 284,
+ "detail_count": 291,
  "digest": {
-  "headline": "新型スマートホームデバイス「HomeView」や第4世代Apple TV 4Kが",
+  "headline": "新型HomeViewと第4世代Apple TV 4Kが発売、関連ニュースまとめ",
   "points": [
    {
-    "text": "Appleの新しいスマートホームデバイス「HomeView」と第4世代の「Apple TV 4K」が発売され、店頭やオンラインでの購入、出荷が開始されました。",
+    "text": "Appleはスマートホームディスプレイ「HomeView」と第4世代の新型Apple TV 4Kを発売し、店頭販売や出荷が開始されたほか、防犯カメラなどの注文受付も始まった。",
     "ids": [
      "85cd75b8a8452dea",
      "012f958a5219c3d9",
-     "a465cfd5b32e4ddc"
+     "03df36c458eb9a8b"
     ]
    },
    {
-    "text": "tvOS 27.2.1の配信により、第2世代および第3世代のApple TV 4KでもSiri AI機能が利用可能になりました。",
+    "text": "tvOS 27.2.1の配信が開始され、第2世代および第3世代のApple TV 4KでもSiri AI機能がサポートされるようになった。",
     "ids": [
      "a985acfb92e0b2ae",
      "d308199fa17a8d63"
     ]
    },
    {
-    "text": "LGやシュナイダーエレクトリックと共同開発した「Apple Home Collection」などのスマートホームアクセサリーの注文受付も始まっています。",
+    "text": "折りたたみ式iPhoneであるiPhone Duo向けアプリが10万個を突破したと伝えられている。",
     "ids": [
-     "03df36c458eb9a8b",
-     "6fd983891d83124c"
+     "8b22401a2faa7e92"
     ]
    },
    {
-    "text": "サプライヤー企業の決算報告書から、Appleのスマートグラスプロジェクトに関する記述が偶然にも明らかになったと報じられています。",
+    "text": "サプライヤーの決算報告書からAppleのスマートグラス計画に関する記述が見つかったと報じられている。",
     "ids": [
      "85d7f40dbec0f0c1"
+    ]
+   },
+   {
+    "text": "任天堂は、ニンテンドーアカウントにおけるAppleアカウントを用いたかんたんログイン機能を2027年1月に終了すると発表した。",
+    "ids": [
+     "3d16ac38f0aca443"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-11T13:04:38.507964+09:00",
-  "generated_at": "2026-11-14T13:04:40.008501+09:00",
+  "from": "2026-11-11T21:45:09.206852+09:00",
+  "generated_at": "2026-11-14T21:45:10.852347+09:00",
   "article_count": 24,
-  "sig": "bd90179f85af"
+  "sig": "7c3261a85ac7"
  },
  "items": [
+  {
+   "id": "dd1a25aeef7f64ac",
+   "url": "https://iphone-mania.jp/sale-608691",
+   "title_original": "Apple Watch Series 12／セラミックがAmazonアウトレットに",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/14/amazon-outlet-1114.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T12:13:03+00:00",
+   "title_ja": "Apple Watch Series 12のセラミックモデルがAmazonで販売中",
+   "summary_ja": "Apple Watch Series 12のパールホワイトセラミックケースモデルが、Amazonアウトレットで販売されています。出品されている製品の多くが状態の良いものとなっています。希少なセラミックモデルを通常よりお得に購入できる機会です。",
+   "category": "Apple Watch・ウェアラブル",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3d16ac38f0aca443",
+   "url": "https://iphone-mania.jp/apple-608692",
+   "title_original": "任天堂のAppleログインが2027年1月終了 事前に確認したいこと",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/14/2747325c6f63450b816e3953b631e017.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T12:12:05+00:00",
+   "title_ja": "任天堂、ニンテンドーアカウントのApple連携ログインを2027年1月に終了",
+   "summary_ja": "任天堂は、ニンテンドーアカウントにおけるGoogleやAppleアカウントを用いた「かんたんログイン」機能を2027年1月26日午後4時に終了すると発表しました。iPhoneの「Appleでサインイン」を利用しているユーザーは、期日までに確認や設定変更を行う必要があります。",
+   "category": "サービス・アプリ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f114dc803f196707",
+   "url": "https://gori.me/sale/peripheral-sale/172464",
+   "title_original": "いつも高いBelkinのQi2充電器が最大57％オフ、半額以下も",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/11/1794656237022-Belkin-items-are-on-a-serious-sale-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T11:39:12+00:00",
+   "title_ja": "BelkinのQi2ワイヤレス充電器がAmazonで最大57％オフのセールを実施中",
+   "summary_ja": "Amazon.co.jpにて、Belkin製のQi2ワイヤレス充電器3製品がセール価格で販売されています。3in1タイプの充電器が57％オフの6,336円となるほか、充電スタンドや車載充電器も大幅に値下げされています。高品質なアクセサリをお得に購入できるチャンスです。",
+   "category": "iPhone",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "efcee463a6b2da01",
+   "url": "https://iphone-mania.jp/mac-608657",
+   "title_original": "MacBook AirがOLED化しても60Hz？Proとの性能差はどうなる",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/10/07/macbook-air-oled-WT.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T11:00:00+00:00",
+   "title_ja": "将来のMacBook Air、OLED搭載後もProモデルと仕様を差別化か",
+   "summary_ja": "将来的にMacBook Airへ有機EL（OLED）ディスプレイが採用された場合でも、MacBook Proのモデルとは仕様面で明確な差別化が図られるとの予測が出ています。リフレッシュレートなどで性能差がつき、上位モデルとの差が保たれる模様です。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0653916cdf2816b0",
+   "url": "https://gori.me/microsoft/windows/172439",
+   "title_original": "Windows PCでAppleシリコン版macOSを動かすソフト「Stela」が公開",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2014/01/hackintosh.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T08:27:57+00:00",
+   "title_ja": "Windows PCでAppleシリコン版macOSを動かす「Stela」が公開",
+   "summary_ja": "x86-64のPC上でAppleシリコン版macOSを動かすオープンソースソフト「Stela」がGitHubで公開された。USBメモリから起動しM2搭載Mac miniとして動作するが、Wi-Fiや内蔵音声には非対応で動作も遅いとされている。",
+   "category": "ソフトウェア・OS",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "d420a1969a81f8bf",
+   "url": "https://www.macworld.com/article/3284148/edit-any-pdf-on-your-mac-with-this-32-lifetime-app.html",
+   "title_original": "Edit any PDF on your Mac with this $32 lifetime app",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284148-0-24289100-1794643288-PDF-Reader.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T08:00:00+00:00",
+   "title_ja": "Mac向けPDF編集ソフト「PDF Reader Pro」の永久ライセンスがセール中",
+   "summary_ja": "Mac向けのPDF編集アプリ「PDF Reader Pro」の永久ライセンスがセール価格で販売中だ。標準のプレビューアプリでは不可能な既存テキストの書き換えや画像の差し替えに対応し、ページの結合や分割、一括暗号化などの機能も利用できる。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "0298d3afcd23717e",
+   "url": "https://www.macworld.com/article/3284388/pay-47-once-for-2tb-of-cloud-storage-during-this-software-sale.html",
+   "title_original": "Pay $47 once for 2TB of cloud storage during this software sale",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284388-0-94823000-1794643297-FileJump.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T08:00:00+00:00",
+   "title_ja": "2TBの買い切り型クラウドストレージ「FileJump」がセールを実施",
+   "summary_ja": "2TBの容量を備えたクラウドストレージ「FileJump」の永久サブスクリプションがセール中だ。毎月支払いが発生するiCloud+の2TBプランとは異なり一回払いで利用可能で、ブラウザからドラッグ＆ドロップでファイルをアップロードできる。",
+   "category": "サービス・アプリ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "ef8ef52a834d6197",
+   "url": "https://iphone-mania.jp/iphone18-608662",
+   "title_original": "iPhone DuoでiPadは不要？2台持ちの方が70,200円安い理由",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/14/8924f36bbac4eab300fdd1e704d289bb.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T05:54:37+00:00",
+   "title_ja": "折りたたみ型「iPhone Duo」と「2台持ち」の価格比較に関する考察",
+   "summary_ja": "折りたたみ端末「iPhone Duo」の導入によりiPadが不要になるかを検証した考察。噂されている価格を基に比較すると、iPhone 18 ProとiPadを2台所有する方が、Duoを単体で購入するよりも約7万円安くなると指摘されている。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "9775d983a7045526",
+   "url": "https://iphone-mania.jp/apple-tv-608659",
+   "title_original": "新型Apple TV 4KでYouTubeが見られない？不具合と対処法",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/14/d0672336217f903a26cddd34a9515690.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-14T05:00:51+00:00",
+   "title_ja": "新型Apple TV 4KでYouTubeが閲覧できない不具合が発生中",
+   "summary_ja": "11月13日に発売された第4世代の新型Apple TV 4Kにおいて、YouTubeアプリが正常に使えない不具合が海外で報告されている。解決に向けた対処方法としては、tvOS 27.2へのアップデートに加え、本体の再起動やアプリの再インストールが案内されている。",
+   "category": "ソフトウェア・OS",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "36b95ea271e3364d",
    "url": "https://applech2.com/archives/20261114-ugreen-finetrack-magcards-iphone.html",
@@ -589,7 +747,8 @@
    "title_ja": "新しいApple TV 4Kなどの使用感",
    "summary_ja": "最新のApple TV 4Kやスマートホーム機器「HomeView」についてのファーストインプレッションが語られている。ハードウェアの品質は評価される一方、既存製品との兼ね合いに疑問の声もある。",
    "category": "その他",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "a27f0cf7ebddcd4b",
@@ -605,7 +764,8 @@
    "title_ja": "純正カメラアプリの便利な新機能",
    "summary_ja": "iOSの新しいカメラ機能やプロ向けコントロールの組み合わせにより、サードパーティ製アプリを使わずに純正カメラで撮影する機会が増えている。カスタマイズ可能な操作性が高く評価されている。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "658b202f83440d81",
@@ -621,7 +781,8 @@
    "title_ja": "マップアプリに追加された隠れた新機能",
    "summary_ja": "iOSでアップデートされたApple Mapsにおいて、毎週新鮮な情報を提供する「Local Lists」機能がユーザーの間で好評を得ている。お気に入りの新機能として活用されている。",
    "category": "ソフトウェア・OS",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "67e1be5e8747c6fa",
@@ -637,7 +798,8 @@
    "title_ja": "新型Apple TVでYouTubeが動かない時の対処法",
    "summary_ja": "新型Apple TV 4KでYouTubeアプリが起動しない不具合の解決方法が案内されている。システムのアップデートや本体の再起動、アプリの再インストールが有効とされている。",
    "category": "その他",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "67b664462bb0ef6c",
@@ -653,7 +815,8 @@
    "title_ja": "新型Apple TV 4KでYouTubeアプリにエラーが発生",
    "summary_ja": "新しく発売されたApple TV 4Kで、YouTubeアプリを開くと黒い画面にQRコードが表示され、利用できないエラーが発生している。初期出荷分の一部ユーザーから報告が相次いでいる状況だ。",
    "category": "その他",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "1aa65c0be3f0f9a1",
@@ -669,7 +832,8 @@
    "title_ja": "Apple、タイ当局とiPhoneへのスパイウェア警告で協議",
    "summary_ja": "Appleはタイの政治家らが受けたスパイウェア警告について、同国政府高官と会談を行った。10月に世界99カ国で発令された脅威通知に関して、傭兵型スパイウェア攻撃の懸念について話し合われた。",
    "category": "ビジネス・業績",
-   "importance": 3
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "65299490d0064330",
@@ -702,7 +866,8 @@
    "title_ja": "Amazon、Apple TV 4KやApple Watchなどのセールを実施",
    "summary_ja": "Amazonのセールにおいて、新型Apple TV 4KやApple Watch Ultra、AirPods Pro、AirTagなどが割引価格で販売されている。一部モデルは過去最安値水準となっている。",
    "category": "ビジネス・業績",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "e000da8bff1651bb",
@@ -1151,6 +1316,23 @@
    "importance": 3
   },
   {
+   "id": "dd0cb6c044a07b87",
+   "url": "https://www.macworld.com/article/3277745/homeview-has-one-big-problem-the-ipad.html",
+   "title_original": "HomeView has one big problem: The iPad",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3277745-0-88368500-1794569460-ipad-mini-a20-pro-03.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-13T11:30:00+00:00",
+   "title_ja": "Appleの新型スマートホーム機器「HomeView」の課題",
+   "summary_ja": "Appleが新たに発売したスマートホーム端末「HomeView」は、可愛いデザインやiOSベースのOSで人気を集めています。しかし、ホームキットハブとしての機能など、多くの役割が既存のiPadと重なる点が最大の課題となっています。",
+   "category": "iPad",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "73d4f56f41aba555",
    "url": "https://www.macworld.com/article/3081011/best-macbook-neo-accessories-chargers-hubs-stands-and-more.html",
    "title_original": "Best MacBook Neo accessories: Chargers, hubs, stands and more",
@@ -1216,6 +1398,23 @@
    "summary_ja": "Appleの新しいスマートホームデバイスであるHomeViewと、第4世代のApple TV 4Kの一般販売が開始された。これに合わせて、LGやSchneider Homeによる最初の共同ブランド製ホームアクセサリーの予約受付も始まっている。",
    "category": "サービス・アプリ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bb6f3bba063b1f9e",
+   "url": "https://www.macworld.com/article/3282777/keep-office-on-your-mac-for-good-with-this-104-97-lifetime-license.html",
+   "title_original": "Keep Office on your Mac for good with this $99.97 lifetime license",
+   "source": "Macworld",
+   "lang": "en",
+   "region": "global",
+   "image": "https://www.macworld.com/wp-content/uploads/2026/11/3282777-0-47331200-1794556838-mso-2021-hb-mac-1.jpg?quality=50&strip=all",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-13T08:00:00+00:00",
+   "title_ja": "Mac用Microsoft Officeの永続版がセール中",
+   "summary_ja": "Macで利用できるMicrosoft Office Home & Business 2021の永続ライセンスが割引価格で販売されています。追加の年間サブスクリプション費用をかけずに、WordやExcelなどを買い切りで利用可能です。",
+   "category": "ソフトウェア・OS",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -1874,6 +2073,22 @@
    "summary_ja": "半導体からエンターテインメント業界まで、経営難に陥る企業が現れるとAppleによる買収や人材派遣を期待する声が上がります。過去に現実化していないにもかかわらず、アナリストの間では同様の論説が繰り返されています。",
    "category": "ビジネス・業績",
    "importance": 2
+  },
+  {
+   "id": "0941d8552360b7f4",
+   "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
+   "title_original": "Trump Weighs in on Huang’s Successor",
+   "source": "Daring Fireball",
+   "lang": "en",
+   "region": "global",
+   "image": "",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-12T17:32:42+00:00",
+   "title_ja": "トランプ前大統領、Nvidia次期CEOにAppleのティム・クック氏を提案",
+   "summary_ja": "ドナルド・トランプ氏が自身のブログで、辞任したNvidiaのジェンスン・フアン氏の後任にAppleのティム・クックCEOを指名すべきだと投稿した。伝説的経営者の後任には別の伝説的経営者がふさわしいと主張しているが、現実的ではない見解として扱われている。",
+   "category": "その他",
+   "importance": 1
   },
   {
    "id": "a9aa67a24b19babc",
@@ -6547,209 +6762,6 @@
    "title_ja": "Word・Excel・PowerPoint、iPhone Duo対応を開始",
    "summary_ja": "MicrosoftはiPhone Duo向けにWord、Excel、PowerPointのiOS版をリリースし、デュアルスクリーンでの文書作成や表計算、プレゼンテーションが可能になった。App Storeから無料でダウンロードできる。",
    "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3d31f05a8f6ed9f2",
-   "url": "https://iphone-mania.jp/apple-608501",
-   "title_original": "Apple Music Classicalの新デザイン〜iPhoneで何が変わる？",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/09/4fc17d0f3c81fdd4c7aced6ae7c0e148.png",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T05:55:09+00:00",
-   "title_ja": "Apple Music Classical、デザインと配色を刷新",
-   "summary_ja": "AppleはApple Music Classicalのバージョン4.1を配信し、アイコンを白黒に、アクセントカラーを赤から青へ変更した。機能追加は報告されておらず、主にビジュアル面の改良が中心となっている。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a53bc6de4f41b273",
-   "url": "https://www.cultofmac.com/news/apple-shakes-up-ios-28-and-macos-28-development-cycle",
-   "title_original": "Apple shakes up iOS 28 and macOS 28 development cycle",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/ios-28-iphone.jpg.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T05:03:59+00:00",
-   "title_ja": "iOS 28・macOS 28 開発マイルストーンに2週間延長",
-   "summary_ja": "AppleはiOS 28とmacOS 28の最初の開発マイルストーンで、エンジニアにアイデア探索と機能構築のための期間を2週間延長した。これにより新機能の検討余地が広がる見込みだ。",
-   "category": "ソフトウェア・OS",
-   "importance": 4
-  },
-  {
-   "id": "66bf4c3394f396ac",
-   "url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy",
-   "title_original": "Apple Store Subscription Sign-Up Controversy Exposed",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T03:28:15+00:00",
-   "title_ja": "米Apple Storeで無断サブスク登録の疑惑、顧客への確認なしで手続きか",
-   "summary_ja": "米国のApple Storeにて、一部の従業員が顧客の明確な同意を得ずにApple Oneなどの自動更新サブスク無料体験へ登録させていた疑惑が浮上しました。電子機器技術者のルイ・ロスマン氏がYouTube動画で告発したもので、店舗でQRコードを読み取らせるプロセスなどが悪用されたと指摘されています。",
-   "category": "サービス・アプリ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "00caa9262223ea66",
-   "url": "https://iphone-mania.jp/mac-608496",
-   "title_original": "macOS27.3でフルディスクアクセスの許可方法が変わる？",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/09/2c7f44faf3affaab4b0bd8cb5170c077.png",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T02:58:02+00:00",
-   "title_ja": "macOSの「フルディスクアクセス」許可方法変更か、コード解析で判明",
-   "summary_ja": "Appleが10月に方針を示していたMacの「フルディスクアクセス」権限の厳格化について、具体的な変更内容が明らかになりました。コード解析者の報告によると、早ければmacOS27.3から、アプリがアクセス権限の許可候補として自動表示される仕組みが変わる可能性があります。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7f7715b12455d39f",
-   "url": "https://iphone-mania.jp/apple-608493",
-   "title_original": "Siri AIは2027年に自律型へ？Appleの次の一手を考える",
-   "source": "iPhone Mania",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/09/f24c7729e1459e9cff083d81fccdb22f.png",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T02:40:36+00:00",
-   "title_ja": "SiriのAIは2027年に自律型エージェント化か、ガーマン記者が報道",
-   "summary_ja": "SiriのAI機能が、早ければ2027年にも自律型の「エージェント」へと進化する可能性があると報じられました。これは記者のマーク・ガーマン氏が言及した見通しであり、Appleによる正式発表ではありません。自律型への進化に向けた今後の動向が注目されます。",
-   "category": "噂・リーク",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b768cd951d27f828",
-   "url": "https://applech2.com/archives/20261109-mac-performance-monitor.html",
-   "title_original": "Macのパフォーマンス履歴表示やAIによるパフォーマンス低下の原因診断が可能なオープンソースのシステムモニタアプリ「Mac Performance Monitor」。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2026/11/Mac-Performance-Monitor-logo-icon.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T02:29:45+00:00",
-   "title_ja": "Mac向けシステムモニタ「Mac Performance Monitor」が登場",
-   "summary_ja": "Macのパフォーマンス履歴の確認や、AIを活用したパフォーマンス低下の原因調査が可能なオープンソースアプリ「Mac Performance Monitor」が公開されました。CLIやMCPにも対応しており、Macの動作状態を詳細に分析して管理できます。",
-   "category": "サービス・アプリ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "1bf7a84a50d6f3b7",
-   "url": "https://applech2.com/archives/20261109-amazon-macbook-pro-m5-pro-smile-sale.html",
-   "title_original": "Amazonスマイルセールで、Apple M5 Proチップを搭載したMacBook Pro (14インチ, M5 Pro)がタイムセール中。",
-   "source": "AAPL Ch.",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://applech2.com/wp-content/uploads/2023/11/MacBook-Pro-14-inch-M3-2023-logo-icon.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T00:59:43+00:00",
-   "title_ja": "AmazonセールでM5 Pro搭載の14インチMacBook Proが特価に",
-   "summary_ja": "Amazonスマイルセールにて、AppleのM5 Proチップを搭載した14インチMacBook Proがタイムセールの対象となっています。最新プロセッサを搭載したパフォーマンスの高いモデルを、特別価格で購入できる機会となっています。",
-   "category": "Mac",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "9d1a215561e756c8",
-   "url": "https://gori.me/sale/peripheral-sale/172196",
-   "title_original": "Anker 45W充電器が2,790円に下落……過去最安値級、向き調整プラグ搭載",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/04/AnkerNanoCharger_45W_diisplay_SwingPlug-Review-16-800x534.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T00:16:51+00:00",
-   "title_ja": "Ankerの45W急速充電器が過去最安値級の2,790円に値下げ",
-   "summary_ja": "Amazonにて、Ankerの45W充電器「Anker Nano Charger」が通常価格から30％オフの2,790円で販売中だ。プラグの向きを変更できるスイングプラグ構造や小型ディスプレイを搭載しており、iPhoneの急速充電にも活用できる。",
-   "category": "iPhone",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "04fc977d54f0a770",
-   "url": "https://gori.me/sale/peripheral-sale/172198",
-   "title_original": "運動しやすい季節に。NOMADスポーツバンドが46％オフの5,491円",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/11/1794182951125-NOMAD-Sportsband-V2-sale-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-09T00:15:38+00:00",
-   "title_ja": "NOMADのApple Watch用スポーツバンドが46％オフで販売中",
-   "summary_ja": "Amazonのスマイルセールにて、NOMADの「スポーツバンドV2」が通常価格から46％オフの5,491円で販売されている。Apple Watchの42/44/45/49mmモデルに対応し、防水性と通気性に優れたFKM素材を採用している。限定14点の出展となる。",
-   "category": "Apple Watch・ウェアラブル",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "7146cdef8ab1da73",
-   "url": "https://gori.me/sale/peripheral-sale/172195",
-   "title_original": "iMacが9.6万円オフ、MacBook Proが8.9万円オフ。今が狙い目のApple製品4つ",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/11/1794175915617-Apple-Products-are-on-sale-800x450.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-08T22:30:07+00:00",
-   "title_ja": "AmazonでM4搭載iMacやMacBook Proなどが大幅値下げ",
-   "summary_ja": "Amazonにて、M4搭載iMacやMacBook Pro、iPad Pro、Apple Watch Ultra 3などのApple製品が1万円以上の大幅値引き対象となっている。中でもiMac（M4）とAppleCare+のセットは、最大9万6,480円引きの295,120円で購入可能だ。",
-   "category": "Mac",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "09dae8cebc30e6f6",
-   "url": "https://gori.me/ios/ios-news/172192",
-   "title_original": "iOS 28、開発プロセスを変更。コーディング期間を6週間に延長、社員からは好評",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/06/Shotoniphone-wwdc26-03-800x582.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-08T21:55:44+00:00",
-   "title_ja": "Apple、iOS開発プロセスを変更。コーディング期間を6週間に延長",
-   "summary_ja": "AppleがiOSなどの開発プロセスを変更したことが報じられた。従来は4週間ずつだったコーディングと調整の期間を、初期段階のみ6週間と2週間に再編している。アイデアを深める時間が増えたとして、社内からは好意的に受け止められている。",
-   "category": "ソフトウェア・OS",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2d277a41af15d7b9",
-   "url": "https://gori.me/apple/apple-news/172191",
-   "title_original": "Siri、2027年にもエージェント化へ。dots・Museのような自律AIを検討",
-   "source": "gori.me",
-   "lang": "ja",
-   "region": "jp",
-   "image": "https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-341-800x534.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-08T21:45:39+00:00",
-   "title_ja": "Siriを自律型AIエージェントへ進化させる計画、2027年実現か",
-   "summary_ja": "AppleがSiriを自律的に目標を遂行するAIエージェントへ変更する計画を検討中だと報じられた。早ければ2027年の実現を目指しており、他社の先端AIモデルに近い仕組みを目指している。幹部間でも開発を加速させる動きが見られる。",
-   "category": "AI",
    "importance": 3,
    "has_detail": true
   }
