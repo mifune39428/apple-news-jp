@@ -1,0 +1,20 @@
+{
+ "id": "6b6fd183ff08b948",
+ "title_ja": "Office for Mac最新版、要件をmacOS Sequoia以降に変更",
+ "summary_ja": "Microsoftは「Microsoft 365/Office for Mac v16.115」を公開し、140件の脆弱性を修正した。あわせて動作要件を変更し、サポート対象をmacOS 15 Sequoia以降に限定したため、macOS 14 Sonomaは非サポートとなった。",
+ "points": [
+  "Microsoft 365/Office for Macのv16.115がリリース",
+  "システム要件がmacOS 15 Sequoia以降に変更される",
+  "Appleがセキュリティを終了したmacOS 14 Sonomaが非サポートに",
+  "合計140件の脆弱性が修正されておりアップデートが推奨される"
+ ],
+ "body": "Microsoftは、「Microsoft 365」および「Office for Mac」のバージョン16.115をリリースし、動作に必要なシステム要件を変更した。今回のアップデートにより、利用可能なOSの条件が引き上げられ、Appleが最新のセキュリティアップデートを提供している「macOS 15 Sequoia」以降が必須となった。これにより、すでにサポートが終了した「macOS 14 Sonoma」はシステム要件から外れ、非サポートの環境となった。\n\n同社は以前より、Office for Macのサポート範囲をAppleがセキュリティアップデートを提供する最新の3つの主要なmacOSバージョンに限定する方針をとっている。今回の仕様変更もその方針に沿ったものであり、古いOS環境の切り捨てが進められている形だ。そのため、今後もMacでMicrosoft 365やOffice製品の最新機能やアップデートを受け取るには、macOS 15 Sequoia以降を搭載した端末環境が必要となる。\n\nなお、バージョン16.115のアップデートでは、CVEベースで過去最多となる合計140件もの脆弱性が修正されている。セキュリティリスクを回避するためにも、要件を満たすユーザーは速やかなアップデートが推奨されるが、非サポートとなった古いmacOS環境をそのまま使い続けることは安全性の観点から非常にリスクが高まるため、注意が必要である。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261114-microsoft-365-and-office-2024-no-longer-support-macos-14-sonoma.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2025/10/Microsoft-365-2025-Excel-logo-icon.webp",
+ "published": "2026-11-14T02:11:24+00:00"
+}

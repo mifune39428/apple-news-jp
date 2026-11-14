@@ -1,0 +1,19 @@
+{
+ "id": "cea90a007dbef1f8",
+ "title_ja": "iOS 27.2でCarPlayに2つの機能改善が導入",
+ "summary_ja": "先月配信されたiOS 27.2には、メッセージやApple TV向けの新機能に加えて、CarPlayにおける2つの改善点が含まれている。ドライバー向けの機能向上を図るアップデートの詳細について解説されている。",
+ "points": [
+  "iOS 27.2でCarPlayに関する2つの改良点が提供された",
+  "ポッドキャストアプリが刷新され新着と続きの再生が追加",
+  "Siri AIのアップグレードが車内でも利用可能になった"
+ ],
+ "body": "先月に配信が開始されたiOS 27.2では、メッセージやApple TVなどの新機能に加えて、CarPlayに関連するいくつかの改良が含まれている。今回のアップデートにより、車載ディスプレイでの利便性やエンターテインメント体験が向上していることが伝えられている。\n\nポッドキャストアプリではホームタブが刷新され、「New Episodes」と「Continue Playing」という2つのセクションが新たに追加された。これにより、お気に入りの番組の最新エピソードが探しやすくなったほか、途中で中断したエピソードの再生をスムーズに再開できるよう機能の見直しが行われている。\n\nまた、iOS 27.2で導入されたSiri AIの様々なアップグレードのうち、いくつかの機能がCarPlay環境でも利用できるようになっている。iPhoneと同様に車内でも高度なアシスタント機能が活用できるため、運転中の操作において有用なアップデートとなっていると報じられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/13/ios-27-2-has-two-carplay-improvements-heres-whats-new",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-13T15:59:49+00:00"
+}
