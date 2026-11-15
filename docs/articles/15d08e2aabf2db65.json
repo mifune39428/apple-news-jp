@@ -1,0 +1,20 @@
+{
+ "id": "15d08e2aabf2db65",
+ "title_ja": "iOS版「Gemini Notebook」が無料教科書を追加しiPhone Duo対応",
+ "summary_ja": "GoogleのiOS向けAIリサーチツール「Gemini Notebook」がアップデートされました。OpenStaxなどの数百冊におよぶ無料教科書コンテンツが新たに追加されたほか、iPhone Duoの画面環境への最適化およびサポートが行われています。",
+ "points": [
+  "iOS向けGemini Notebookがバージョン1.67.7にアップデートされた",
+  "OpenStaxなどの数百冊の無料教科書を直接追加して活用できるようになった",
+  "信頼できる情報源を活用するExpert Intelligenceの一環として提供されている",
+  "折りたたみ式iPhone Duoのインナーディスプレイ表示に最適化された"
+ ],
+ "body": "Googleは、AIリサーチツール「Gemini Notebook」のiOS版をバージョン1.67.7へアップデートしたと発表している。今回のアップデートにより、アプリ内から直接数百冊の無料教科書を検索してノートブックに追加できる機能が追加された。これを利用して、教科書の内容について質問したり、自分のノートと比較したり、学習ガイドを作成したりすることが可能になっているとされる。\n\n追加された教科書は、オープンライセンスのOpenStaxやOpen Textbook Library、インドの教育出版社であるS Chand Publishingなどの提供によるものであり、Googleが推進する信頼できる情報源や専門知識を横断して活用する「Expert Intelligence」の一環として組み込まれていると伝えられている。これにより、ユーザーは手軽に学習資料をリサーチに取り入れられるようになるとみられている。\n\nさらに、今回のバージョンでは折りたたみ式とされるiPhone Duoへのサポートも強化されている。すでに過去のバージョンでドラッグアンドドロップ操作に対応していたが、今回の最適化により、インナーディスプレイを広げたり回転させたりすることで、読書やチャットを行うための画面スペースをより広く有効活用できるようになっていると報じられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261115-gemini-notebook-textbooks-and-iphone-duo-support.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "AI",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/07/Gemini-Notebook-for-iPhone-logo-icon.webp",
+ "published": "2026-11-15T04:59:47+00:00"
+}

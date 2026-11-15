@@ -1,0 +1,20 @@
+{
+ "id": "4c79e08066014b48",
+ "title_ja": "Mac向け2D CAD「AutoCAD LT」1年版がコード利用で159ドルに",
+ "summary_ja": "Macに対応する2D CADソフト「AutoCAD LT」の1年サブスクリプションが、コード適用で159.20ドルになるセールが開催されています。Intel MacおよびApple Silicon搭載Macの両方で動作し、最新のmacOS Sequoiaにも対応しています。",
+ "points": [
+  "Mac向けAutoCAD LTの1年版がセール中",
+  "クーポンコード適用で159.20ドルに割引",
+  "IntelおよびAppleシリコンのMacに対応",
+  "DWG形式でWindows環境とも互換性を維持"
+ ],
+ "body": "Macで2D設計図を作成できるAutodeskのソフトウェア「AutoCAD LT」の1年版サブスクリプションが、割引価格で提供されている。通常価格は540ドルのところ、指定のクーポンコード「DEAL20」を適用することで159.20ドルで購入可能となっている。このセールはアプリおよびソフトウェアの割引キャンペーンの一環として実施されている。\n\n動作環境としては、macOSのVentura、Sonoma、Sequoiaに対応しており、インテル製プロセッサを搭載したMacだけでなく、Appleシリコンチップを搭載したMacでもネイティブで動作する。作成した図面はWindows環境でも使用される一般的なDWGファイル形式で保存されるため、クライアントや協力会社とのデータ互換性の問題や変換の手間が発生しない。また、デスクを離れている際には、ウェブブラウザやモバイル端末から図面を開いて確認することもできる。\n\n業務効率化のための機能も多数搭載されており、繰り返し描画するオブジェクトを自動で認識して再利用可能なブロックにする「Smart Blocks」や、手作業で行うタスクを自動化する「AutoLISP」が用意されている。さらに、修正作業の際には「DWG Compare」によって変更点を視覚的に比較でき、「Trace」機能を使えば元のファイルを保護したままレビューアーが直接マークアップを行える。クラウドを介したコラボレーションやAIによるサポート機能も備わっており、新規および既存のAutodeskユーザーのどちらでも利用可能となっている。この特別価格での提供は、太平洋時間の11月15日23時59分までとなっている。",
+ "source": "Macworld",
+ "url": "https://www.macworld.com/article/3284394/get-a-year-of-autocad-lt-for-your-mac-for-159-with-this-code.html",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284394-0-13793300-1794729659-AutoCAD-LT.jpg?quality=50&strip=all",
+ "published": "2026-11-15T08:00:00+00:00"
+}
