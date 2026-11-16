@@ -1,0 +1,20 @@
+{
+ "id": "afa352abe2040299",
+ "title_ja": "Microsoft、プレゼン補助アプリ「Sysinternals ZoomIt」をMac向けに公開",
+ "summary_ja": "MicrosoftがWindows向けに提供していたプレゼンテーション補助アプリ「Sysinternals ZoomIt」をMac用に移植し、Mac App Storeでリリースした。画面の拡大や描画などの便利な機能をMac環境でも利用できるようになる。",
+ "points": [
+  "Microsoftがプレゼン補助アプリ「ZoomIt」のMac版をストアで公開。",
+  "AIを活用してMacへ移植され、GitHub版と同等の最新環境を提供。",
+  "画面の拡大表示機能や画面上へのフリーハンド描画機能を搭載。",
+  "macOS 14 Sonoma以降に対応し、ストアから無料で入手可能。"
+ ],
+ "body": "Microsoftは、Windows向けに提供されてきたプレゼンテーション補助アプリケーション「Sysinternals ZoomIt」のMac版を、Mac App Storeにて正式にリリースした。このツールは、Sysinternalsユーティリティの開発者であり、現在はMicrosoft Azureの最高技術責任者（CTO）を務めるMark Russinovich氏が1996年からWindows向けに開発を続けてきたものである。同氏がAI技術を活用することによってMac環境への移植を実現させ、まずはオープンソースソフトウェアとして公開が行われていた。今回、その移植版がMac App Storeを通じて手軽に入手できる環境が整ったことになる。\n\nMac App Storeで配信が開始されたZoomItのバージョンは12.3.xであり、先行してGitHub上で公開されていたバージョンと同等の機能を有している。Mac上で本アプリの機能をフルに活用するためには、システム設定から画面収録の権限をアプリに付与する必要がある。権限を与えることで、プレゼンテーションやデモンストレーションの最中に画面の特定の領域を大きく表示する拡大ツール「Zoom」機能や、表示されている画面上にフリーハンドで直接文字や図形を書き込むことができる描画ツール「Draw」機能など、Windows版で提供されてきた利便性の高い機能群がMac上でも動作するようになる。\n\nSysinternals ZoomItの動作に必要なシステム要件は、macOS 14 Sonoma以降のオペレーティングシステムとなっている。ハードウェア面ではIntelプロセッサを搭載したMacと、Apple Siliconを搭載したMacの双方がサポートされている。アプリケーション自体のファイルサイズは3.7MBと軽量であり、ストレージ容量を圧迫することなく導入が可能だ。Mac App Storeから誰でも無料で入手することができるため、普段からMacを使ってプレゼンテーションや画面共有を伴う説明作業を行うユーザーにとって、有用な選択肢となる。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261116-microsoft-sysinternals-zoomit-mac-app-store.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/08/Microsoft-Sysinternals-ZoomIt-for-Mac-logo-icon.webp",
+ "published": "2026-11-16T11:51:20+00:00"
+}
