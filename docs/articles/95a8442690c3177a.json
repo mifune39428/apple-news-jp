@@ -1,0 +1,20 @@
+{
+ "id": "95a8442690c3177a",
+ "title_ja": "中国のApple Intelligence、ベータ版がiPadとMacにも拡大",
+ "summary_ja": "中国市場向けに提供されているApple Intelligenceのベータテストが、iOSの最新ベータ版に続きiPadOSとmacOSでも利用可能になった。正式リリースに向け、対応デバイスの範囲が順次拡大されている。",
+ "points": [
+  "中国におけるApple Intelligenceのベータテストが拡大",
+  "iPadOSおよびmacOSの27.3ベータ2で対応を確認",
+  "Siriなどの高度な機能は含まれず初期機能を提供",
+  "AlibabaのQwenモデルが一部機能を駆動"
+ ],
+ "body": "Appleは中国市場に向けて展開しているApple Intelligenceのベータテスト対象を、iPhoneからiPadおよびMacへと拡大していると報じられている。度重なる規制当局との協議を経て、先に関係機関での登録を完了したことが伝えられていたが、新たに配信が始まったiPadOS 27.3およびmacOS 27.3の各開発者向けベータ第2版において、同国での対応が確認された形となっている。これに先立ち、iPhone向けにはiOS 27.3の初期ベータですでに実装が進められており、正式リリースに向けた準備が着実に進められている。\n\nただし、中国国内で提供される機能範囲には制限が設けられており、WWDCで発表された次世代のSiriなどのAI機能は今回のベータ版には含まれていないとされている。その代わりに、文章作成ツールやGenmoji、ライブ翻訳、通知の要約といった初期から存在する機能を利用することが可能となっている。また、これらの機能の一部は、中国国内の規制や環境に対応するため、アリババのQwenモデルを基盤として動作する仕組みを採用していると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 4,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27-02.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-16T21:38:55+00:00"
+}

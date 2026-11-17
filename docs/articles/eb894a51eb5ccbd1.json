@@ -1,0 +1,19 @@
+{
+ "id": "eb894a51eb5ccbd1",
+ "title_ja": "Apple、各OSの開発者向けベータ2を配信開始",
+ "summary_ja": "Appleが各OSの開発者向けベータ2を配信した。今回のバージョンでは、Dynamic Island非搭載のMacでもライブアクティビティの表示に対応している。正式版は12月にリリースされる予定。",
+ "points": [
+  "iOS 27.3などの開発者向けベータ2が配信された",
+  "新型とみられるMacBook Pro向けの新機能が確認された",
+  "ベータ1からの新機能や条件は引き続き引き継がれている"
+ ],
+ "body": "Appleは開発者向けに、iOS 27.3やiPadOS 27.3、macOS Golden Gate 27.3、watchOS 27.3、tvOS 27.3、visionOS 27.3のベータ2を配信した。最初のベータ版公開から約2週間後のタイミングとなっており、Siri AIの対応アプリ拡大やiPhone DuoのReachability機能などが引き続き搭載されているほか、iPhone Duo向けの簡易Face IDといった新しい機能もいくつか実装されていることが確認されている。今回のベータ2は現時点で開発者向けのみの提供となっており、利用するにはApple Developer Programへの登録と設定からの有効化が必要となる。\n\n今回のアップデートでは、新型とみられるPROLED MacBook Proに関する変更も含まれている。これに関連して、Dynamic Islandを搭載していないMac環境であっても、ネイティブでのLive Activities表示に対応する仕様変更が加えられたと報じられている。ただし、このPROLED MacBook Pro自体の詳しい仕様や具体的な発売時期については、Apple公式からはまだ一切発表されていない。\n\nこのほかにも、ベータ1から導入されている便利な機能の数々が引き続き利用可能となっている。Safariのタブを左側に縦並びで表示するVertical Tabsや、ダークモード時にWebサイトを自動で暗くするAdaptive Dark Modeなどが試せるほか、Apple Watch Series 12およびUltra 4向けのLive RewindやSiri Recapも含まれている。これらの一部の機能は、引き続き英語のみの対応であり、ペアリングするiPhoneが16以降である必要があるなどの利用条件が維持されている。",
+ "source": "gori.me",
+ "url": "https://gori.me/ios/ios-news/172622",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://gori.me/uploads/2026/11/1794861016736-ios27_3-Beta-updates-800x500.jpg",
+ "published": "2026-11-16T20:42:09+00:00"
+}
