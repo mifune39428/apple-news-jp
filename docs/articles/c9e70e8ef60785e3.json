@@ -1,0 +1,20 @@
+{
+ "id": "c9e70e8ef60785e3",
+ "title_ja": "Apple Creator Studioに多彩なAIツールが追加",
+ "summary_ja": "Final Cut ProやLogic Proなどを含むApple Creator Studioが大幅にアップデートされた。多数の新AIツールが統合され、クリエイター向けの機能が強化されている。",
+ "points": [
+  "Apple Creator Studioの大規模アップデートが配信開始",
+  "Final Cut ProにMotionVFXや新機能が統合",
+  "Pixelmator ProやLogic ProにAI機能を追加",
+  "iWorkアプリにAIアシスタントとMCP対応を導入"
+ ],
+ "body": "Appleのクリエイティブ・生産性アプリのサブスクリプションバンドルであるApple Creator Studioに対し、多数の新機能やAIを活用した機能を含む大規模なアップデートの提供が開始された。既存のサブスクリプション登録者は追加料金なしで利用でき、新規の場合は月額12.99ドルまたは年額129ドルで利用できる。動画編集から音楽制作、文書作成まで幅広いアプリが強化されている。\n\n動画編集アプリのFinal Cut Proでは、数千種類のエフェクトやテンプレートを提供するMotionVFXが統合され、コンテンツハブを通じた素材の利用が可能になった。また、タイムライン上の画像をPixelmator Proへ直接送って再インポートなしで編集できる連携機能や、文字起こし言語の追加なども盛り込まれている。音楽制作のLogic Proには、ブラウザの再設計やドラムの分離に対応したStem Splitter、ベータ版のAIアシスタントなどが導入された。\n\nKeynote、Pages、NumbersのiWorkアプリ群には、文書作成やデータ分析などをサポートするベータ版のAIアシスタントが追加された。さらにモデルコンテキストプロトコルへの対応により、外部のAIツールがこれらのアプリと連携してタスクを自動化できるようになる。画像編集のPixelmator Proには、自然言語の指示で画像の一部を生成・変更できる機能が新たに追加されている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/news/apple-creator-studio-gets-major-ai-upgrade-with-new-creative-tools",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Final-Cut-Pro-for-Mac-MotionVFX_01.jpg.webp",
+ "published": "2026-11-18T19:35:29+00:00"
+}

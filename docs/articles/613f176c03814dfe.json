@@ -1,0 +1,19 @@
+{
+ "id": "613f176c03814dfe",
+ "title_ja": "Apple、Safari Technology Preview 257を配信",
+ "summary_ja": "Appleは、将来のSafariに導入される新機能をテストするための実験的ブラウザ「Safari Technology Preview 257」をリリースした。今回のアップデートでは、CSSやJavaScript、セキュリティなど多岐にわたるバグ修正とパフォーマンス改善が行われている。",
+ "points": [
+  "Appleが実験的ブラウザの最新版「Safari Technology Preview 257」をリリース",
+  "アニメーションやCSS、JavaScriptなどの幅広い分野でバグ修正や性能改善を実施",
+  "最新のmacOS環境に対応し、開発者アカウントなしで誰でもダウンロードして利用可能"
+ ],
+ "body": "Appleは、将来のSafariへの搭載を見据えた実験的ブラウザ「Safari Technology Preview」の最新アップデートとなるバージョン257をリリースした。このブラウザは開発者や一般ユーザーからフィードバックを集めることを目的に提供されており、既存のSafariと並行してインストールして使用することができる。利用にあたって開発者アカウントは不要となっている。\n\n今回のバージョン257では、アニメーション、CSS、JavaScript、セキュリティ、WebGPUなど多岐にわたる分野で不具合の修正やパフォーマンスの改善が行われた。これにより、ウェブ標準技術のサポートやブラウザ全体の安定性が高められている。\n\n動作環境としては、最新のmacOSに対応している。すでにブラウザをインストールしているユーザーであれば、システム設定（またはシステム環境設定）のソフトウェア・アップデート経由で最新版を入手することが可能であり、公式サイトでも詳細なリリースノートが公開されている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+ "published": "2026-11-18T23:15:24+00:00"
+}
