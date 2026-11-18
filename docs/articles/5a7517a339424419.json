@@ -1,0 +1,20 @@
+{
+ "id": "5a7517a339424419",
+ "title_ja": "Microsoft、iPhone Duo対応のOneDriveを配信",
+ "summary_ja": "MicrosoftはiPhone Duoをサポートした「OneDrive」アプリをリリースした。デバイスのディスプレイを最大限に活用し、ファイルプレビューを快適に行える機能が追加されている。",
+ "points": [
+  "MicrosoftがOneDriveの最新版v26.2.2をリリース",
+  "新端末「iPhone Duo」の独自デザインに対応",
+  "インナーディスプレイでのファイルプレビューが最適化",
+  "WordやExcelなどの文書もフルサイズで表示可能"
+ ],
+ "body": "Microsoftは現地時間2026年11月17日、クラウドストレージサービス「Microsoft OneDrive」のiOS向けアプリをバージョン26.2.2にアップデートしたと発表した。今回のアップデートでは、新しく販売が開始された「iPhone Duo」の独自デザインを最大限に活かすための機能刷新が行われている。ファイルや写真の閲覧・管理方法が改善され、より快適な操作が可能になった。\n\n具体的には、iPhone Duoのインナーディスプレイ表示への最適化が図られている。これにより、写真のフルサイズ表示だけでなく、すでに最適化されているWordやExcel、PowerPointといったOffice系アプリと同様に、各種Officeドキュメントをフルサイズでプレビューできるようになった。iPhone Duoを利用しているMicrosoftユーザーにとって、日々の作業効率を高める注目のアップデートとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261118-microsoft-onedrive-support-iphone-duo.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/02/OneDrive-for-Mac-Tahoe-logo-icon.webp",
+ "published": "2026-11-17T22:21:34+00:00"
+}

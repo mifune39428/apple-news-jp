@@ -1,0 +1,20 @@
+{
+ "id": "9b1c0a47d015cc5f",
+ "title_ja": "米iOS向けにGoogleウォレットの提供が開始",
+ "summary_ja": "米国内のiPhone向けにGoogleウォレットアプリの提供が始まった。店頭でのタッチ決済には非対応だが、オンライン決済やチケット、会員証の管理、Gmailとの連携機能を利用できる。",
+ "points": [
+  "Google Walletが米国のiOS向けに提供開始される",
+  "実店舗でのタッチ決済には非対応でApple Walletの代替となる",
+  "オンライン決済や各種パス、荷物追跡などの機能を利用できる",
+  "Appleとの商用契約や手数料がタッチ決済未対応の背景にあるとみられる"
+ ],
+ "body": "Googleは、米国内のiOSユーザーに向けてGoogle Walletの提供を開始したと発表した。これにより、各種Googleサービスでの支払い管理などがiPhone上でも可能になる。ただし、実店舗での非接触によるタッチ決済には対応しておらず、その点ではApple Walletの完全な代替とはならないものの、オンラインチェックアウト時の支払いカードの保存や、Gmailなどと連携した荷物の追跡機能などを利用できる。\n\nApple Walletと同様に、ポイントカードやジムの会員証などをアプリ内に追加して物理カードを持ち歩かないようにすることが可能となっている。さらに、Googleのサービス全体で行われる購入に関して、注文確認やレシート、配送状況の更新などに簡単にアクセスできるようになるとGoogleは説明している。\n\nなお、iOS 18.1以降ではサードパーティ製アプリによるNFC非接触決済が許可されているものの、利用にはAppleとの商用契約が必要となる。これがGoogle Walletでタッチ決済が実装されていない理由である可能性が指摘されており、今後Googleが手数料を支払って対応を追加する余地はあるとみられている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/17/google-wallet-iphone",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://images.macrumors.com/article-new/2026/11/google-wallet-ios.jpg",
+ "published": "2026-11-17T18:19:39+00:00"
+}
