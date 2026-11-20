@@ -1,0 +1,19 @@
+{
+ "id": "e0186e2904ef34a3",
+ "title_ja": "OpenAIの「ChatGPT Health」機能がMacアプリなどに対応拡大へ",
+ "summary_ja": "OpenAIは、テスト運用を経て今夏に再始動した「ChatGPT Health」機能を、さらに多くのプラットフォームへ拡大する計画です。今後はMac用アプリをはじめとする各種環境で本機能が利用可能になり、対応範囲がさらに広がります。",
+ "points": [
+  "ChatGPT Healthがより多くのプラットフォームへ拡大する見込み",
+  "ユーザーの許可を得てApple Healthや医療記録と連携する機能",
+  "新たにMacアプリやAndroid、デスクトップ版などに対応へ"
+ ],
+ "body": "OpenAIが提供する「ChatGPT Health」機能が、今後より多くのプラットフォームへ拡大すると報じられている。この機能は、ユーザーの許可を得た上でApple Healthや対応する医療記録と連携し、健康に関する質問に対して有用な文脈を提供する仕組みとなっている。現在はアメリカ国内において、iPhone、iPad、およびウェブ版で利用できる状態となっている。\n\nしかし、OpenAIによる最近の通知から、同機能がさらに多くの環境へ展開される予定であることが明らかになっている。具体的には、これまでのモバイルおよびウェブ中心の展開から初めてデスクトップ版のChatGPTにも対応し、Macアプリでも利用できるようになるとされている。さらに、Androidや「ChatGPT Sites」、そして能動的なアシスタント機能である「ChatGPT Dots」などへの対応も予定されていると報じられている。\n\nこの動きは、かつてモバイルとウェブに限定されていた「ChatGPT Finances」が最近になってMacアプリにも対応した際と同様の展開パターンに沿ったものとなっている。これにより、デスクトップ環境でも睡眠パターンやワークアウトの記録などを分析できるようになり、より幅広いデバイスから健康管理に関するサポートを受けられるようになると伝えられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 2,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-19T22:43:20+00:00"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "776f5abe5fb88ecb",
+ "title_ja": "macOSの最新RC版が提供開始",
+ "summary_ja": "Appleは、開発者およびパブリックベータテスター向けにmacOS Sequoia 15.8.4およびmacOS Tahoe 26.7.4のリリース候補版（RC）の提供を開始した。順調にいければ正式リリースに向けた最終段階となる。",
+ "points": [
+  "macOS Sequoia 15.8.4とmacOS Tahoe 26.7.4の初版RCが配信",
+  "開発者向けに続きパブリックベータテスター向けにも提供開始",
+  "アップデート内容はMacのセキュリティ修正と案内されている"
+ ],
+ "body": "Appleは、macOS Sequoia 15.8.4およびmacOS Tahoe 26.7.4の最初のリリース候補版（RC）を配信開始した。これらは開発者向けに提供された後、同じビルド番号でパブリックベータテスター向けにも展開されている。直近では数週間前にセキュリティ修正を含むバージョンがリリースされていたが、それに続く形で今回のRC版の登場となった。\n\n今回のRC版のビルド番号は、macOS Sequoia 15.8.4が24H319、macOS Tahoe 26.7.4が25G422となっている。Appleによる公式の案内では、これらのアップデートは「Macのセキュリティ修正」を提供するものとされており、具体的な詳細については、今後数週間で正式版がリリースされた後に公開される見通しである。また、これらと同時にmacOS 27.3の2回目のベータ版も展開されている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-19T21:48:30+00:00"
+}
