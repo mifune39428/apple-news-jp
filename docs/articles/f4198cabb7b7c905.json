@@ -1,0 +1,19 @@
+{
+ "id": "f4198cabb7b7c905",
+ "title_ja": "OpenAI、ChatGPT Plusで「ドット」機能のテストを開始",
+ "summary_ja": "OpenAIは、上位プラン向けに展開していた機能のテスト範囲を広げ、一部のChatGPT Plus加入者を対象にChatGPTドットの検証を開始した。利用者の拡大によって使い勝手の検証が進められている。",
+ "points": [
+  "OpenAIが「ChatGPT dot」のテストをPlusプランの一部ユーザーへ拡大",
+  "同時にChatGPT Business Standardの全ユーザーへも提供を開始",
+  "GPT-6 AstraやTerraを搭載し、iOSウィジェット等にも対応"
+ ],
+ "body": "OpenAIは、バックグラウンドで自律的にタスクをこなす常時接続型のアシスタント機能「ChatGPT dot」の提供範囲を拡大し、一部のChatGPT Plusサブスクライバーを対象としたテストを開始したと報じられている。これまでは上位プランや企業向けプランを中心に提供されていたが、今回の動きにより利用できるユーザー層が広がりを見せている。あわせて、ChatGPT Business Standardの全ユーザーを対象にした展開も始まっている。\n\n「ChatGPT dot」は、ユーザーが直接操作していない時間帯でもプロジェクトを進めたり、連携したアプリを横断して作業したりできる機能として昨年9月に発表された。GPT-6 Astraや、今月初めに追加されたGPT-6.1 Terraなどのモデルを搭載しており、専用のクラウド環境で24時間365日動作するとされている。これまでに、iOSウィジェットやショートカットへの統合、iMessageやAndroidのRCSを通じたやり取り、カスタム指示機能などが順次追加されてきた。\n\n今回のテスト拡大により、PlusおよびBusiness Standardのユーザーもこの自律型アシスタントを利用できるようになるが、上位プランと同様の利用制限が適用されるかどうかや、個別の追加制限が設けられるのかどうかについては、現時点では明確になっていない。今後のロールアウトの進展に伴い、詳細が明らかになるとみられている。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access",
+ "lang": "en",
+ "region": "global",
+ "category": "AI",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+ "published": "2026-11-19T23:47:30+00:00"
+}
