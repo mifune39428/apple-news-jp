@@ -1,0 +1,20 @@
+{
+ "id": "adfb65e69e549322",
+ "title_ja": "英国政府の要求でiCloud暗号化を制限と判明",
+ "summary_ja": "Appleがイギリス国内におけるiCloudの高度データ保護機能の新規制限について、英政府からの要請によるものだったことをようやく認めた。2025年2月に実施された制限の背景にある公式な事実が明らかになった。",
+ "points": [
+  "Appleが英国におけるiCloudの高度なデータ保護の制限を認めた",
+  "英国政府が捜査権限法に基づきバックドアの設置を要求していた",
+  "英国の裁判所が政府による秘密命令の公開を妥当と判断した",
+  "Appleは全世界のユーザーのプライバシーを守るため異議を唱えた"
+ ],
+ "body": "Appleが2025年2月に英国の新規ユーザーを対象として実施したiCloudの「高度なデータ保護（ADP）」機能の制限について、その背景に英国政府からの要求があったことが明らかになった。ADPはほとんどのiCloudデータを端末ベースのエンドツーエンド暗号化で保護する強力なプライバシー機能であり、2022年12月のリリース以来セキュリティを大きく向上させていた。しかし、2025年2月の変更時にはその理由が一切説明されていなかった。\n\nその後の報道により、英国政府が2016年捜査権限法に基づいてiCloudデータへのバックドア作成をAppleに要求し、同時にその事実の公表を禁じていたことが判明していた。これに対しAppleは、バックドアを構築する代わりに新規ユーザーに対するADPの提供を無効化するという対応をとっていた。英国の独立機関である調査権限 tribunal は、広く公に知られている事実についてAppleが議論できないのは馬鹿げているという見解を示した。\n\nAppleは、世界中のユーザーのプライバシーを脅かすことになった最初の広範な命令と、英国市民に範囲を絞った2つ目の命令の両方に対して異議を申し立てていた。一連の決定を受けて、同社は英国内務省による技術能力命令が出されていた事実が公表されたことを歓迎する旨を一部のメディアに表明している。",
+ "source": "Six Colors",
+ "url": "https://sixcolors.com/link/2026/11/finally-apple-can-reveal-the-uk-backdoor-demand",
+ "lang": "en",
+ "region": "global",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zaXhjb2xvcnMuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wNlwvY3JvcHBlZC02Yy0xLnBuZz9maXQ9NTEyJTJDNTEyJnNzbD0xIiwidHh0IjoiU2l4IENvbG9ycyIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNzU2Mjc2ODV9.3zPYMS7NdNDzu39zR3tvPULq5Z8L_9X76EcbPYfutjgMQ",
+ "published": "2026-11-20T19:59:45+00:00"
+}
