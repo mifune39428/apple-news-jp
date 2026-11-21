@@ -1,0 +1,20 @@
+{
+ "id": "e8ac3cb09a2d808b",
+ "title_ja": "【Apple歴史】1985年、MicrosoftにMacのUI模倣を認める合意",
+ "summary_ja": "1985年11月21日、AppleはMicrosoftとの間で歴史的な契約を締結しました。この合意により、Microsoft側へMacintoshの外観や操作感を模倣する権利が与えられることとなりました。その後の両社の関係やパーソナルコンピュータ市場に大きな影響を与えた出来事です。",
+ "points": [
+  "1985年11月21日、AppleとMicrosoftが歴史的な契約を締結",
+  "Macのルック＆フィールをMicrosoftにライセンス供与した",
+  "ビル・ゲイツとジョン・スカリーCEOの間で合意が交わされた",
+  "この決定がのちのAppleの苦境とMicrosoftの台頭を招いた"
+ ],
+ "body": "1985年11月21日、AppleはMicrosoftとの間で歴史的な方向転換となる契約を締結した。スティーブ・ジョブズが去ったのち、当時のCEOであるジョン・スカリーと、Microsoftの共同創業者であるビル・ゲイツによって結ばれたこの合意は、Macintoshのルック＆フィールをMicrosoftにライセンス供与するという内容であった。これはWindowsオペレーティングシステムがリリースされた直後の出来事であり、のちにAppleにとって致命的な判断として振り返られることになる。当時、前年に発売されたオリジナルMacintoshは期待されたほどの販売実績を上げておらず、ビル・ゲイツはMac向けにExcelやWordを提供していた重要な開発者でもあった。AppleはMac OSのサードパーティへのライセンス供与を拒否していたが、Microsoftに対してはソフトウェアの継続開発などを条件に妥協した形となった。\n\nこの契約により、MicrosoftはMacの技術を現在および将来のソフトウェアプログラムで使用する権利を獲得した。その見返りとして、MicrosoftはMac向けWordの開発継続に同意し、Windows向けExcelの登場を一定期間遅らせることに合意した。また、Microsoftのプログラム内の視覚的表示がAppleのLisaおよびMacintoshの派生物であると画面上で認めることなども取り決められた。しかし、ビル・ゲイツはWindowsがAppleと同様にゼロックスのPARCからインスピレーションを得たものであると主張しており、両社の認識には隔たりがあった。短期的には平和をもたらしたこの協定だが、結果としてAppleにとって苦難の1990年代を招く遠因となり、Microsoftのソフトウェア業界における圧倒的な支配への道を切り開くことになった。\n\n数年後にWindows 2.0が登場すると、当初のWindowsよりもさらにMacintoshのインターフェイスに酷似していることが問題視された。AppleはMicrosoftが多数のデザイン要素を不法にコピーしたと主張して法廷闘争に発展したが、裁判所は過去のライセンス契約が新しいバージョンのWindowsにも適用されるとの判断を下した。この和解や契約のルーズさが、結果的にAppleの独自性を揺るがす大きな火種となり、パーソナルコンピュータ市場における勢力図を大きく塗り替える歴史的な分岐点となった。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/apple-history/apple-microsoft-deal",
+ "lang": "en",
+ "region": "global",
+ "category": "その他",
+ "importance": 1,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2016/07/macvspc_80s-e1784986906965.jpg",
+ "published": "2026-11-21T14:25:34+00:00"
+}
