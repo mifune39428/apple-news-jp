@@ -1,0 +1,20 @@
+{
+ "id": "556743b5d0f9caeb",
+ "title_ja": "Mac用システムモニタ「SiliconScope」がアップデート、新表示に対応",
+ "summary_ja": "MacやLinuxのシステム状態を監視するアプリ「SiliconScope」の最新アップデートが配信された。新しいバーチャート表示やカードの非表示機能が加わったほか、macOS 27 Golden GateやMac Studio（M3 Ultra）への対応が行われている。",
+ "points": [
+  "システムモニタアプリSiliconScopeがv4.9.0にアップデート",
+  "リアルタイムのCPUやGPUなどの表示に新しいバーチャートを追加",
+  "不要なダッシュボードカードの非表示設定に対応",
+  "M3 Ultra搭載Mac StudioやmacOS 27 Golden Gateをサポート"
+ ],
+ "body": "MacやLinuxなどのシステムステータスを監視できるMac用アプリ「SiliconScope」が、バージョン4.9.0へアップデートされた。今回のアップデートでは、CPUやGPU、Neural Engineなどのリアルタイム使用率を表示するグラフが一新され、従来の折れ線グラフに代わって新しいバーチャートが導入されている。毎秒ごとのデータを高密度な棒グラフとして各パネルに表示し、中間値を補間していた従来方式よりも正確な使用率を確認できるようになっている。\n\n機能面では、設定画面や右クリックメニューから不要なネットワークやストレージなどのダッシュボードカードを非表示にするカスタマイズが可能になった。これにより、ユーザーが必要な情報だけをすっきりと表示できるよう改良されている。\n\nさらに、バージョン4.9.xの適用範囲として、M3 Ultraチップを搭載したMac Studioにおいて正しいCPUクロックや電力値が取得・表示されるように修正された。加えて、macOS 27 Golden Gateへのサポートも含まれており、環境に応じた最新のOSやハードウェアに対応するアップデートとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261122-siliconscope-suppot-ba-charts-and-hide-dashboad.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "ソフトウェア・OS",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/07/SiliconScope-v4-logo-icon.webp",
+ "published": "2026-11-22T05:35:34+00:00"
+}
