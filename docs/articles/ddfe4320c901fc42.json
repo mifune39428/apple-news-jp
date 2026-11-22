@@ -1,0 +1,21 @@
+{
+ "id": "ddfe4320c901fc42",
+ "title_ja": "Mac向け多機能ランチャー「Alfred v6」がリリース",
+ "summary_ja": "Mac用の定番多機能ランチャーアプリ「Alfred v6」がリリースされた。本バージョンでは、macOSネイティブUIを用いたワークフローが作成できる機能や、LLMを活用したワークフロー作成機能に対応した。さらに、macOS 27 Golden Gate向けに刷新された設定画面なども新たに実装されている。",
+ "points": [
+  "Mac用多機能ランチャーの最新版「Alfred v6」が正式リリース。",
+  "独自UIを構築できるツールキット「Alfred UI」が新たに導入。",
+  "ChatGPTやClaudeなどLLMを活用するワークフローを作成可能。",
+  "macOS 27向けに設定画面を刷新し連絡先やMarkdown検索を強化。",
+  "macOS 12以降に対応し、条件を満たす既存ユーザーは無償で移行可能。"
+ ],
+ "body": "Running with Crayonsは、2010年から開発を続けているMac向け多機能ランチャーアプリ「Alfred」のメジャーアップデート版となる「Alfred v6.0」を2026年11月18日にリリースした。本バージョンでは、macOSネイティブのUIツールキットである「Alfred UI」が新たに導入された。これにより、ユーザー自身がmacOSに馴染むインターフェイスを持った独自のワークフローを作成できるようになっている。この新機能を利用した具体例として、macOS 26 Tahoeで廃止されたLaunchpadの再現や、SF Symbolsを効率よく検索できるツールなどが公開されている。\n\nさらに、生成AIとの連携も強化されており、「Brain Outsourcing」と呼ばれるワークフローが提供される。OpenAIのChatGPT、AnthropicのClaude、GoogleのGeminiといった各種AIモデルのAPIキーを設定することで、大規模言語モデル（LLM）を活用した先進的な自動化処理をAlfred上から直接実行することが可能となった。また、macOS 27 Golden Gate向けに設定画面やWorkflow Editorの最適化が行われているほか、連絡先検索の改善、Markdown機能の強化、新たなカラーテーマの追加など、細部にわたる利便性の向上が図られている。\n\nアプリ自体は引き続き100% macOSネイティブアプリとして開発が進められており、DMGファイルのダウンロードサイズは7MB以下と軽量に抑えられている。対応するシステム要件はmacOS 12 Monterey以降が動作するIntel MacおよびApple Silicon搭載Macとなっている。利用料金は1ユーザーあたり40ポンド（日本円で約8,300円）だが、2026年中にPowerpackを購入したユーザーや、Mega Supporter、Legendary Supporterに該当するユーザーには無償でのアップデートが提供される。導入を検討しているユーザーに向けては、まず試すことができるトライアル版も提供されている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261123-alfred-6-now-availabe.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Alfred-6-logo-icon.webp",
+ "published": "2026-11-22T20:46:11+00:00"
+}
