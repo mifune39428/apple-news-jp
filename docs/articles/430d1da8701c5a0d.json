@@ -1,0 +1,20 @@
+{
+ "id": "430d1da8701c5a0d",
+ "title_ja": "OricoのコンパクトなThunderbolt 5ドック",
+ "summary_ja": "Orico製Thunderbolt 5ドックのレビュー記事。NVMeスロットをマグネット式のプレート裏に隠すことで、数秒でのSSD換装を可能にするユニークな設計を採用している。一部の領域では課題もある。",
+ "points": [
+  "工具不要でSSDを交換できるマグネット式カバーを搭載",
+  "Mac StudioやMac miniに合うコンパクトなアルミ製",
+  "3つのThunderbolt 5ポートやHDMIなどを装備",
+  "静かな部屋では内蔵ファンの駆動音が気になる場合がある"
+ ],
+ "body": "Oricoから登場した「Orico TB5 14-in-1」は、マグネット式のプレートを採用することで、工具を使わずに内蔵のNVMe SSDを素早く交換できるのが大きな特徴となっている。本体はシルバーのアルミニウム製でコンパクトな設計となっており、Mac StudioやMac miniの本体カラーとよく馴染む外観に仕上がっている。重量も軽く、デスク上のスペースを圧迫しないサイズ感が魅力となっている。\n\nポート類には3つのThunderbolt 5ポートをはじめ、HDMIとDisplayPort、SDカードリーダーなどが搭載されている。本体への給電は140Wに対応しており、MacBook Proをケーブル1本で十分に充電できる能力を備えている。一方で、付属する電源アダプターは大型であるため、足元などに配置する必要がある点や、一部のUSB-Aポートの間隔が狭く周辺機器が干渉しやすい点は注意が必要となる。\n\n実使用における気になる点として、静かな環境では内蔵ファンの駆動音がわずかに聞こえることが挙げられている。競合製品のなかにはファンがより静音なものも存在する。また、本体のSSDスロットは最大8TBのドライブに対応し最大6GB/sの速度を謳っているほか、複数台のモニター出力にも対応するなど、大容量ファイルのやり取りが多いユーザーにとって実用的なドックとなっている。",
+ "source": "Cult of Mac",
+ "url": "https://www.cultofmac.com/reviews/orico-tb5-14-in-1-thunderbolt-5-dock-review",
+ "lang": "en",
+ "region": "global",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/orico-tb5-dock.jpeg.webp",
+ "published": "2026-11-22T14:00:58+00:00"
+}

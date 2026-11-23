@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T07:56:57.230376+09:00",
+ "updated_at": "2026-11-23T13:42:50.814026+09:00",
  "categories": [
   "iPhone",
   "Mac",
@@ -29,50 +29,142 @@
   "iPhone Mania"
  ],
  "count": 400,
- "detail_count": 275,
+ "detail_count": 282,
  "digest": {
-  "headline": "Apple Watch進化点やiOS 27新機能、2027年新製品の噂",
+  "headline": "Apple Watchの進化やiOS 27の新機能、2027年春の新製品に関する",
   "points": [
    {
-    "text": "Apple Watch Series 12やUltra 4は新開発のヘルスセンシングシステムによる健康管理やバッテリー効率の向上に重点が置かれている。",
+    "text": "Apple Watch Series 12とUltra 4は健康モニタリングやApple Intelligenceに注力し、iCloud+契約者向けのAI機能制限緩和も文書化された。",
     "ids": [
-     "719b2ae000966b5c"
-    ]
-   },
-   {
-    "text": "AppleはiCloud+加入者向けにApple Intelligenceの一部機能への追加アクセス権限を付与することをサポート文書で発表した。",
-    "ids": [
+     "719b2ae000966b5c",
      "3eb66db4c1a13925"
     ]
    },
    {
-    "text": "次期iOS 27ではiPhone Handoff機能を使って複数のiPhoneで同じ電話番号を共有できるようになる予定だ。",
+    "text": "次期iOS 27では、同一電話番号での複数iPhone利用や、不安定なWi-Fi接続を解消する新機能が搭載されると報じられている。",
     "ids": [
-     "d7d0559e3310727e"
+     "d7d0559e3310727e",
+     "51a810bb5af66af1"
     ]
    },
    {
-    "text": "英審判所はAppleユーザーのデータアクセス要求に関する秘密命令の有無を開示するよう英政府に命じ、Appleの対応が注目される。",
+    "text": "Appleは2027年春頃に、iPhone 18シリーズやA19 Pro搭載の次期MacBook Neoなど多数の新製品を複数回に分けて発表すると噂されている。",
     "ids": [
-     "f598b96913f5f7b0"
-    ]
-   },
-   {
-    "text": "Appleが2027年春頃にiPhone 18や新型iPad Airなどの新製品を順次発表する可能性があると報じられている。",
-    "ids": [
-     "9c100f59c0b33f16",
-     "1497606903e1bffe",
-     "ad322c1d8aa93ebf"
+     "0d140347b8122a54",
+     "012e38be4d08c2c0",
+     "9c100f59c0b33f16"
     ]
    }
   ],
   "days": 3,
-  "from": "2026-11-20T08:01:19.353902+09:00",
-  "generated_at": "2026-11-23T08:02:28.939281+09:00",
+  "from": "2026-11-20T13:43:57.663598+09:00",
+  "generated_at": "2026-11-23T13:43:59.138449+09:00",
   "article_count": 24,
-  "sig": "c8592c4492e4"
+  "sig": "a0e42074d7d9"
  },
  "items": [
+  {
+   "id": "bee61c361eb02dcd",
+   "url": "https://gori.me/iphone/iphone-news/172990",
+   "title_original": "iPhone Duoの簡易Face ID、10件の回答で賛否が割れた【広場まとめ 11/16週】",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/11/gorime-hiroba-weekly-800x450.png",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T04:21:15+00:00",
+   "title_ja": "iPhone Duoの簡易Face IDなど読者アンケート結果が公開",
+   "summary_ja": "Webサイトの読者投稿コーナーにて、11月16日〜22日に集まった意見がまとめられた。iPhone Duoの簡易Face IDに関する賛否のほか、モバイルバッテリーの所持状況、スマホのサブ回線、MacのデータをAIアプリにどこまで共有するかなど、読者の様々な声が紹介されている。",
+   "category": "その他",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "ab66dea2061e4fe4",
+   "url": "https://gori.me/iphone/iphone-news/172980",
+   "title_original": "iPhone Duo、外側ディスプレイに新ウィジェット構想か",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/11/1795399430424-This-would-make-the-outer-display-even-better-1795399430-598x800.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T02:05:19+00:00",
+   "title_ja": "iPhone Duoの外側ディスプレイ向け新ウィジェット構想か",
+   "summary_ja": "AppleがiPhone Duoの外側ディスプレイ用に、2つの円形ウィジェットを縦に配置する新レイアウトをテストしていると報じられた。既存のウィジェットと併用できる仕様だが、現在は内部で無効化されており、実際に導入されるかは不明となっている。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "0d140347b8122a54",
+   "url": "https://gori.me/iphone/iphone-news/172975",
+   "title_original": "次期MacBook Neo、12GBメモリ搭載の”本命”モデルか。iPhone 18eら5機種と来年2〜3月に発表の噂",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2026/03/MacBook-Neo-Review-Hands-On-Gorime-13-800x534.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T02:02:58+00:00",
+   "title_ja": "新型MacBook NeoやiPhone 18など5機種が発表か",
+   "summary_ja": "Appleが2027年2〜3月頃に、iPhone 18や新型MacBook Neoなど5機種を一度に発表する計画があると報じられた。目玉はMacBook Neoのメモリ12GB化とされる。また、iPhone Air 2や新型iPadなどは3月後半以降の発表になる見込みである。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3bdaebd2777377fb",
+   "url": "https://iphone-mania.jp/iphone18-608987",
+   "title_original": "iPhone Duoのロック画面右端に2つの円形ウィジェット配置をテスト中と投稿",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/23/iPhone-duo-pdfu-1123_3.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T01:45:23+00:00",
+   "title_ja": "iPhone Duoのロック画面に2つの円形ウィジェット配置をテスト中か",
+   "summary_ja": "リーカーのpdfu氏が、iPhone Duoのロック画面に関する新情報を投稿した。iOS内部コードの検証により、同機のロック画面右端に2つの円形ウィジェットを配置する機能がテスト中であると分かった。未公開機能として開発が進められている模様である。",
+   "category": "噂・リーク",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "3cab3879c3b23110",
+   "url": "https://gori.me/sale/peripheral-sale/172976",
+   "title_original": "iPad（A16）128GBが全色5％オフ。71,082円、3台セットも対象で地味に狙い目",
+   "source": "gori.me",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://gori.me/uploads/2022/10/Apple-iPad-10th-gen-hero-221018-800x450.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T01:38:23+00:00",
+   "title_ja": "iPad（A16）128GBモデルがAmazonで5％オフの71,082円で販売中",
+   "summary_ja": "Amazonにて、A16チップを搭載したiPad（Wi-Fi・128GBモデル）が5％オフの71,082円で販売されています。ブルー、イエロー、シルバーの全3色が対象で、3台セットも割引されています。なお、256GBや512GBモデルは対象外となっています。",
+   "category": "iPad",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "012e38be4d08c2c0",
+   "url": "https://iphone-mania.jp/mac-608985",
+   "title_original": "MacBook Neo 2はA19 Proと12GBメモリ搭載で2027年春発表と予想",
+   "source": "iPhone Mania",
+   "lang": "ja",
+   "region": "jp",
+   "image": "https://iphone-mania.jp/wp-content/uploads/2026/11/23/MacBook-Neo-2-AC-1123.jpg",
+   "official": false,
+   "mirror_group": "",
+   "published": "2026-11-23T01:18:12+00:00",
+   "title_ja": "次期MacBook Neo 2はA19 Proと12GBメモリ搭載で2027年春発表か",
+   "summary_ja": "Bloombergのマーク・ガーマン記者が、Appleのエントリー向けノートPC「MacBook Neo」の次期モデルに関する情報を伝えています。次期モデルとなるMacBook Neo 2は、A19 Proチップと12GBのメモリを搭載し、2027年春に発表されると予想されています。",
+   "category": "噂・リーク",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "51a810bb5af66af1",
    "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections",
@@ -138,23 +230,6 @@
    "summary_ja": "Mac用の定番多機能ランチャーアプリ「Alfred v6」がリリースされた。本バージョンでは、macOSネイティブUIを用いたワークフローが作成できる機能や、LLMを活用したワークフロー作成機能に対応した。さらに、macOS 27 Golden Gate向けに刷新された設定画面なども新たに実装されている。",
    "category": "サービス・アプリ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b924cb65113ccc4d",
-   "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets",
-   "title_original": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-22T20:38:16+00:00",
-   "title_ja": "iPhone Duo、ロック画面ウィジェット配置の拡張をテストか",
-   "summary_ja": "リーカーのpdfu氏によると、AppleはiPhone Duoのロック画面において、2つの領域にウィジェットを配置できる画面構成をテストしている。画面右側に円形ウィジェットを縦に2つ配置する新しいレイアウトにより、従来の配置と組み合わせてより多くの情報を一度に確認できるようになる可能性がある。",
-   "category": "噂・リーク",
-   "importance": 2,
    "has_detail": true
   },
   {
@@ -472,7 +547,8 @@
    "title_ja": "OricoのコンパクトなThunderbolt 5ドック",
    "summary_ja": "Orico製Thunderbolt 5ドックのレビュー記事。NVMeスロットをマグネット式のプレート裏に隠すことで、数秒でのSSD換装を可能にするユニークな設計を採用している。一部の領域では課題もある。",
    "category": "Mac",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "c6329a8126590b5f",
@@ -638,7 +714,8 @@
    "title_ja": "米英におけるApple製品のセール情報まとめ",
    "summary_ja": "Macworldが定期的に更新しているApple製品のセール情報まとめ。Mac、iPhone、iPad、Apple Watchなどの価格を比較し、主要小売店における現在の最安値情報を追跡している。",
    "category": "ビジネス・業績",
-   "importance": 2
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "b85dbc4f3f7a3741",
@@ -6667,86 +6744,6 @@
    "summary_ja": "Amazonの先行ブラックフライデーセールにて、Apple Watch Series 12やAirPods Pro 3、Apple TV 4Kなどがセール対象になっている。過去最安値圏での販売が行われている。",
    "category": "サービス・アプリ",
    "importance": 3
-  },
-  {
-   "id": "27676a95c07e337a",
-   "url": "https://www.cultofmac.com/news/belkin-hard-shell-case-for-macbook-neo-price",
-   "title_original": "Protect MacBook Neo with Belkin’s new colorful hard shell case",
-   "source": "Cult of Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Belkin-Hard-Shell-Case-for-MacBook-Neo_01.jpg.webp",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-16T20:35:01+00:00",
-   "title_ja": "Belkin、MacBook Neo向けカラー保護ケースを発売",
-   "summary_ja": "BelkinがMacBook Neoに対応する新しいハードシェルケースを発表した。本体のカラーを活かしつつ、落下や傷からしっかりと保護するデザインに仕上がっている。",
-   "category": "Mac",
-   "importance": 2
-  },
-  {
-   "id": "ef90a2af77b1e7bb",
-   "url": "https://www.macrumors.com/2026/11/16/ipad-mac-apple-intelligence-china",
-   "title_original": "iPad and Mac Get Apple Intelligence in China in 27.3 Betas",
-   "source": "MacRumors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://images.macrumors.com/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-16T20:34:06+00:00",
-   "title_ja": "中国向けベータ版、iPadとMacでApple Intelligence対応",
-   "summary_ja": "配信されたiPadOSおよびmacOSのベータ版にて、中国でのApple IntelligenceサポートがiPadとMacへ拡大された。Mシリーズチップを搭載した対応モデルのデベロッパーがテストを利用できる。",
-   "category": "AI",
-   "importance": 4
-  },
-  {
-   "id": "6b14a650d0c6b8ac",
-   "url": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more",
-   "title_original": "MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)",
-   "source": "Daring Fireball",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-16T20:27:34+00:00",
-   "title_ja": "macOSのベータ版でフルディスクアクセスの新プライバシー制御が追加",
-   "summary_ja": "macOSのベータ版にて、フルディスクアクセスにおける権限管理のUIが刷新されました。ユーザーが明示的な操作を行わなければ高いアクセス権を付与できないよう、新たな制御機能が導入されています。",
-   "category": "ソフトウェア・OS",
-   "importance": 3
-  },
-  {
-   "id": "ba3a764f522b1019",
-   "url": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago",
-   "title_original": "iPhone Duo now has twice as many optimized apps as it did 10 days ago",
-   "source": "9to5Mac",
-   "lang": "en",
-   "region": "global",
-   "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-15.jpg?quality=82&strip=all&w=1600",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-16T20:18:40+00:00",
-   "title_ja": "iPhone Duo向け最適化アプリが10日前から倍増",
-   "summary_ja": "Appleのマーケティング担当SVPであるグレッグ・ジョズウィック氏によると、App StoreにおけるiPhone Duo対応アプリの数が、前回発表時からわずか10日間で2倍に増加しました。",
-   "category": "iPhone",
-   "importance": 3
-  },
-  {
-   "id": "4bd911b9c3196952",
-   "url": "https://sixcolors.com/post/2026/11/second-ios-27-3-developer-betas-add-face-unlock-for-iphone-duo",
-   "title_original": "Second iOS 27.3 developer betas add face unlock for iPhone Duo",
-   "source": "Six Colors",
-   "lang": "en",
-   "region": "global",
-   "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/11/iphone-duo-unlock-with-front-camera-setup-6c-1.png?ssl=1&w=1380&quality=90",
-   "official": false,
-   "mirror_group": "",
-   "published": "2026-11-16T20:13:01+00:00",
-   "title_ja": "iOS 27.3ベータ2でiPhone Duo向け顔認証が追加",
-   "summary_ja": "Appleが各OSの第2弾となる開発者向けベータ版をリリースしました。今回のアップデートでは、iPhone Duo向けに顔認証機能が新たに追加されています。",
-   "category": "ソフトウェア・OS",
-   "importance": 4
   }
  ]
 }
