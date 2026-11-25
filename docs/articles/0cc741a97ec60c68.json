@@ -1,0 +1,20 @@
+{
+ "id": "0cc741a97ec60c68",
+ "title_ja": "ACASIS、Mac mini向けUSB4 V2対応ドック『M002 Ultra』を発売",
+ "summary_ja": "M4 Pro・M5 Proチップ搭載Mac mini用に、80Gbps対応のUSB4 V2ドックスタンド『ACASIS M002 Ultra』がリリースされた。高速データ転送と多彩なポートを備え、拡張性を向上させる製品だ。",
+ "points": [
+  "「ACASIS M002 Ultra」はMac mini M4 Pro/M5 Pro対応",
+  "Thunderbolt 5/USB4 V2で最大80 Gbps転送可能",
+  "前面3口USB‑A、カードリーダー、DisplayPort 2.1搭載",
+  "本体にMac miniとNVMe SSDを内蔵でき、価格は219 ドル"
+ ],
+ "body": "ACASISは、Apple M4 ProおよびM5 Proチップを搭載した2024年製Mac mini向けに、USB4 V2（80 Gbps）に対応したドックスタンド「ACASIS M002 Ultra」を新たに発売した。内部にはMac mini本体1台とNVMe SSD 1基を収められる設計で、接続はIntel JHL9480チップを介したThunderbolt 5/USB4 V2により最大80 Gbpsのデータ転送速度を実現する。前面には10 Gbps対応のUSB‑Aポートが3つ、上部にはmicroSDおよびSD 4.0カードリーダーがそれぞれ1つ装備され、背面にはホスト接続用のUSB‑Cポート（80 Gbps）と、8K@60 Hz出力に対応するDisplayPort 2.1が1つ、さらに最大60 W入力に対応したUSB‑C PD INポートが配置されている。側面には2230〜2280サイズのNVMe SSDスロットが1基用意され、拡張性も高い。製品サイズは136 × 170 × 87 cmで、同梱品にはThunderbolt 5ケーブル、サーマルパッド、SSD固定用シリコンプラグ、ドライバー、ネジ、65 W PD充電器、マニュアルが含まれ、販売価格は219 ドルとなっている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261125-acasis-thunderbolt-5-80gbps-mac-mini-dock.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "Mac",
+ "importance": 2,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Acasis-Thunderbolt5-80Gbps-Mac-mini-M5-Pro-Dock-Stand-with-SSD-Enclosure-logo-icon.webp",
+ "published": "2026-11-25T08:50:01+00:00"
+}

@@ -1,0 +1,20 @@
+{
+ "id": "b5d6ec0391127fe1",
+ "title_ja": "AppleがmacOS搭載iPadを社内でテスト中か",
+ "summary_ja": "Bloombergのマーク・ガーマン氏によると、Appleは社内でmacOSを搭載したiPadを以前からテストしているものの、一般ユーザー向けに提供する計画は現時点ではないと報じられています。Appleは今後もMacの機能やアプリをiPadOSへ段階的に導入する方針で、EUの規制もOS統合を避ける要因の一つと指摘されています。",
+ "points": [
+  "Appleが社内でmacOS搭載iPadをテスト中と報じられた",
+  "現時点で一般向けmacOS搭載iPadの発売計画はない",
+  "EUの規制がOS統合を避けるインセンティブになっている",
+  "Appleは今後もiPadOSへMacの機能やアプリを追加していく"
+ ],
+ "body": "Bloombergのマーク・ガーマン記者によると、Apple社内では以前からmacOSを稼働させたiPadが存在していると報じられている。同記者は自身のポッドキャスト番組のなかで、AppleがmacOSをiPad向けに一般消費者向けとして製品化する作業は現在おこなわれていないと言及した。今後はiPadOSに対して、Final CutをはじめとするMacの機能やアプリを段階的に移植していく方針であると伝えられている。\n\nさらに、EU（欧州連合）によるOSごとの規制が、Appleにとって各デバイスのオペレーティングシステムを個別に維持し続ける強い動機になっているという見方も示されている。Appleはこれまでにも、iPadOSとmacOSを統合する計画について否定的な見解を示していた。今回の内部テストに関する報道においても、あくまで開発や検証の範疇にとどまるものであり、両OSの統合やMacのOSをそのままiPadへ導入する動きはないとされている。",
+ "source": "MacRumors",
+ "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally",
+ "lang": "en",
+ "region": "global",
+ "category": "噂・リーク",
+ "importance": 4,
+ "image": "https://images.macrumors.com/article-new/2026/06/ipad-pro-prime.jpeg",
+ "published": "2026-11-25T12:55:37+00:00"
+}

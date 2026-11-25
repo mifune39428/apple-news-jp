@@ -1,0 +1,20 @@
+{
+ "id": "9af52438b7427d66",
+ "title_ja": "CADアプリ「Shapr3D」がiPhone DuoでApple Pencil対応",
+ "summary_ja": "Apple Design Awardを受賞した3D CADモデリングアプリ「Shapr3D」が、iPhone DuoでのApple Pencilによるフルモデリングに対応しました。これにより、iPhone Duoユーザーはより詳細なデザイン作業をモバイル環境で行えるようになり、クリエイティブな表現の可能性が広がります。",
+ "points": [
+  "Shapr3DのiPhone版がバージョン26.220にアップデートされた",
+  "iPhone DuoでApple Pencilを利用したフルモデリングが可能になった",
+  "対角7.6インチのインナーディスプレイとApple Pencilに対応する",
+  "曲率分析や開いた端点の検出など多数の新機能や改善が含まれている"
+ ],
+ "body": "Apple Design Awardを受賞した実績を持つ人気の3D CADモデリングアプリ「Shapr3D」のiPhone版がバージョン26.220にアップデートされ、iPhone Duoでのフルモデリングがサポートされたと報じられている。開発元であるハンガリーのShapr3D Zrt.が現地時間2026年11月24日に発表したもので、これまでビュワー機能に限定されていたiPhone版で本格的な作業が可能になった。\n\nこれまでのiPhone版Shapr3Dは、iPad版のコードをベースに開発されていたものの、画面サイズが小さく操作性に難があったため、3Dファイルの閲覧機能を中心に提供されていた。しかし、対角7.6インチのSuper Retina XDRインナーディスプレイを搭載し、Apple Pencilにも対応するiPhone Duoが登場したことにより、iPad版と変わらないフル3D CADモデリング機能の提供を実現した。\n\n今回の最新バージョンでは、フルモデリング対応のほかにも多くの新機能やツールが追加されている。スケッチ曲線やモデルのエッジにおける曲率を分析する「Curvature Comb」や、スケッチの開いた端点を検出する「Find Open Ends」、直方体や球、円柱、円錐などを直接作成できる「Primitives」メニューなどが新たに導入された。\n\nさらに、エッジの端点やジオメトリの交差部分に曲線を生成するツールに加え、SketchUpおよびOBJファイルのインポート機能なども含まれている。外出先でも3Dプリンター向けのモデリング作業を手軽に行いたいユーザーにとって、充実した機能を持つBasicプランを試す良い機会となりそうだと伝えられている。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261125-shapr3d-support-iphone-duo-full-3d-cad.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "サービス・アプリ",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Shapr3D-CAD-for-iPhone-logo-icon.webp",
+ "published": "2026-11-25T12:57:47+00:00"
+}
