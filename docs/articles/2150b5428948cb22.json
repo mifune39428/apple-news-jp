@@ -1,0 +1,19 @@
+{
+ "id": "2150b5428948cb22",
+ "title_ja": "「iOS 27.2」にCarPlay向けの2つの改善機能が含まれていることが判明",
+ "summary_ja": "公開された「iOS 27.2」には、メッセージやApple TVアプリ向けの新機能に加えて、CarPlayに関する2つの機能改善が含まれていることが分かりました。車内でCarPlayを利用するユーザーに向けて、利便性を高める更新が行われています。",
+ "points": [
+  "iOS 27.2におけるCarPlayの新機能と変更点が報じられている",
+  "ポッドキャストアプリのホームタブに新着と再生中のセクションが追加された",
+  "Apple Musicのアイコン変更やプレイリストの並び順に関する不具合が修正された"
+ ],
+ "body": "海外メディアの9to5Macによると、iOS 27.2ではメッセージやApple TVなどとともに、CarPlayに関連するいくつかの新機能や変更が導入されているとされる。今回のアップデートでは、ポッドキャストアプリのホームタブの仕様が大きく見直され、お気に入りの番組の最新エピソードを集めた「New Episodes」と、途中のエピソードを再開できる「Continue Playing」という2つの新しいセクションが追加された。これにより、ポッドキャストの管理がよりスムーズになり、最新話の確認や中断した場所からの再生が簡単になると伝えられている。\n\nまた、iPhoneと同様にSiri AIのアップグレードがCarPlayでも利用可能になっているほか、Apple Musicアプリのデザインにも変更が加えられていると報じられている。Apple Musicでは新しいアプリアイコンの採用や微細なデザイン調整が行われたほか、これまでiPhone側でのカスタムソート設定がCarPlayに反映されなかった長年の不具合が修正されたという。この並び順の修正については、Redditのユーザーからも同様の報告が上がっているとされる。",
+ "source": "9to5Mac",
+ "url": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new",
+ "lang": "en",
+ "region": "global",
+ "category": "ソフトウェア・OS",
+ "importance": 3,
+ "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&w=1600",
+ "published": "2026-11-27T15:31:52+00:00"
+}
