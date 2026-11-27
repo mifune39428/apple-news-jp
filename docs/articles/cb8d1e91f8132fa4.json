@@ -1,0 +1,20 @@
+{
+ "id": "cb8d1e91f8132fa4",
+ "title_ja": "Adobe LightroomがiPhone Duoに対応",
+ "summary_ja": "Adobeの人気写真編集アプリ「Lightroom」がiPhone Duoをサポートした。本体を折り曲げてLaptop Poseにすることで、ノートパソコンのようなスタイルでの写真編集が可能になる。",
+ "points": [
+  "AdobeがLightroomをv12.0.10へアップデート",
+  "折りたたみ式スマートフォンのiPhone Duoに対応",
+  "インナーディスプレイで写真と編集ツールを並べて表示可能",
+  "本体を折り曲げるLaptop Poseでの編集に対応"
+ ],
+ "body": "アドビの写真および動画編集アプリ「Lightroom」が、バージョン12.0.10へアップデートされたと報じられている。今回のアップデートにより、アップルが展開する折りたたみ式スマートフォン「iPhone Duo」へのサポートが新たに追加されたとされる。\n\n同社の担当者によると、今回の対応によりiPhone Duoのインナーディスプレイを最大限に活用できるようになり、写真と編集ツールを画面上に並べて表示することが可能になった模様だ。さらに、インナーディスプレイを部分的に折りたたんだ状態にすることで、ノートパソコンのように上半分の画面に写真を表示し、下半分のエリアに編集ツールやサムネイルを配置する「Laptop Pose」機能が実装されていると伝えられている。\n\nこのLightroomのアップデートは無料で提供されており、最適化されたグリッドビューやツールバー、編集パネルのほか、新しいGlowエフェクトなども利用可能になるとのことである。",
+ "source": "AAPL Ch.",
+ "url": "https://applech2.com/archives/20261127-adobe-lightroom-support-iphone-duo.html",
+ "lang": "ja",
+ "region": "jp",
+ "category": "iPhone",
+ "importance": 3,
+ "image": "https://applech2.com/wp-content/uploads/2026/11/Adobe-Lightroom-logo-icon.webp",
+ "published": "2026-11-26T21:33:11+00:00"
+}
